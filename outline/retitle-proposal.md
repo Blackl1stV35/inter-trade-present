@@ -69,7 +69,7 @@ Services have no usable series and are shown as a data gap. For BOP, GDP, C, I a
 4. **Language and template.** We plan English slides on a plain 16:9 template. Which spoken language do you prefer, and is there a required template?
 5. **Theory diagrams.** Two theory slides use a negative-externality diagram and a short-run import-market diagram (attached as images). Could you check them by message, or may we show them in class?
 
-Structure and arguments are frozen around 1 November; figures and policy status are refreshed on 13–14 November; the group's final check is on 14 November. A reply by [date, before 1 November] would let us adjust in time.
+Structure and arguments are frozen around 1 November; figures and policy status are updated shortly before the presentation days; the group's final check is on 14 November. A reply by [date, before 1 November] would let us adjust in time.
 
 Attachments: this memo as a PDF, and the two diagrams as images. A longer working outline (29 pages) is available on request.
 
@@ -136,5 +136,5 @@ Thank you very much.
 - The LINE chat holds no discussion of the CH3 suggestion (slower phase-out of free allocation in CBAM sectors); it was recorded from the requester's instruction. Confirm it, and the title, with all members before sending.
 - The only record of the 7 October go-ahead is a relayed message in the chat that the group could start, so the memo says "allowed us to start". Quote the title exactly as submitted.
 - If the lecturer objects to "can strengthen", an optional fallback is the same title as a question: "Can EU ETS and CBAM Strengthen Europe's Long-Term Green Manufacturing Economy? The Case of Germany".
-- Figures in the memo and messages move on 13–14 November (Eurostat release); update the 6.1% and the variable table if they change.
+- Eurostat releases new data on 13 November; if the 6.1% or the variable table change, update the memo before sending.
 - Attach the PDF of this memo, the externality diagram (sources/images/base-doc-fig-01.png, the workbook's Fig. 1) and the redrawn import-market diagram (graphs/out/fig2_import_cost_redraw.png).

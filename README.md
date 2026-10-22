@@ -4,7 +4,7 @@ Group assignment for the International Trade course (slide deck + report, 20 pts
 Working title: *How EU ETS and CBAM Can Strengthen Europe's Long-Term Green Manufacturing Economy: The Case of Germany*.
 
 This repository is a local archive of everything produced so far (saved 2026-10-22) plus the slide-deck outline.
-The GitHub repository `Blackl1stV35/inter-trade-present` is **public** by the owner's decision (2026-10-22). Member names, student IDs, the group's Google Doc link and an email address in a script header were redacted from the files and the git history on 2026-10-22 (history rewritten and force-pushed); handles such as Member A, Member B, Member C and Member D remain.
+The GitHub repository `Blackl1stV35/inter-trade-present` is **public** by the owner's decision (2026-10-22). Member names, student IDs, the group's Google Doc link and an email address were redacted, and the four members' LINE handles were replaced by Member A to D (the key is not kept here), in the files and the git history on 2026-10-22 (history rewritten and force-pushed).
 
 ## Layout
 
@@ -19,6 +19,7 @@ The GitHub repository `Blackl1stV35/inter-trade-present` is **public** by the ow
 | `sources/images/` | The six embedded graph-simulation figures from the base workbook, in document order |
 | `notes/project-brief.md` | Assignment rules, team roles, deadlines, decision log, open items |
 | `outline/final-outline-proposal.pdf` (source: `final-outline-proposal.md`) | **Final proposal** for the 15-minute talk: decisions, corrections found, 13 slides with charts, backup A1–A15, German-source results, open items, source list |
+| `outline/retitle-proposal.md` (and `.pdf`, memo only) | Request to the lecturer to refine the title and scope, with the topics, the 11-variable plan, questions and English and Thai short messages; not sent |
 | `outline/slide-outline-15min.md` | First version of the outline (superseded by the final proposal) |
 | `outline/workflow-run/` | Raw JSON from the run that produced it: three drafts, three judge reports, the synthesis, and the fact-check / audit / red-team reports |
 | `data/` | Live data pulls and status checks of 22 Oct 2026 (Comext, Eurostat, Destatis, WV Stahl, SMARD, DEHSt/UBA, EEX, policy and company status), each folder with a README, tables and raw pages; `agent_reports/` holds each agent's structured result |

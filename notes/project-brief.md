@@ -11,11 +11,11 @@ Compiled 2026-10-22 from the LINE chat and the four Word files in `sources/`. Wh
   - **CH1** — detail of the policy (history, data / graphs).
   - **CH2** — effect of the policy on the country's economy: X, M, NX, BOP, quantity of goods/services, price of goods/services, GDP, tax, C, I, G. Use theory, then find data and plot graphs to see the effects.
   - **CH3** — conclusion + suggestion (e.g. do or do not continue this policy in future).
-- Lecture PDFs shared 2026-10-07: Export Policy; Offshoring of goods and services; Reason for domestic protection (lecturer cited in the workbook as Assoc. Prof. Attasuda Lerskullawat).
+- Lecture PDFs shared 2026-10-07: Export Policy; Offshoring of goods and services; Reason for domestic protection (the course lecturer; the PDFs are cited in the workbook as [G1] to [G3]).
 
 ## Team and roles (LINE handles)
 
-| Handle | Role in the chat |
+| Member | Role in the chat |
 | --- | --- |
 | Member A | Owns the main research content; final confirm due 14/11 |
 | Member D | Reviews content and graphs; builds slides, appendix and Q&A prep after Member A confirms; away from Thailand from early November |
