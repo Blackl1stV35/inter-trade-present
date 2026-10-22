@@ -1,0 +1,13 @@
+URL: https://ec.europa.eu/eurostat/web/products-euro-indicators/w/6-16102026-bp
+RETRIEVED_UTC: 2026-10-22T02:43:18Z
+FULL_PAGE_SHA256: 09a24f3840dd4cbb78232127da82cd1ff2877912b4697c9f8e6614a99f922f73
+(Selected lines only: release date, next release, revisions/timetable note, methods note)
+
+Euro area international trade in goods deficit €16.1 bn - Euro indicators - Eurostat
+16 October 2026
+Next release: 13 November 2026
+August 2026
+Euro area international trade in goods deficit €16.1 bn
+Revisions and timetable
+This News Release is based on information transmitted by Member States to Eurostat before 13 Oct 2026 . Figures are provisional. For more details, see information on data .
+Statistics on trade in goods are transmitted monthly by the Member States, in accordance with the standard set out in Commission Implementing Regulation (EU) 2020/1197. For each reference month, Member States must compile statistics covering their total extra- and intra-EU trade by using estimates, where necessary. These data are available within 40 days after the end of the reference month, enabling euro area and EU aggregates to be disseminated within around 46 days.

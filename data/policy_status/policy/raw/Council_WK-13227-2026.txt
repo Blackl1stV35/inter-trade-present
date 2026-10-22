@@ -1,0 +1,228 @@
+Interinstitutional files:                     Brussels, 31 August 2026
+   2026/0210 (COD)
+   2026/0211 (COD)                            WK 13227/2026 INIT
+   2026/0212 (COD)
+                                              LIMITE
+                           ENV
+                           CLIMA              IND
+                           ENER               COMPET
+                           TRANS              MI
+                                              ECOFIN
+                                              CODEC
+
+          This is a paper intended for a specific community of recipients. Handling and
+          further distribution are under the sole responsibility of community members.
+
+MEETING DOCUMENT
+
+From:     General Secretariat of the Council
+To:       Working Party on the Environment
+
+Subject:  ETS Review: WPE on 4 September 2026: Presidency steering note
+
+With a view to the above WPE meeting, delegations will find attached the Presidency steering note on the
+above.
+
+WK 13227/2026 INIT
+
+LIMITE                                                                                   EN
+            Working Party on the Environment
+                       4 September 2026
+
+                                  Proposal to amend the EU ETS Directive
+  Block 1A Ambition/Cap focusing on changes to the Linear Reduction Factor, consideration of
+
+         international credits and permanent carbon removals. | Block 1B Free Allocation
+                                           ------------------------------
+
+Guidance for discussions:
+Following the presentations by the Commission of the proposals for the revision of ETS1 on 20 and
+22 July, delegations were requested to submit written comments by 24 August to inform discussions
+at subsequent WPEs. Delegations were advised that the Presidency wish to organise discussions
+thematically in blocks.
+On 4 September, the first block for discussion will be Block 1.A Ambition/CAP. This covers proposals
+regarding the adjustment of the linear reduction factor, the use of international carbon credits, and
+the use of permanent carbon removals.
+The second part of the day will cover Block 1.B Free Allocation, which covers benchmarks,
+conditionality, and exports/CBAM.
+The Commission will present these elements of the proposal to the Working Party. This will include
+responding to questions by Member States received from delegations in writing compiled in a
+document found on the Delegates Portal (Ref: WK 13109/26).
+The text below summarises the proposal for information and is not intended to give a full detailed
+explanation of the provisions.
+
+                                                                                                                    1
+Part 1 ­ Block 1.A Ambition/Cap
+
+1. Linear Reduction Factor
+
+The Commission has proposed to make amendments (under Article 9) that will slow the annual
+reduction of the overall cap on allowances and to continue to issue allowances into the 2040s
+(current legislation sees allowance issuance cease c. 2039). This involves decreasing the linear
+reduction factor (LRF) to (i) align with the Union's emission reduction target of -90% by 2040 as
+compared to 1990 levels; and (ii) take account of the European Climate Law provisions regarding the
+use of high-quality international credits as contribution towards the EU 2040 climate target (starting
+in 2036). The Commission has proposed:
+
+    · to adjust the LRF from 4.4% currently to 3.7% from 2031 ­ 2035 and 1.7% from 2036. If high-
+         quality international credits are not available, the LRF would revert to 2.7% from 2036. The
+         LRF would apply to new municipal waste incineration allowances from 2034 (further
+         information below).
+
+    · the LRF would not apply to the increase of allowances for the purchase of domestic
+         permanent carbon removal units (Article 9c (7)) and would no longer be applied to
+         allocations to new entrants
+
+2. International Credits
+
+The Commission proposes (under new Article 9b) that up-to 260Mt of international credits may be
+purchased to contribute to EU ETS emissions reductions targets from 2036-2040. These will be
+funded by the auctioning of up-to 260 million allowances, purchased centrally by the Commission,
+and their use reflected in the LRF adjustments described above.
+
+The Commission proposes that such credits must be high quality, high integrity and cost-effective,
+and the Commission proposes to publish a report assessing the availability of such credits by 31
+January 2033. If the number of available credits is deemed to be insufficient, the LRF for 2036
+onwards will automatically readjust to 2.7%. Unused allowances would be allocated to the Industrial
+Decarbonisation Bank.
+
+3. Domestic Permanent Carbon Removals
+
+The Commission proposes to incorporate domestic carbon removals into the EU ETS under a new
+Article 9c. The Commission proposes a centralised purchasing model, with the intention to auction
+250 million allowances from 2031 to 2040 to generate revenue for the purchasing of an equivalent
+amount of domestic permanent removal units (from domestic permanent biogenic emissions
+capture with carbon storage (BioCCS) and Direct Air Carbon Capture and Storage (DACCS)
+
+                                                                                                                    2
+technologies certified under the EU Carbon Removal Certification Framework). A reserve of an
+additional 10 million allowances can be auctioned in the event that the allocated allowances are
+insufficient. The cap will be increased by the number of these new allowances meaning the amount
+of removals does not impact the LRF.
+
+The proposal includes a review clause for assessment in December 2034 covering progress of
+purchasing, the transition from Commission management to full private-operator integration and
+use, and to further examine the potential role of nature-based removals and carbon farming
+sequestration units under the CRCF.
+
+Article 14 (1a) also allows the Commission to adopt implementing acts which would allow operators,
+aircraft operators and shipping companies to reduce their ETS obligations with the use of their own
+CRCF certified BioCCS carbon removals. This compensation mechanism (i) cannot generate
+negative emissions; and (ii) requires an adjustment mechanism for the purchase of carbon removals
+to prevent total emissions space from increasing beyond what is intended.
+
+4. Cap Increase with regard to scope extension
+
+It is proposed that a proportional increase to the cap will take place to facilitate the proposed
+inclusion of additional emissions in the system from the inclusion of municipal waste incineration,
+additional flights and additional shipping journeys. Therefore, the discussion of the related cap
+increase will be incorporated in the discussion of scope extension under blocks 2.A Aviation, 2.B
+Maritime and 2.C Waste.
+
+Part 2 ­ Block 1.B Free allocation
+
+Further to its assessment of the risk of carbon leakage, the Commission proposes to extend the
+allocation of free allowances while slowing the phase-in of CBAM. The proposal also amends the
+conditions that must be met by installations if they are to receive a free allocation.
+
+1. Free Allocation Extension and Conditionality
+
+For sectors considered at risk of carbon leakage, the Commission proposal extends free allocation
+from 2030 to 2040 (Article 10b (1)).
+
+Free allocation from 2031 would be made conditional on investment in decarbonisation (Article 10a
+(3b)). The amendment requires operators to invest an amount equivalent to the value of free
+allocation for the five-year period into eligible decarbonisation investments in the EU. 80% of the free
+allocation would be allocated on submission of the decarbonisation investment plan, with the
+
+                                                                                                                    3
+remaining 20% allocated after confirmation that the investments were implemented at the level
+expected in the EU and with significant emissions reductions realised.
+
+This condition, based on investment in decarbonisation (Article 10a(3a)), replaces the existing
+condition requiring implementation of decarbonisation actions recommended by energy audit or
+certified energy management system, as well as conditionality on the least efficient installations -
+above 80th percentile for relevant product benchmarks (Article 10a (1) subparagraphs 3-6).
+
+The proposal exempts (Article 10a (3c)) the 10% most efficient installations, small installations
+remaining voluntarily in the ETS, and zero emissions or low-carbon installations from the new
+conditionality under Article 10a(3b/3c). Also exempt would be installations with projects supported
+by the Industrial Decarbonisation Bank and Investment Booster, or the Innovation Fund when the IF
+funding is disbursed or in the case of IB/IDB construction works have started. In both cases,
+exemption will apply only if the amount of funding from IF, IB and IDB match at least the economic
+value of 100% of FA in the relevant allocation period.
+
+2. CBAM Sectors
+
+The proposal aims to reduce remaining carbon leakage risk by slowing down CBAM phase-in (Article
+10a (1a)). For goods already listed in Annex 1 of the CBAM Regulation, the CBAM factor (the rate at
+which CBAM charges are discounted during phase-in) is amended as follows:
+
+CBAM Factor      Existing  Proposed
+Year             97.5      97.5
+2026             95        95
+2027             90        91.5
+2028             77.5      81
+2029             51.5      59
+2030             39        48
+2031             26.5      37.5
+2032             14        27
+2033             0         15
+2034 - 2037      N/A       0
+2038
+
+It is proposed that goods that are newly added to Annex 1 of the CBAM Regulation retain a 100%
+CBAM factor until the next five-year free allocation period (under Article 11) begins. Thereafter, the
+CBAM factor would be 97.9% and 95.8% in the first and second year respectively, and from the third
+
+                                     4
+year onwards would decrease with the same CBAM factor set out in the table above, starting with
+the 2028 factor of 91.5%.
+
+3. Benchmarks
+
+For 2026­2030, benchmark values are updated using an annual reduction rate (ARR) subject to a
+2.5% maximum or 0.3% minimum (Article 10a (2.c)). Where the ARR falls outside this range, the
+minimum or maximum rate, as relevant, is applied for each year between 2008 and 2028.
+
+For the period 2031 ­ 2035, the same methodology applies (Article 10a (2.f)). However, the
+maximum ARR would be lowered from 2.5% to 2.0% while the minimum would remain at 0.3%. The
+relevant ARR would be applied for each year between 2008 and 2033.
+
+For 2036 - 2040 the same range would apply, while the relevant ARR would be applied for each year
+between 2008 and 2038 (Article 10a (2.h)).
+
+Article 10a (2a) has been added to account for the proposed 2026-2030 benchmark regulation
+(COM(2026) 619), allowing for the full use of a buffer of allowances (per Article 10a (5a)) to be used
+to reduce the heat and fuel benchmarks (2027-2030), while maintaining the existing auctioning share.
+The buffer would be increased from 3% to 4% from 2031 to 2040 (per Article 10a(5a)).
+
+Further to the adjustments above, up to 50 million allowances can support the Innovation Fund and
+remaining allowances to support the IDB if less than 3% or 4% allowances are needed under Article
+10a(5a) for the periods up to 2030 and post-2030, respectively (Article 10a(5b)).
+
+4. Sector Specific Treatment
+
+Sector specific heat/fuel benchmarks
+
+The Commission proposes to provide, via delegated acts, sector-specific definitions of heat and fuel
+benchmarks to include system boundaries and starting point values (Article 10a (2)). Currently heat
+and fuel benchmarks apply to all sectors that are not covered by the 52 product-specific
+benchmarks.
+
+District heating
+
+Currently Article 10b (4) subparagraphs 2-5 provides for an additional 30% free allocation to district
+heating from 2026-2030 for certain MSs, subject to investment in and progress on carbon neutrality
+plans. From 2031, the Proposal removes (Article10a (3a)) the reporting requirement and 30% top
+up.
+
+                                                                                                                    5
+In relation to district heating, free allocation would decrease under the proposal by equal amounts
+annually such that by 2040 there would be no free allocation.
+Guiding Questions
+Delegations are invited to comment on the Commissions presentation including providing any
+preliminary considerations on the proposal.
+
+                                                                                                                    6
+

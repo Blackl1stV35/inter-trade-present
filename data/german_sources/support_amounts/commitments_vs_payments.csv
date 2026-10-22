@@ -1,0 +1,17 @@
+project,measure,value,unit,as_of,funder_or_note,source_and_page,confidence
+tkH2Steel,Commitment (Bescheid),"knapp 2,000",EUR m,2023-07-27,BMWE; NRW 30% (or up to 700),Drs 21/7837 p. 39,high
+tkH2Steel,Group 'Proceeds from government grants' FY22/23,154,EUR m,2023-09-30,not tkH2Steel-specific,tk AR 2023/24 PDF p. 183,medium
+tkH2Steel,Group 'Proceeds from government grants' FY23/24,417,EUR m,2024-09-30,mainly DR plant per company text,tk AR 2023/24 PDF p. 183,medium
+tkH2Steel,Group 'Proceeds from government grants' FY24/25,346,EUR m,2025-09-30,mainly DR plant per company text,tk AR 2024/25 PDF p. 232,medium
+tkH2Steel,9M FY24/25 grant payments,205,EUR m,2025-06-30,DR plant,tk 9M 2025/26 PDF p. 41,high
+tkH2Steel,9M FY25/26 grant payments,252,EUR m,2026-06-30,DR plant,tk 9M 2025/26 PDF p. 41 and Facts&Figures,high
+tkH2Steel,Purchase commitment for DR plant outstanding,"1,039 (1,091 at 30 Sep 2025)",EUR m,2026-06-30,partly covered by Bund/NRW grants,tk 9M 2025/26 PDF p. 41,high
+tkH2Steel,NRW share paid by Oct 2024,'hoher zweistelliger Millionenbetrag',text,2024-10-10,Land NRW,APr 18/703 PDF p. 10,medium
+SALCOS,Commitment at approval (Bescheid),"about 1,000 (700 Bund + 300 Land)",EUR m,2023-04-18,Bund 70% / Niedersachsen 30%,PtJ; Salzgitter release,high
+SALCOS,Commitment after top-up,"about 1,322 (+322)",EUR m,2026-02-23,"Bund 2/3, Land 1/3 of the addition",dpa; Salzgitter JPK 2026,high
+SALCOS,Paid out 2023 to 30 Jun 2026,"1,076",EUR m,2026-06-30,paid as investments are made,Salzgitter H1 2026 PDF p. 16,high
+SALCOS,Additional committed funds received in H1 2026,290,EUR m,2026-06-30,,Salzgitter H1 2026 PDF p. 16,high
+Klimaschutzvertraege R1,Contracts signed,"up to 2,800 (15 contracts)",EUR m,2024-10,Bund; paid in arrears,Drs 21/283 p. 3,high
+Klimaschutzvertraege R1,Paid out,not published; payments only start after project start,text,2025-05-26,,"Drs 21/283 p. 3 and 5 (q.5, q.12)",high
+Klimaschutzvertraege R2,Budget,"up to 5,000",EUR m,2026-05-07,Bund,IP/26/997; IHK Bonn,high
+Federal payout status per project,Bund disclosure,classified VS-Vertraulich,text,2026-01-08,,Drs 21/3563 p. 6,high

@@ -1,0 +1,1367 @@
+OPINION 04/2026                               EN
+
+(pursuant to Article 287(4) TFEU)
+
+concerning the proposal
+for a Decision on the
+system of own resources
+of the European Union
+
+(COM(2025) 574 final)
+
+                                   EU budget
+                                   2028-2034
+                                                                                                         2
+
+Contents
+
+Paragraph
+
+01-07 | Introduction
+
+  01-07 | Why we provide this opinion
+
+   01-03 | Legal basis
+   04-07 | Context
+
+08-22 | Main messages
+
+  09-14 | Financing the EU budget
+  15-20 | Own resources ceilings
+  21-22 | Simplification
+
+23-50 | Specific comments
+
+  23-24 | Assessment criteria
+  25-26 | GNI-based own resource
+  27-30 | Traditional own resources
+  31-32 | VAT-based own resource
+  33-34 | Own resource based on unrecycled plastics packaging
+  35-38 | Own resource based on the amount of electrical and electronic
+
+            equipment not collected
+  39-40 | Tobacco excise duty own resource
+  41-43 | Emissions trading system based own resource
+  44-48 | Corporate resource for Europe
+  49-50 | Own resource based on Carbon border adjustment mechanism
+                                                                                                         3
+
+Annexes
+
+Annex I – Suggested changes with comments
+Annex II – Background information on the own resources
+Annex III – List of ECA publications referenced in this opinion
+
+Abbreviations
+
+Glossary
+                                                                                                               4
+
+ Introduction
+
+   Why we provide this opinion
+
+   Legal basis
+01 On 16 July 2025, the Commission presented its proposal for the Council Decision on the
+
+     system of own resources of the European Union (ORD)1 as part of its proposals package for
+     the multiannual financial framework (MFF) for the years 2028 to 2034. The Decision,
+     allocating own resources to the EU, is adopted by unanimity and after consultation with
+     the European Parliament in accordance with the third paragraph of Article 311 of the
+     Treaty on the Functioning of the European Union (TFEU). It enters into force after it is
+     approved by the member states in accordance with their respective constitutional
+     requirements.
+
+02 On 8 September 2025, the European Parliament requested an ECA opinion on the proposal
+
+     for the Council Decision in accordance with Article 287(4) of the TFEU. This opinion
+     addresses the European Parliament request. Annex I sets out our suggested specific
+     changes to the text of the Commission’s proposal.
+
+03 At the time of our work, the Commission had not yet submitted proposals for key
+
+     implementing legislation, in particular the Implementing Measures for the System of Own
+     Resources (IMSOR) and Making Available (MAR) Regulations. Consequently, our
+     assessment of the individual own resources and of the overall system is based solely on the
+     ORD proposal as it currently stands and does not cover implementation, collection,
+
+     1 COM(2025) 574.
+                                                                                                               5
+
+     calculation and control arrangements. In addition, any changes introduced during the
+     legislative process may affect the conclusions of this opinion.
+
+   Context
+04 This is the Commission’s third proposal since the European Parliament, the Council of the
+
+     European Union, and the Commission agreed on a roadmap towards the introduction of
+     new own resources in December 2020 (Interinstitutional agreement). The 2021 proposal2
+     included three new own resources based on the Carbon border adjustment mechanism
+     (CBAM), the Emissions trading system (ETS), and the reallocated profits of multinational
+     enterprises. The 2021 proposal was not adopted and the Commission tabled an adjusted
+     proposal in 20233 that maintained the first two new own resources and replaced the last
+     with a proposal for an own resource based on company profits. Despite the European
+     Council’s conclusions on 1 February 2024 reaffirming the EU’s commitment to continue the
+     work towards the introduction of new own resources, no unanimous decision was reached
+     on the adjusted proposal.
+
+05 The current Commission proposal introduces a number of changes to the EU’s system of
+
+     own resources. It proposes three new own resources based on non-collected e-waste
+     (e-waste), tobacco excise duties (TEDOR), and a corporate resource for Europe (CORE), an
+     annual lump-sum contribution by companies with an annual turnover of more than
+     €100 million, in addition to maintaining the two previously proposed own resources based
+     on CBAM and ETS. Most new own resources are designed to be aligned with EU policy
+     objectives, such as the fight against climate change and deterring tobacco consumption.
+
+06 The proposal also includes adjustments to the existing own resources, such as the abolition
+
+     of the correction mechanisms that reduce some member states’ contributions based on
+     gross national income (GNI), VAT, and unrecycled plastics, as well as the reduction of the
+     collection cost retained by the member states for traditional own resources (TOR). Annex II
+     provides background information on all own resource categories. The Commission
+     estimates that these changes will generate an additional €58.2 billion (€65.6 billion) each
+     year, of which €43.9 billion (€49.4 billion) will come from the five new own resources.
+     Financial amounts presented here and in the rest of the opinion are in constant 2025
+     prices, with the equivalent in current prices in brackets.
+
+     2 COM(2021) 570.
+     3 COM(2023) 331.
+                                                                                                               6
+
+07 According to the Commission4, the current system of own resources and its increasing
+
+     dependence on GNI contributions will reach their limits given the strained budgetary
+     situation of member states. At the same time, financing needs will increase, driven by the
+     need to repay NextGenerationEU (NGEU) loans that will start in 2028 and run until 2058.
+     The Commission considers that new own resources will reduce the burden on member
+     states, and modernising the financing of the EU budget will allow for stable national
+     contributions despite the increase in the size of the budget. The Council of the European
+     Union and the European Parliament supported the objectives of raising an amount
+     through new own resources that is sufficient to cover NGEU repayments while reducing
+     the share of national GNI-based contributions5.
+
+     4 See Communication from the Commission and the accompanying Commission working
+         document.
+
+     5 Interinstitutional agreement on budgetary matters, sound financial management, and new own
+         resources, Annex II, Preamble G and Part A, Principles for the implementation paragraph 2 (a).
+                                                                                                               7
+
+ Main messages
+
+08 In our opinion, we have identified a number of main messages. These are listed below in
+
+     Box 1 and further developed in the following sub-sections
+
+       Box 1
+       Main messages at a glance
+
+        ● Additional revenue: The Commission estimates that the proposed changes will
+              generate on average an additional €58 billion annually to the EU budget over the
+              course of the 2028-2034 MFF with €44 billion coming from new own resources.
+
+        ● Financing the EU budget: The proposal accomplishes the objective of reducing
+              the share of the GNI-based own resource but national budgets will continue to
+              finance directly the EU budget.
+
+        ● National contributions: the GNI-based and most other own resources represent
+              national contributions from member states’ budgets. These will rise by 48 % in
+              the next MFF in order to support the financing of new and existing priorities.
+
+        ● Own resources ceilings: The own resources ceilings should be reassessed
+              following the agreement of a €90 billion loan to Ukraine.
+
+        ● Complexity: Despite some simplification in the calculation of some individual
+              own resources, with five new revenue streams proposed, the own resources
+              system would be more complex.
+
+        ● Assessment limitation: The Commission proposal can only be understood in full
+              when important supporting regulations are published.
+                                                                                                               8
+
+   Financing the EU budget
+
+09 New contributions not financed by the member states’ budgets will be generated only by
+
+     CORE and two changes to TOR: the removal of the threshold whereby goods valued at less
+     than €150 are exempt from customs duty and the introduction of handling fees for low-
+     value e-commerce packages. Using the Commission’s figures, we estimate the amount of
+     new contributions not financed by member states’ budgets at €13.6 billion (€15.4 billion)
+     annually, or 23 % of the additional own resources included in the proposal.
+
+10 The rest of the proposed changes amounting to €44.6 billion (€50.2 billion) represent
+
+     national contributions from member states’ budgets. Changes to the GNI, VAT, and plastics
+     own resources and the new e-waste own resource will be paid for by the national budgets.
+     Amounts coming from lower TOR collection costs, and the new ETS, CBAM, and TEDOR will
+     effectively reduce national revenue that would otherwise be retained by the member
+     states.
+
+11 The average share of national contributions per year is estimated to decrease from 86 %
+
+     currently to 84 % in the next MFF (see Figure 1). However, due to the proposed increase in
+     the 2028-2034 MFF overall envelope as compared to the current one, national
+     contributions increase by 48 % from €140.7 billion (€130.0 billion) to €208.5 billion
+     (€235.0 billion) in that period.
+
+12 The main element of national contributions is the GNI own resource. The share of GNI
+
+     contributions in financing the annual EU budget is projected to decrease to 55 % on
+     average in the next MFF compared to 67 % for the current MFF. It is projected to increase
+     from a €110.5 billion (€101.9 billion) average per year now to €136.6 billion (€154.1 billion)
+     in the next MFF. However, as the GNI own resource maintains its balancing role, any
+     shortfall in the other own resources will be compensated by an increase in GNI
+     contributions and will lead to an increase in its relative share. We have identified potential
+     shortfalls due to:
+
+     ● estimates of revenue relying on legislation not yet adopted in the case of TOR and
+           TEDOR (see paragraphs 29 and 40).
+
+     ● the inherent volatility of the price of ETS allowances affecting the proposed ETS and
+           CBAM own resources (see paragraph 43).
+
+     ● the effectiveness in supporting the policy objectives of reducing the consumption of
+           tobacco products and waste in the long run for contributions based on tobacco excise
+           duty, unrecycled plastic packaging, and uncollected e-waste.
+                                                                                                        9
+
+Figure 1 | Comparison between the 2021-2027 own resources system and
+the one proposed for the 2028-2034 MFF
+
+                                                             (billion euros in 2025 prices, average per year)
+
+Average annual own resources revenue
+
+136.6                                   - Proposal '28-34 248.9
+       110.5
+                                        - MFF '21-27         164.3
+
+              33.7                                           New own resources in MFF 2028-2034 – 43.9
+
+                    23.6 25.9 23.0
+
+                                                       15.0  11.2           9.6        6.8
+                                        8.8 7.2
+                                                                                              1.4
+
+GNI           TOR   VAT Plastics E-waste TEDOR                                    ETS  CORE CBAM
+
+Share of national contributions
+(GNI + VAT + Plastics + E-waste + TEDOR + ETS + CBAM)
+
+                              84 %                                          86 %
+
+                                                                                       140.7
+
+                    208.4
+
+Share of each own resource
+
+                    55 % GNI                                                      67 % GNI
+
+1 % CBAM                                  14 % TOR           4 % Plastics           14 % TOR
+3 % CORE                                                          14 % VAT
+                             10 % VAT
+  4 % ETS     4 % Plastics
+5 % TEDOR
+6 % E-waste
+
+Note 1: Totals may not tally due to rounding.
+Note 2: Please see Figure 1 in Annex II for the amounts in current prices.
+
+Source: ECA, based on Commission data.
+                                                                                                             10
+
+13 In practice, the proposed ORD partially replaces GNI-based contributions with new own
+
+     resources based on national contributions. Unlike the GNI own resource, they support
+     specific policy objectives. However, the Commission has not assessed two key aspects of its
+     proposal: first, whether the potential benefits of these policy objectives outweigh the
+     administrative costs involved in introducing new revenue streams and administering an
+     increasingly complex own resources system; and secondly, whether the same benefits
+     could be achieved at a lower cost with other measures. In addition, the Commission should
+     further analyse how the proposed new own resources might affect other EU objectives
+     such as competitiveness. Increasing existing revenue, such as focusing on closing existing
+     tax (VAT and customs) gaps6 by addressing weaknesses we have identified in our 2025
+     special report on VAT fraud on imports and 2021 special report on customs controls7,
+     would also reduce the need for new own resources. (Annex III lists the ECA publications
+     that are referenced in this opinion).
+
+14 In our special report on the introduction of the plastics own resource8, we found
+
+     weaknesses in the preparedness of member states for the introduction of the own
+     resource and in the data used for calculation, which was insufficiently comparable and
+     reliable. We recommended that the Commission identify the key risks affecting the quality
+     of the data and share the information with the member states before the introduction of
+     the own resource. The Commission partially accepted the recommendation, citing the lack
+     of a legal basis for assessing the preparedness of member states or initiating any controls
+     before an own resource is adopted. However, it undertook to provide feedback to member
+     states where it identifies issues or risks for the data to be used. Of the new own resources
+     proposed, the Commission is taking such steps only for e-waste, where the Commission
+     has identified data quality concerns. We have also identified risks to the data quality for
+     CBAM (see paragraph 50).
+
+     6 Review 03/2025, box 7.
+     7 Special report 08/2025 on VAT fraud on imports and special report 04/2021 on customs
+
+         controls.
+     8 Special report 16/2024 on the introduction of the plastics own resource.
+                                                                                                             11
+
+   Own resources ceilings
+
+15 Figure 2 illustrates the average annual own resources and payment ceilings for the 2028-
+
+     2034 MFF. Under the proposal, the average annual MFF ceiling for payment appropriations
+     would increase by 0.25 percentage points, from 1.01 % of EU GNI in the current MFF9 to
+     1.26 % for the next MFF10. The Commission proposes to increase the own resource ceiling
+     for payment appropriations by 0.35 percentage points to 1.75 % of EU GNI. The difference
+     between the own resources needed to finance payment appropriations and the own
+     resources ceiling is known as the ‘headroom’. This mechanism enables the Commission to
+     call for supplementary contributions from member states if the EU’s standard budgetary
+     resources are insufficient to cover EU borrowing repayments11. In the event of a
+     development that necessitated the use of the headroom facility, such as something similar
+     to the 2008-2009 financial crisis, there is a risk that the Commission would have to call for
+     significantly increased contributions at a time when member state finances were under
+     serious pressure.
+
+     9 COM(2024) 120.
+     10 COM(2025) 571.
+     11 Annual report 2024, paragraph 2.39.
+                                                                                                     12
+
+Figure 2 | Average annual own resources and payment ceilings for the
+2028-2034 MFF
+
+                                Billion euros     GNI %
+                               at 2025 prices
+                             (at current prices)
+
+NGEU available space                              2.60 %                     €588 billion
+
+                             60 (67)                              NGEU headroom
+                                                                  €120 (136) billion
+NGEU contingent liabilities  39 (44)              0.20 %
+             NGEU repayment  21 (24)              0.11 %                    €395 billion
+
+    Severe crisis mechanism  50 (56)                      2.00 %              Own resources ceiling
+                                                                  Permanent headroom
+       Available space       71 (82)                      1.75 %  €120 (136) billion
+
+Contingent liabilities       34 (38)              0.17 %                    €231 billion
+ Special instruments         15 (17)              0.07 %
+                                                                              MFF payment ceiling
+                                                          1.15 %
+
+MFF expenditure              231 (259)
+
+      Note 1: Contingent liabilities are potential financial liabilities that stem from existing or previous binding
+      commitments. Whether or not these contingent liabilities result in actual calls on the EU budget, and the size
+      of any such calls, will depend on future events that cannot be predicted with certainty. The figure presents the
+      maximum amount that could theoretically be called. The NGEU contingent liabilities stem from EU borrowing
+      made until the end of 2024 (the latest available information12).
+      Note 2: The severe crisis ceiling for extraordinary borrowing determines the maximum amount of bond
+      issuances and corresponding borrowing costs that can be backed by the headroom annually over the course
+      of the next MFF. This would give rise to contingent liabilities that would affect future MFFs.
+
+      Source: ECA, based on Commission data.
+
+16 Using the Commission estimates, and assuming that payment appropriations were close to
+
+     the average payment ceiling during the next MFF, we calculate that the average annual
+     ‘headroom’ would amount to €120 billion (€136 billion). Under normal circumstances, this
+     should be sufficient to cover the annual elements of both the contingent liabilities directly
+     guaranteed by the current headroom and the instruments proposed for the 2028-2034
+     MFF, such as loans with favourable conditions for strategic investments under Catalyst
+     Europe and loans to Ukraine, also guaranteed by the headroom. However, the Commission
+
+     12 COM(2025) 781 final.
+                                                                                                             13
+
+     should reassess whether the proposed own resource ceiling is still adequate in light of the
+     €90 billion loan to Ukraine guaranteed by the headroom and agreed by the European
+     Council in December 2025.
+
+17 The ORD proposal also introduces a framework for extraordinary borrowing to fund loans
+
+     to member states to address the consequences of a ‘severe crisis, severe hardship or
+     serious threat’. The Commission proposes that the Council may authorise such borrowing
+     only during the duration of the next MFF and under the procedure set out in the TFEU,
+     requiring a Council decision and the consent of the European Parliament. Such borrowing
+     would not be activated if other programmes already adequately address the consequences
+     of the situation. The proposal precludes the use of this borrowing for financing operational
+     expenditure.
+
+18 In our special report 18/2025, we observed that in the current MFF there is no provision to
+
+     trigger crisis budgeting for significant and exceptional emergencies, apart from the MFF
+     revision13. We consider that this proposal has the potential to address our observation.
+     The proposed framework would set limits for the use, timing, and size of borrowing, as
+     well as rules for its activation. This would allow the EU to act promptly and in a targeted
+     way, improving the predictability of EU action – in terms of raising funds – for stakeholders,
+     including financial market participants. Article 122 TFEU allows the EU to provide financial
+     support to a member state in difficulties or threatened with severe difficulties, but the
+     TFEU is not referred to in the proposal.
+
+19 The proposed framework for extraordinary borrowing is accompanied with a potential
+
+     dedicated extraordinary and temporary increase in the own resources ceiling of
+     0.25 percentage points, or €350 billion (€395 billion), that would limit the amount of the
+     borrowing and provide a guarantee for the liability taken by the Commission. If it is used, it
+     would bring the total ceiling for payment appropriations to 2 % of EU GNI. This would be in
+     addition to the extraordinary and temporary increase of 0.6 percentage points in the own
+     resources ceiling to guarantee NGEU borrowing from the current MFF, which will continue
+     to apply in the 2028-2034 MFF.
+
+20 We recently highlighted14, as an opportunity for the next MFF, the importance of drawing
+
+     up a repayment plan in advance when considering borrowing. According to the
+     Commission, no such plan is included in the ORD proposal for extraordinary borrowing
+     because the proposed framework is conditional and the amounts to be authorised
+
+     13 Special report 18/2025, paragraphs 16 and 49.
+     14 Review 03/2025, box 7.
+                                                                                                             14
+
+     uncertain. It has indicated15 that repayment principles would be set out in the Council
+     Regulation activating borrowing under this framework.
+
+   Simplification
+
+21 We have highlighted in the past the increasing complexity and diversification of the current
+
+     and previous systems of EU financing16. The introduction of new own resources brings
+     challenges, including fluctuating revenues and the need for robust accounting and audit
+     mechanisms to ensure transparency and accountability17. The Commission proposes five
+     new diverse own resources, bringing the total to nine. Despite the simplification and
+     enhanced transparency that the abolition of correction mechanisms would bring to
+     existing revenue streams, the proposed system of own resources would be more complex.
+
+22 The Commission has proposed new own resources that, in its view, will limit any additional
+
+     administrative burden. Nevertheless, managing a system with greater number of own
+     resources will likely require more resources overall at the level of the member states in
+     terms of collecting and reporting the data needed and, in the case of CORE, for collecting
+     companies’ contributions on behalf of the EU. At the level of the Commission, more
+     resources will be needed for the verification of the data for the new own resources. This
+     will, overall, increase the cost of managing the proposed system of own resources as
+     compared to the current one.
+
+     15 COM(2025) 570.
+     16 Review 03/2025 paragraph 39, opinion 04/2023 paragraph 18, opinion 03/2022 paragraph 19,
+
+         opinion 05/2018 paragraph 50, and opinion 02/2006 paragraph 16.
+     17 Review 03/2025, paragraph 39.
+                                                                                                             15
+
+ Specific comments
+
+   Assessment criteria
+
+23 Our assessment of the individual own resources is based on three criteria: simplicity,
+
+     stability, and data quality. When assessing simplicity, we consider the complexity and
+     transparency of the contribution calculations, the presence of any adjustment
+     mechanisms, the existence of an adopted sectoral legislation (when applicable), and the
+     need for data revisions. For stability, we take into account the variability and predictability
+     in the short term of the inputs used for the contribution calculations. Finally, for data
+     quality, we consider the source of the data and risks for its reliability, data comparability
+     between the member states, and whether there is an incentive for member states to have
+     complete and accurate data. Other relevant criteria linked to the implementation of the
+     own resources, such as verifiability and the administrative burden, can only be fully
+     assessed when the Commission makes its proposal for IMSOR and MAR.
+
+24 Table 1 summarises our preliminary assessment of the individual own resources, based on
+
+     information available as at January 2026 and therefore excluding the supporting
+     legislation, due to be developed at a later date (paragraph 03). A ‘high’ assessment
+     signifies that the criterion is sufficiently satisfied, while a ‘low’ assessment indicates that
+     we have identified significant risks.
+                                                                                                    16
+
+Table 1 | Our preliminary assessment of the individual own resources
+against selected criteria
+
+Legend                 Low                 Medium  High
+
+                                                   Criterion
+
+     Own resource           Simplicity             Stability                        Data quality
+        based on                                                                     Not assessed1
+
+GNI
+
+TOR
+VAT
+
+Plastics
+
+E-waste
+
+TEDOR
+
+ETS
+
+CORE                        Not assessed1
+CBAM
+
+1 Not assessed reflects insufficient information at this stage (see paragraph 48).
+
+Source: ECA analysis.
+
+   GNI-based own resource
+
+25 The Commission proposal to abolish the existing GNI lump sum reductions is a positive
+
+     step towards simplifying the design of this own resource and improving transparency.
+     However, as we previously highlighted18 the compilation of GNI statistics remains
+     inherently complex. This complexity could be amplified by the expected revision in the
+     coming years of the European System of Accounts that governs the compilation of GNI
+     statistics19. We also reported that national contributions may still be subject to corrections
+     for several years due to the long period allowed for verification20.
+
+26 GNI estimations and projections are readily available from various organisations and
+
+     regularly updated. This ensures that the relative share to be financed by each member
+     state can be calculated with a reasonable degree of predictability. However, as a balancing
+     source of revenue, GNI contributions are also influenced by what is collected by other own
+
+     18 Special report 25/2022 paragraph 84, opinion 05/2018 paragraph 18.
+     19 COM(2025) 574, recital 18.
+     20 Special report 25/2022 paragraph 16, special report 11/2013 paragraph 73.
+                                                                                                             17
+
+     resources (see paragraph 12), other revenue, and the level of expenditure from the
+     budget.
+
+   Traditional own resources
+
+27 The Commission justifies the proposed reduction of the collection costs retained by
+
+     member states from TOR from 25 % to 10 %, resulting in €4.5 billion (€5.0 billion)
+     additional TOR for the EU budget, with a reduction in administrative costs due to the
+     continued digitalisation of customs administrations that will be further reinforced with the
+     proposed customs reform21. It argues that a large part of customs duties is paid without
+     significant intervention by customs authorities and that most controls target non-financial
+     aspects like product safety and health22.
+
+28 We note again23 that the Commission has not sufficiently substantiated the actual costs
+
+     incurred by customs authorities in collecting duties in support of the proposed
+     administrative cost reduction. There is uncertainty whether savings linked to the proposed
+     customs reform will fully materialise during the next MFF as the reform is still to be
+     adopted and the planned full implementation of measures that could lead to savings
+     extends beyond the end of the next MFF. We also note the increase in the number of
+     packages passing through customs due to the growth of e-commerce24 for which duties
+     will be due under the customs reform25. This is likely to increase the workload of customs
+     authorities.
+
+29 The Commission’s proposal specifies in the recitals of the ORD that the handling fee it had
+
+     called for in February 202526, and that the Council had endorsed in its partial mandate for
+     negotiations on the customs reform in June 2025, is part of TOR. However, the proposal
+     introduces a derogation for making available any handling fee revenue to the EU budget as
+     part of the current MFF without clarifying or justifying why such a derogation is needed.
+     The two proposed changes to TOR depend on the Commission’s proposal for a Customs
+     reform currently being negotiated. The abolishing of the minimum threshold is estimated
+
+     21 COM(2023) 257.
+     22 Commission staff working document SWD(2025) 570 section 6.2.
+     23 Opinion 05/2018 paragraph 16, opinion 02/2012 paragraph 49.
+     24 Communication: A comprehensive EU toolbox for safe and sustainable e-commerce.
+     25 COM(2023) 259.
+     26 Communication: A comprehensive EU toolbox for safe and sustainable e-commerce.
+                                                                                                             18
+
+     to bring in annually an extra €2.3 billion (€2.5 billion) and the introduction of a handling fee
+     €4.6 billion (€5.2 billion).
+
+30 The current global trade environment is marked by a combination of geopolitical conflicts
+
+     and protectionist policies that might increase the complexity and uncertainty of customs
+     operations. This in turn may increase the complexity and reduce the stability of TOR. Data
+     quality risks are linked to the fact that customs duties are not being declared by traders to
+     the national customs authorities or being declared incorrectly27. In addition, we continue
+     to find weaknesses in some member states’ management and accounting for TOR in our
+     annual statement of assurance audit work28.
+
+   VAT-based own resource
+
+31 We welcome the Commission’s proposal to abolish the corrective mechanism of VAT base
+
+     capping as it would streamline the contribution calculations for this own resource. In terms
+     of calculating and collecting contributions, the proposal maintains the reference to
+     Regulation No 1553/89. We previously identified a risk that the definitive multiannual
+     weighted average rate (WAR), frozen at its 2016 value, might not be representative for
+     certain member states in future years29. In 2024, the Commission reported that the
+     difference between the frozen WAR and the VAT rate that would have been used under the
+     previous system was not significant. In our annual report 202430, we reported that the
+     impact for some member states in terms of their VAT and GNI contributions was
+     significant, analysis that was not included in the Commission’s report. According to the
+     Commission, the possible update of the WAR is a topic which will be discussed with the
+     member states during the MFF negotiations.
+
+32 Member states have an interest in putting in place systems that ensure that they can
+
+     collect all VAT due. Nevertheless, fraud contributes to the existence of a significant gap
+     between the VAT that should have been collected and the VAT actually collected31. For
+     example, we recently reported that the existing measures are not adequate to prevent and
+
+     27 Annual report 2024, paragraph 4.6.
+     28 Annual report 2024 paragraphs 4.19-4.23, annual report 2023 paragraphs 4.18-4.22, annual
+
+         report 2022 paragraphs 4.9-4.13, annual report 2021 paragraphs 3.10-3.12.
+     29 Opinion 11/2020 paragraph 42, opinion 05/2018 paragraph 23.
+     30 Annual report 2024, paragraph 4.35.
+     31 2025 Commission’s VAT Gap report.
+                                                                                                             19
+
+     detect VAT fraud when simplified import procedures are used32. This creates risks for the
+     quality of the underlying data used for the calculation of VAT based contributions. We
+     note, however, that the impact on the EU budget is relatively small due to the low call rate.
+
+   Own resource based on unrecycled plastics
+   packaging
+
+33 Similarly to the GNI based own resource, we consider that the abolition of the lump sum
+
+     reduction will lead to a simpler and more transparent own resource. The Commission
+     proposal to increase the call rate and adjust it annually for inflation will contribute to
+     maintaining the relative share of the own resource. This is consistent with the objective of
+     reducing the share of the GNI own resource (see paragraph 07).
+
+34 We found that the data used was not sufficiently comparable and reliable for own resource
+
+     purposes33. Member states are required to use two methods to compile data and to
+     balance them. In our latest annual report, however, we reported that only 18 member
+     states submitted data based on the two compilation methods, with only one member state
+     balancing the results34. As part of the verification of member states’ data, the Commission
+     is placing reservations where weaknesses are identified and improvements might be
+     needed.
+
+   Own resource based on the amount of electrical
+   and electronic equipment not collected
+
+35 This new category of own resources proposed by the Commission shares many similarities
+
+     with the plastics own resource in place since 2021. Both are:
+
+     ● based on data that the member states must already report to the Commission in
+           accordance with existing sectoral legislation35;
+
+     32 Special report 08/2025 paragraphs 102-103.
+     33 Special report 16/2024, paragraph 95.
+     34 Annual report 2024, paragraph 4.25.
+     35 Directive 2012/19/EU on electrical and electronic equipment waste.
+                                                                                                             20
+
+     ● likely to be managed by the same organisations at the level of member states
+           (ministries or agencies responsible for waste management and national statistical
+           institutes);
+
+     ● likely to use the same electronic reporting systems for waste flows in member states
+           as the main source of national statistical data;
+
+     ● according to the Commission, providing incentives for member states to meet their
+           obligations for waste disposal;
+
+     ● calculated with a contribution call rate that will be adjusted for inflation annually.
+
+36 The Commission has revised the method behind this own resource since it first evaluated it
+
+     as a potential revenue stream for its 2023 ORD proposal. Moving away from using the
+     weight of e-waste generated, estimated on the basis of a complex formula and country-
+     specific product lifespans36, the current proposal focuses on the weight of e-products put
+     on the market as reported by their producers and importers. This simplifies the design of
+     the own resource.
+
+37 There is a risk that the data quality is not fit-for-purpose in the context of own resource
+
+     calculations. Data for e-products put on the market may be under-reported, similarly to the
+     data for plastics packaging37, due to the exclusion of small producers from data reporting,
+     the existence of free-riders, and incomplete coverage of online sales and cross-border
+     purchases38. There are no specific requirements for member states to verify data before
+     submitting it to the Commission. Currently, Eurostat reviews the data, performs basic
+     consistency checks, sends clarification requests to the member states if needed, and
+     follows them up. However, in the absence of a legal basis, it does not verify the data.
+
+38 The Commission recognises that there is still room to improve the comparability of the
+
+     reported data before the implementation of the own resource. It is taking steps to provide
+     technical assistance to member states for the improvement of the quality of e-waste
+     statistics. This is in line with our recent recommendation to identify the key risks affecting
+     the quality of the data and share the information with the member states before the
+     introduction of an own resource (see paragraph 14).
+
+     36 Commission Implementing Regulation (EU) 2017/699 establishing common methodology for
+         the calculation of the weight of e-products put on the market and weight of e-waste generated.
+
+     37 Review 04/2020, paragraphs 44-45.
+     38 Eunomia: ‘Study on waste statistics - a comprehensive review of gaps and weaknesses and key
+
+         priority areas for improvement in the EU waste statistics’, October 2017.
+                                                                                                             21
+
+   Tobacco excise duty own resource
+
+39 The starting point for the calculation of contributions for this new category of own
+
+     resources proposed by the Commission is the amounts of manufactured tobacco and of
+     tobacco related products released for consumption. Similarly to VAT, member states have a
+     strong incentive to have systems in place ensuring that excise duty is levied on all tobacco
+     and tobacco related products. However, due to tobacco smuggling, official amounts are
+     understated. There are no recent Commission estimates of the size of the illegal market
+     due to the inherent difficulty involved. According to the proposal, the estimate of amounts
+     of tobacco and tobacco products will use the definition of ‘released for consumption’ in a
+     2020 directive39. The Commission’s proposal for MAR would need to provide
+     implementing arrangements regarding the scope of ‘released for consumption’.
+
+40 The proposed own resource is not legally dependent on the adoption of the recast of the
+
+     Tobacco Directive40, presented together with the 2028-2034 MFF package, which increases
+     the minimum excise rate and expands the scope to tobacco products to take account of
+     those recently introduced to the market. TEDOR average annual revenue projections of
+     €11.2 billion (€12.6 billion) are based on the proposed Directive recast. The revenue
+     projection would be lower if the recast is not adopted and the current Directive forms the
+     basis for the own resource. This affects our assessment of the stability of this own
+     resource.
+
+   Emissions trading system based own resource
+
+41 The Commission first proposed an own resource based on the ETS in 2018. Following the
+
+     Interinstitutional agreement roadmap, the Commission tabled revised versions of its
+     proposal in 2021 and 2023. The current proposal removes adjustments that are no longer
+     applicable after the end of a transitional period. The scope of the proposed own resource
+     also excludes revenue from the sale of allowances that will apply to emissions from fuels,
+     road transport, and buildings41. The Commission has not justified this reduction of the own
+     resource basis as compared to its 2023 ORD proposal.
+
+42 The calculations of the contributions would be made on the basis of revenue from the
+
+     auctioning of allowances, which have been going on for 20 years now. Revenue is valued at
+
+     39 Directive 2020/262 laying down the general arrangements for excise duty, Article 6 paragraph 3.
+     40 COM(2025) 580.
+     41 Directive 2023/959 amending Directive 2003/87/EC establishing a system for greenhouse gas
+
+         emission allowance trading within the Union.
+                                                                                                             22
+
+     the auction clearing price and prices and volumes are made publicly available daily by the
+     relevant platforms. Therefore, we assess the simplicity and the quality of the underlying
+     data of an own resource based on ETS as high. However, as we previously highlighted42,
+     the stability of an own resource based on auction prices of emission allowances is low due
+     to the inherent volatility of the market (see Figure 3).
+
+43 The Commission has estimated the €9.6 billion (€10.8 billion) ETS based revenue on the
+
+     basis of the same price per ton of €88 (in 2025 prices) used in its 2023 proposal. However,
+     since the beginning of 2024, the average ETS allowance price has been €67, 24 % lower.
+     The ETS is not a stable resource due to the volatility of the auction prices of emission
+     allowances and is difficult to predict over a long period of time.
+
+    Figure 3 | Auction prices of emission allowances January 2019-August 2025
+
+      Source: ECA, based on European energy exchange data.
+
+   Corporate resource for Europe
+
+44 This is the first time the Commission has proposed that certain companies contribute
+
+     directly to the EU budget. It is planned that contributions would be collected by the
+     member states on behalf of the EU. Previous proposals43 were based on company results
+     and payable by the member states’ budgets. According to the Commission, companies
+     benefit in many ways from doing business in the EU and the objective of CORE is to ensure
+
+     42 Opinion 05/2018, paragraph 52.
+     43 A common consolidated corporate tax base-based own resource in COM(2018) 325, an own
+
+         resource based on the share of residual profit of multinational enterprises reallocated to
+         member states in COM(2021) 570, and a statistical own resource based on company profits in
+         COM(2023) 331.
+                                                                                                             23
+
+     that they contribute to the EU budget. However, there is a risk that levying a financial fee
+     on companies might go against other EU policy objectives, such as competitiveness.
+
+45 The contributions due will be based on the net turnover of the companies concerned
+
+     divided into brackets (see Table 2). Under the proposed design, CORE is intended to
+     mitigate the impact on individual companies which will be required to pay lump sums that
+     represent only a small proportion of net turnover. According to the Commission, net
+     turnover is sufficiently standardised across member states to serve as the basis for the own
+     resource, whereas there is no equivalent harmonised profit base at the EU level.
+
+    Table 2 | Corporate resource for Europe scale
+
+46 The effect of using turnover is that companies with high turnover but low profit margins
+
+     will be penalised compared to companies for which the reverse applies. In the extreme
+     case, even companies operating at a loss will be subject to CORE.
+
+47 In addition, the wide brackets proposed and the very different levels of contribution for
+
+     each bracket mean that: companies within the same bracket but of very different sizes will
+     pay the same lump sum; and companies either side of the dividing line between brackets
+     and so of effectively the same size will pay significantly different amounts.
+
+48 Taken as a whole, companies’ turnover is related to general economic activities such as
+
+     consumption and investment. Data sources should therefore be sufficiently predictable
+     and stable. At this stage, however, many details on how this own resource will be
+     implemented remain unclear, such as what data will be used and when, and how it would
+     be verified. According to the Commission, the relevant rules will be included in the IMSOR
+     and the MAR. We cannot, therefore, assess simplicity and data quality for CORE at this
+     stage.
+                                                                                                             24
+
+   Own resource based on Carbon border
+   adjustment mechanism
+
+49 CBAM is the external counterpart of ETS and closely linked to it. The own resource would
+
+     be based on the proceeds from the sale of certificates whose price is linked to the price of
+     the ETS emission allowances. Calculation of the contributions is straightforward but we
+     consider that the stability of the revenue stream is low due to its dependency on the
+     inherently volatile price of ETS emission allowances (see paragraph 42).
+
+50 The number of certificates that will need to be bought by the traders depends on the
+
+     embedded emissions reported in the CBAM declarations. This data will be provided by the
+     supplier of the goods, which are produced outside of the EU and would be more difficult to
+     verify. Risks to the data quality would also be linked to efforts to circumvent paying the
+     correct amount by using wrong product codes or adjusting product prices.
+
+     This opinion was adopted by the Court of Auditors in Luxembourg at its meeting of
+     22 January 2026.
+
+                                                                         For the Court of Auditors
+
+                                                                               Tony Murphy
+                                                                                  President
+                                                                                                                                                                                                        25
+
+Annexes
+
+Annex I – Suggested changes with comments
+
+                                                 Text of the proposal                                                                                 Suggested change                                                Comments
+Recital (22)                                                                                                                                                                                            Reference to the TFEU would
+The recourse to this extraordinary and targeted crisis response tool should be decided by the Council ad     Recital (22)                                                                               ensure consistency between the
+hoc taking into account the specificities and needs arising while recognising the role of the European                                                                                                  ORD and the Treaty (see
+Council in providing the necessary impetus for the development of the Union and in defining the general      The recourse to this extraordinary and targeted crisis response tool should be decided by  paragraph 18) and clarify the legal
+political directions and priorities including in times of crises, hardships or threats thereof. The Council  the Council ad hoc taking into account the specificities and needs arising while           basis for the use of this
+should act by means of a Council Regulation, adopted in accordance with the procedure set out in             recognising the role of the European Council in providing the necessary impetus for the    extraordinary crisis response tool.
+Article 311(4) TFEU, after obtaining the consent of the European Parliament. The Council Regulation          development of the Union and in defining the general political directions and priorities
+should authorize the amount of the loans. The modalities and rules establishing the allocation of the        including in times of crises, hardships or threats thereof. The Council should act by      The Commission has not provided
+amounts of loans determined in the Council Regulation should be set in the basic act to be adopted or        means of a Council Regulation, adopted in accordance with the procedure set out in         any justifications for the need for
+adapted in the light of the needs arising to address the situation.                                          Article 311(4) TFEU, after obtaining the consent of the European Parliament. The Council   this derogation affecting the
+                                                                                                             Regulation should authorize the amount of the loans in cases provided for by Article 122   current MFF (see paragraph 29).
+Article 13 (9)                                                                                               TFEU. The modalities and rules establishing the allocation of the amounts of loans
+In the period between [1 November 2026] and 31 December 2027, by derogation from paragraph 3 of              determined in the Council Regulation should be set in the basic act to be adopted or
+Article 9 and the rules adopted pursuant to point (b) of Article 10 of Decision (EU, Euratom) 2020/2053,     adapted in the light of the needs arising to address the situation.
+amounts of traditional own resources related to the handling of the release for free circulation of goods
+sold in distance sales shall not be made available and the rules related to controls, supervision and        Article 13 (9)
+reporting shall not apply to those amounts.
+                                                                                                             In the period between [1 November 2026] and 31 December 2027, by derogation from
+                                                                                                             paragraph 3 of Article 9 and the rules adopted pursuant to point (b) of Article 10 of
+                                                                                                             Decision (EU, Euratom) 2020/2053, amounts of traditional own resources related to the
+                                                                                                             handling of the release for free circulation of goods sold in distance sales shall not be
+                                                                                                             made available and the rules related to controls, supervision and reporting shall not
+                                                                                                             apply to those amounts.
+                                                                                                             26
+
+   Annex II – Background information on the own
+   resources
+
+    Gross national income-based own resource
+
+01 The GNI-based own resource balances the EU budget after revenue from all other sources
+
+     has been calculated. The amount of ‘additional’ revenue needed is divided by the sum of
+     GNI of all member states. The resulting amount is the ‘uniform rate’ which is applied to the
+     GNI amount of each member state. This results in the amount of GNI own resource due
+     from each member state.
+
+02 In the ORD currently in force, several member states benefit from reductions to their GNI
+
+     contributions in the form of gross lump sums: Austria (€565 million), Denmark
+     (€377 million), Germany (€3 671 million), the Netherlands (€1 921 million), and Sweden
+     (€1 069 million). These amounts are measured in 2020 prices and adjusted to current
+     prices each year. The gross lump sum reductions are financed by all 27 member states.
+
+03 In the new ORD proposal, the gross lump sum reductions are discontinued. This change
+
+     will not impact the overall amount of GNI own resource. All member states will contribute
+     based on their relative share of total EU GNI, while, currently, the member states with
+     gross reductions contribute less than their relative share and the rest contribute more than
+     their relative share.
+
+    Traditional own resources
+
+04 TOR consist of levies, premiums, additional or compensatory amounts, additional amounts
+
+     or factors, Common Customs Tariff duties and other duties established by the EU
+     institutions in respect of trade with third countries. They are collected by the member
+     states on behalf of the EU. In accordance with the ORD currently in force, member states
+     retain, by way of collection costs, 25 % of TOR.
+
+05 In the new ORD proposal, the rate for collection costs is reduced to 10 %. Its recitals specify
+
+     that handling fees that might be charged in trade with third countries in order to
+     compensate for the cost of release of goods are TOR. In addition, the proposal introduces a
+     derogation for making available handling fee revenue to the EU budget during the current
+     MFF.
+
+06 Another change that will impact the amount of TOR collected but it is not part of the ORD
+
+     proposal is due to the proposed customs reform package. The Commission has proposed
+                                                                                                             27
+
+     the abolition of the €150 declared value threshold under which no customs duties are
+     currently due.
+
+07 According to the Commission’s estimations, the impact of the proposed changes would be
+
+     on average €11.4 billion (€12.8 billion) annually during the next MFF: €4.6 billion
+     (€5.2 billion) following the potential introduction of handling fees; €4.5 billion (€5.0 billion)
+     as a result of the reduction of the collection cost; and €2.3 billion (€2.5 billion) from the
+     potential abolition of the €150 threshold.
+
+    Value added tax-based own resource
+
+08 The VAT-based own resource is calculated by applying a uniform call rate of 0.30 % to a
+
+     notionally harmonised VAT base. The base is equal to the total amount of VAT receipts
+     collected in respect of all taxable supplies divided by a weighted average VAT rate (WAR).
+     The WAR is currently frozen at its 2016 value for all member states in accordance with
+     Council Regulation (EEC, Euratom) No 1553/89.
+
+09 In accordance with the ORD currently in force, each year, the VAT base is capped at 50 % of
+
+     the member state’s GNI. In the 2026 draft budget seven member states have their VAT
+     bases capped: Bulgaria, Estonia, Croatia, Cyprus, Luxembourg, Malta, and Portugal.
+
+10 In the Commission’s new ORD proposal, the capping mechanism is discontinued. The
+
+     Commission estimates that this will bring in extra €0.2 billion (€0.2 billion) of VAT-based
+     contributions.
+
+    Own resource based on unrecycled plastic packaging
+
+11 The plastics own resource is calculated by applying a fixed uniform call rate of €0.80 to
+
+     every kilogram of unrecycled plastic packaging waste generated in each member state
+     annually. The unrecycled plastic packaging waste is calculated as the difference between
+     the plastic packaging waste generated and the plastic packaging waste recycled in a year.
+     Member states have an obligation to provide plastic packaging waste statistics to the
+     Commission in accordance with the Packaging Regulation1.
+
+12 In the ORD currently in force, 17 member states have their plastics contributions reduced
+
+     by lump sums. The reductions vary from €1 million for Malta to €184 million for Italy. The
+     reductions are fixed in current prices and the total amount of reductions each year is
+     €711 million.
+
+     1 Regulation (EU) 2025/40 on packaging and packaging waste.
+                                                                                                             28
+
+13 In the new ORD proposal, the lump sum reductions are discontinued. In addition, the
+
+     uniform call rate is increased to €1.00 for 2028 and an annual inflation adjustment
+     mechanism for the uniform call rate is introduced. The Commission estimates the impact
+     of all changes combined to be €2.8 billion (€3.2 billion).
+
+    Own resource based on the amount of electrical and electronic equipment
+    not collected
+
+14 The proposed e-waste own resource would be calculated by applying a uniform call rate of
+
+     €2.00 to every kilogram of uncollected electrical and electronic equipment waste
+     generated in each member state annually. The amount of waste for every year would be
+     calculated as the difference between the average weight of e-products placed on the
+     market in the previous three years and the weight of e-waste collected during the year.
+     When this difference is negative, it would be treated as zero. Member states have an
+     obligation to provide e-products and e-waste statistics to the Commission in accordance
+     with the E-waste Directive2. The call rate would be adjusted for inflation annually. The
+     Commission expects to collect on average €15 billion (€16.9 billion) every year during the
+     next MFF.
+
+    Tobacco excise duty own resource
+
+15 TEDOR would be calculated by applying a uniform call rate of 15 % to the amounts of
+
+     manufactured tobacco and tobacco related products released for consumption multiplied
+     by the minimum excise duty rate applicable to each member state in a calendar year. The
+     definitions of products included in the scope of this own resource and the respective
+     minimum rates are included in the Tobacco Directive3.
+
+16 Alongside the ORD proposal, the Commission tabled a proposal4 for a recast of the
+
+     Tobacco Directive that would increase its scope to tobacco products recently released on
+     the market, such as liquids for electronic cigarettes and heated tobacco, and would
+     increase the applicable minimum rates. The Commission estimates that TEDOR would
+     generate €11.2 billion (€12.6 billion) based on its recast proposal of the Tobacco Directive
+     and €4.9 billion (€5.5 billion) on the basis of the Directive currently in force.
+
+     2 Directive 2012/19/EU on electrical and electronic equipment waste.
+     3 Directive 2014/40/EU concerning the manufacture, presentation and sale of tobacco and
+
+         related products.
+     4 COM(2025) 580.
+                                                                                                             29
+
+    Emissions trading system based own resource
+
+17 The ETS-based own resource would be calculated by applying a uniform call rate of 30 % to
+
+     the revenues generated from the auctioning of certain ETS allowances by the member
+     states. The ETS allowances included in the scope of the own resources would be limited to
+     allowances for the stationary installations, such as power and heat generation facilities,
+     aviation, and maritime sectors (ETS 1). Unlike in the previous Commission ORD proposal5,
+     ETS allowances for road transport, buildings, and fuels (ETS 2), whose sale will begin in
+     2027, would be excluded from the scope of the own resource.
+
+18 In addition, the call rate would be applied to the product of the quantities of allowances
+
+     member state decide not to auction or transfer and auction for the Modernisation Fund
+     and the average weighted price of ETS 1 allowances auctioned in the year.
+
+19 The ETS is governed by the ETS Directive6 and allowances are auctioned by member states
+
+     on a common platform in accordance with Auctioning Regulation7. According to the
+     Commission, this own resource would bring in on average €9.6 billion (€10.8 billion)
+     annually during the next MFF.
+
+    Corporate resource for Europe
+
+20 The CORE would comprise annual contributions payable by companies that operate in the
+
+     EU based on their net turnover. For EU subsidiaries of companies established in third
+     countries, only the net turnover generated by the subsidiaries would be relevant.
+     Companies with net turnover below €100 million would be excluded from the scope of
+     CORE. In addition, governmental bodies (except state-owned enterprises), international
+     organisations and non-profit organisations would fall outside the scope of the CORE.
+
+21 There is no sectoral legislation for CORE. According to the Commission, the relevant rules
+
+     would be laid out in the MAR and IMSOR. The Commission estimates that CORE will
+     contribute to the EU budget on average €6.8 billion (€7.6 billion) annually during the next
+     MFF.
+
+    Own resource based on Carbon border adjustment mechanism
+
+22 CBAM-based contributions would be calculated by applying a uniform call rate of 75 % to
+
+     the revenues from the sale of certificates of the carbon border adjustment mechanism.
+
+     5 COM(2023) 331.
+     6 Directive 2003/87/EC establishing a scheme for emission allowance trading.
+     7 Regulation 2023/2830 laying down the rules of auctioning of emission allowances.
+                                                                                                             30
+     CBAM, established by Regulation (EU) 2023/9568, is a policy that puts a carbon price on
+     imported goods based on their embedded greenhouse gas emissions. It functions as a
+     carbon tariff on imports of specific carbon-intensive goods where importers need to
+     purchase CBAM certificates to cover the emissions embedded in the products. The cost of
+     the certificates is linked to the price of ETS emission allowances. The definitive regime of
+     CBAM applies from 2026.
+
+23 According to the Commission, revenue from this own resource will average €1.4 billion
+
+     (€1.5 billion) annually during the next MFF.
+
+     8 Regulation 2023/956 establishing a carbon border adjustment mechanism.
+                                                                                                  31
+
+Figure 1 | Comparison between the current 2021-2027 own resources
+system and the one proposed for the next 2028-2034 MFF in current prices
+
+                                                       (billion euros in current prices, average per year)
+
+Average annual own resources revenue
+
+154.1                                   - Proposal '28-34 280.7
+
+                                        - MFF '21-27   151.9
+
+101.9
+
+                                                       New own resources in MFF 2028-2034 – 49.4
+
+             38.0
+
+                   21.8  29.2  21.5
+
+                                        9.9 6.7  16.9  12.6           10.8
+
+                                                                            7.6       1.5
+
+GNI          TOR         VAT Plastics E-waste TEDOR                   ETS   CORE CBAM
+
+Share of national contributions
+(GNI + VAT + Plastics + E-waste + TEDOR + ETS + CBAM)
+
+                               84 %                          86 %
+
+                                                                            130.0
+
+                   235.0
+
+Share of each own resource
+
+                  55 % GNI                                                  67 % GNI
+
+1 % CBAM                                 14 % TOR      4 % Plastics
+3 % CORE                    10 % VAT                        14 % VAT
+             4 % Plastics
+  4 % ETS                                                                   14 % TOR
+4 % TEDOR
+6 % E-waste
+
+Note 1: Totals may not tally due to rounding.
+
+Source: ECA, based on Commission data.
+                                                                                                        32
+
+Annex III – List of ECA publications referenced in
+this opinion
+
+Annual reports on the implementation of the EU budget - for the 2020 – 2024 financial
+years
+
+Special report 11/2013 - Getting the Gross National Income (GNI) data right: a more
+structured and better-focused approach would improve the effectiveness of the
+Commission’s verification
+
+Special report 04/2021 - Customs controls: Insufficient harmonisation hampers EU
+financial interests
+
+Special report 25/2022 - Verification of Gross National Income for financing the EU budget:
+Risks in data compilation well covered overall, but scope for increased prioritisation of
+actions
+
+Special report 16/2024 - EU revenue based on non-recycled plastic packaging waste: A
+challenging start hindered by data that is not sufficiently comparable or reliable
+
+Special report 08/2025 - Value Added Tax fraud on imports: The EU’s financial interests are
+insufficiently protected under simplified import customs procedures
+
+Special report 18/2025 - EU budget flexibility: Allowed unforeseen challenges to be
+addressed, but the framework is too complex
+
+Opinion 02/2006 on a proposal for a Council Decision on the system of the European
+Communities’ own resources
+
+Opinion 02/2012 on an amended proposal for a Council Decision on the system of own
+resources of the European Union — COM(2011) 739, on an amended proposal for a
+Council Regulation laying down implementing measures for the system of own resources
+of the European Union — COM(2011) 740, on an amended proposal for a Council
+Regulation on the methods and procedure for making available the traditional and GNI-
+based own resources and on the measures to meet cash requirements — COM(2011) 742,
+on a proposal for a Council Regulation on the methods and procedure for making available
+the own resource based on the value added tax — COM(2011) 737, on a proposal for a
+Council Regulation on the methods and procedure for making available the own resource
+based on the financial transaction tax — COM(2011) 738
+                                                                                                        33
+
+Opinion 05/2018 concerning: (a) the proposal for a Council Decision on the system of own
+resources of the European Union (COM(2018) 325 final); (b) the proposal for a Council
+Regulation on the methods and procedure for making available the Own Resources based
+on the Common Consolidated Corporate Tax Base, on the European Union Emissions
+Trading System and on Plastic packaging waste that is not recycled, and on the measures to
+meet cash requirements (COM(2018) 326 final); and (c) the proposal for a Council
+Regulation amending Regulation (EEC, Euratom) No 1553/89 on the definitive uniform
+arrangements for the collection of own resources accruing from value added tax
+(COM(2018) 328 final)
+
+Opinion 11/2020 concerning the draft Council Regulation (EU, Euratom) amending
+Regulation (EEC, Euratom) No 1553/89 on the definitive uniform arrangements for the
+collection of own resources accruing from value added tax (document 12771/20,
+interinstitutional file 2018/0133 (NLE))
+
+Opinion 03/2022 concerning the Commission’s proposal for a Council Regulation on the
+methods and procedure for making available own resources based on the Emissions
+Trading System, the Carbon Border Adjustment Mechanism and reallocated profits, and on
+the measures to meet cash requirements [2022/0071(NLE)]
+
+Opinion 04/2023 concerning the Commission’s amended proposal for a Council Regulation
+on the methods and procedure for making available own resources based on the Emission
+Trading System, the Carbon Border Adjustment Mechanism, reallocated profits and the
+statistical own resource based on company profits and on the measures to meet cash
+requirements COM/2023/333, 2022/0071 (NLE)
+
+Review 04/2020 - EU action to tackle the issue of plastic waste
+
+Review 03/2025 - Opportunities for the post-2027 Multiannual Financial Framework
+                                                                                 34
+
+Abbreviations
+
+Abbreviation  Definition/Explanation
+              Carbon border adjustment mechanism; also used to refer to the own
+CBAM          resource based on the mechanism
+              Corporate resource for Europe
+CORE          Emissions trading system; also used to refer to the own resource
+              based on the trading system
+ETS           Gross national income
+              Implementing measures for the system of own resources
+GNI           Making Available Regulation
+IMSOR         Multiannual Financial Framework
+MAR           Own Resource Decision
+MFF           Tobacco excise duties own resource
+ORD           Treaty on the Functioning of the European Union
+TEDOR         Traditional own resources
+TFEU          Value added tax
+TOR           Weighted average rate
+VAT
+WAR
+                               35
+
+Glossary
+
+Term                           Definition/Explanation
+Auction clearing price
+                               Price at which the total volume for which bids are accepted matches
+Call rate                      the total volume available for sale, determining the successful bidders
+Carbon border adjustment       and what they will pay.
+mechanism
+Constant (2025) prices         In the context of EU own resources, percentage set by the EU to
+                               determine the amount that each member state must contribute from
+Current prices                 a particular revenue source to the EU budget.
+
+Emission allowance             System imposing a tariff on carbon intensive products, such as steel
+                               and cement, entering the EU.
+Emissions trading system
+e-waste                        Budget figures that have been adjusted to a fixed, constant price level
+Gross national income          of the reference year 2025. By removing the effects of price inflation,
+Headroom                       these figures allow for a "real" comparison of the budget's volume or
+Implementing measures for the  purchasing power across different years or MFF periods.
+system of own resources
+Making Available Regulation    Budget figures expressed in the actual monetary value of the specific
+Multiannual financial          year for which the payment is made. These figures fluctuate annually
+framework                      due to inflation (estimated annually with 2% in the current proposal)
+                               and are used to show the actual amount of money that will be paid
+                               out in a given year.
+
+                               Tradeable entitlement, under the emissions trading system, to emit a
+                               tonne of CO2 or an amount of another greenhouse gas with an
+                               equivalent global warming potential during a specified period.
+
+                               Scheme based on capping total CO2 emissions through the allocation
+                               of allowances to emitting companies or other organisations, which
+                               can buy and sell them according to their needs.
+
+                               Electrical and electronic equipment that has ceased to be of value to
+                               its users.
+
+                               Standard measure of a country’s wealth, based on income from
+                               domestic sources and abroad.
+
+                               Difference between the own resources required to finance the EU
+                               budget and the own resources ceiling.
+
+                               General practical arrangements covering the supervision and control
+                               of the EU's own resources.
+
+                               EU rules on the methods and procedures to be used by member
+                               states when making own-resource contributions to the EU budget.
+
+                               The EU's spending plan setting priorities (based on policy objectives)
+                               and ceilings, generally for seven years. Provides the structure within
+                               which annual EU budgets are set, limiting spending for each category
+                               of expenditure.
+Net turnover                                                                              36
+NextGenerationEU
+Own resource           Sum of all company revenue from the sale of products and the
+Own resources ceiling  provision of services during a reference period, after deductions for
+Payment appropriation  rebates, discounts and tax.
+Plastics
+Value added tax        Funding package to help EU member states recover from the
+VAT base               economic and social impact of the COVID-19 pandemic.
+VAT base capping
+                       Funds used to finance the EU budget, mostly from member state
+Weighted average rate  contributions.
+
+                       Maximum amount of own resources that can be called on from the
+                       member states to cover annual payments appropriations
+
+                       Amount available to make a payment once the corresponding
+                       conditions have been met.
+
+                       In the context of EU own resources, unrecycled plastic packaging
+                       waste.
+
+                       Indirect consumption tax on the production and distribution of goods
+                       and the provision of services, ultimately borne by the final consumer.
+
+                       Total value of goods and services to which VAT is applied.
+
+                       Mechanism for limiting the VAT base to a fixed percentage of national
+                       GNI when calculating a member state’s VAT own resource
+                       contributions.
+
+                       Percentage by which a member state’s total VAT receipts are divided
+                       to calculate its VAT assessment base. Takes into account all VAT rates
+                       applicable in the member state, each rate being weighted in line with
+                       the share of the total value of taxable transactions to which it applies.
+COPYRIGHT
+
+© European Union, 2026
+
+The reuse policy of the European Court of Auditors (ECA) is set out in ECA Decision No 6-
+2019 on the open data policy and the reuse of documents.
+
+Unless otherwise indicated (e.g. in individual copyright notices), ECA content owned by the
+EU is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0)
+licence. As a general rule, therefore, reuse is authorised provided appropriate credit is
+given and any changes are indicated. Those reusing ECA content must not distort the
+original meaning or message. The ECA shall not be liable for any consequences of reuse.
+
+Additional permission must be obtained if specific content depicts identifiable private
+individuals, e.g. in pictures of ECA staff, or includes third-party works.
+
+Where such permission is obtained, it shall cancel and replace the above-mentioned
+general permission and shall clearly state any restrictions on use.
+
+To use or reproduce content that is not owned by the EU, it may be necessary to seek
+permission directly from the copyright holders.
+
+Cover page – © butenkow / stock.adobe.com.
+
+Software or documents covered by industrial property rights, such as patents, trademarks,
+registered designs, logos and names, are excluded from the ECA’s reuse policy.
+
+The European Union’s family of institutional websites, within the europa.eu domain,
+provides links to third-party sites. Since the ECA has no control over these, you are
+encouraged to review their privacy and copyright policies.
+
+Use of the ECA logo
+
+The ECA logo must not be used without the ECA’s prior consent.
+
+HTML ISBN 978-92-849-6681-3 ISSN 2812-2860  doi:10.2865/0870500  QJ-01-26-005-EN-Q
+PDF ISBN 978-92-849-6682-0 ISSN 2812-2860   doi:10.2865/7637469  QJ-01-26-005-EN-N
+HOW TO CITE
+
+European Court of Auditors, opinion 04/2026 “concerning the proposal for a Decision on
+the system of own resources of the European Union (COM(2025) 574 final)”, Publications
+Office of the European Union, 2026.
+This opinion was issued pursuant to       EUROPEAN COURT OF AUDITORS
+Article 287(4) TFEU, which provides for   12, rue Alcide De Gasperi
+consultation with the European Court      1615 Luxembourg
+of Auditors at the request of one of the  LUXEMBOURG
+other institutions of the EU. The
+European Commission adopted the           Tel. +352 4398-1
+proposal for a Council Decision on the
+system of own resources of the EU on      Enquiries: eca.europa.eu/en/contact
+16 July 2025. On 8 September 2025, the    Website: eca.europa.eu
+European Parliament requested our         Social media: @EUauditors
+opinion on the proposal. The purpose
+of this opinion is to provide
+observations on the design of the
+proposed system of own resources and
+its potential implications for the
+financing of the EU budget.
+

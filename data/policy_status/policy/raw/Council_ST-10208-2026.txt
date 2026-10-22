@@ -1,0 +1,348 @@
+          Council of the
+          European Union
+
+                                           Brussels, 9 June 2026
+                                           (OR. en)
+
+   Interinstitutional File:                10208/26
+      2025/0419 (COD)                      LIMITE
+
+                                           ECOFIN 782
+                                           FISC 212
+                                           UD 168
+                                           ENV 674
+                                           CLIMA 305
+                                           CODEC 1102
+
+NOTE      Presidency
+From:
+To:       Council
+Subject:
+          Draft Regulation of the European Parliament and of the Council amending
+          Regulation (EU) 2023/956 as regards the extension of its scope to
+          downstream goods and anti-circumvention measures
+
+          - General approach
+
+I. INTRODUCTION
+
+1. As announced in the "Clean Industrial Deal"1 and the "Steel and Metals Action Plan,"2 on
+         17 December 2025 the Commission has issued a proposal for a Regulation amending
+         Regulation (EU) 2023/956 as regards the extension of its scope to downstream goods and
+         anti-circumvention measures.3
+
+1  Doc. ST 6515/25.
+
+2  Doc. ST 7288/25.
+
+3  Doc. ST 16973/25 +ADD 1-6.
+
+10208/26                                                                                         1
+
+                               ECOFIN.2.B  LIMITE                 EN
+2. The principal objectives of this Commission proposal, seeking to amend the Regulation
+         (EU) 2023/956 of 10 May 2023 establishing a carbon border adjustment mechanism4 ("the
+         CBAM Regulation"), are to:
+
+          a) extend the scope of the CBAM to address the risk of carbon leakage for products
+                   further down the value chain (downstream products) that contain the steel and
+                   aluminium products currently in the scope of CBAM Regulation;
+
+          b) introduce a number of anti-circumvention measures designed to prevent avoidance
+                   of CBAM obligations;
+
+          c) improve the technical rules for attributing emissions to electricity with the aim of
+                   encouraging the decarbonisation of electricity imports.
+
+3. The European Economic and Social Committee adopted its opinion on this legislative
+         proposal on 19 March 2026.5 The opinions of the European Parliament and of the European
+         Committee of the Regions are pending.
+
+II. STATE OF PLAY
+
+4. On 9 July 2025, Coreper re-established the ad hoc Working Party on Carbon Border
+         Adjustment Mechanism (AHWP CBAM), and the preparatory work related to the
+         negotiations on this legislative proposal falls within its mandate.
+
+5. The Cyprus Presidency has prioritised work on this file and has invited Member States to
+         conclude the necessary preparatory work in time for the meeting of the Council (Ecofin) in
+         June 2026.
+
+4  OJ L 130, 16.5.2023, pp. 52­104. Amended (simplified) by Regulation (EU) 2025/2083 (OJ
+
+   L, 2025/2083, 17.10.2025, ELI: http://data.europa.eu/eli/reg/2025/2083/oj ).
+
+5  Doc. ST 7828/26.
+
+10208/26                                                                         2
+
+                     ECOFIN.2.B  LIMITE                                          EN
+6.  At the meeting of Coreper on 3 June 2026 a large majority of delegations could accept the
+
+    Presidency compromise text, however, the necessary qualified majority support could not
+
+    be found yet.
+
+7.  At this stage, three key issues (set out in Part III of this note) remain to be resolved, in
+
+    order to obtain a mandate for negotiations with the European Parliament on this file.
+
+8.  Furthermore, in order to address other remaining concerns, the Presidency has adjusted
+
+    Article 22(2), which now clarifies that for the year 2027 CBAM declarants can also rely on
+
+    actual embedded emissions data, pending verification prior to submission of their
+
+    declaration.
+
+9.  The latest Presidency compromise text, which reflects this amendment, is set out in
+
+    doc. ST 10209/26.
+
+III. KEY ISSUES
+
+a) Extension of the scope of CBAM beyond the Commission proposal (list of CN codes,
+         amendments to Annex I of the CBAM Regulation)
+
+10. The current scope of the CBAM Regulation is limited to a set of basic material goods, listed
+         in Annex I thereof (aluminium, cement, electricity, fertilisers, hydrogen, and iron and steel).
+         These basic materials are often used as intermediate inputs in the production of goods
+         further down the value chain (downstream products). To preserve the effectiveness of the
+         objectives of the CBAM, the Commission proposes that the scope of CBAM Regulation is
+         extended by a list of 180 downstream goods (products falling under specific CN6 codes).
+
+6   "Combined Nomenclature" - Council Regulation (EEC) No 2658/87 of 23 July 1987 on the
+
+    tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987,
+
+    p. 1, ELI: http://data.europa.eu/eli/reg/1987/2658/oj).
+
+10208/26                                                                                          3
+
+                       ECOFIN.2.B                            LIMITE                               EN
+11. The Commission has stated in the explanatory memorandum accompanying this proposal
+         that this selection of goods was made "using a set of efficiency and proportionality
+         indicators, including the total production and import emissions per CN code and an indicator
+         capturing the material composition of downstream products. [...] Furthermore, indicators
+         were used to ensure that the selection of goods also considers the complexity of supply
+         chains. On this basis, the proposal expands the scope of CBAM to selected steel and
+         aluminium-intensive downstream products in a way that maximises environmental benefits
+         by covering additional emissions, while limiting, to the extent possible, the administrative
+         burden and complexity for importers and third-country operators."
+
+12. The discussions in Coreper and AHWP CBAM have shown that all delegations agree on the
+         principle that any selection of goods (CN codes) that are to be included into the scope of
+         CBAM should be based on a set of objective criteria.
+
+13. Against the background of these discussions, the following criteria are being applied to
+         extending (modifying) the scope of the Commission proposal in the Presidency compromise
+         text:
+
+        a) selecting goods that share the 6-digit family (HS subheading) with CN codes in the
+                Commission proposal, and which meet the principle of substitutability and
+                complementarity, also adding codes that meet all the thresholds used as the basis for
+                the Commission proposal;
+
+        b) selecting goods that share the same 4-digit (HS heading) CN codes in the Commission
+                proposal, with the emissions threshold (include only goods with emissions of 50 Kt
+                CO2e or more per ton of good);
+
+10208/26                      4
+
+          ECOFIN.2.B  LIMITE  EN
+        c) once the above criteria are applied, additional codes are selected (and some removed
+                from the Commission proposal) having regard to the level of emissions, tradability,
+                materiality, specifics of supply and value chains, risks of circumvention or
+                substitutability, seeking to maintain consistency and efficiency of CBAM, while
+                ensuring coherence with other EU policies, such as public health protection, and
+                preserving the climate ambition of the EU.
+
+14. Application of the above criteria delivers a selection of CN codes that are set out as a
+         modification to the list of CN codes in Annex I of the compromise text.7
+
+15. This selection of additional CN codes was already discussed at the Coreper meeting on 3
+         June, where some delegations called to extend the list of CN codes even further, and others
+         favoured a more cautious approach, that such an extension, if any, remains as close as
+         possible to the Commission proposal. Nevertheless, a large majority of delegations could
+         accept the Presidency compromise proposal, with some Member States indicating that they
+         would not be in a position to accept a more ambitious extension of the scope than that
+         proposed by the Presidency.
+
+16. It is important to note that the compromise text also contains an amendment of Article 30(3)
+         of the CBAM Regulation, which would introduce an annual review on the downstream
+         products that could be recommended for inclusion into the scope of CBAM.
+
+7  See "Note 1" and "Note 2" at the end of Annex I in doc. ST 10209/26 (page 81 and page
+
+   108).
+
+10208/26                                                                                  5
+
+          ECOFIN.2.B  LIMITE  EN
+17. Based on these observations, the Presidency holds the view that any further modification of
+         the compromise text on this issue (any further extension or reduction of the list of CN codes)
+         would decrease the current level of support to the compromise text. The Presidency believes
+         that this solution should be acceptable to delegations in the spirit of compromise, as the
+         starting position of the Council in the forthcoming negotiations with the European
+         Parliament.
+
+18. The Presidency would also like to emphasize that the list of CN codes, as well as the criteria
+         for the selection thereof, should be considered as a "flexible" mandate, as it must be
+         continuously monitored and adjusted based on relevant updates of data and other
+         information up until the final agreement between the co-legislators is reached on this file.
+
+b)  Empowerment to the Commission to temporarily remove specific goods from the scope of
+
+    CBAM (Article 27a)
+
+19. The Commission proposed to supplement the CBAM Regulation with Article 27a, which
+          would empower the Commission to adopt delegated acts to remove specific goods from the
+          scope of CBAM in case of serious and unforeseen circumstances causing severe harm to
+          the Union's internal market. Pursuant to the Commission proposal, such removal would be
+          temporary and last until those serious and unforeseeable circumstances have passed.
+
+10208/26                                    6
+
+                        ECOFIN.2.B  LIMITE  EN
+20. The majority of delegations were against such a broad empowerment being granted to the
+          Commission (primarily due to the risks of jeopardising the effectiveness of CBAM and
+          imprecise scope of the empowerment). However, several delegations see Article 27a as an
+          indispensable part of the overall compromise.
+
+21. In order to bridge the positions of Member States and address their relevant political and
+          legal concerns, the Presidency has embarked on making Article 27a clearer, more detailed
+          and precisely defining the mechanism and the boundaries of the empowerment to the
+          Commission.
+
+22. At the Coreper meeting on 3 June a vast majority of Member States could accept the
+          Presidency compromise text of this Article, which now foresees that the Commission can
+          initiate the procedure for temporary exclusion from CBAM of specific goods through an
+          implementing act that can be adopted under very strict conditions.
+
+23. However, some delegations considered that the criteria which can trigger the Commission
+          initiative for an implementing act are too restrictive (Article 27(3a)):
+
+a)        a sustained price increase (without taking into account the CBAM financial
+
+          liability), where the average import price expressed in constant prices of a good
+
+          for which the EU has import dependency has increased by more than 50%
+
+          compared to the average import price of the same CBAM good over the previous
+
+          ten years;
+
+b)        for a price increase to be sustained, it should be observed over a period of at least
+
+          six months.
+
+10208/26                                                                                            7
+
+                       ECOFIN.2.B  LIMITE                                             EN
+24. On the basis of the discussions that took place so far and further bilateral contacts, the
+          Presidency holds the view that further adjustment of these criteria or any other amendment
+          of the text of Article 27a could reduce the existing level of support to the overall
+          compromise.
+
+25. While, in this context, several delegations have referred to rising prices of fertilisers, the
+          Presidency notes that in the recent Commission communication "Fertiliser Action Plan:
+          Partnership for ensuring the availability, affordability and strategic autonomy in home-
+          grown EU fertilisers,"8 issued on 19 May 2026, the Commission indicates that:
+
+          (a) "the Commission will improve the [CBAM] further, including by working with the
+                   European Parliament and the Council on its proposals to tackle possible CBAM
+                   circumvention risks so that it also effectively supports the EU fertiliser sector and
+                   thereby reduces import dependency of the EU agriculture sector as a whole", and
+
+          (b) "a stronger evidence base is also needed on the impact of the fertiliser regulatory
+                   framework on farmers. The Commission will therefore carry out an in-depth
+                   evaluation of how CBAM and ETS-related costs are passed on in the fertiliser
+                   prices paid by farmers and ultimately on food prices. It will improve the evidence
+                   base on farm-level price developments more broadly."
+
+26. Against this background, the Presidency suggests that Article 27a is accepted by
+          delegations in its current form, as part of the Council negotiating mandate and as a basis
+          for negotiations with the European Parliament.
+
+8  Doc. ST 9437/26.
+
+10208/26                                 8
+
+                     ECOFIN.2.B  LIMITE  EN
+c)  Outermost regions: provisions on exemption from CBAM obligations (poss. new Article
+
+    2(13) of the CBAM Regulation)
+
+27. Since the beginning of negotiations in the Council on this file, one Member State maintains
+          a request that CBAM Regulation is supplemented with specific provisions (new Article
+          2(13)) permitting that certain construction materials9 (or, alternatively, goods falling within
+          product families of cement) imported into the outermost regions and destined exclusively
+          for local consumption could be temporarily exempt from the financial consequences
+          generated by the CBAM Regulation.
+
+28. This issue was also raised in the Ecofin Council meeting in March 2026.10 This request is
+          substantiated by the argument that some of the outermost regions, given their distance from
+          EU mainland territory, are particularly import-dependent and, in many cases, have no
+          viable alternatives to reallocate sources of supply to "greener" alternatives. Consequently,
+          it is argued that in such cases the impact of CBAM may be disproportionate in terms of
+          increasing costs, particularly in the case of construction materials. It is also argued that the
+          environmental impact of a well-targeted exemption mechanism would be negligible, and
+          that risks of fraud can be minimised with proper control and safeguards.
+
+29. However, so far, this request has not gathered sufficient support of other Member States.
+          The primary concerns are the need to preserve the consistency and effectiveness of CBAM,
+          and elevated risks of fraud, which may outweigh any potential benefit of such an
+          exemption.
+
+9   Those listed in Annex VII of Regulation (EU) 2024/3110 (and bearing no "CE" marking).
+
+10 Doc. ST 7055/26.
+
+10208/26                                                                                   9
+
+                                   ECOFIN.2.B  LIMITE  EN
+30. The Presidency notes that the Commission is continuously working on the issues relating
+          to the outermost regions and maintains full overview of the situation, also in the context of
+          TFEU Article 349.
+
+31. In its work programme for 2026 the Commission indicates that it intends to issue a new
+          initiative ­ a communication on a strategy for outermost regions.11 Furthermore, a recent
+          call for evidence by the Commission,12 mentions the possibility of a legislative initiative
+          for a Regulation on policy simplification measures for the EU's outermost regions.
+
+32. This provides an opportunity for further assessment whether there is a need for cross-
+          cutting measures at EU level on this issue, and what would be the most appropriate
+          solution (whether a specific amendment of the CBAM Regulation is required or other
+          policy measures could be employed to address these concerns).
+
+33. Against this background, the Presidency suggests, that in the spirit of a compromise, at this
+          stage, the issue relating to the outermost regions should not be resolved in the form of an
+          amendment of the CBAM Regulation.
+
+11 Doc. ST 14261/25 ADD 1 (Annex I, item 22).
+12 https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/15713-Strategy-for-
+
+         the-EUs-outermost-regions_en (Ref. Ares(2025)9919727 - 17/11/2025)
+
+10208/26                      10
+
+          ECOFIN.2.B  LIMITE  EN
+IV. NEXT STEPS
+
+34. The Presidency is of the view that the compromise text set out in doc. ST 10209/26 should
+          now strike the right balance and address the concerns raised by the delegations and
+          constitute a good basis to finalise these negotiations.
+
+35. It should also be recalled that many aspects of the CBAM will be subject to periodic
+          review pursuant to Article 30 of the CBAM Regulation, in order to continue work toward
+          lasting and sustainable solutions.
+
+36. Against this background, the Council is invited to reach the general approach on the text of
+          the draft Regulation of the European Parliament and of the Council amending Regulation
+          (EU) 2023/956 as regards the extension of its scope to downstream goods and anti-
+          circumvention measures, set out in doc. ST 10209/26.
+
+10208/26                      11
+
+          ECOFIN.2.B  LIMITE  EN
+

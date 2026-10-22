@@ -1,0 +1,136 @@
+SOURCE_URL: https://news.cision.com/stegra
+RETRIEVED: 2026-10-22
+EXTRACTION: tag-stripped text of the saved HTML (longest of article/main/body block); layout not reproduced
+
+----
+news.cision.com
+/
+Stegra
+ US/UK/Canada 
+ US/UK/Canada
+ Sweden
+ Share
+All
+Press releases
+News
+Financial reports
+Media
+ Pick a time period
+-
+Search
+ Tags 
+(
+ Active)
+All
+Regulatory
+Non-Regulatory
+ 0, template: { name: filter.activeFilterableFieldTemplate, templateEngine: window.hoganEngine, foreach: filter.activeFilterableFields(), beforeRemove: filter.fadeout, afterAdd: filter.fadein }">
+Stegra implements changes following 100-day review under new owners – Håkan Buskhe appointed CEO
+Wed, Sep 30, 2026 10:00 CET
+ Stockholm, September 30, 2026 - Since the new ownership group and the new Board of Directors took over in June, Stegra’s operations have been rapidly ramped up. During its first 100 days, the Board, supported by external advisers, has conducted a further in-depth review of the company and the project in Boden. The review shows that the timeline for green steel production remains as expected, the business case remains strong, and that there are other ongoing discussions that could improve the project’s cost position over time.
+However, the review also shows that additional capital is required
+Google and Stegra in agreement for environmental attribute certificates
+Thu, Sep 17, 2026 09:00 CET
+ Stockholm, September 17, 2026 –Google has entered into an agreement with Stegra for the purchase of environmental attribute certificates (EACs) connected to Stegra’s steel production in Boden, Sweden. These EACs help scale global supply for near-zero emission steel.
+The agreement covers EACs for a volume of up to 91.000 tonnes of steel for the first year, with an ambition to add more volumes over the length of the agreement.
+"Decarbonizing the most challenging sectors requires every tool in our toolbox. Alongside physical procurement, certificates are another vital mechanism. Having
+Changes to Stegra’s board of directors and company structure
+Wed, Jun 24, 2026 08:31 CET
+ Stockholm, June 24, 2026 – Stegra announces that changes have been made to its board of directors, following the closing of its €1.4 billion financing round, in which a Wallenberg Investments-led consortium takes a leading position in the company.
+A new holding company, Stegra Holding AB*, owned by the investors in the new financing round holds over 90% of the shares and votes in Stegra. The companies in the Wallenberg Investments-led consortium together have an indirect majority shareholding in Stegra through Stegra Holding AB. The board of directors of Stegra Holding AB consists of the
+Stegra announces closing of €1.4 billion financing round
+Wed, Jun 24, 2026 08:30 CET
+ Stockholm, June 24, 2026 – Stegra today announces the closing of its €1.4 billion financing round. The round is led by a Wallenberg Investments-consortium and has strong support from existing investors as well as the original lender group.
+In April, 2026 Stegra announced that the new financing round had been agreed in principle, subject to certain approvals, including customary regulatory approvals. The financing round is now completed.
+The Wallenberg Investments-led consortium consists of existing investors IMAS and Temasek as well as new investors Bolero and SEB-Stiftelsen. In addition,
+Stegra has agreed in principle on a €1.4 billion financing round led by a Wallenberg Investments-consortium
+Tue, Apr 14, 2026 08:00 CET
+ Stockholm, April 14, 2026 – Stegra has agreed in principle on €1.4 billion in new financing from a combination of new and existing investors to complete the construction of its large-scale green steel plant in Boden, Sweden.
+The financing round is led by Wallenberg Investments, which has formed a consortium of investors that will, through this transaction, take a leading position in Stegra. Alongside Wallenberg Investments, the consortium consists of Temasek and IMAS. Funding is further strongly supported by Stegra’s existing shareholders, including Altor who will be the second largest owner
+Stegra appoints Markus Holm as CFO
+Thu, Feb 05, 2026 10:15 CET
+ Stockholm, February 5, 2026 – Stegra has appointed Markus Holm as Chief Financial Officer, starting March 1, 2026. Holm joins Stegra with over 20 years’ experience from processing industry, green energy and start-ups.
+Markus Holm will succeed Otto Gernandt, who is stepping down after more than five years with the company to pursue new opportunities. To ensure a smooth transition, Gernandt will remain with Stegra as a senior advisor.
+Holm has a long background from CFO- and executive roles in multinational companies as well as start-up firms, active in industries ranging from paperboard,
+Stegra appoints new Board Director
+Fri, Jan 30, 2026 12:00 CET
+ Stockholm, January 30, 2026 – Stegra today announces the appointment of Andrés Rubio as a new member of its Board of Directors.
+“We welcome Andrés to the Board and look forward to his contribution. His broad international experience and strong background in finance, investment and leadership will be a valuable addition as Stegra progresses the industrial development of the plant in Boden,” says Shaun Kingsbury, Chairman of the Board of Stegra.
+Andrés Rubio brings more than 30 years of international board, management, investment and advisory experience. He is the Founder and Managing
+thyssenkrupp Materials Services and Stegra agree on significant multi-year non-prime steel supply
+Mon, Jan 12, 2026 08:00 CET
+ Stockholm, January 12, 2026 – thyssenkrupp Materials Processing Europe has signed an agreement with Stegra for the delivery of steel from Stegra’s site in Boden, Sweden. First deliveries are expected to start in 2027. The total tonnage of the agreement will be in the high-six-digit range.
+In the multi-year agreement, thyssenkrupp Materials Processing Europe will acquire significant amounts of non-prime steel from Stegra to supply its customers in various industries across Europe.
+“At thyssenkrupp Materials Processing Europe, we have the customer base, the logistics capabilities and the
+Stegra granted additional state aid from the Industrial Leap
+Wed, Nov 26, 2025 16:45 CET
+ Stockholm, November 26, 2025 –Today, the Swedish Energy Agency announced that Stegra has been granted about €37 million from the Industrial Leap. The grant goes towards the establishment of Stegra’s fully integrated near zero emission steel production facility in Boden.
+In September 2024, Stegra was awarded €100 million from the Industrial leap after the European Commission earlier the same year approved, under the EU State aid rules, a €265 million Swedish measure made available in part through the Recovery and Resilience Facility. Today, an additional €37 million in grants have been
+Stegra confirms new Board Directors
+Tue, Nov 04, 2025 08:30 CET
+ Stockholm, 4 November, 2025 – At an Extraordinary General Meeting (EGM), Stegra has appointed Aidan de Brunner, Lars Fromm, Annemarie Manger and Emmanuel Rodriguez, as new Directors of the Board.
+As communicated on October 20, Aiden de Brunner and Emmanuel Rodriguez were previously nominated to the Board. Lars Fromm and Annemarie Manger have since also been nominated. All appointments have now been confirmed following approval at the EGM.
+“The combined and extensive experience of the new board members will be valuable as the work progresses with the establishment of the world’s first
+Changes to Stegra’s Board of Directors
+Mon, Oct 20, 2025 16:30 CET
+ Stockholm, 20 October 2025 – Current Board Director Shaun Kingsbury is appointed new Chairman of the Board replacing Harald Mix. Mix has decided to step down as Chairman but will continue as an active member of the Board. Aidan de Brunner and Emmanuel Rodriguez are nominated new Board Directors as Board Directors Annica Bresky and Susanna Campbell have decided to leave the Board.
+"As the newly nominated Chairman, I welcome Aidan de Brunner and Emmanuel Rodriguez to the Board. Both brings deep expertise and strong track records of execution; Aidan de Brunner with extensive financial and
+Stegra in new financing round
+Mon, Oct 13, 2025 06:00 CET
+ Stockholm, 13 October, 2025 – Following strong initial commitments from existing investors, Stegra is now in a new financing round for the construction of the world’s first large-scale green-steel plant in Boden, Sweden.
+“The strong backing from our founders and lead investors, who are firmly committed to this project, is another testament to Stegra’s strong business case. Stegra has a unique position in the green steel landscape with a strong order book, a competitive cost position, and proven execution capabilities,” says Henrik Henriksson, CEO of Stegra.
+The proceeds from the round are
+Stegra announces agreement with Microsoft, driving demand for near-zero emission steel
+Tue, Sep 23, 2025 17:00 CET
+ Stockholm, September 23, 2025 – Stegra has entered into two new agreements with Microsoft. One is for the supply of steel with near-zero emissions to be used in Microsoft’s datacenters. In addition to the agreement for physical green steel, the companies have also entered into an agreement for the purchase of environmental attribute certificates tied to production from Stegra’s manufacturing facility in Boden, Sweden. This agreement is the first-of-its-kind in the steel industry designed to help drive global demand for green steel.
+After investing in Stegra in 2023 through its Climate
+Stegra appoints Niklas Wass to lead its operations in Boden
+Tue, Jan 14, 2025 13:00 CET
+ Stockholm, January 14, 2025 – Stegra appoints Niklas Wass as Head of Operations in Boden, starting April 1, 2025. Wass joins the industrial scaleup company after 22 years at the stainless steelmaker Outokumpu.
+Wass’ most recent role at Outokumu was President, Business Line Stainless Europe. Previous roles include Executive Vice President, Operations, Business Area Europe, as well as running Outokumpu’s operations in Tornio and Degerfors.
+“Few people can match Niklas’ experience from electric arc furnace-based stainless-steel operations. In addition to that, he has values that match what
+Stegra and Uniper enter 6 TWh electricity agreement
+Wed, Nov 27, 2024 09:08 CET
+ Stockholm, 27 November 2024 –Stegra and Uniper have signed a long-term agreement for the supply of 6 TWh of electricity to Stegra’s plant in Northern Sweden.
+In a long-term power purchase agreement (PPA) with Uniper, Stegra secures a yearly supply of electricity produced over the 6-year period ranging from 2027-2032, covering a total of 6 TWh.
+Stegra’s plant in Boden will produce green hydrogen, green iron and green steel, at large scale. The initial annual volume will be 2.5 million tonnes of green steel and operations will start in 2026.
+Significant volumes of electricity are needed
+Stegra and Axpo sign 2 TWh electricity deal
+Tue, Nov 26, 2024 13:00 CET
+ Axpo Nordic and Stegra have signed a power purchase agreement for the supply of electricity to Stegra’s integrated green hydrogen, green iron and green steel production plant in Boden, northern Sweden.
+Under the agreement, Axpo Nordic will supply 2.25 TWh of electricity over three years, starting in 2027, to Stegra’s facility in Boden, which is currently under construction. Both parties see this agreement as the beginning of a longer business relationship and an important element of the electricity supply to Stegra’s plant, which will produce green hydrogen, green iron and green steel at
+H2 Green Steel changes name to Stegra
+Thu, Sep 12, 2024 09:29 CET
+ The industrial scale-up H2 Green Steel is changing its name to Stegra. The company’s purpose is to decarbonize hard to-abate industries. Stegra will do so by leveraging all three platforms it works with: green hydrogen, green iron and green steel.
+H2 Green Steel was launched in 2021 to reduce emissions in the steel industry on a very ambitious timeline. By showing that it can be done, the company also aimed to inspire the incumbent steel industry to speed up the pace of change. Having secured funding of €6.5 billion and being well on its way to building the world’s first large-scale green
+H2 Green Steel supports Lindab in reducing its CO\2\ footprint from steel
+Wed, May 22, 2024 09:00 CET
+ Lindab committed very early to purchasing near-zero emissions steel from H2 Green Steel. The two companies have since converted the early term sheet agreement into a 7-year supply contract with deliveries planned to start in 2026. The total volume covered by the contract is 159.000 tons of near-zero emissions steel.
+Lindab delivers solutions for energy-efficient ventilation and a healthy indoor climate to the construction industry. Buildings account for 40% of global energy consumption. Efforts to increase energy efficiency in the construction sector are therefore crucial to achieving the
+H2 Green Steel raises more than €4 billion in debt financing for the world’s first large-scale green steel plant
+Mon, Jan 22, 2024 11:30 CET
+ H2 Green Steel signs definitive debt financing agreements for €4.2 billion in project financing and increases the previously announced equity raised by €300 million. Total equity funding to date amounts to €2.1 billion. The company has also been awarded a €250 million grant from the EU Innovation Fund. H2 Green Steel has now secured funding of close to €6.5 billion for the world's first large-scale green steel plant in Northern Sweden.
+H2 Green Steel is driving one of the largest climate impact initiatives globally. The company was founded in 2020 with the purpose to decarbonize hard-to-
+KIRCHHOFF Automotive and H2 Green Steel in €130 million deal for supply near zero emissions steel
+Tue, Jan 16, 2024 09:00 CET
+ Global supplier to the automotive industry, KIRCHHOFF Automotive, signs 7-year agreement with H2 Green Steel for the delivery of near zero emissions steel from Boden.
+By teaming up with the Swedish impact company H2 Green Steel, KIRCHHOFF Automotive takes further steps to decarbonize its supply chain and to achieving its sustainability goals.
+“The message from our customers is clear, they want to see products with lower CO\2\ footprint. This matches our ambitions to be in the forefront of sustainable development in the industry, as well as our legacy where sustainability has always been
+Purmo Group in 7-year agreement with H2 Green Steel for near zero emission steel supply
+Mon, Nov 06, 2023 09:00 CET
+ Purmo Group, a leader in sustainable indoor climate comfort solutions, has entered into a binding agreement with H2 Green Steel, for the delivery of 140,000 tonnes of green steel during 2026-2033.
+The deliveries will support Purmo Group in its further advancement in sustainability. Steel represents approximately 50% of all raw material purchases in the Group. 
+“This is an excellent collaboration with H2 Green Steel and another milestone in our sustainability journey towards carbon neutrality. With this agreement, we will be pioneers in our industry, securing the supply of green steel and
+Porsche plans to use CO\2\-reduced steel from H2 Green Steel in sports cars from 2026
+Tue, Oct 31, 2023 12:01 CET
+ Porsche AG and the Swedish industrial start-up H2 Green Steel have signed an agreement for the supply of CO\2\-reduced steel. The aim is to further improve the emissions balance of Porsche vehicles by using CO\2\-reduced steel.
+H2 Green Steel plans to produce steel using renewable electricity in Boden, Sweden, starting end of 2025. From 2026, Porsche and various direct Porsche suppliers of production material are to be supplied with near zero-emission steel from the company. This agreement marks the second contract between H2 Green Steel and a company in the Volkswagen Group, following that
+H2 Green Steel is the first manufacturing company to join Exponential Roadmap Initiative as Climate Solutions Company
+Tue, Sep 19, 2023 13:00 CET
+ By recognizing H2 Green Steel as a Climate Solutions Company, the Exponential Roadmap Initiative, a partner of the UN-backed Race to Zero, validates the Swedish industrial start-up’s plan to deliver significant emissions reductions compared with traditional steel manufacturing.
+The Exponential Roadmap Initiative was launched to accelerate climate action and solutions through the exponential scaling of ground-breaking products, services and projects. H2 Green Steel is a living example of such a project as it was founded in 2020 to accelerate the decarbonization of the steel industry. By
+There are no items matching the current filter
+There are no more items matching the current filter
+Back to top
+ Subscribe
+ Media

@@ -1,0 +1,652 @@
+{
+ "approach": "DEFENCE-FIRST DESIGN. 13 main slides, exactly 15.0 min (CH1 4.0 / CH2 8.5 / CH3 2.5; about 1.15 min per slide). Storyline: price the externality (ETS), extend the cost comparison to the border (CBAM), show what dated data and company evidence can and cannot say, state the costs conditionally, then recommend keep-with-changes. Rules applied to every main slide: (1) one evidence-label chip from the five allowed labels; (2) source tags printed on the slide; (3) a footer sentence 'Does not show: ...' plus a 'Backup: A#' pointer; (4) conditional verbs only (can, may, consistent with); (5) observed data, announcements and model results never share a chart; (6) ETS, CBAM and the steel quota measure are kept apart by lane, column or footnote; (7) policy dates are annotations only; (8) no number appears unless it is in the sources, and derived numbers are flagged as derived. Appendix = 16-slide answer bank (A1-A16) ordered by likely hostile question.\n\nMAPPING OF MEMBER B'S 16 SUB-SECTIONS: 1.1 + 1.6 to slide 1; 1.2 to slide 2; 1.3 + 1.4 to slide 3; 1.5 to slide 4; 2.1 to slides 5-6; 2.2 to slide 7; 2.3 to slides 8-9 (steel exports added as slide 9); 2.4 to slide 10; 2.5 to slide 12; 2.6 limitations folded into the 'Does not show' footers plus A1 and A15; 3.1 + 3.2 to slide 12; 3.3 + 3.4 to slide 13, with the honest cost side in slide 11.\n\nCH2 VARIABLE COVERAGE: slide 5 lists all 11 variables (X, M, NX, BOP, Q, P, GDP, tax, C, I, G) as one-line conditional mechanisms with observed 2025 context (Dataset F) or an explicit 'not measured'; slides 6-9 give the theory and data behind M, Q, P, X, NX, GDP; tax, C, G have no policy-effect series and the deck says so.\n\nTHEORY GRAPHS: only 2 of the 3 allowed are in the main deck (slide 2 = Figure 1, slide 6 = redrawn Figure 2). Both depend on the lecturer's pending confirmation, each has a text fallback, and the time budget does not change if they are rejected. Member D's graph feedback: G1 correct, used. G2 flagged wrong (full pass-through, unchanged domestic cost), so the workbook figure is not shown and is redrawn qualitatively with partial pass-through plus higher domestic cost. G3 (subsidy) removed from main, subsidy facts go to A11 as a policy-rule table. G4 to appendix with the 'one fixed point in time' label and a partial shift. G5 to appendix. G6 retired and replaced by real labour evidence in A13. Every shift is narrated with before / during / after facts.\n\nNX GAP DECISION: slide 9 uses Dataset B (all partners, steel mill products, physical Mt, 2017-2024, rounded) and labels it everywhere as not extra-EU, not CBAM base, not the GDP net-exports component. Exports and imports are plotted separately; the approximate balance is shown only as an arithmetic strip derived from the rounded figures. It is never netted against the extra-EU Chapter 72 import series (different boundary). A visible red 'GAP' box states that matched extra-EU Chapter 72 exports (Comext DS-045409, flow 2) are not yet pulled and that no extra-EU NX claim is made; the slide explicitly refuses to read lower exports plus lower imports as better or worse competitiveness (Member B's own caution). A6 holds the extraction spec to close the gap.\n\nSOURCE CONFLICTS AND RULINGS (later or more specific source wins): (1) Chat 11 Oct screenshot summary (14% GDP share, 5.5 m workers = 20.8%, 47% quota cut as CBAM, 11,000 dismissals, Mercedes operating the plant, BMW replacing all steel, Outokumpu 90% scrap, bluemint = DRI) is superseded by update section 8 and U-sources; none appears in the main deck and A2 shows the corrections. (2) Member D 12 Oct 'firms will entirely replace the high-carbon profile' (G4) conflicts with update sections 6 and 8 (continued 2025 imports; contracts do not show all steel switched), so the update wins and G4 keeps a partial shift. (3) Workbook Figure 2 text (full pass-through) loses to Member D's 12 Oct feedback; its own Limit paragraph already concedes incomplete pass-through. (4) Detailed notes say employment 7.26-7.49 m 'across 2015-2025' but U28 supports only 2023-2025 (7.490 / 7.415 / 7.262 m), so U28 wins. (5) Thyssenkrupp: the Nov 2024 announcement (U9) is used for the 5,000 + 6,000 split; the later-dated 2025 specification (about 5,300 directly affected, IG Metall agreement) goes to A13. (6) Notes' Thyssenkrupp 'full hydrogen operation by 2029' differs from the dated VW MoU (U10: commissioning from 2027, gas first); U10 is used. (7) Course brief says 20+10 min; the team asked for 15, so the update's 20-minute split is rescaled. (8) Notes give two 2025 scrap prices (HS 720449 EUR 305/t vs HS 7204 EUR 382/t); kept out of main slides. (9) Schedule text says final confirm one week before presenting but lists 14/11 for a 16-18/11 presentation.\n\nCLAIM-CHECK (update section 8) COVERAGE: 'GDP barely changed so no CBAM effect' to slide 7 footer and A2; 14% / 26% to slide 1 and A2; 5.5 m / 20.8% to slide 1, A2, A13; 47% as CBAM to slide 3 and A3; 11,000 dismissals to slide 11 and A13; green steel cheaper to slide 11 and A9; contracts mean all automotive steel switched to slide 10 and A12; unvalidated figures (67 distressed regions, 26 German regions, EUR 50bn, EUR 7bn, 1.5%) never used.\n\nTAG KEY: NOTES-1 to NOTES-5 = base workbook detailed English notes (lines 645-1006): 1 subsidy criteria, 2 alternative supply and prices, 3 domestic cost data, 4 trade-data method, 5 jobs and GDP. These carry domain-only citations and no S/U IDs yet (see to-dos).",
+ "total_minutes": 15,
+ "slides": [
+  {
+   "no": 1,
+   "section": "CH1 - Policy detail (opening)",
+   "title": "The question, the case and the rules of this talk",
+   "key_message": "We describe how EU ETS and CBAM relate to the long-term shift to cleaner steel supply for German manufacturing; policy dates are annotations, not proof of causation.",
+   "visual": "Title bar with the full revised title; one-line central question; three scope chips (Germany | iron and steel feeding manufacturing | descriptive method, no DiD, no causal claim). Four stat tiles with the definition printed under each: 19.4% = manufacturing share of Germany's total GVA at current prices, 2025, not a GDP share [U22]; 26% = Germany's share of EU sold industrial production value, 2025, PRODCOM, not GDP [U26]; 7.262 million = manufacturing employment, national-accounts domestic concept, 2025 [U28]; 34.1 Mt = German crude steel output, 2025 [Dataset A / S13]. The five-chip evidence-label legend is shown once here and reused as a small chip on every later slide. Footer: 'Does not show: a causal effect of either policy. Backup: A2.'",
+   "minutes": 1,
+   "speaker_points": [
+    "Central question in one breath: how do ETS and CBAM together influence the long-term shift to cleaner steel supply for German manufacturing, and which opportunities and adjustment costs show up in production, trade, investment and sourcing.",
+    "Why Germany although CBAM is EU-wide law: Germany is the case for implementation and incidence; it applies the common framework and does not set its own CBAM tariff [S1][S2].",
+    "Rules of the talk: every slide wears an evidence label, and 'can strengthen' is conditional because the realised net benefit is not measured.",
+    "Say once: we use 19.4%, 26% and 7.262 million with their exact definitions; the 14% and 5.5 million screenshot figures are not used (A2)."
+   ],
+   "evidence_label": "Observed data",
+   "source_tags": [
+    "U22",
+    "U26",
+    "U28",
+    "S13",
+    "S1",
+    "S2"
+   ],
+   "data_source": "Eurostat nama_10_a64 and nama_10_a64_e (retrieved 11 Oct 2026); Eurostat sold industrial production; German Steel Federation 2025 and worldsteel 2025 for crude steel.",
+   "depends_on_lecturer_confirmation": false
+  },
+  {
+   "no": 2,
+   "section": "CH1 - Policy detail",
+   "title": "Why price carbon? The negative production externality",
+   "key_message": "Without a carbon price the external cost of steelmaking is ignored and output exceeds the social optimum; a carbon price makes producers account for that cost.",
+   "visual": "Figure 1 from sources/images/base-doc-fig-01.png, keeping its 'SIMULATION: invented values' footer: demand D, private marginal cost PMC, social marginal cost SMC = PMC + 20, market point Q = 50 versus social optimum Q = 40, shaded avoidable-loss triangle. Under it a three-box strip 'Before / During / Latest' of real dated facts. Before: no EU carbon price in the 1995-2004 window; directive adopted 2003; ETS launched 2005 with mostly free allocation and pilot oversupply [U1]. During: pilot 2005-2007, then 2008-2012, 2013-2020, 2021 onward [U1]. Latest: covered power-and-industry emissions about 50% below 2005 levels in 2024, an EU ETS aggregate led by the power sector, not Germany-only, not steel-only, not CBAM [U29]. Caption: 'Short-run static, one point in time. Carbon cost set equal to marginal damage by construction. ETS is a cap, not a per-tonne tax.' Footer: 'Does not show: that the real ETS price equals marginal damage, or that German steel output must fall. Backup: A16.' Fallback if the lecturer rejects the graph: keep the strip and replace the graph with a two-line wedge statement.",
+   "minutes": 1,
+   "speaker_points": [
+    "Read it in three moves: SMC sits above PMC by an assumed 20; the unpriced market gives Q = 50 while the social optimum is Q = 40; a carbon cost of 20 closes the gap. Say that all values are invented.",
+    "Lecture link: negative production externality, Reason for Domestic Protection pp. 15-17 [G1].",
+    "Before / during / latest in reality: there was no EU carbon price before 2005, the pilot used mostly free allocation so 2005 was not a uniform charge, and by 2024 covered emissions were about 50% below 2005 (EU aggregate, power-led).",
+    "Do not claim that the real ETS price equals marginal damage, and do not read the triangle as Germany's welfare gain."
+   ],
+   "evidence_label": "Theoretical-illustrative",
+   "source_tags": [
+    "G1",
+    "G4",
+    "U1",
+    "U29"
+   ],
+   "data_source": "Workbook graph tab Figure 1 (invented teaching values, equations in the tab); European Commission ETS history [U1]; Commission 2025 Carbon Market Report [U29].",
+   "depends_on_lecturer_confirmation": true
+  },
+  {
+   "no": 3,
+   "section": "CH1 - Policy detail",
+   "title": "Three different instruments: ETS, CBAM and the steel quota measure",
+   "key_message": "EU ETS prices emissions inside the EU, CBAM applies the same carbon-cost comparison to covered imports, and the steel quota measure is a separate trade-defence tool.",
+   "visual": "Three-column comparison table (EU ETS | CBAM | Steel quota measure) with rows 'What it does', 'Covers', 'Key dates', 'Common mix-up'. ETS: cap-and-trade on covered installations' emissions with a declining cap and tradable allowances; free allocation for leakage-exposed installations is not an exemption from monitoring and surrender; started 2005; mix-up = 'a uniform carbon tax on every manufacturer' [U1][U2]. CBAM: import-side complement; goods covered by customs code (most of Chapter 72 except scrap 7204 and specified ferroalloys, agglomerated iron ore 26011200, selected Chapter 73 headings); the authorised declarant surrenders certificates for embedded emissions after free-allocation and recognised foreign-carbon-price adjustments; certificate price follows ETS auction prices; definitive from 1 Jan 2026; mix-up = 'a fixed percentage tariff, a ban or a buy-European rule' [U3][U4][U5][S4][S6]. Steel quota measure: tariff-rate quota of 18.3 Mt a year with a 50% out-of-quota duty; the 47% is the reduction versus 2024 safeguard quotas; adopted 8 Jun 2026, applied 1 Jul 2026; replaces the safeguard and targets global overcapacity; mix-up = 'the 47% cut is part of CBAM' [U6][U7][U8]. Footnote row: Russia sanctions are a fourth separate measure [U33]; dumping is a trade-law finding and is not inferred from a low price. Footer: 'Does not show: how much any instrument changed German outcomes. Backup: A3, A4.'",
+   "minutes": 1,
+   "speaker_points": [
+    "ETS is the domestic cap-and-trade, started in 2005; early phases relied heavily on free allocation, so 2005 was not a sudden uniform charge on all manufacturers [U1].",
+    "CBAM is the import-side complement: it can make a cleaner foreign supplier more attractive and is not a ban, a buy-European rule or a fixed percentage of the import's value [U3].",
+    "The 47% belongs to the separate steel quota framework (versus 2024 safeguard quotas, adopted 8 June 2026, applied 1 July 2026), not to CBAM [U6][U8].",
+    "We keep the three apart so that no later graph is read as 'CBAM did this'."
+   ],
+   "evidence_label": "Policy rule",
+   "source_tags": [
+    "U1",
+    "U2",
+    "U3",
+    "U4",
+    "U5",
+    "U6",
+    "U7",
+    "U8",
+    "U33",
+    "S4",
+    "S6"
+   ],
+   "data_source": "EU legal and Commission texts: Regulation (EU) 2023/956 consolidated, Council steel-measure releases (13 Apr and 8 Jun 2026), Commission factsheet; Council Russia-sanctions page.",
+   "depends_on_lecturer_confirmation": false
+  },
+  {
+   "no": 4,
+   "section": "CH1 - Policy detail",
+   "title": "Policy timeline: dates are annotations, not proof",
+   "key_message": "ETS began in 2005, CBAM reporting ran from October 2023 and paid obligations start with 2026 imports, so pre-2026 data cannot show an effect of paid CBAM certificates.",
+   "visual": "Horizontal timeline 1995-2034 with three swim lanes plus two thin data-window bars. Lane ETS: 2003 directive; 2005 launch; 2005-07 pilot (mostly free allocation); 2008-12; 2013-20; 2021 onward [U1]. Lane CBAM: 14 Jul 2021 proposal; 1 Oct 2023 to 31 Dec 2025 transitional reporting (no certificate payments); 1 Jan 2026 definitive regime; 1 Feb 2027 certificate sales begin; 30 Sep 2027 first declaration and surrender for 2026 imports [U3][U35][S3][S5][S7]. Lane steel quota measure: 8 Jun 2026 adopted; 1 Jul 2026 applied [U6][U8]. Data-window bars: manufacturing 1995-2025; extra-EU Chapter 72 imports 1999-2025. Bottom strip of nine cells for 2026-2034: CBAM factor 97.5, 95.0, 90.0, 77.5, 51.5, 39.0, 26.5, 14.0, 0.0 percent, complement 2.5 to 100 percent, captioned 'factor applied to the free-allocation benchmark, not a percentage of each shipment's emissions' [S9][S10]. Footer: 'Does not show: causation; our data end in 2025, so no completed paid-CBAM period. Backup: A4.'",
+   "minutes": 1,
+   "speaker_points": [
+    "The pre-ETS window 1995-2004 is there for context: we compare before and after as an illustration, not as an evaluation.",
+    "A 2026 liability and its cash payment are different events: certificate sales start in February 2027 and the first surrender is due by 30 September 2027.",
+    "From 2026 to 2034 CBAM is phased in while relevant free allocation is withdrawn; the factor falls from 97.5% to 0% and that is not a percentage of every shipment's emissions.",
+    "Our observation windows stop in 2025, so nothing later on shows a completed paid-CBAM period."
+   ],
+   "evidence_label": "Policy rule",
+   "source_tags": [
+    "U1",
+    "U3",
+    "U6",
+    "U8",
+    "U35",
+    "S3",
+    "S5",
+    "S7",
+    "S9",
+    "S10"
+   ],
+   "data_source": "Commission ETS and CBAM pages; Regulation (EU) 2023/956 and (EU) 2025/2083; Directive (EU) 2023/959; Implementing Regulation (EU) 2025/2620 (factor schedule); Council steel measure.",
+   "depends_on_lecturer_confirmation": false
+  },
+  {
+   "no": 5,
+   "section": "CH2 - Economic effects",
+   "title": "CH2 map: what each variable could do, and what we can see",
+   "key_message": "Every assignment variable is treated as a conditional mechanism, with observed 2025 context where it exists and 'not measured' where it does not.",
+   "visual": "Grid of 11 rows in three colour blocks, columns 'conditional mechanism (one line)' and 'what we have'. TRADE. X: cleaner steel and advanced manufacturing may gain markets; steel-using exporters may face higher input costs | 2025 real exports of goods and services -0.3% [Dataset F]; steel exports on slide 9. M: high-emission imports may lose price advantage; sourcing may move to cleaner non-EU, EU or domestic supply | slides 6 and 8; whole-economy real imports +3.6% in 2025 [Dataset F], a different scope from steel. NX: NX = X - M; a steel-only change does not fix the total | slide 9; 2025 merchandise surplus EUR 200.4bn [S17]. BOP: goods balance is one part of the current account, BOP also holds services, income, capital and financial accounts | 2025 current-account surplus about EUR 203bn [S18]. MARKET. Q: steel output and use may change, services (engineering, logistics, verification) respond indirectly | crude steel 43.3 Mt (2017) to 34.1 Mt (2025) [Dataset A]; manufacturing production index 92.8 in 2025 (2021 = 100) [U23]; no services series. P: delivered-cost ranking changes, pass-through is partial | import unit value 735.94 (2019) to 1,087.02 EUR/t (2025), a product-mix indicator [Dataset C]; certificate price 75.36 / 75.28 / 82.32 EUR per tCO2e, Q1-Q3 2026 [Dataset E]. MACRO AND FISCAL. GDP: GDP = C + I + G + NX is an identity, not proof; domestic value added matters | real GDP +0.2% in 2025 [Dataset F]; manufacturing 19.4% of GVA [U22]. Tax: ETS auction and CBAM certificate receipts are different flows and not automatically German G; other taxes follow profits, jobs and spending | no series pulled; certificate sales start Feb 2027 [U35]. C: steel costs may pass into final goods; climate benefit is welfare, not automatically spending | household consumption +1.4% in 2025 [Dataset F]. I: clean-steel investment may rise, downstream investment may weaken if equipment costs rise, announcements are not spending | gross fixed capital formation -0.5% in 2025 [Dataset F]; plans on slide 10. G: support and infrastructure depend on budget decisions | government consumption +1.5% in 2025 [Dataset F]. Banner: 'Right-hand 2025 figures are one data vintage (first annual estimate, Jan 2026) and precede the definitive regime; they are context, not CBAM effects.' Footer: 'Does not show: any estimated effect on a variable. Backup: A6.'",
+   "minutes": 1.5,
+   "speaker_points": [
+    "Three blocks: trade (X, M, NX, BOP), market (Q, P), macro and fiscal (GDP, tax, C, I, G); each line is a conditional mechanism, not a forecast.",
+    "Right-hand figures are 2025 context from one data vintage; 2025 precedes the definitive regime, so none of them is a CBAM effect.",
+    "Scope matters: whole-economy imports rose 3.6% in 2025 while direct extra-EU steel tonnes fell; these are different scopes, not a contradiction.",
+    "Tax and services have no pulled series, and we say so instead of implying data."
+   ],
+   "evidence_label": "Theoretical-illustrative",
+   "source_tags": [
+    "Dataset F",
+    "S16",
+    "S17",
+    "S18",
+    "Dataset A",
+    "Dataset C",
+    "Dataset E",
+    "U22",
+    "U23",
+    "U35",
+    "update §3.2"
+   ],
+   "data_source": "Mechanism text: update tab section 3.2 and base tab CH2 2.1-2.8. Observed context: Destatis first annual estimate 15 Jan 2026 [S16]; Destatis trade 6 Feb 2026 [S17]; Bundesbank Mar 2026 [S18]; German Steel Federation / worldsteel; Eurostat Comext DS-045409; European Commission certificate prices.",
+   "depends_on_lecturer_confirmation": false
+  },
+  {
+   "no": 6,
+   "section": "CH2 - Economic effects",
+   "title": "Import-cost channel: a carbon cost narrows the import advantage, but not one-for-one",
+   "key_message": "A carbon-related cost can narrow the price advantage of emissions-intensive imports and favour cleaner supply, while the size of the change depends on pass-through, domestic cost and alternative supply.",
+   "visual": "Redrawn import-market diagram, qualitative with no numeric axis values (replaces workbook Figure 2 and its full-pass-through, unchanged-domestic-cost assumption; the original image is not shown). Curves: domestic demand D; domestic supply S and a second curve S' shifted up and left to show higher domestic cost (ETS, energy); horizontal delivered-import-price line P0 rising to P1, with the rise labelled 'less than the full carbon cost' (partial pass-through). Arrows mark the import gap (Qd minus Qs) before and after; movement along curves is marked separately from the shift of S. Banner: 'Short-run static; stylised EU steel market relevant to Germany'. Under it a three-box strip. Before: transitional reporting from Oct 2023 to Dec 2025, no certificate payments [U3][S7]. During: definitive regime from 1 Jan 2026; certificate price 75.36 / 75.28 / 82.32 EUR per tCO2e in Q1 / Q2 / Q3 2026, not per tonne of steel [Dataset E][S8]. After: not yet observed; sales from 1 Feb 2027, first surrender by 30 Sep 2027 [U35][S5]. Footer: 'Does not show: that imports fell because of CBAM, or any net GDP, welfare or emissions gain. Backup: A4, A16.' Fallback if the lecturer rejects the graph: a three-row table (price, quantity, cost) with the same strip.",
+   "minutes": 1,
+   "speaker_points": [
+    "Move along, then shift: a higher import price moves quantities along existing curves; higher domestic ETS and energy cost shifts domestic supply up and left, so net output and imports are conditional, not a forecast.",
+    "Pass-through is partial and cleaner supply pays less: in the classroom example with assumed inputs, 2.0 versus 1.2 tCO2e per tonne gives about EUR 77.24 versus EUR 16.96 per tonne at the Q1 2026 price [S10][S8] (A4).",
+    "Before / during / after: reporting without payment to end-2025, definitive regime from 2026, sales from February 2027; the 'after' is not yet observed.",
+    "Total imports need not fall if sourcing moves to cleaner non-EU, intra-EU or domestic supply."
+   ],
+   "evidence_label": "Theoretical-illustrative",
+   "source_tags": [
+    "G5",
+    "G1",
+    "U3",
+    "U4",
+    "U35",
+    "S5",
+    "S7",
+    "S8",
+    "S10",
+    "Dataset E"
+   ],
+   "data_source": "Qualitative redraw of the workbook Figure 2 mechanism (lecture S-D / world-price geometry, Reason for Domestic Protection p. 16); real dates and prices from Commission CBAM pages and official certificate-price releases.",
+   "depends_on_lecturer_confirmation": true
+  },
+  {
+   "no": 7,
+   "section": "CH2 - Economic effects",
+   "title": "German manufacturing, 1995-2025: context before and after ETS",
+   "key_message": "Manufacturing output grew through the ETS years, with the big dips in 2009 and 2020, and has softened since 2022; the series are descriptive and do not identify an ETS or CBAM effect.",
+   "visual": "Two stacked line panels on a shared 1995-2025 axis, never on one axis together. Top: real GVA, chain-linked volume index, 2020 = 100 [U22] (82.21 in 2004, 83.54 in 2005, peak 110.74 in 2022, 104.13 in 2025; 2023-2025 flagged provisional). Bottom: manufacturing production index, 2021 = 100, annual unadjusted [U23] (85.7 in 2004, 88.6 in 2005, peak 108.1 in 2018, 92.8 in 2025). Vertical markers: 2005 ETS launch, Oct 2023 CBAM reporting, and a 2026 marker at the right edge labelled 'definitive regime, outside data'. Shaded bands for 2009 and 2020. One separate small tile (not on the line axes): manufacturing share of total GVA at current prices, 22.3% (1995) to 19.4% (2025) [U22]. Original base labels kept, no rebasing. Footer: 'Does not show: an ETS or CBAM effect, or 'no effect'; annual series end in 2025. Backup: A1, A2.'",
+   "minutes": 1,
+   "speaker_points": [
+    "Two series with two base years, never on one axis; a GVA share is a share, not a GDP level.",
+    "The largest drops are 2009 (GVA index 92.93 to 74.42) and 2020 (109.00 to 100.00), not carbon-policy dates; 2004 to 2005 shows GVA 82.21 to 83.54 and production 85.7 to 88.6, an annotation and not an effect.",
+    "Since 2022 the production index has slipped from 99.8 to 92.8 by 2025; we describe it and do not attribute it.",
+    "A stable or falling aggregate can neither prove nor rule out a policy effect, because plant-level adjustment hides inside averages."
+   ],
+   "evidence_label": "Observed data",
+   "source_tags": [
+    "U22",
+    "U23"
+   ],
+   "data_source": "Eurostat nama_10_a64 (B1G, CLV_I20 and PC_TOT, NACE C, DE) and sts_inpr_a (PRD, NSA, I21), retrieved 11 Oct 2026; GVA source updated 9 Oct, production updated 10 Oct.",
+   "depends_on_lecturer_confirmation": false
+  },
+  {
+   "no": 8,
+   "section": "CH2 - Economic effects",
+   "title": "Direct extra-EU steel imports, 1999-2025: tonnes and euros",
+   "key_message": "Direct extra-EU Chapter 72 imports peaked in 2007 and have fallen every year in tonnes since 2021; this is a broad trade context, not the CBAM base and not a causal effect.",
+   "visual": "Two stacked panels on a shared 1999-2025 axis. Top: net mass, thousand tonnes (6,290.77 in 2007; 4,666.28 in 2018; 3,337.39 in 2021; 1,463.59 in 2025) [U24]. Bottom: import value, EUR million, nominal (5,660.36 in 2007; 3,171.16 in 2022; 1,590.95 in 2025) [U24]. Event labels only, no causal arrows: 2005 ETS launch; 2008-09 financial crisis; 2020 COVID; 2022 energy and war shock; Oct 2023 CBAM reporting; Russia-related sanctions [U33]. Side table: import unit value 2019-2025 in EUR/t = 735.94, 657.25, 827.80, 1,175.74, 1,008.80, 960.24, 1,087.02 [Dataset C], captioned 'product-mix indicator, not a price index'. Boundary caption: Eurostat Comext DS-045409, reporter DE, partner EXT_EU27_2020 (fixed 2020 composition), flow 1, product 72, retrieved 11 Oct 2026; includes scrap, omits ore and Chapter 73; includes exempt origins and importers; excludes non-EU steel first cleared elsewhere in the EU [U24][U25]. The slide title never says 'effect'. Footer: 'Does not show: the CBAM taxable base, verified carbon intensity, or intra-EU sourcing. Backup: A5, A7.'",
+   "minutes": 1,
+   "speaker_points": [
+    "Tonnes and euros are shown separately because they can diverge: from 2021 to 2022 tonnes fell from 3,337 to 2,697 thousand while value rose from EUR 2,763m to EUR 3,171m.",
+    "After the 2005 ETS launch imports rose to the 2007 peak of 6,291 thousand tonnes; we do not claim ETS cut imports, and the pilot used mostly free allocation [U1].",
+    "Tonnes fell each year from 2021 to 1,464 thousand in 2025, while energy prices, demand, Russia sanctions and quotas overlap; direct imports cannot see intra-EU sourcing that may have replaced them.",
+    "This is a broad Chapter 72 context: it includes scrap, omits ore and Chapter 73, and is not the CBAM base."
+   ],
+   "evidence_label": "Observed data",
+   "source_tags": [
+    "U24",
+    "U25",
+    "U4",
+    "U33",
+    "U1",
+    "Dataset C"
+   ],
+   "data_source": "Eurostat Comext DS-045409 (VALUE_IN_EUROS, QUANTITY_IN_100KG converted to thousand tonnes), source updated 15 Sep 2026; unit values from base-tab Dataset C. 1995-1998 and 2026 returned no values and are not filled with zero.",
+   "depends_on_lecturer_confirmation": false
+  },
+  {
+   "no": 9,
+   "section": "CH2 - Economic effects",
+   "title": "Steel net exports: what we can and cannot say",
+   "key_message": "In all-partner physical steel-mill-product trade, imports fell faster than exports from 2017 to 2024, but without matched extra-EU exports or consumption data this cannot be read as better or worse competitiveness.",
+   "visual": "Left panel: two lines, exports and imports of steel mill products, all partners, million tonnes, 2017-2024 [Dataset B / S12 p.30] (exports 27.3 to 22.9; imports 28.5 to 18.8), with an Oct 2023 reporting marker and a banner 'ALL partners, intra-EU plus extra-EU, physical Mt, rounded'. Under it a one-row strip labelled 'approximate balance X - M, derived from rounded values': -1.2, -1.6, +0.3, +1.4, -0.4, +0.4, +3.0, +4.1 Mt for 2017-2024. Right panel, separate axis, never combined: German crude steel output 2017-2025, Mt: 43.3, 42.4, 39.6, 35.7, 40.2, 36.9, 35.4, 37.2, 34.1 [Dataset A / S12 / S13]. Red 'GAP' box: 'Matched extra-EU Chapter 72 exports (Comext DS-045409, flow 2, 1999-2025) not yet pulled; no extra-EU NX is claimed. The extra-EU import series on slide 8 and this all-partner series use different boundaries and are not netted against each other.' Footer: 'Does not show: competitiveness, extra-EU NX, or the goods-and-services NX component of GDP. Backup: A6.'",
+   "minutes": 1,
+   "speaker_points": [
+    "NX = X - M here means steel only, in tonnes; it is not the GDP net-exports component, which covers goods and services in euros.",
+    "Both flows fell, and the approximate balance moved from -1.2 Mt in 2017 to +4.1 Mt in 2024, derived from rounded figures and not monotonic (2021 was -0.4).",
+    "With exports, imports and crude steel output (43.3 to 37.2 Mt, 2017-2024) all lower, we cannot say competitiveness improved or worsened without apparent consumption, which needs matched production and export data.",
+    "Next step, stated openly: pull extra-EU exports from Comext and assemble production plus imports minus exports on a matched boundary."
+   ],
+   "evidence_label": "Observed data",
+   "source_tags": [
+    "Dataset B",
+    "S12",
+    "Dataset A",
+    "S13",
+    "U24",
+    "update §3.2"
+   ],
+   "data_source": "German Steel Federation, Facts and Figures 2025, p. 30 (trade) and p. 9 (crude steel 2017-2024); worldsteel annual 2025 release (crude steel 2025). Derived strip = exports minus imports from the displayed rounded values.",
+   "depends_on_lecturer_confirmation": false
+  },
+  {
+   "no": 10,
+   "section": "CH2 - Economic effects",
+   "title": "Company cases: announced plans versus delivered steel",
+   "key_message": "Dated buyer and producer agreements show demand for lower-emission steel and planned supply routes, but they are announcements, not verified deliveries, and four of the five dated items pre-date the 2026 definitive regime.",
+   "visual": "Dated table with a status chip per row and a vertical reference line at 1 Jan 2026 (definitive CBAM). Columns: date | buyer and producer | what was announced | delivery status in our sources. Rows: 13 Oct 2021, Volvo Group unveils a load carrier using SSAB fossil-free steel, documented early application [U17]. 20 Oct 2021, BMW agreement to source hydrogen or renewable-power steel for European plants, original first deliveries from 2025, up to 95% lower production emissions [U15]. Jun 2023, Mercedes-Benz (buyer) and Stegra (producer): about 50,000 t a year of lower-carbon-footprint steel [U14]. 22 Oct 2024, Volkswagen and Thyssenkrupp MoU for planned low-carbon steel from a future direct-reduction plant, commissioning from 2027 using natural gas first, supply from 2028 [U10]. SALCOS (Salzgitter): first direct-reduction and arc-furnace production 2027, full conversion mid-2030s, potential reduction up to about 95% [U12]; 9 Jun 2026 EWE contract for 10,000 t a year of green hydrogen, 7-year initial term, about 6.5% of SALCOS hydrogen need [U13]. Status banner: 30 Sep 2026 Stegra project review says additional capital is needed to complete Boden, so 2025 delivery expectations are not shown as deliveries [U16]. Footnote: bluemint is a product family and bluemint recycled uses processed scrap in the blast furnace, not hydrogen DRI [U11]; Outokumpu reports 97% recycled material content in 2025, a recycling route [U18]. Sweden and Finland are supplier examples, not extra country studies. Footer: 'Does not show: delivered tonnes, cost parity, or a CBAM-caused switch. Backup: A12.'",
+   "minutes": 1.5,
+   "speaker_points": [
+    "Read buyer and producer separately: Mercedes-Benz buys and Stegra produces; Volkswagen holds an MoU with Thyssenkrupp for planned supply, not a delivery.",
+    "Announced is not delivered: Stegra's September 2026 review says more capital is needed, and SALCOS and the VW supply start only from 2027-2028 on company timelines.",
+    "Four of the five dated items (2021, 2021, 2023, 2024) pre-date the 2026 definitive regime, so they show the direction of travel but do not isolate a CBAM effect; ETS, expected policy, subsidies, buyer targets and technology also matter.",
+    "Not every cleaner route is hydrogen: recycling (bluemint recycled, Outokumpu) and gas-first DRI differ from hydrogen DRI."
+   ],
+   "evidence_label": "Company announcement",
+   "source_tags": [
+    "U10",
+    "U11",
+    "U12",
+    "U13",
+    "U14",
+    "U15",
+    "U16",
+    "U17",
+    "U18"
+   ],
+   "data_source": "Company releases and pages: Volkswagen Group, Thyssenkrupp Steel, Salzgitter, Mercedes-Benz, BMW Group, Stegra, Volvo Group, Outokumpu. Company sources establish what was announced, not independent impact.",
+   "depends_on_lecturer_confirmation": false
+  },
+  {
+   "no": 11,
+   "section": "CH2 - Economic effects",
+   "title": "The cost side: conditions that have to hold",
+   "key_message": "Cleaner steel is still a premium or a gap in many settings, so any long-term benefit is conditional on clean-power and hydrogen costs, capital and delivery, and regional adjustment.",
+   "visual": "Three cards under the heading 'Conditions that must hold'. Card 1 'Energy and inputs': three-bar chart of German industrial electricity price without concessions, ct/kWh: 5.92 (2020), 35.70 (2022), 16.77 (2024) [NOTES-3, SMARD]; carbon line: CBAM certificate price 75.36 / 75.28 / 82.32 EUR per tCO2e, Q1-Q3 2026, 'per tonne of CO2e, not per tonne of steel' [Dataset E][S8]; text: IEA finds cost gaps often remain even with policy support [U20]; Salzgitter says new energy inputs are currently more expensive than coal [U12]. Card 2 'Capital and delivery': Stegra needs additional capital to complete Boden (30 Sep 2026) [U16]; the Salzgitter-EWE contract covers about 6.5% of SALCOS hydrogen need [U13]; IEA: buyer commitments and public policy matter [U19]. Card 3 'People and regions': Thyssenkrupp Steel plan of 25 Nov 2024, about 5,000 job reductions by 2030 plus about 6,000 positions transferred or sold, not 11,000 dismissals and not a measured CBAM effect; the plan cites structural market change, weak competitiveness and cheap imports [U9]. Each item carries a small chip (observed, company statement or IEA analysis). Bottom banner: 'We do not say green steel is cheaper: agreements show buyer commitment, cost evidence still shows a premium or gap in many settings.' Footer: 'Does not show: that green steel is cheaper, or a measured CBAM job effect. Backup: A9, A10, A13.'",
+   "minutes": 1.5,
+   "speaker_points": [
+    "Electricity for industry went from 5.92 to 35.70 to 16.77 ct/kWh (2020, 2022, 2024): below the peak, still nearly triple 2020, which matters for electricity-hungry hydrogen steel.",
+    "Carbon: the published 2026 certificate prices are EUR 75.36, 75.28 and 82.32 per tonne of CO2e; they are not a charge per tonne of steel.",
+    "Green steel: we do not claim cost parity; buyer commitments exist, but IEA, Salzgitter and Stegra all point to cost and capital conditions that must be met.",
+    "Restructuring at an upstream producer is real but is not a measured CBAM effect, and costs are not confined to downstream firms; sector averages can hide regional strain."
+   ],
+   "evidence_label": "Observed data",
+   "source_tags": [
+    "NOTES-3",
+    "Dataset E",
+    "S8",
+    "U9",
+    "U12",
+    "U13",
+    "U16",
+    "U19",
+    "U20"
+   ],
+   "data_source": "SMARD / Bundesnetzagentur industrial electricity series (via base notes, no ID yet); European Commission certificate prices; IEA reports; Salzgitter, Stegra and Thyssenkrupp company statements.",
+   "depends_on_lecturer_confirmation": false
+  },
+  {
+   "no": 12,
+   "section": "CH3 - Conclusion and suggestion",
+   "title": "What published evidence supports, and what nobody has shown",
+   "key_message": "Published results are consistent with the long-run decarbonisation mechanism and with no measured harm to regulated firms in the earlier ETS period, but none measures a realised German net benefit from CBAM.",
+   "visual": "Evidence ladder of three tiles, each with a source chip and a scope line. (1) Observed aggregate: covered power-and-industry emissions about 50% below 2005 levels in 2024; EU ETS aggregate, power sector an important driver; not Germany-only steel and not CBAM [U29]. (2) Published research: OECD working paper (2018) on the earlier ETS period reports emissions reductions of roughly 10% in 2005-2012 and no negative effect on measured economic performance of regulated firms; its own sample and method, not about CBAM [U30]. (3) Scenario modelling: German Environment Agency 2025 (GEM-E3 and GINFORS-E) finds CBAM can reduce leakage and protect sectoral production versus auctioning without CBAM, with smaller GDP effects that are sensitive to assumptions; scenarios, not measured 2026 effects [S19]. Right-hand red column 'Not shown by any number in this deck': realised net German benefit; GDP, NX, tax or job effect of CBAM; delivered clean-steel volumes; cost parity; global emissions effect. Bottom strip 'Our own descriptive evidence (slides 7-11)': consistent with sourcing change and planned cleaner supply; attribution, delivered tonnes, steel NX and cost parity not confirmed. Footer: 'Not our estimates: published results with their own samples and methods. Backup: A1, A15.'",
+   "minutes": 1,
+   "speaker_points": [
+    "We report other people's results and do not estimate our own; each tile says what it covers and what it does not.",
+    "The OECD result is for the earlier ETS period and the German Environment Agency result compares scenarios; the comparator matters (continued free allocation versus auctioning without a border adjustment).",
+    "Our own data are descriptive: consistent with a sourcing shift and planned cleaner supply, not attributable to either policy.",
+    "Bottom line: the long-term green-manufacturing story is reasonable and conditional, and the magnitude of Germany's realised net benefit is unmeasured."
+   ],
+   "evidence_label": "Model-based result",
+   "source_tags": [
+    "U29",
+    "U30",
+    "S19"
+   ],
+   "data_source": "European Commission 2025 Carbon Market Report [U29]; OECD ETS and firm performance working paper 2018 [U30]; German Environment Agency, Climate Change 77/2025 summary [S19].",
+   "depends_on_lecturer_confirmation": false
+  },
+  {
+   "no": 13,
+   "section": "CH3 - Conclusion and suggestion",
+   "title": "Keep, change or drop? Keep the framework, change the delivery",
+   "key_message": "Current descriptive evidence does not justify dropping the policy and does not prove a net benefit, so keep a predictable ETS plus CBAM framework, improve how it is delivered, and monitor downstream and regional costs.",
+   "visual": "Three-column decision card. KEEP: a predictable ETS plus CBAM framework including the legislated phase-in to 2034 [S9]. CHANGE: improve installation-level emissions data and verification, using the Commission's Aug 2026 steel guidance [S11]; check the 50-tonne importer threshold, noting the Sept 2026 Commission assessment that it exempts 0.87% of embedded emissions [S23]; pair the border adjustment with clean power, hydrogen and scrap infrastructure and evaluated support; recognise valid foreign carbon payments [S6]; keep compliance proportionate. DO NOT: drop the framework on current evidence (benefit unmeasured, not disproved); mix climate-policy design with steel trade-defence decisions such as the quota measure; present announcements as deliveries. Bottom: 'Monitor list' chips (physical trade, verified emissions per tonne, delivered clean-steel tonnes, downstream competitiveness, regional employment, real administration cost) and 'refresh points' (Feb 2027 certificate sales; 30 Sep 2027 first surrender). Footer: 'Team judgement drawn from descriptive evidence; not a measured net benefit. Backup: A14, A15.'",
+   "minutes": 1.5,
+   "speaker_points": [
+    "Position: retain a predictable framework; 'can strengthen' stays conditional on affordable clean power and hydrogen, finance, verified emissions and workable administration.",
+    "Change the delivery: better installation-level data and verification, a check on the 50-tonne threshold (the Sept 2026 assessment gives a benchmark), and infrastructure so that border protection alone does not stand in for cleaner plants [S23].",
+    "Monitor downstream competitiveness, global emissions and regional employment, with retraining and practical supplier verification, and keep climate design separate from trade-defence decisions.",
+    "Close on the claim we can defend: the policies can support cleaner material choices; the net benefit for Germany is still to be measured."
+   ],
+   "evidence_label": "Policy rule",
+   "source_tags": [
+    "S9",
+    "S11",
+    "S23",
+    "S6",
+    "S24",
+    "U32",
+    "update §9"
+   ],
+   "data_source": "Update tab section 9 (suggested policy position); base tab CH3 3.2; Commission CBAM communication Sept 2026 [S23]; Commission steel guidance [S11]; Parliament downstream-extension status 15 Sep 2026 [U32].",
+   "depends_on_lecturer_confirmation": false
+  }
+ ],
+ "appendix_slides": [
+  {
+   "title": "A1. Method and windows: why descriptive, why 1995 and 1999",
+   "content": "Method: descriptive historical graphs, a policy timeline, basic trade theory and dated company cases. No student DiD, no independent-variable selection, no formal causal hypothesis. Windows: manufacturing 1995-2025 (pre-ETS 1995-2004); direct extra-EU Chapter 72 imports 1999-2025 (1995-1998 and 2026 returned no values and are not filled with zero). A longer series gives context but does not solve attribution. Overlapping events to name aloud: ETS phases and free allocation, 2008-09 crisis, COVID 2020, 2022 energy and war shock, Russia sanctions, safeguards and quotas, exchange rates. A credible causal study needs its own design and data; ETS exemptions in steel also complicate data quality. For 2026, compare the same months of 2025, never a partial year with a full year; annual Eurostat queries hold no 2026 value.",
+   "answers_question": "Is this causal? Why no difference-in-differences? Why start before 2005? Why does the data stop in 2025?",
+   "source_tags": [
+    "update §1",
+    "update §9",
+    "U22",
+    "U23",
+    "U24"
+   ]
+  },
+  {
+   "title": "A2. Numbers we do not use, and the correct versions",
+   "content": "'Manufacturing GDP share 14%' becomes 19.4% of Germany's total GVA in 2025 (19.9% in 2024; EU27 15.9% in 2024) [U22]. '26% industrial weight' becomes 26% of EU sold industrial production value in 2025, EU total about EUR 6.1 trillion, PRODCOM, not GDP [U26]. '5.5 million workers = 20.8% of the workforce' becomes national-accounts Section C employment of 7.490 m (2023), 7.415 m (2024), 7.262 m (2025); the 20.8% has no verified denominator [U28]; EU manufacturing had about 30.2 m persons employed in 2023, 18.5% of the defined business economy, a different universe [U27]. '47% cut is CBAM' becomes the steel quota measure versus 2024 safeguard quotas [U6][U8]. '11,000 dismissed because of CBAM' becomes about 5,000 cuts plus about 6,000 transfers or sales in a Nov 2024 plan that pre-dates the definitive regime [U9]. 'GDP barely changed so no CBAM effect': the screenshot has no clear unit and a stable aggregate cannot identify an effect [U22][U23]. 'Green steel already cheaper' becomes premium or gap in many settings [U19][U20]. 'Contracts mean all automotive steel is hydrogen' fails on buyer versus producer, MoU versus contract, target versus delivered, original versus revised dates [U10][U14][U15][U16]. Never used because not validated: 67 distressed regions, 26 German regions, EUR 50bn annual outsourcing loss, EUR 7bn subsidies, 1.5% manufacturing rebound.",
+   "answers_question": "Where do the 14%, 5.5 million, 47% and 11,000 figures come from, and are they right? Did manufacturing GDP not change, so CBAM had no effect?",
+   "source_tags": [
+    "U22",
+    "U26",
+    "U27",
+    "U28",
+    "U6",
+    "U8",
+    "U9",
+    "U19",
+    "U20",
+    "U10",
+    "U14",
+    "U15",
+    "U16"
+   ]
+  },
+  {
+   "title": "A3. Steel quota measure versus CBAM; sanctions, dumping and overcapacity",
+   "content": "Steel tariff-rate quota framework: 18.3 Mt a year, 50% out-of-quota duty, 47% lower than the 2024 safeguard quotas; Council agreement 13 Apr 2026, adoption 8 Jun 2026, application from 1 Jul 2026; replaces the safeguard and addresses global overcapacity [U6][U7][U8]. CBAM's stated climate rationale is leakage prevention; carbon leakage and overcapacity are distinct problems. Dumping has a trade-law meaning and cannot be inferred from a low price; carbon intensity does not determine grade or quality. Russian iron and steel trade is separately affected by sanctions and origin restrictions, so a fall in Russian supply cannot be assigned to CBAM or to a hydrogen switch [U33]. Chinese suppliers are heterogeneous: do not call all Chinese steel 'low grade' or all imports 'dirty'. Safeguards, quotas, anti-dumping, sanctions, subsidies and energy policy are separate instruments that may hit the same market. Member D's priority 2 (the quota adjustment) is answered here only.",
+   "answers_question": "Is the 47% quota cut part of CBAM? Isn't this really about Chinese dumping? Can China supply cleaner steel?",
+   "source_tags": [
+    "U6",
+    "U7",
+    "U8",
+    "U33",
+    "S4"
+   ]
+  },
+  {
+   "title": "A4. How big is the CBAM charge? Who pays? What does 2.5% mean?",
+   "content": "Worked example, ASSUMED inputs, not German data: 1,000 t covered steel; embedded emissions e = 2.0 tCO2e/t; benchmark b = 1.0; 2026 factor f = 0.975; no foreign carbon price. Certificates = 1,000 x (2.0 - 0.975) = 1,025; at the Q1 2026 price EUR 75.36 that is EUR 77,244, or EUR 77.24 per tonne of steel; with e = 1.2 it is 225 certificates and EUR 16.96 per tonne. Administration and verification cost extra. Published prices EUR 75.36 (Q1), 75.28 (Q2), 82.32 (Q3 2026); Q4 not published and no assumed price is shown [Dataset E][S8]. Factor 97.5% in 2026 down to 0% in 2034, complement 2.5% to 100% [S9][S10]; the 2.5% is not 2.5% of every shipment's emissions. Not a percentage tariff on import value. Legal payer is the authorised declarant; the economic burden can be shared by contract. 50-tonne threshold is per importer per year, aggregated across relevant goods, all-or-nothing once exceeded [S5]. Steel certificates use direct emissions within production boundaries, not a full life-cycle footprint [S10][U34]. EU-level context: the 2025 reform was expected to exempt about 90% of importers while keeping about 99% of emissions; a Sept 2026 Commission assessment puts the threshold's exemption at 0.87% of embedded emissions [S7][S23].",
+   "answers_question": "How large is the CBAM charge? Is it a tariff on the steel's value? Who really pays? Does a 2.5% phase-in mean only 2.5% is charged?",
+   "source_tags": [
+    "S5",
+    "S7",
+    "S8",
+    "S9",
+    "S10",
+    "S23",
+    "U34",
+    "Dataset E"
+   ]
+  },
+  {
+   "title": "A5. Reading the import series: events, unit values, hot-rolled detail",
+   "content": "Direct extra-EU Chapter 72 imports [U24]: 2004 3,906.31 kt; 2005 4,744.27 kt (value EUR 2,476.91m to 3,363.02m); 2007 peak 6,290.77 kt (EUR 5,660.36m); 2009 3,503.05 kt; 2018 4,666.28 kt; 2020 2,833.77 kt; 2021 3,337.39 kt; 2022 2,697.17 kt (EUR 3,171.16m); 2025 1,463.59 kt (EUR 1,590.95m). Unit value EUR/t 2019-2025: 735.94, 657.25, 827.80, 1,175.74, 1,008.80, 960.24, 1,087.02, a product-mix indicator [Dataset C]. Covered subset 7208 hot-rolled [Dataset D]: 91.12 kt (2019) to 32.72 kt (2025); unit value 693.45 to 1,009.32 EUR/t with a 1,380.62 peak in 2022; do not extrapolate to all steel. Ordering of shocks to name: ETS 2005, financial crisis 2008-09, COVID 2020, energy and war 2022, CBAM reporting Oct 2023, Russia sanctions, quotas. Imports rose after the ETS launch, which is consistent with mostly free allocation and strong demand and is not shown as an ETS import effect. Direct imports omit non-EU steel first cleared elsewhere in the EU and fixed EXT_EU27_2020 composition is not the historical EU.",
+   "answers_question": "Why did imports rise after 2005? Did CBAM cut imports? Why did unit values spike in 2022? Is Chapter 72 the CBAM base?",
+   "source_tags": [
+    "U24",
+    "U25",
+    "Dataset C",
+    "Dataset D",
+    "U1",
+    "U33"
+   ]
+  },
+  {
+   "title": "A6. NX and BOP: definitions, the export gap and how to close it",
+   "content": "NX in GDP is goods and services exports minus imports in value; Dataset B is physical tonnes of steel mill products, all partners. A steel-only improvement can coexist with a weaker total surplus. Goods trade is one part of the current account; BOP also has capital and financial accounts; Germany shares the euro, so a steel balance does not set a German exchange rate [S18]. 2025 context: merchandise exports EUR 1,562.9bn, imports EUR 1,362.5bn, surplus EUR 200.4bn [S17]; current-account surplus about EUR 203bn [S18]; real exports -0.3%, imports +3.6% [Dataset F]. Dataset B approximate balance X - M, rounded and derived (Mt): 2017 -1.2; 2018 -1.6; 2019 +0.3; 2020 +1.4; 2021 -0.4; 2022 +0.4; 2023 +3.0; 2024 +4.1. To close the gap: Comext DS-045409, reporter DE, partner EXT_EU27_2020, flow 2 (exports), product 72, VALUE_IN_EUROS and QUANTITY_IN_100KG, 1999-2025, same unit conversions as imports; add domestic production for apparent consumption = production + imports - exports on a matched boundary (do not mix crude steel with mill products).",
+   "answers_question": "Where is the steel NX? Is German steel competitive? How does steel relate to BOP and the current account?",
+   "source_tags": [
+    "Dataset B",
+    "S12",
+    "Dataset F",
+    "S16",
+    "S17",
+    "S18",
+    "NOTES-4",
+    "update §3.2"
+   ]
+  },
+  {
+   "title": "A7. Remaining higher-carbon supply? 2025 direct extra-EU imports by product",
+   "content": "Selected non-overlapping profiles, 2025, thousand tonnes / EUR million [U24]: 7207 semi-finished 175.16 / 88.64; 7208 hot-rolled flat 32.72 / 33.03; 7209 cold-rolled flat 1.57 / 1.90; 7210 coated flat 51.52 / 59.73; 7219 stainless flat 9.94 / 35.03; 7304 seamless tubes 87.38 / 233.39; 7306 welded and other tubes 159.44 / 232.36; 26011200 agglomerated iron ore 2,035.12 / 238.23. Not a complete CBAM total. A customs code identifies the product, not the furnace route, grid mix or hydrogen source; continued imports do not prove an unchanged carbon footprint. To classify supply as higher or lower carbon, link supplier or installation data and verified emissions to the product and year; do not use Chinese, Russian, EU or low-price origin as a substitute for emissions evidence [U34].",
+   "answers_question": "Do high-carbon imports still arrive? Which materials? Is Chinese or Russian steel dirty?",
+   "source_tags": [
+    "U24",
+    "U34"
+   ]
+  },
+  {
+   "title": "A8. Material routes and alternatives: what 'cleaner' means",
+   "content": "Routes [U21][U10][U12]: conventional blast furnace plus basic oxygen furnace (coal and coke, usually more emissions-intensive, quality can be high); scrap-based electric arc furnace (cleaner under suitable electricity, scrap quality and alloy content, not zero); natural-gas DRI plus EAF (lower than coal route, still fossil); hydrogen DRI plus EAF (advantage depends on genuinely low-emission hydrogen and electricity; Thyssenkrupp's planned melting configuration is not identical to every DRI-EAF project); stainless and alloy grades (nickel, chromium inputs, not interchangeable with automotive flat carbon steel). 2025 German crude steel: 69.4% oxygen-process, 30.6% electric-process, a context indicator, not an installation emission factor [S22]. Procurement evidence checklist: customs code and grade; origin and installation; production route; scrap or DRI share; hydrogen and electricity source; measured emissions with boundary and unit; verification; delivery year and volume; price or premium where disclosed; EPD or life-cycle claims differ from legally calculated CBAM emissions [U34]. Alternatives for carmakers [NOTES-2, European Aluminium, Transport and Environment, ICCT]: scrap-EAF is the most cost-competitive lower-carbon route; average aluminium per EU and UK car 174 kg (2019) to 205 kg (2022), projected 237 kg (2026) and 256 kg (2030); BEV 283 kg versus 169 kg for ICE-only (2022); post-consumer secondary steel 11.3% of steel in new ICE vehicles and 5.3% in EVs; composites remain component-specific.",
+   "answers_question": "Is DRI always fossil-free? What can carmakers use instead of green steel? What would count as evidence that supply is cleaner?",
+   "source_tags": [
+    "U21",
+    "U10",
+    "U12",
+    "U34",
+    "S22",
+    "NOTES-2"
+   ]
+  },
+  {
+   "title": "A9. Is green steel cheaper? Premium and price comparison (Member D priority 1)",
+   "content": "Answer: no parity is shown; the evidence shows a premium, and future competitiveness is conditional [U19][U20][U12]. Figures from the detailed notes, analyst or secondary estimates and not a price series [NOTES-2]: green H2-DRI steel premium about EUR 100-200/t in 2025 (Fastmarkets-reported) and DIW estimate EUR 124-223/t in 2026, declining as supply expands; scrap-EAF premium about EUR 96/t (HSBC estimate); less than 1% of global steel meets net-zero thresholds and the business-to-business green premium is about 40% (World Economic Forum). Buyers: a 2024 Ramboll, Climate Group and IEA survey found more than half of buyers willing to pay up to a 25% premium; the Commission estimates only 16% of steel buyers and 14% of aluminium buyers will pay a premium. Low-carbon aluminium differential about USD 0-20/t for most of 2025 and USD 15-30/t in early Sept 2026. Scrap import benchmarks (HS 7204): EUR 321/t (2015), 415/t peak (2022), 382/t (2025) [NOTES-4]. Do not mix with the HS 720449 figures (EUR 223, 305, 415) in NOTES-2 and do not use the garbled 'US250/t' line until resolved. Sweden and EU import prices for steel by product need Comext unit values (not yet pulled).",
+   "answers_question": "Is green steel cheaper than other manufacturing materials or EU import prices? Is cost parity proven?",
+   "source_tags": [
+    "U19",
+    "U20",
+    "U12",
+    "NOTES-2",
+    "NOTES-4"
+   ]
+  },
+  {
+   "title": "A10. Domestic production cost data (Member D data request 3)",
+   "content": "Industrial electricity without concessions, ct/kWh [NOTES-3, SMARD]: 2020 5.92; 2021 21.77; 2022 35.70; 2023 19.63; 2024 16.77; Jan 2025 17.99; Jan-Sep 2025 about 16. Hydrogen, Europe 2024 levelised cost: unabated SMR about EUR 3.3/kg; renewable electrolysis with direct connection average EUR 6.7/kg; grid electrolysis average EUR 7.4/kg; Germany Sept 2025 renewable-PPA alkaline EUR 10.04/kg versus EUR 2.62/kg for unabated SMR (S&P); primary-steel break-even about EUR 2.0/kg (Clean Hydrogen Observatory). EUA annual averages: EUR 83.60 (2023), EUR 64.76 (2024), 2025 about EUR 60-80. Free allocation 2021-2025: initial 2,791.1m versus actual 2,619.6m allowances, a 171.5m (about 6.1%) reduction, 57.8m in 2024 and 62.0m in 2025. Capital: WV Stahl about EUR 10bn for one-third of primary steel by 2030 and about EUR 30bn for full conversion; DIW EUR 1.2-2.0bn for a 2 Mt/yr DRI-EAF plus electrolyser complex; German projects about EUR 12.5bn total cost with about EUR 6.9bn public support for 11.5 Mt/yr. Operating gap: support need about EUR 150/t steel in 2026 rising to about EUR 242/t by the late 2030s (WV Stahl). Caution: do not use the '+77%' eligible-user comparison until the 2020 eligible-user base price is confirmed.",
+   "answers_question": "Show me the data that German domestic production cost rose. Is it only a downstream problem?",
+   "source_tags": [
+    "NOTES-3",
+    "Dataset E"
+   ]
+  },
+  {
+   "title": "A11. Green subsidy criteria and exemptions (Member D data request 1); why there is no subsidy graph",
+   "content": "Support is tied to EU or German production assets and verified emissions reductions, not to imported steel as such [NOTES-1]. tkH2Steel (Thyssenkrupp): up to about EUR 2bn, a direct grant up to EUR 550m plus a conditional mechanism up to EUR 1.45bn for the renewable-hydrogen cost premium in the first ten years. SALCOS (Salzgitter): EUR 1bn direct grant for a direct-reduction plant, arc furnace and 100 MW electrolyser producing roughly 9,000 t of renewable hydrogen a year. Klimaschutzverträge (carbon contracts for difference): EUR 5bn German scheme, 15-year contracts, ETS-subject applicants, 60% emissions reduction within three years and 90% by the end of the project, open bidding on lowest aid per tonne of CO2 avoided. Imported ore, DRI, scrap and hot-rolled steel are not normally subsidised inputs. CBAM has no general green-steel exemption: lower verified embedded emissions mean a lower certificate cost; the only broad exemption is the size-based 50-tonne importer threshold [S4][S5]. The production-subsidy graph (G3) is not used: it is outside the confirmed title, is not CBAM, and rests on a fixed-world-price illustration [G2].",
+   "answers_question": "Do green subsidies cover imported steel or iron? Is there a green-steel exemption in CBAM? Why no subsidy graph?",
+   "source_tags": [
+    "NOTES-1",
+    "S4",
+    "S5",
+    "G2"
+   ]
+  },
+  {
+   "title": "A12. Did CBAM force these contracts? Dates against policy dates",
+   "content": "CBAM markers: proposed 14 Jul 2021; reporting from 1 Oct 2023; definitive 1 Jan 2026 [S3][S7][S6]. Volvo Group and SSAB, 13 Oct 2021: after the proposal, before reporting [U17]. BMW, 20 Oct 2021: same window [U15]. Mercedes-Benz and Stegra, Jun 2023: before reporting [U14]. Volkswagen and Thyssenkrupp MoU, 22 Oct 2024: during reporting [U10]. Salzgitter and EWE, 9 Jun 2026: after the definitive start [U13]. Stegra review 30 Sep 2026: more capital needed, so 2025 delivery expectations are not deliveries [U16]. Corrections: Mercedes is the buyer, not the operator; BMW's agreement does not replace all BMW steel or all blast-furnace supply; the VW MoU is future supply; bluemint is a product family and recycled bluemint is not hydrogen DRI [U11]; Outokumpu reports 97% recycled content in 2025, with definition, not '90% scrap' [U18]; Finland-to-Germany steel is intra-EU, so no new CBAM border charge arises, which is different from a zero footprint [U4]. Answer: several commitments pre-date 2026; ETS, expected policy, subsidies, buyer targets and technology also matter.",
+   "answers_question": "Did CBAM force these contracts? Did Mercedes or BMW switch all their steel to hydrogen? Is DRI always fossil-free?",
+   "source_tags": [
+    "U10",
+    "U11",
+    "U13",
+    "U14",
+    "U15",
+    "U16",
+    "U17",
+    "U18",
+    "U4",
+    "S3",
+    "S6",
+    "S7"
+   ]
+  },
+  {
+   "title": "A13. Jobs, regions and skills (Member D data request 5)",
+   "content": "Manufacturing employment, national accounts domestic concept: 7.490 m (2023), 7.415 m (2024), 7.262 m (2025) [U28]; do not state a 2015-2025 range until the annual values are pulled. Thyssenkrupp Steel plan of 25 Nov 2024: about 5,000 job reductions by 2030 plus about 6,000 positions transferred through outsourcing or sale, about 11,000 affected, roughly 40% of a workforce of about 27,000; cites structural market change, weak competitiveness and cheap imports; pre-dates the definitive CBAM regime [U9]. Later specification (2025, via Eurofound in the notes, later date so it governs current status): IG Metall agreement with no compulsory redundancies, 32.5-hour week, about 8% average income reduction, 1,600 production positions by 2029 plus 3,700 positions by 2028 = 5,300 directly affected, remainder tied to business sales [NOTES-5]. Skills: IW Koeln estimates a shortage of nearly 18,500 qualified workers in metal products and more than 16,700 in machinery in 2024; automotive transition: a further loss of about 140,000 jobs projected in a VDA-commissioned study cited by the Commission [NOTES-5]. Commission: manufacturing job losses were largely offset by public services, education and health; unemployment rose from 3.2% to 3.5% between end-2023 and end-2024 [NOTES-5]. Gap: job data by manufacturing sub-industry (nama_10_a64_e below Section C) not yet pulled.",
+   "answers_question": "Is CBAM destroying jobs? What about Thyssenkrupp's 11,000? Is there a skills mismatch? Where is the sub-industry job data?",
+   "source_tags": [
+    "U9",
+    "U28",
+    "U27",
+    "NOTES-5"
+   ]
+  },
+  {
+   "title": "A14. Wider sectors and the downstream extension",
+   "content": "This is an exposure scan, not a measured market survey; a possible cost channel is not proof of a realised loss caused by either policy [update §7]. Upstream steel and exposed regions: restructuring and financing strain, not confined to downstream firms [U9]. Automotive, machinery, fabricated metals: input prices, data and compliance burden, competition from imported finished goods; the downstream CBAM extension is a proposal (Parliament amendments of 15 Sep 2026 referred to interinstitutional negotiations, proposed 2028), not the enacted 2026 scope [U32]. Construction and infrastructure: steel and cement costs versus interest rates and procurement [U3]. Agriculture: fertiliser is a CBAM sector, with prices also driven by gas and world demand [U3]. Electricity and energy-intensive industries: ETS covers power and industry, CBAM sectors are narrower [U1][U3]. Shipping: in ETS from 2024, freight cost channel [U31]. Aviation: in ETS from 2012, separate from steel CBAM [U1]. Limit to 'only a small shock': sector averages hide local adjustment; Thyssenkrupp restructuring and Stegra's financing need make an unconditional 'only minor shocks' claim unsafe. Future study: delivered clean-material volumes and plant emissions, downstream pass-through, regional retraining, hydrogen and clean-power costs, freight and sourcing changes, resource shuffling, interaction with safeguards and sanctions.",
+   "answers_question": "Who else is hurt by ETS and CBAM? Is it only a small downstream shock? What happens if CBAM is extended downstream?",
+   "source_tags": [
+    "U1",
+    "U3",
+    "U9",
+    "U31",
+    "U32",
+    "update §7"
+   ]
+  },
+  {
+   "title": "A15. Fast answers: eight prepared defence questions plus design questions",
+   "content": "Why expand before 2005? To show the earlier context before domestic carbon pricing; illustration, not evaluation [A1]. Why remove DiD? This assignment explains trade mechanisms and observed developments; a credible causal study needs its own design [A1]. Did CBAM force these contracts? Several commitments pre-date 2026; other drivers matter [A12]. Is DRI always fossil-free? No, it can use natural gas [A8]. Can China supply cleaner steel? Yes, judge installation and route, not nationality [A7]. Are all negative effects downstream? No; producers, regions, importers, energy and logistics users also bear costs [A13][A14]. Has CBAM's German GDP effect been shown to be zero? No, this research does not estimate it [A2]. Why is Finland-to-Germany steel outside a new border charge? It is intra-EU supply; territorial coverage and low emissions are separate issues [A12]. Design questions: Why Germany if CBAM is EU-wide? Germany is the implementation and incidence case [S1][S2]. Is CBAM a fixed tariff? No [A4]. Does non-EU mean every origin pays? No: Iceland, Liechtenstein, Norway, Switzerland and Annex III territories are outside, plus the importer threshold [S4]. Does a fall in imports prove success? No; test global emissions, welfare and downstream costs, and watch resource shuffling. Why not say GDP rises because M falls? GDP is an identity and domestic value added is what counts. Is it protectionism or WTO-compatible? GATT Article XX allows environmental exceptions subject to conditions; EU statements say CBAM is designed to comply, which is not a WTO ruling [S20]. Can 2024-25 data prove a 2026 effect? No.",
+   "answers_question": "One-line answers for the likely panel questions, with a pointer to the slide that holds the evidence.",
+   "source_tags": [
+    "update §9",
+    "S1",
+    "S2",
+    "S4",
+    "S20",
+    "U4"
+   ]
+  },
+  {
+   "title": "A16. Theory backup: the diagrams not used in the main deck",
+   "content": "Figure 4 (demand for cleaner material, to be relabelled): supply P = 20 + Q fixed in each panel; higher-carbon demand P = 100 - Q to 80 - Q moves Q 40 to 30 and P 60 to 50; lower-carbon demand P = 80 - Q to 100 - Q moves Q 30 to 40 and P 50 to 60. Label required: 'effect assumed at one fixed point in time, short-run, supply fixed'. The high-carbon profile keeps a partial fall: the reading that firms entirely replace it is not supported by update section 6 (higher-carbon-profile imports still arrive in 2025) or section 8 (contracts do not show all steel switched). It is not proof that cleaner steel is cheaper: a price rise with fixed supply is a short-run capacity effect, and a CBAM price rise is movement along demand, not a demand shift [G1]. Figure 5 (offshoring, correct per Member D): PPF fixed, price-line slope rises as Pc/PR goes from 0.5 to 1.0; production moves along the PPF; an analogy for higher imported-input cost, not a measured German welfare loss [G3]. Figure 3 (subsidy) and Figure 6 (relative labour demand) are retired: G3 is outside the confirmed title and has no subsidy-size data (see A11); G6 is doubtful because some firms downsized and the shock hits the raw-material side, so use the labour evidence in A13. Member D's note that labour, skills and wages are irrelevant is not backed by the notes, which document skills mismatch. Original Figure 2 (full pass-through, unchanged domestic cost) is superseded by the redraw on slide 6.",
+   "answers_question": "Why do the diagrams show different quantities? What if demand shifts towards cleaner steel? Why is there no subsidy or labour graph? What happened to the old Figure 2?",
+   "source_tags": [
+    "G1",
+    "G2",
+    "G3",
+    "G5",
+    "update §6",
+    "update §8"
+   ]
+  }
+ ],
+ "dropped_from_main": [
+  {
+   "item": "Graph G3 (production subsidy)",
+   "reason": "Flagged urgent by Member D: outside the confirmed title, not CBAM, and no subsidy-size data. Subsidy criteria and amounts go to A11 as a policy-rule table; the graph itself is retired."
+  },
+  {
+   "item": "Graph G4 (demand for cleaner material)",
+   "reason": "Needs the 'one fixed point in time' label and a partial high-carbon shift (Member D's 'entirely replaced' reading conflicts with update sections 6 and 8). Kept in A16 as the third diagram slot, so the main deck uses 2 of the 3 allowed diagrams."
+  },
+  {
+   "item": "Graphs G5 (offshoring PPF) and G6 (relative labour demand)",
+   "reason": "G5 is correct but supplementary; G6 is doubtful and unsupported by German data. Both are backup only, with real labour facts in A13."
+  },
+  {
+   "item": "Workbook Figure 2 as drawn",
+   "reason": "Assumes full pass-through and unchanged domestic costs, which Member D flagged as wrong; replaced by a qualitative redraw on slide 6."
+  },
+  {
+   "item": "CBAM worked example and certificate arithmetic as its own slide",
+   "reason": "Assumed inputs invite 'is that the real charge?' attacks; reduced to one labelled line in slide 6 speaker points and full detail in A4."
+  },
+  {
+   "item": "Remaining higher-carbon supply (2025 profiles of 8 codes) and material routes",
+   "reason": "Per the brief these are appendix and Q&A material: A7 and A8."
+  },
+  {
+   "item": "Green-steel price and premium comparison (Member D priority 1)",
+   "reason": "Required content but not main narrative; sources are analyst or secondary estimates with internal inconsistencies, so it lives in A9 and the main deck only states 'premium or gap, conditional'."
+  },
+  {
+   "item": "Domestic cost detail (hydrogen, free allocation, CAPEX and OPEX)",
+   "reason": "Only electricity and certificate price are shown in the main deck; the rest is in A10."
+  },
+  {
+   "item": "Wider sectors and downstream CBAM extension",
+   "reason": "Appendix and Q&A per the brief: A14."
+  },
+  {
+   "item": "Jobs by sub-industry, skills and the 140,000 automotive projection",
+   "reason": "Not pulled by sub-industry and secondary-sourced; main deck keeps only the Thyssenkrupp 5,000 plus 6,000 line with its caveat; rest in A13."
+  },
+  {
+   "item": "Dataset D (7208 hot-rolled) chart and the steel quota adjustment detail",
+   "reason": "Not required for the main argument; A5 and A3 (Member D priorities 2 and 3 stay for Q&A or footnotes)."
+  },
+  {
+   "item": "Sweden and Finland as separate country cases",
+   "reason": "Scope boundary: they are regional supplier examples inside the company-case slide."
+  },
+  {
+   "item": "Screenshot figures 14%, 5.5 million / 20.8%, 47% as CBAM, 11,000 dismissals",
+   "reason": "Corrected or contradicted by update section 8; only the corrected versions appear (slide 1, slide 11, A2)."
+  },
+  {
+   "item": "Unvalidated figures: 67 distressed regions, 26 German regions, EUR 50bn outsourcing loss, EUR 7bn subsidies, 1.5% rebound",
+   "reason": "No original source, year, definition or method (update section 8); never used."
+  },
+  {
+   "item": "Apparent-consumption series and a netted extra-EU steel NX chart",
+   "reason": "Matched exports and production are not pulled, and boundaries differ; building them now would require invented or mismatched numbers."
+  },
+  {
+   "item": "Stand-alone limitations (Member B 2.6) and monitoring (Member B 3.4) slides",
+   "reason": "Folded into the 'Does not show' footers on every slide and into slide 13 to save time while keeping them visible."
+  }
+ ],
+ "dependencies_and_todos": [
+  "Lecturer confirmation of the theory graphs (slides 2 and 6, appendix A16) is pending; ask at the on-site class. Build slides now with the two graph panels as placeholders (Member A: make slides first, leave space). If rejected, use the text fallbacks written into slides 2 and 6; the 15.0-minute budget does not change.",
+  "Slide 6 redraw (owner to assign, suggested Member A or Member D): qualitative import-market diagram with partial pass-through (P0 to P1 rise smaller than the carbon cost) and an upward-left shift of domestic supply for higher ETS and energy cost; no numeric axis values; label 'short-run static, one point in time'. Member D's G2 feedback is unresolved in the workbook until this is done.",
+  "Pull the matched extra-EU Chapter 72 exports (Comext DS-045409, reporter DE, partner EXT_EU27_2020, flow 2, product 72, VALUE_IN_EUROS and QUANTITY_IN_100KG, 1999-2025, same unit conversions). If done before the final confirm, upgrade slide 9 to a real extra-EU X - M in tonnes and euros on separate panels; otherwise keep the red GAP box. Pull domestic production on a matched boundary if apparent consumption is wanted.",
+  "Decide whether to keep the derived approximate-balance strip on slide 9 (arithmetic on rounded Dataset B values); the team should confirm it is acceptable to show a derived number, otherwise delete the strip and keep the two lines.",
+  "Refresh before presenting (the workbook says so): CBAM and ETS status; Q4 2026 certificate price (do not insert an assumed price); Stegra project and delivery status; Salzgitter, Thyssenkrupp and Volkswagen milestones; downstream CBAM extension status (U32); Commission steel guidance (S11); 2026 trade data compared with the same months of 2025, never a partial year against a full year.",
+  "Assign formal source IDs (S or U numbers) to the detailed-notes sources now tagged NOTES-1 to NOTES-5 (SMARD, Eionet and EEX, S&P Global, Clean Hydrogen Observatory, WV Stahl, DIW, HSBC, Trade Dashboard, IW Koeln, Eurofound, Commission country report). Slide 11 uses one NOTES-3 series (SMARD electricity 5.92, 35.70, 16.77 ct/kWh); verify it against SMARD before showing it.",
+  "Resolve notes inconsistencies before using them in the appendix: scrap prices for HS 720449 versus HS 7204 for 2025; the '+77%' electricity comparison mixing eligible-user 2024 with a 2020 no-concession base; the '7.26-7.49 m over 2015-2025' employment range versus U28 (2023-2025 only); the garbled 'US250/t' aluminium line; Thyssenkrupp 'full hydrogen operation by 2029' versus the dated VW MoU in U10.",
+  "Language and template are not stated in the chat (chat is Thai, sources English): confirm the slide language, the Q&A answer language and the course template.",
+  "Confirm the slot with the lecturer: the course brief says 20 minutes plus 10 minutes Q&A, the team asked for 15. If 20 minutes is enforced, add back the G4 diagram as a third main-deck diagram (needs lecturer confirmation) and extend slides 9, 10 and 11 by the update tab's 20-minute split.",
+  "Archive the three lecture PDFs locally (Export Policy, Offshoring of goods and services, Reason for domestic protection); the G1 to G3 page references cannot be verified without them.",
+  "Schedule: the announced plan says final confirm one week before presenting but lists Member A's 14/11 deadline for 16-18/11, and Member D (slide builder) is away from early November. Build and review the deck now, and get Member A's confirm on the facts in slides 5, 9, 10 and 11 earlier than 14/11.",
+  "Appendix owners for the answer bank (suggestion for the team, not recorded in the chat): split A1-A16 across four people so each presenter can answer their own slides; rehearse one-line answers from A15."
+ ],
+ "risks": [
+  "Theory-graph dependency: the lecturer may reject slides 2 and 6 or object that any graph shows a single point in time (Member D's point); mitigation is the before / during / after strip on both slides, the text fallbacks and the unchanged time budget.",
+  "NX honesty: Dataset B is all-partner, physical, rounded and ends in 2024; the derived balance strip may be challenged and a listener may press 'so is German steel competitive?'. The slide states the gap and refuses the inference; the prepared answer is 'cannot say; here is the data that would let us' (A6).",
+  "Overrun: 13 slides in 15 minutes with dense tables on slides 3, 5 and 10. Cut order if running long: the factor strip on slide 4, the unit-value side table on slide 8, the Volvo and Outokumpu lines on slide 10; on slide 5 speak to the three blocks, not all 11 rows.",
+  "Stale facts: Stegra, Salzgitter, Thyssenkrupp, CBAM guidance, the Q4 certificate price and downstream-extension status can change before 16-18 November; a stale 'announced' item would be read as an error.",
+  "Source quality: the base-workbook detailed notes carry no IDs and have internal inconsistencies (scrap prices, +77% comparison, employment range, 2029 hydrogen target); only one NOTES figure set (SMARD electricity) is in the main deck, but any appendix use needs verification.",
+  "Dataset F is a January 2026 first-estimate vintage and may be revised; the slide labels it as one vintage and context only.",
+  "Positive-narrative credibility: a lecturer may read 'can strengthen' as advocacy; mitigation is conditional wording, a dedicated cost slide, a 'Does not show' footer on every slide and the explicit statement that net benefit is unmeasured.",
+  "Audience may reuse the screenshot numbers (14%, 5.5 million, 47%, 11,000) or ask 'GDP barely changed so CBAM did nothing'; A2 and the slide 7 footer pre-empt this, but the presenter must not repeat the old numbers even by accident.",
+  "Imports rose after the 2005 ETS launch and peaked in 2007; a hostile question 'did ETS work then?' is likely. The deck says so openly (slide 8, A5) and does not claim an ETS import effect.",
+  "Mixed evidence types on slides 10 and 11 (announcements beside observed data) could blur the labels; each item carries its own chip, and the slide-level label follows the dominant visual.",
+  "Member D's feedback was written quickly and he flagged it may contain errors; the G4 'entirely replaced' comment is contradicted by the later claim checks, so the later, more specific update section wins and the team should confirm this ruling with Member D before the slides are final."
+ ]
+}

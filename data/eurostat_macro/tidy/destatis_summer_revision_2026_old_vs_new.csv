@@ -1,0 +1,21 @@
+indicator,year,old_result_pct_May2026_vintage,new_result_pct_Aug2026_vintage,difference_pp
+"GDP, real, % vs previous year",2022,1.8,1.9,0.1
+"GDP, real, % vs previous year",2023,-0.9,-1.0,-0.1
+"GDP, real, % vs previous year",2024,-0.5,0.0,0.5
+"GDP, real, % vs previous year",2025,0.2,0.2,0.0
+"Private consumption (households + NPISH), real, % vs previous year",2022,6.5,6.3,-0.2
+"Private consumption (households + NPISH), real, % vs previous year",2023,-0.7,-0.2,0.5
+"Private consumption (households + NPISH), real, % vs previous year",2024,0.5,1.4,0.9
+"Private consumption (households + NPISH), real, % vs previous year",2025,1.3,1.3,0.0
+"Government consumption, real, % vs previous year",2022,0.6,0.3,-0.3
+"Government consumption, real, % vs previous year",2023,-0.2,-1.2,-1.0
+"Government consumption, real, % vs previous year",2024,2.6,3.9,1.3
+"Government consumption, real, % vs previous year",2025,1.5,1.7,0.2
+"Gross fixed capital formation, real, % vs previous year",2022,-0.1,0.3,0.4
+"Gross fixed capital formation, real, % vs previous year",2023,-2.0,-1.9,0.1
+"Gross fixed capital formation, real, % vs previous year",2024,-3.3,-2.1,1.2
+"Gross fixed capital formation, real, % vs previous year",2025,-0.2,-0.6,-0.4
+"Gross value added (total economy), real, % vs previous year",2022,2.2,2.1,-0.1
+"Gross value added (total economy), real, % vs previous year",2023,-0.5,-0.6,-0.1
+"Gross value added (total economy), real, % vs previous year",2024,-0.6,0.0,0.6
+"Gross value added (total economy), real, % vs previous year",2025,0.1,0.0,-0.1

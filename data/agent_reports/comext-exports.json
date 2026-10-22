@@ -1,0 +1,188 @@
+{
+ "status": "resolved",
+ "summary": "Pulled the matched extra-EU Chapter 72 export series (1999-2025, all 27 years, value and mass) from live Comext DS-045409 (vintage 2026-10-16), re-pulled imports (26 of 27 years reproduce the workbook table; only 2023 differs, by -0.45 EUR m and -0.22 kt), and built the X-M balance, the materiality shares and the by-product series. Extra-EU Ch72 balance is positive in every year 1999-2025 (+3,218 kt and +EUR 3,837 m in 2025), but exports are at a 27-year low in tonnes (4,681 kt) and the surplus widened only because imports fell faster (-68% vs -35%, 2017-2025). The extra-EU series is small: 6.1% of German Ch72 import tonnes in 2025 (13.4% in 2017) and 16.0% of export tonnes, so S7's \"roughly a tenth\" should become about 8% (2024) or 6% (2025). An unrequested finding: heading 7203 (direct-reduced iron) explains 31% of the 2017-2025 fall in extra-EU imports and 84% of the 2025 fall. No classification break at heading level for any series used; HS 2007 split sub-headings of 7304 and 7306 only.",
+ "key_facts": [
+  {
+   "label": "Comext DS-045409 data vintage",
+   "value": "Every response and the SDMX dataflow report updated = 2026-10-16T11:00:00+0200 (UPDATE_DATA, DISSEMINATION_TIMESTAMP_DATA). Workbook used the 15 Sep 2026 vintage, so this pull is one monthly update newer. Eurostat: data considered final by October of the following reference year; next update date not found.",
+   "as_of": "2026-10-22",
+   "source_url": "https://ec.europa.eu/eurostat/api/comext/dissemination/sdmx/2.1/dataflow/ESTAT/DS-045409/latest",
+   "confidence": "high"
+  },
+  {
+   "label": "Extra-EU Ch72 exports coverage (DE, EXT_EU27_2020, flow 2)",
+   "value": "Value and quantity returned for all 27 years 1999-2025; 1995-1998 and 2026 return nothing (not zero-filled). The EXT/INT aggregates exist only from 1999; WORLD goes back to 1988.",
+   "as_of": "2026-10-22",
+   "source_url": "https://ec.europa.eu/eurostat/api/comext/dissemination/statistics/1.0/data/DS-045409?format=JSON&lang=EN&freq=A&reporter=DE&partner=EXT_EU27_2020&product=72&flow=2&indicators=VALUE_IN_EUROS&indicators=QUANTITY_IN_100KG&sinceTimePeriod=1995",
+   "confidence": "high"
+  },
+  {
+   "label": "Extra-EU Ch72 exports, selected years (EUR m / kt)",
+   "value": "2017 6,073.5 / 7,217.1; 2019 5,623.5 / 6,356.4; 2022 7,628.1 (value peak) / 5,221.8; 2024 6,238.3 / 5,048.3; 2025 5,427.9 / 4,681.2 (lowest tonnage of the series; max 8,250.9 kt in 2012). Export unit value 842 EUR/t (2017) to 1,160 (2025).",
+   "as_of": "2026-10-16 vintage",
+   "source_url": "https://ec.europa.eu/eurostat/api/comext/dissemination/statistics/1.0/data/DS-045409?format=JSON&lang=EN&freq=A&reporter=DE&partner=EXT_EU27_2020&product=72&flow=2&indicators=VALUE_IN_EUROS&indicators=QUANTITY_IN_100KG&sinceTimePeriod=1995",
+   "confidence": "high"
+  },
+  {
+   "label": "Import re-pull vs workbook update-tab 4.2",
+   "value": "26 of 27 years match after 2-dp rounding. Only 2023 differs: value 2,106.93 vs 2,107.38 EUR m (-0.45, -0.02%); mass 2,088.77 vs 2,088.99 kt (-0.22, -0.01%). Rounded slide figures (2,107; 2,089; 1,009 EUR/t) unchanged. 2024 and 2025 match. Cause (revision in the 16 Oct vintage) is plausible but unverified.",
+   "as_of": "2026-10-16 vintage",
+   "source_url": "https://ec.europa.eu/eurostat/api/comext/dissemination/statistics/1.0/data/DS-045409?format=JSON&lang=EN&freq=A&reporter=DE&partner=EXT_EU27_2020&product=72&flow=1&indicators=VALUE_IN_EUROS&indicators=QUANTITY_IN_100KG&sinceTimePeriod=1995",
+   "confidence": "high"
+  },
+  {
+   "label": "Extra-EU Ch72 balance X - M",
+   "value": "Positive in every year 1999-2025 in both value and tonnes. Tonnes: +2,593.6 kt (2017), +3,014.4 (2019), +2,524.6 (2022), +3,093.7 (2024), +3,217.6 (2025); range +903 kt (2007) to +4,523 (2003). Value: +3,183.4 EUR m (2017), +4,361.3 (2024), +3,837.0 (2025); peak +4,457.0 (2022). 2017 to 2025: exports -35.1% tonnes / -10.6% value; imports -68.3% / -45.0%.",
+   "as_of": "2026-10-16 vintage",
+   "source_url": "https://ec.europa.eu/eurostat/api/comext/dissemination/statistics/1.0/data/DS-045409?format=JSON&lang=EN&freq=A&reporter=DE&partner=EXT_EU27_2020&product=72&flow=2&indicators=VALUE_IN_EUROS&indicators=QUANTITY_IN_100KG&sinceTimePeriod=1995",
+   "confidence": "high"
+  },
+  {
+   "label": "Materiality: extra-EU share of German Ch72 trade (mass / value)",
+   "value": "Imports: 13.4% / 11.3% (2017), 8.1% / 7.3% (2024), 6.1% / 6.6% (2025). Exports: 21.5% / 26.1% (2017), 17.2% / 22.0% (2024), 16.0% / 20.6% (2025). Two-way X+M by mass: 17.4% (2017) to 11.5% (2025). WORLD = INT + EXT holds in every year (gap about 0).",
+   "as_of": "2026-10-16 vintage",
+   "source_url": "https://ec.europa.eu/eurostat/api/comext/dissemination/statistics/1.0/data/DS-045409?format=JSON&lang=EN&freq=A&reporter=DE&partner=WORLD&product=72&flow=1&indicators=VALUE_IN_EUROS&indicators=QUANTITY_IN_100KG&sinceTimePeriod=1995",
+   "confidence": "high"
+  },
+  {
+   "label": "Extra-EU share of the 2017-2025 change in all-partner Ch72 trade",
+   "value": "All-partner imports fell 10,368 kt (34,425 to 24,057); extra-EU accounts for 3,160 kt = 30.5% while holding 13.4% of 2017 tonnage. All-partner exports fell 4,316 kt; extra-EU accounts for 2,536 kt = 58.8%.",
+   "as_of": "2026-10-16 vintage",
+   "source_url": "https://ec.europa.eu/eurostat/api/comext/dissemination/statistics/1.0/data/DS-045409?format=JSON&lang=EN&freq=A&reporter=DE&partner=WORLD&product=72&flow=2&indicators=VALUE_IN_EUROS&indicators=QUANTITY_IN_100KG&sinceTimePeriod=1995",
+   "confidence": "high"
+  },
+  {
+   "label": "Comext Ch72 all-partner balance vs workbook Dataset B",
+   "value": "Comext Ch72 WORLD X-M (Mt): -0.9 (2017), -0.5, +2.2, +4.5, +1.4, +2.1, +5.2, +5.2 (2024). Dataset B (steel mill products, rounded): -1.2, -1.6, +0.3, +1.4, -0.4, +0.4, +3.0, +4.1. Same direction, different levels, sign differs in 2021 (+1.4 vs -0.4). In 2017 the extra-EU balance was +2.6 Mt while intra-EU was -3.5 Mt and all-partner -0.9 Mt.",
+   "as_of": "2026-10-16 vintage",
+   "source_url": "https://ec.europa.eu/eurostat/api/comext/dissemination/statistics/1.0/data/DS-045409?format=JSON&lang=EN&freq=A&reporter=DE&partner=WORLD&product=72&flow=2&indicators=VALUE_IN_EUROS&indicators=QUANTITY_IN_100KG&sinceTimePeriod=1995",
+   "confidence": "high"
+  },
+  {
+   "label": "Heading 7203 (direct-reduced / spongy iron) drives the Ch72 import fall",
+   "value": "Extra-EU imports 1,016 kt (22% of Ch72 import tonnes) in 2017, 438 kt in 2024, 28 kt in 2025. Share of fall: 987 kt = 31% of 2017-2025 fall (3,160 kt); 667 kt = 36% of 2021-2025 fall (1,874 kt); 410 of 491 kt = 84% of the 2024-2025 fall. 7204+7207+7208 together explain only 720 kt (23%) of the 2017-2025 fall. Cause not established.",
+   "as_of": "2026-10-16 vintage",
+   "source_url": "https://ec.europa.eu/eurostat/api/comext/dissemination/statistics/1.0/data/DS-045409?format=JSON&lang=EN&freq=A&reporter=DE&partner=EXT_EU27_2020&product=72&product=7201&product=7202&product=7203&flow=1&indicators=VALUE_IN_EUROS&indicators=QUANTITY_IN_100KG&sinceTimePeriod=1999",
+   "confidence": "high"
+  },
+  {
+   "label": "Scrap 7204 and other by-product imports (extra-EU, kt)",
+   "value": "7204 scrap imports 705.6 (2017) to 393.9 (2025), 26.9% of Ch72 import tonnes in 2025; scrap exports to non-EU 1,230.8 kt in 2025 (net exporter +837 kt), unit value 452 EUR/t imports. 7207: 1,104.0 (2008) to 175.2 (2025). 7208: 733.6 (1999) to 32.7 (2025). 7304: 87.4 kt / EUR 233.3 m (2025). 7306: 159.4 kt / EUR 232.4 m. 26011200 agglomerated ore: 7,165.7 (2018 peak), 4,902.0 (2024), 2,035.1 kt (2025, -58%), 117 EUR/t. 26011200 exports return only 5 years, EUR 635 to 93,871 a year.",
+   "as_of": "2026-10-16 vintage",
+   "source_url": "https://ec.europa.eu/eurostat/api/comext/dissemination/statistics/1.0/data/DS-045409?format=JSON&lang=EN&freq=A&reporter=DE&partner=EXT_EU27_2020&product=7204&product=7207&product=7208&product=7304&product=7306&product=26011200&flow=1&indicators=VALUE_IN_EUROS&indicators=QUANTITY_IN_100KG&sinceTimePeriod=1995",
+   "confidence": "high"
+  },
+  {
+   "label": "Why imports rose after 2005 and the 2022 unit-value jump",
+   "value": "2004 to 2005 extra-EU imports +838 kt, of which 7207 semi-finished +714 kt (85%); 2004 to 2007 +2,384 kt, 7207 +769 kt (32%). 2021 to 2022 unit values rose inside headings too: 7203 +32%, 7204 +21%, 7207 +12%, 7208 +45% (aggregate 828 to 1,176 EUR/t); unit values are mix-affected, not price indices.",
+   "as_of": "2026-10-16 vintage",
+   "source_url": "https://ec.europa.eu/eurostat/api/comext/dissemination/statistics/1.0/data/DS-045409?format=JSON&lang=EN&freq=A&reporter=DE&partner=EXT_EU27_2020&product=72&product=7201&product=7202&product=7203&flow=1&indicators=VALUE_IN_EUROS&indicators=QUANTITY_IN_100KG&sinceTimePeriod=1999",
+   "confidence": "high"
+  },
+  {
+   "label": "Classification breaks",
+   "value": "WCO Table I for HS 2002, 2007, 2012, 2017, 2022 lists no entries for 7204, 7207, 7208 or 2601.12; HS 2007 subdivided subheadings inside 7304 and 7306 (and merged subheadings inside 7225/7226/7229). Live data agree: HS6 code sets under 7204, 7207, 7208 identical in all years 1999-2025; 7304/7306 HS6 codes split in 2007. 7304XX (not elsewhere specified/confidential) is used 1999-2005 only and holds 6-14% of 7304 export value; heading totals include it. EXT/INT aggregates are fixed 2020 composition (UK extra-EU throughout). No break at heading level for the series used.",
+   "as_of": "2026-10-22",
+   "source_url": "https://www.wcoomd.org/-/media/wco/public/global/pdf/topics/nomenclature/instruments-and-tools/hs-nomenclature-older-edition/2007/correlations-2002-2007/hs_correlation2007_table_i_e_rev5.pdf",
+   "confidence": "medium"
+  },
+  {
+   "label": "Comext partner and revision concepts (ESMS)",
+   "value": "Extra-EU imports are assigned by country of origin, intra-EU imports by country of consignment; statistical value is CIF imports / FOB exports; CN is revised yearly; detailed data considered final by October of the following reference year.",
+   "as_of": "2026-10-22 (metadata last updated 6 Oct 2025)",
+   "source_url": "https://ec.europa.eu/eurostat/cache/metadata/en/ext_go_detail_sims.htm",
+   "confidence": "high"
+  }
+ ],
+ "files_written": [
+  "D:/Workspace/inter-trade-present/data/comext_exports/README.md",
+  "D:/Workspace/inter-trade-present/data/comext_exports/pull_comext.py",
+  "D:/Workspace/inter-trade-present/data/comext_exports/pull_subcodes.py",
+  "D:/Workspace/inter-trade-present/data/comext_exports/pull_ch72_headings.py",
+  "D:/Workspace/inter-trade-present/data/comext_exports/run_log.txt",
+  "D:/Workspace/inter-trade-present/data/comext_exports/ch72_extra_eu_exports_1999_2025.csv",
+  "D:/Workspace/inter-trade-present/data/comext_exports/ch72_extra_eu_imports_1999_2025.csv",
+  "D:/Workspace/inter-trade-present/data/comext_exports/ch72_extra_eu_balance_1999_2025.csv",
+  "D:/Workspace/inter-trade-present/data/comext_exports/check_imports_vs_workbook_4_2.csv",
+  "D:/Workspace/inter-trade-present/data/comext_exports/check_other_workbook_tables.csv",
+  "D:/Workspace/inter-trade-present/data/comext_exports/ch72_trade_by_partner_group_long.csv",
+  "D:/Workspace/inter-trade-present/data/comext_exports/ch72_materiality_shares_1999_2025.csv",
+  "D:/Workspace/inter-trade-present/data/comext_exports/ch72_balance_by_partner_group_1999_2025.csv",
+  "D:/Workspace/inter-trade-present/data/comext_exports/slide_table_2017_2025.csv",
+  "D:/Workspace/inter-trade-present/data/comext_exports/byproduct_ext_eu_trade_long_1999_2025.csv",
+  "D:/Workspace/inter-trade-present/data/comext_exports/byproduct_imports_wide_1999_2025.csv",
+  "D:/Workspace/inter-trade-present/data/comext_exports/byproduct_exports_wide_1999_2025.csv",
+  "D:/Workspace/inter-trade-present/data/comext_exports/coverage_by_series_1999_2025.csv",
+  "D:/Workspace/inter-trade-present/data/comext_exports/ch72_headings_extra_eu_long_1999_2025.csv",
+  "D:/Workspace/inter-trade-present/data/comext_exports/ch72_headings_reconciliation.csv",
+  "D:/Workspace/inter-trade-present/data/comext_exports/ch72_headings_change_contributions_mass.csv",
+  "D:/Workspace/inter-trade-present/data/comext_exports/subcodes_first_last_year.csv",
+  "D:/Workspace/inter-trade-present/data/comext_exports/subcodes_consistency_by_year.csv",
+  "D:/Workspace/inter-trade-present/data/comext_exports/raw/ (21 raw API JSON files, 3 manifests, SDMX dataflow and datastructure XML, product_codes_target_headings.json, ch72_heading_codes.json, probe_pre1999_*.json, wco_correlation_check.md)"
+ ],
+ "discrepancies_vs_workbook": [
+  "Update-tab 4.2 imports, 2023: workbook 2,107.38 EUR m / 2,088.99 kt; re-pull 2,106.93 EUR m / 2,088.77 kt (diff -0.45 / -0.22). All other 26 years (1999-2022, 2024, 2025) match after 2-dp rounding. Slide-rounded values unchanged. Likely the newer vintage (16 Oct 2026 vs 15 Sep 2026), unverified.",
+  "Dataset C unit value 2023: workbook 1,008.80 EUR/t vs 1,008.69 re-pulled (both round to 1,009).",
+  "Update-tab section 6 (2025 profiles): 7304 workbook 87.38 kt / 233.39 EUR m vs re-pull 87.37 kt / 233.30 EUR m; 7306 value 232.36 vs 232.37 EUR m. 7207, 7208, 26011200 (2025) and Dataset D 7208 (2019-2025) match exactly.",
+  "Outline S7 boundary sentence: 'roughly a tenth' (1,955 kt vs 18.8 Mt Dataset B) mixes product universes; like-for-like Comext Ch72 gives 8.1% of all-partner import tonnes (7.3% of value) in 2024 and 6.1% (6.6%) in 2025.",
+  "Outline S8 says the matched extra-EU export series is not in hand and the X-M gap box says 'not shown'; it is now available and the extra-EU balance is positive in all 27 years.",
+  "Dataset B (steel mill products) vs Comext Ch72 all-partner balance: same direction but different levels, and opposite sign in 2021 (+1.4 Mt vs -0.4 Mt); not a workbook error, a product-universe difference.",
+  "Workbook retrieval stamp 'source updated 15 September 2026' is superseded: Comext now reports 16 October 2026."
+ ],
+ "outline_changes": [
+  {
+   "slide": "S7",
+   "change": "Keep the headline numbers (6,291 kt 2007; 3,342 kt 2019; 1,464 kt 2025; unit values 736/1,176/1,087) because they reproduce; 2023 is revised in the 16 Oct vintage but rounds the same. Replace the Say sentence 'roughly a tenth' with a like-for-like materiality line: extra-EU is 8.1% of all-partner Ch72 import tonnes in 2024 (7.3% of value) and 6.1% (6.6%) in 2025, down from 13.4% (11.3%) in 2017; keep the 18.8 Mt Dataset B figure only as a different-universe note. Add one composition line or footnote: of the 3,160 kt fall 2017-2025, heading 7203 (direct-reduced iron) is 987 kt (31%) and 410 of the 491 kt fall in 2025 (84%); scrap 7204 312 kt, 7207 228 kt, 7208 180 kt; tonnes fell 68% but value 45%. Optional chart: stacked imports by heading (7203, 7204, 7207, 7208, other). Do not claim the fall is a policy effect or that DRI is 'cleaner'."
+  },
+  {
+   "slide": "S8",
+   "change": "Retitle to 'Steel trade balance: what the matched extra-EU series shows' and replace the 'matched series not in hand / no competitiveness verdict' message. Add second panel with extra-EU Ch72 exports, imports and balance 2017-2025 (tonnes and EUR separate): X 7,217 -> 5,048 (2024) -> 4,681 kt (2025); M 4,624 -> 1,955 -> 1,464 kt; X-M +2,594 -> +3,094 -> +3,218 kt, and +EUR 3,183 m -> 4,361 m -> 3,837 m. State: surplus in every year 1999-2025 (range +0.9 to +4.5 Mt), but it widened mostly because imports fell 68% while exports fell 35% to a 27-year low in tonnes, so keep the neutral 'consistent with / does not show competitiveness' wording. Remove the gap box and the 'if pulled before the freeze' contingency. Keep Dataset B as the all-partner panel, add footer 'Chapter 72 (incl. scrap, pig iron, DRI) is not the same list as steel mill products; Comext Ch72 all-partner balance -0.9 Mt (2017) to +5.2 Mt (2024) points the same way as Dataset B -1.2 to +4.1 but differs in level and in 2021'. Add Say line: 2017 extra-EU +2.6 Mt, intra-EU -3.5 Mt, all-partner -0.9 Mt, so never mix the series. Unit values X 842 -> 1,160 EUR/t vs M 625 -> 1,087 (2017-2025), mix-affected."
+  },
+  {
+   "slide": "S10 (X row)",
+   "change": "What we can show: 'Steel exports 27.3 -> 22.9 Mt, 2017-24, all partners [Dataset B]; extra-EU Ch.72 7.22 -> 5.05 Mt 2017-24, 4.68 Mt 2025 (27-year low) [Comext]'. Status stays Observed. Tag add Comext DS-045409 flow 2."
+  },
+  {
+   "slide": "S10 (NX row)",
+   "change": "Replace 'extra-EU exports: gap' with 'extra-EU Ch.72 balance +2.6 Mt (2017) -> +3.1 Mt (2024), +3.2 Mt (2025); surplus every year since 1999; not national-accounts NX'. Keep the all-partner -1.2 -> +4.1 Mt and the Dataset F national X/M lines. Status chip from Gap to Observed for the steel-only part. Optionally add to the M row: 'extra-EU Ch.72 imports = 6% of German Ch.72 import tonnes in 2025'."
+  },
+  {
+   "slide": "S12",
+   "change": "In NOT SHOWN, remove 'extra-EU steel NX' (now shown, descriptively) and keep 'measured outcome such as EAF or route share'. Optionally add to CONSISTENT WITH only as Observed: 'extra-EU steel surplus every year, widening as imports fell faster than exports', with the caveat that it is not an effect estimate."
+  },
+  {
+   "slide": "S4",
+   "change": "Data-window bar: add 'extra-EU Ch.72 exports 1999-2025 (same window as imports)'."
+  },
+  {
+   "slide": "A6",
+   "change": "Replace the export-data pull spec with the delivered table: extra-EU Ch72 X, M, X-M in EUR m and kt for 1999-2025 (ch72_extra_eu_balance_1999_2025.csv), the Comext-vs-Dataset B comparison, and the intra-EU / all-partner balances (ch72_balance_by_partner_group_1999_2025.csv). Add Q&A answer to 'Does a positive balance mean competitiveness?': positive in all 27 years, widened since 2021 mainly because imports fell 56% vs exports 18% (2021-2025), exports at a 27-year low in tonnes, steel-only, nominal EUR, not national-accounts NX. Add vintage line: Comext updated 2026-10-16."
+  },
+  {
+   "slide": "A7",
+   "change": "Add: (a) why imports rose after 2005: 714 of the 838 kt rise in 2005 (85%) and 769 of the 2,384 kt rise 2004-2007 (32%) was heading 7207 semi-finished products, with 7208, 7215, 7228, 7201 next; (b) the 2022 unit-value spike also appears inside headings (7203 +32%, 7204 +21%, 7207 +12%, 7208 +45% vs aggregate 828 -> 1,176 EUR/t), so it is not only mix, but unit value is not a price index; (c) the 7203 DRI collapse (1,016 kt in 2017, 28 kt in 2025) as the largest single contributor to the post-2017 fall; (d) 2023 revised slightly in the 16 Oct 2026 vintage; (e) materiality shares 2017-2025."
+  },
+  {
+   "slide": "A8",
+   "change": "Use the by-product series (byproduct_imports_wide / exports_wide): 2025 extra-EU import composition of 1,464 kt: scrap 7204 394 kt (27%), 7207 175 kt, 7203 28 kt (2%, was 22% in 2017). Add table of 2025 imports (kt / EUR m / EUR per t): 7204 393.9/178.2/452; 7207 175.2/88.6/506; 7208 32.7/33.0/1,009; 7304 87.4/233.3/2,670; 7306 159.4/232.4/1,457; 26011200 2,035.1/238.2/117, and 7203 28.1 kt/358 EUR per t. Germany is a net exporter of scrap to non-EU (1,231 kt out vs 394 kt in, 2025). Keep the caution that a customs code identifies the product, not the furnace route, and that agglomerated ore fell 58% in 2025 (4,902 -> 2,035 kt) with cause not established. Note classification: no heading-level break; 7304/7306 sub-headings restructured in HS 2007; 7304XX confidential codes 1999-2005."
+  },
+  {
+   "slide": "Speaker points on materiality (S7 Say, S8 Say, Main risks line)",
+   "change": "Say: 'This extra-EU series is about 6 percent of German steel-chapter imports by weight in 2025, down from 13 percent in 2017, but about 16 percent of exports.' Its fall is 30 percent of the fall in all-partner import tonnes (3.2 of 10.4 Mt) and its export fall 59 percent of the all-partner export fall (2.5 of 4.3 Mt). Roughly 88 percent of German two-way Ch72 tonnes (2025) is with other EU states and does not cross the EU border. Replace 'about a tenth' in Main risks and in the S7 Say. Keep 'direct trade only: non-EU steel cleared in another member state is counted as intra-EU (country of consignment)'."
+  },
+  {
+   "slide": "Open items list (items 3, 5, 7)",
+   "change": "Item 3: mark done (matched series pulled, 2026-10-22, vintage 2026-10-16). Item 5: by-product series 1999-2025 for 7204/7207/7208/7304/7306/26011200 now available (employment part still open). Item 7: add 're-run pull_comext.py after the next Comext update and before the freeze; 2023 and 2025 already moved between the 15 Sep and 16 Oct vintages'."
+  }
+ ],
+ "caveats": [
+  "Single vintage (Comext updated 2026-10-16); Eurostat revises monthly and says data are final by October of the following year, so 2025 (and possibly 2024) can still move. Re-run pull_comext.py after the next update; the next update date was not found.",
+  "The cause of the 2023 and 2025 differences versus the workbook is not verified; the earlier vintage cannot be retrieved from the dissemination API.",
+  "Values are nominal EUR (CIF imports, FOB exports); no deflation. Chapter 72 includes scrap, pig iron, ferro-alloys, DRI and semi-finished goods and excludes Chapter 73 products and ore: not the CBAM base. Whether CBAM covers each heading (for example 7203) was not checked.",
+  "Direct trade only: extra-EU imports are assigned by country of origin and intra-EU by country of consignment, so non-EU steel cleared in another member state is invisible here; EXT/INT aggregates use the fixed 2020 EU27 composition (UK extra-EU throughout) and exist only from 1999.",
+  "A positive extra-EU balance is not a competitiveness verdict and is not national-accounts NX: imports fell much faster than exports and export tonnes are at a 27-year low.",
+  "Causes of the 7203 collapse, the 2025 halving of agglomerated ore imports and the 2005 jump in 7207 are not established by this data.",
+  "Classification findings rest on my reading of WCO Table I PDFs (extracted text, guide with no legal status) plus live HS6/CN8 data; heading-level moves between chapters were only checked through the entries found.",
+  "No monthly or 2026 data pulled (annual dataset has no 2026 values); 2026 trade data is another task. No git commands run and no files outside data/comext_exports modified; temporary files in D:/Temp were deleted."
+ ]
+}

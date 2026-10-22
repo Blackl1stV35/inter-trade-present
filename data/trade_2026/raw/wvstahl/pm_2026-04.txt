@@ -1,0 +1,16 @@
+URL: https://www.wvstahl.de/pressemitteilungen/rohstahlerzeugung-im-april-2026-produktionsplus-aber-noch-keine-rueckkehr-zur-normalitaet/
+RETRIEVED_UTC: 2026-10-22T02:46:10Z
+PUBLISHED: 2026-05-21T15:47:10+02:00
+PDF: ['https://www.wvstahl.de/wp-content/uploads/20260521_PM_Stahlproduktion_Deutschland_Apr26.pdf']
+TITLE: Rohstahlerzeugung im April 2026: Produktionsplus, aber noch keine Rückkehr zur Normalität
+DATELINE: Berlin, 21. Mai 2026 | Die Rohstahlproduktion in Deutschland
+(Statistics table only; press-release prose omitted)
+
+Stahlproduktion in Deutschland im April 2026 in 1.000 t* Veränderung zum Vorjahresmonat* in 1.000 t** Veränderung zum Vorjahreszeitraum**
+Rohstahl gesamt 3.233 9,5% 12.493 9,1%
+Oxygenstahl 2.220 10,7% 8.613 11,0%
+Elektrostahl 1.013 7,1% 3.880 5,2%
+Roheisen 2.062 10,9% 7.933 10,5%
+Warmgewalzte Stahlerzeugnisse 2.753 10,5% 10.764 6,3%
+* April 2026 | ** Januar-April 2026
+Quelle: Wirtschaftsvereinigung Stahl

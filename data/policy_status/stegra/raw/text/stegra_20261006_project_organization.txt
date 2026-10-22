@@ -1,0 +1,15 @@
+SOURCE_URL: https://stegra.com/en/news-and-stories/stegra-implements-changes-to-project-organization
+RETRIEVED: 2026-10-22
+EXTRACTION: tag-stripped text of the saved HTML (article/main block); layout not reproduced
+og:title: Stegra implements changes to project organization - Stegra
+og:description: Stegra is implementing changes to the organization of its project in Boden. This includes changes to the management team.
+----
+Stegra is implementing changes to the organization of its project in Boden. This includes changes to the management team.
+As a result of the recent review conducted together with the Board of Directors Stegra is moving to an organization built around a number of clearly defined delivery areas. 
+Going forward, Area Directors for each area will
+have full authority and report directly to the CEO. As a result, the Chief Project Officer role becomes redundant and Belen de Ugarte leaves the company. The appointed Area Directors are Rodrigo Scarpelli for Green Steel, Francisco Veras for Green Iron and Chris Van Den Berg for Balance of Plant. The changes are effective immediately.
+Work in Boden continues.
+Previous
+Stegra's partners for port and logistics operations in Europe
+Next
+Stegra implements changes following 100-day review under new owners – Håkan Buskhe appointed CEO

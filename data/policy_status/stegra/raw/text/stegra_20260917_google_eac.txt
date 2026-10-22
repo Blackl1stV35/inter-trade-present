@@ -1,0 +1,22 @@
+SOURCE_URL: https://stegra.com/en/news-and-stories/google-and-stegra-in-agreement-for-environmental-attribute-certificates
+RETRIEVED: 2026-10-22
+EXTRACTION: tag-stripped text of the saved HTML (article/main block); layout not reproduced
+og:title: Google and Stegra in agreement for environmental attribute certificates - Stegra
+og:description: Google has entered into an agreement with Stegra for the purchase of EACs connected to Stegra’s steel production in Boden, Sweden. 
+----
+Google has entered into an agreement with Stegra for the purchase of environmental attribute certificates (EACs) connected to Stegra’s steel production in Boden, Sweden. These EACs help scale global supply for near-zero emission steel.
+The agreement covers EACs for a volume of up to 91.000 tonnes of steel for the first year, with an ambition to add more volumes over the length of the agreement.
+Decarbonizing the most challenging sectors requires every tool in our toolbox. Alongside physical procurement, certificates are another vital mechanism. Having proven this model with clean electricity and expanded it to other areas like sustainable aviation fuel, we see green steel EACs as another promising lever to address industrial emissions and scale the clean technologies of the future.
+Adam ElmanDirector of Sustainability for Google in Europe, the Middle East and Africa.
+With these EACs, Google can address the steel-related emissions from its own operations, including the construction of datacenters. Google also contributes to generating increased cash flow to Stegra’s early years of operations, and the ramp-up of production. 
+There are some players globally that can help move markets towards decarbonized products in an impactful way. Google is naturally one such player. Beyond the call to action to increase the supply of sustainably produced steel, we are also grateful that the team at Google chose to work with Stegra and support our first years of operations in this way.
+Henrik HenrikssonCEO, Stegra.
+Near-zero emission steel will initially be available at limited volumes and in few locations. Purchasing environmental attributes enables committed buyers to address their steel-related emissions, even when direct procurement of the physical product is challenging, due to factors like geographical separation or value chain separation. 
+This is also a mechanism that can support the scaling and financing of new industrial companies in clean tech, and the investment in new sustainable technologies. 
+This is made possible by decoupling the environmental attributes from the physical product, also known as “book and claim”. The physical steel is delivered as steel without the environmental attributes, which are delivered separately through EACs.
+Stegra applies book and claim to the non-prime steel it produces. Every steel mill produces some non-prime steel, but when you start a new steel mill, the share of non-prime steel is larger. This steel is made in the same process as the rest of the production, which in Stegra’s case is with green hydrogen and renewable electricity. To ensure there is no double counting of emission avoidance, the buyer of the physical steel will be obliged to commit to not make any green claims. 
+For more information on environmental attribute certificates for steel, go to EACs for steel.
+Previous
+Meet Mattias Meyer – Talent acquisition partner
+Next
+Stegra's partners for maritime transport

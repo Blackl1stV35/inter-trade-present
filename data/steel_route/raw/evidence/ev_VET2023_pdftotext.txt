@@ -1,0 +1,224 @@
+3 Emissionen der Industrieanlagen in Deutschland im Detail
+
+Die Emissionen der 848 Anlagen der energieintensiven Industrie in Deutschland lagen 2023 bei 101 Millionen
+Tonnen CO2-Äq. Abbildung 6 zeigt die Anteile der einzelnen Industriebranchen an den Gesamtemissionen des
+Industriesektors und deren absolute Emissionen. Die Eisen- und Stahlindustrie hat wie in den Vorjahren mit
+rund 33 Prozent den größten Anteil an den Industrie-Emissionen, gefolgt von den Raffinerien (21 Prozent),
+der Zementklinkerherstellung (16 Prozent) und der chemischen Industrie (12 Prozent).
+
+Die verbleibenden Industrie-Emissionen verteilen sich auf vier weitere Branchen und Teilbranchen: sonstige
+mineralverarbeitende Industrie (7 Prozent) – die zum Beispiel die Glas- und Keramikherstellung umfasst –
+Industrie- und Baukalk (6 Prozent), Papier- und Zellstoffindustrie (4 Prozent) sowie die Nichteisenmetallindus-
+trie (2 Prozent). Sonstige Verbrennungsanlagen, die keiner der vorgenannten Branchen zugeordnet werden
+können, verursachen nur etwa ein halbes Prozent der Industrie-Emissionen in Deutschland.
+
+        sonstige                              Raffinerien
+mineralverarbeitende                      21,3 Mio. t CO2-Äq
+
+        Industrie
+   6,7 Mio. t CO2-Äq
+
+    Industrie-          Zementklinker                   chemische Industrie          Papier und Zellstoff
+   und Baukalk        16,1 Mio. t CO2-Äq                 12,1 Mio. t CO2-Äq            3,9 Mio. t CO2-Äq
+5,8 Mio. t CO2-Äq
+                                                                      Sonstige        Nichteisenmetalle
+                                                                 6,5 Mio. t CO2-Äq     2,1 Mio. t CO2-Äq
+
+                                           Eisen und Stahl                                  sonstige
+                                          32,5 Mio. t CO2-Äq                        Verbrennungsanlagen
+
+                                                                                      0,5 Mio. t CO2-Äq
+
+Abbildung 6: Anteile der einzelnen Branchen an den Emissionen des Industriesektors im Jahr 2023 sowie
+                     absolute Emissionen
+
+                                                              Emissionssituation im Europäischen Emissionshandel 2023 15
+Die Emissionen der vom EU-ETS 1 erfassten energieintensiven Industrie sind in Deutschland im Vergleich
+zum Vorjahr um insgesamt 10 Prozent auf 101 Millionen Tonnen CO2-Äq gesunken. Damit erreichten sie das
+niedrigste Niveau seit 2013, dem Beginn der dritten Handelsperiode und der Einführung des aktuell gültigen
+Anwendungsbereichs. Wie aus Abbildung 7 hervorgeht, haben dabei fast alle Branchen relativ deutliche
+Emissionsrückgänge zu verzeichnen. Der größte Emissionsrückgang lag bei den Nichteisenmetallen mit
+19 Prozent, gefolgt von der Papier- und Zellstoffindustrie mit 17 Prozent. Die Tätigkeiten Zementherstellung,
+Erzeugung von Industrie- und Baukalk und die chemische Industrie verzeichneten einen Rückgang von jeweils
+etwa 14 Prozent. Bei den Raffinerien belief sich der Emissionsrückgang auf etwa 9 Prozent. Die Rückgänge in
+diesen Branchen fielen somit überwiegend noch etwas stärker aus als im Vorjahr. Lediglich die Emissionen der
+Eisen- und Stahlindustrie blieben mit minus 2 Prozent auf einem relativ stabilen Niveau. In allen genannten
+Branchen spielen Rückgänge der Produktion eine zentrale Rolle für die Emissionsentwicklung. So lag zum
+Beispiel der Rückgang bei der Zementklinkerproduktion bei 14 Prozent.17 Die Größenordnung dieser Entwick-l
+ung wird auch durch den Inlandsversand von Zement nach Angaben des Verein Deutscher Zementwerke (VDZ)
+in den Monaten Januar bis Oktober 2023 gestützt: dieser lag jeweils um 14 bis 19 Prozent unter dem jeweiligen
+Vorjahresmonat.18 Auch bei Industrie- und Baukalk, Papier und Zellstoff, den Raffinerien und den Nichteisen-
+metallen sowie bei der chemischen Industrie lassen sich erhebliche Produktionsrückgänge beobachten,
+deren Größenordnung darauf hindeutet, dass sie die Hauptursache der oben genannten Emissionsrückgänge
+sind. Bei der Eisen- und Stahl-industrie lag die Rohstahlerzeugung in der Hochofenroute (Qxygenstahl)
+2023 hingegen lediglich 0,9 Prozent unter der Vorjahreserzeugung. Die in Bezug auf die direkten Emissionen
+nachrangige Produktion im Elektro-lichtbogenofen („Elektrostahl“) lag um 10,8 Prozent unter dem
+Vorjahreswert.19
+
+Die zehn größten Emittenten unter den Industrieanlagen emittieren mit rund 34 Millionen Tonnen CO2-Äq
+deutlich weniger als die zehn größten Kraftwerke Deutschlands und stammen aus der Eisen- und Stahlindustrie
+oder sind Raffinerien. Ihr Anteil an den emissionshandelspflichtigen Emissionen im stationären Bereich des
+EU-ETS 1 liegt bei etwa 12 Prozent, während sie etwa 34 Prozent der Emissionen aller Industrieanlagen in
+Deutschland ausmachen.
+
+Tabelle 2: Die zehn größten Industrieanlagen nach Emissionen                  VET 2023          Veränderung
+                                                                             [kt CO2-Äq]         ggü. 2022
+                                   Anlage (Betreiber)                                                         –2 %
+                                                                                         7.758
+ Integriertes Hüttenwerk Duisburg (thyssenkrupp Steel Europe AG)                                                3%
+ Werk Duisburg-Huckingen, Glocke                                                         4.344
+ (HKM Hüttenwerke Krupp Mannesmann GmbH)                                                                        0%
+ Werk Dillingen, einheitliche Anlage (ROGESA Roheisengesellschaft Saar mbH)              3.983                –9 %
+ Werk Salzgitter, Glocke (Salzgitter Flachstahl GmbH)                                    3.337               –13 %
+ PCK Raffinerie, Glocke (PCK Raffinerie GmbH)                                            3.123               –13 %
+ Werk Scholven, Glocke (Ruhr Oel GmbH)                                                   2.679
+ Mineralölraffinerie Oberrhein, Werk 1 und Werk 2                                                             –2 %
+ (Mineralölraffinerie Oberrhein GmbH & Co. KG)                                           2.570
+ Werk Bremen, einheitliche Anlage (ArcelorMittal Bremen GmbH)                                                   8%
+ Werk Wesseling                                                                          2.274
+ (Shell Deutschland GmbH Shell Energy and Chemicals Park Rheinland)                                           –4 %
+ Kokerei Duisburg-Schwelgern (thyssenkrupp Steel Europe AG)                              1.914
+ Gesamt                                                                                                         2%
+                                                                                         1.880                 –3 %
+                                                                                       33.864
+
+                                                                                                                Stand: 02.05.2023
+                                                                             kursiv = neue Anlage / Kraftwerk in den TOP 10
+
+17 DEHSt 2024b.
+18 VDZ 2024.
+19 WV Stahl 2024.
+
+                   Emissionssituation im Europäischen Emissionshandel 2023 17
+   4 Zuteilungssituation der stationären Anlagen
+
+    Auch im dritten Jahr der vierten Handelsperiode lagen die verifizierten Emissionen aller emissionshandels-
+    pflichtigen Anlagen in Deutschland mit 289 Millionen Tonnen CO2-Äq deutlich oberhalb von deren aggregierter
+    kostenloser Zuteilungsmenge für das laufende Jahr20. Insgesamt wurden 2023 etwa 125 Millionen EUA an
+    Betreiber von 1.571 der insgesamt 1.725 deutschen Anlagen kostenlos zugeteilt.
+
+    Der Vergleich der einzelnen Tätigkeiten spiegelt zunächst deutlich die großen Unterschiede zwischen Energie-
+    und Industrieanlagen in Bezug auf die Zuteilungsregeln wider.
+
+    Die Situation für die 877 Energieanlagen (Tätigkeiten 2 bis 6) stellt sich wie folgt dar: Da es bereits seit dem
+    Beginn der dritten Handelsperiode für die Stromerzeugung keine kostenlose Zuteilung mehr gibt, lag das
+    Verhältnis von Zuteilung und verifizierten Emissionen 2023 im Durchschnitt bei nur 6 Prozent und damit etwa
+    auf demselben Niveau wie im Vorjahr. Insgesamt erhielten die Energieanlagen 2023 eine Zuteilung in Höhe von
+    11 Millionen EUA für Wärmeerzeugung, während sich die verifizierten Emissionen auf 188 Millionen Tonnen
+    CO2-Äq beliefen. Bei dieser Betrachtung muss berücksichtigt werden, dass die Zuteilung aufgrund spezifischer
+    Regelungen für weitergeleitete Kuppelgase und Wärmeimporte teilweise Industrieanlagen gewährt wird, obwohl
+    die Emissionen in Energieanlagen entstehen. In Tabelle 3 wird daher ein bereinigter Ausstattungsgrad dargestellt.
+
+    Die Betreiber der 848 Anlagen mit Industrietätigkeiten erhielten für das Berichtsjahr 2023 eine Gesamtzutei-
+    lung in Höhe von 113 Millionen EUA. Dem stehen verifizierte Emissionen von insgesamt 101 Millionen Tonnen
+    CO2-Äq gegenüber. Neben dem Energiesektor wird auch für die Stromerzeugung in der Industrie bereits seit
+    2013 nicht mehr kostenlos zugeteilt. Dies betrifft zum Beispiel Raffinerien und die Papierindustrie, da in beiden
+    Branchen üblicherweise (Heiz-)Kraftwerke betrieben werden. Raffinerien erhielten im Jahr 2023 eine Zuteilung,
+    die 73 Prozent ihrer verifizierten Emissionen entsprach. In der Papierindustrie ist demgegenüber nicht so
+    eindeutig am Ausstattungsgrad erkennbar, dass ein Teil der Emissionen der Stromerzeugung zuzuordnen ist.
+    Vor allem durch die Zuteilungsregeln für anlagenübergreifende Wärmeströme21 wiesen diese Anlagen eine
+    vergleichsweise hohe Ausstattung mit kostenlosen EUA auf. Bei den Anlagen der Papierindustrie lag das
+    Verhältnis von Zuteilung und verifizierten Emissionen bei 124 Prozent. Demgegenüber erhielten die
+    118 Anlagen zur Herstellung von Roheisen und Stahl nominell im Durchschnitt eine deutlich höhere Zuteilung
+    im Verhältnis zu ihren Emissionen (142 Prozent). Dies ist durch die Zuteilungsregeln für die emissionsinten-
+    siven Kuppelgase begründet, die in der Eisen- und Stahlindustrie entstehen, aber teilweise an Energieanlagen
+    weitergeleitet werden und dort erst zu CO2-Emissionen führen, obwohl die Stahlanlage die Zuteilung erhält
+    (vergleiche Abschnitt „Zuteilungssituation unter Berücksichtigung von Kuppelgasen und Wärmeimporten“).
+
+    Zuteilungssituation unter Berücksichtigung von Kuppelgasen und Wärmeimporten22
+
+    Für die betroffenen Branchen hat die Zuteilung, die sich auf weitergeleitete Kuppelgase und Wärmeimporte von
+    anderen emissionshandelspflichtigen Anlagen zurückführen lässt, einen deutlichen Einfluss auf den Ausstat-
+    tungsgrad. Geschätzte 15 Millionen EUA ließen sich für 2023 der Weiterleitung von Kuppelgasen von Industrie-
+    an Energieanlagen zuordnen, etwa 2,1 Millionen EUA dem Wärmeexport von Energie- an Industrieanlagen.
+
+       20 Kostenlose Zuteilung 2023: Grundlage für die Bewertung der Zuteilungssituation, das heißt den Vergleich von Emissionen und kostenloser Zuteilung, ist
+              die kostenlose Zuteilung, die bis zum 14.03.2024 von der Europäischen Kommission für die Jahre 2021 bis 2023 genehmigt wurde. Zu diesem Zeitpunkt
+              sind in der Regel noch nicht alle notwendigen Zuteilungsanpassungen genehmigt, die für die entsprechenden Jahre relevant sind. Das heißt, bei der
+              Darstellung der Zuteilungssituation sind eventuelle Zuteilungsanpassungen nach dem 14.03.2024 nicht berücksichtigt. Insbesondere die Zuteilungsda-
+              tenberichte für 2023, die zum 31.03.2024 eingereicht werden mussten, sind im VET-Bericht 2023 nicht berücksichtigt und werden zu Anpassungen an der
+              kostenlosen Zuteilung für 2024 führen.
+
+       21 Bei anlagenübergreifenden Wärmeströmen ist vorgesehen, dass die produzierenden Anlagen, welche Wärme von anderen emissionshandelspflichtigen
+              Anlagen importieren, für diese ebenso eine kostenlose Zuteilung erhalten.
+
+       22 Kuppelgaserzeuger und Importeure von Wärme erhalten eine kostenlose Zuteilung, obwohl die Emissionen bei den Kuppelgasverwendern oder den Wär-
+              meerzeugern entstehen. Der bereinigte Ausstattungsgrad basiert auf der Annahme, dass Kuppelgaserzeuger und Wärmeimporteure EUA an die Anlagen
+              weitergeben, von denen die Emissionen ausgestoßen werden. Die entsprechenden Mengen werden für diesen Bericht geschätzt und von der tatsächlich
+              ausgegebenen kostenlosen Zuteilung der Industriebranchen abgezogen und bei den Energieanlagen addiert. Weitere Details zur Ermittlung des bereinig-
+              ten Ausstattungsgrads finden sich in Abschnitt 2.4, Seite 23 im VET-Bericht 2022 (DEHSt 2023) sowie in Abschnitt 2.5 des Handbuchs „Datenkonzepte im
+              EU-Emissionshandel“ (Graichen et al, 2021).
+
+18 Emissionssituation im Europäischen Emissionshandel 2023
+Unter der Annahme, dass diese Zuteilungsmengen zwischen den Anlagenbetreibern der Industriebranchen
+und des Energiesektors verrechnet wurden, weist der Industriesektor in Summe für das Jahr 2023 ein Defizit
+von rund 5 Millionen EUA auf. Damit würde der Ausstattungsgrad für den Industriesektor 96 Prozent betragen,
+was einer Unterausstattung für den Sektor entspricht. Ohne die dargestellte Berücksichtigung von Kuppelgasen
+und Wärmeimporten würde sich hingegen über alle Industriebranchen hinweg ein unbereinigter Ausstattungs-
+grad von 112 Prozent ergeben (siehe vorheriger Abschnitt). Hiervon betroffen sind die Branchen Eisen- und
+Stahl-, Papier- und Zellstoff- sowie die chemische Industrie (vergleiche Tabelle 3). Im Umkehrschluss erhöht
+sich unter den getroffenen Annahmen für den Energiesektor die Ausstattung als Verhältnis aus bereinigter
+Zuteilung und verifizierten Emissionen für 2023 von 6 auf 15 Prozent.
+
+Tabelle 3: Bereinigte Ausstattungsgrade (unter Berücksichtigung von Kuppelgasen und Wärmeimporten)
+
+ Sektor   Branche         Zahl der  Zuteilungs-    VET     Abweichung   Ausstat-  bereinigte   Ausstat-  Ausstat-
+Energie                   Anlagen      menge      2023      Zuteilung    tungs-   Zuteilungs-   tungs-    tungs-
+         Energie-                       2023     [kt CO2-   2023 von      grad                   grad      grad
+         anlagen                                   Äq]      VET 2023     2023*       menge     2023**    2022**
+                                    [1000 EUA]             [kt CO2-Äq]              2023**
+                                                                                  [1000 EUA]
+
+                          877       11.385 188.484         –177.099 6,0 %         28.412 15,1 % 11,8 %
+
+                          877       11.385 188.484         –177.099 6,0 %         28.412 15,1 % 11,8 %
+
+         Raffinerien      22 15.575 21.296                 –5.721 73,1 %          15.575 73,1 % 66,7 %
+
+         Eisen und        118 46.209 32.474                13.735 142,3 %         31.275 96,3 % 94,4 %
+         Stahl
+
+         Nichteisen-      38        2.495        2.148     348 116,2 %            2.495 116,2 % 95,8 %
+         metalle
+
+         Industrie-       37        4.658        5.755     –1.097 80,9 %          4.658 80,9 % 66,4 %
+         und
+         Baukalk
+
+         Zement-          35 17.245 16.100                 1.144 107,1 %          17.245 107,1 % 93,5 %
+         klinker
+
+         sonstige
+Industrie mineralver-
+              arbeitende  219       5.661        6.691     –1.029 84,6 %          5.661 84,6 % 68,9 %
+
+         Industrie
+
+         Papier und       131       4.887        3.935     951 124,2 %            3.861 98,1 % 82,4 %
+         Zellstoff
+
+         Chemische        197 16.172 12.128                4.043 133,3 %          15.105 124,5 % 110,6 %
+         Industrie
+
+         sonstige
+
+         Verbren-         51        569          458       110 124,1 %            569 124,1 % 116,0 %
+         nungsanla-
+
+         gen
+
+                          848 113.471 100.986              12.485 112,4 %         96.444 95,5 % 86,6 %
+
+Gesamt                    1.725 124.856 289.470            –164.614 43,1%         124.856 43,1 % 35,5 %
+
+                                                                                                                                                                  Stand: 02.05.2024
+                                     * ohne Berücksichtigung möglicher Verrechnungen bei der Weiterleitung von Kuppelgasen und bei Wärmeimporten
+                                    ** unter Berücksichtigung möglicher Verrechnungen bei der Weiterleitung von Kuppelgasen und bei Wärmeimporten
+
+Bezogen auf 2022 erhalten sowohl die Energie- als auch die Industrieanlagen im Durchschnitt eine sinkende
+kostenlose Zuteilung (vergleiche DEHSt 2023 Kapitel 2.9). Allerdings ergab sich im Vergleich zum Jahr 2022
+auf Branchenebene ein Anstieg der bereinigten Ausstattungsgrade, sowohl bei den Energie- als auch bei den
+Industrieanlagen (vergleiche Tabelle 3).
+
+                                                           Emissionssituation im Europäischen Emissionshandel 2023 19
+

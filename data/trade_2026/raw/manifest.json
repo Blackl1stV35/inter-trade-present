@@ -1,0 +1,230 @@
+[
+  {
+    "file": "monthly_72_flow1_imports.json",
+    "url": "https://ec.europa.eu/eurostat/api/comext/dissemination/statistics/1.0/data/DS-045409?format=JSON&lang=EN&freq=M&reporter=DE&partner=EXT_EU27_2020&product=72&flow=1&indicators=VALUE_IN_EUROS&indicators=QUANTITY_IN_100KG&sinceTimePeriod=2025-01",
+    "http_status": 200,
+    "retrieved_utc": "2026-10-22T02:33:54Z",
+    "sha256": "96d3b8d1a39eb29142a3a9f6d37264420a55a0cde0c9e60d662d252e4a64dd6e",
+    "bytes": 3230,
+    "dataset_updated": "2026-10-16T11:00:00+0200",
+    "n_values": 40,
+    "positions_with_no_data": {
+      "freq": [],
+      "reporter": [],
+      "partner": [],
+      "product": [],
+      "flow": [],
+      "indicators": [],
+      "time": [
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "file": "monthly_72_flow2_exports.json",
+    "url": "https://ec.europa.eu/eurostat/api/comext/dissemination/statistics/1.0/data/DS-045409?format=JSON&lang=EN&freq=M&reporter=DE&partner=EXT_EU27_2020&product=72&flow=2&indicators=VALUE_IN_EUROS&indicators=QUANTITY_IN_100KG&sinceTimePeriod=2025-01",
+    "http_status": 200,
+    "retrieved_utc": "2026-10-22T02:33:54Z",
+    "sha256": "425143a262066a5f2b8fc5bee130d00524e88ee23afa05000388da8a8c9fec6b",
+    "bytes": 3235,
+    "dataset_updated": "2026-10-16T11:00:00+0200",
+    "n_values": 40,
+    "positions_with_no_data": {
+      "freq": [],
+      "reporter": [],
+      "partner": [],
+      "product": [],
+      "flow": [],
+      "indicators": [],
+      "time": [
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "file": "monthly_7208_flow1_imports.json",
+    "url": "https://ec.europa.eu/eurostat/api/comext/dissemination/statistics/1.0/data/DS-045409?format=JSON&lang=EN&freq=M&reporter=DE&partner=EXT_EU27_2020&product=7208&flow=1&indicators=VALUE_IN_EUROS&indicators=QUANTITY_IN_100KG&sinceTimePeriod=2025-01",
+    "http_status": 200,
+    "retrieved_utc": "2026-10-22T02:33:56Z",
+    "sha256": "241e5f99f64cd56b01a091f96e987ee225d2f33dc938fe3fc3842677b23a0b30",
+    "bytes": 3248,
+    "dataset_updated": "2026-10-16T11:00:00+0200",
+    "n_values": 40,
+    "positions_with_no_data": {
+      "freq": [],
+      "reporter": [],
+      "partner": [],
+      "product": [],
+      "flow": [],
+      "indicators": [],
+      "time": [
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "file": "monthly_7208_flow2_exports.json",
+    "url": "https://ec.europa.eu/eurostat/api/comext/dissemination/statistics/1.0/data/DS-045409?format=JSON&lang=EN&freq=M&reporter=DE&partner=EXT_EU27_2020&product=7208&flow=2&indicators=VALUE_IN_EUROS&indicators=QUANTITY_IN_100KG&sinceTimePeriod=2025-01",
+    "http_status": 200,
+    "retrieved_utc": "2026-10-22T02:33:57Z",
+    "sha256": "5c1130f59412fe29ef5befac7ce82ba071d54d9c8c39469c3006f50a5fdf32e6",
+    "bytes": 3293,
+    "dataset_updated": "2026-10-16T11:00:00+0200",
+    "n_values": 40,
+    "positions_with_no_data": {
+      "freq": [],
+      "reporter": [],
+      "partner": [],
+      "product": [],
+      "flow": [],
+      "indicators": [],
+      "time": [
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "file": "monthly_7204_flow1_imports.json",
+    "url": "https://ec.europa.eu/eurostat/api/comext/dissemination/statistics/1.0/data/DS-045409?format=JSON&lang=EN&freq=M&reporter=DE&partner=EXT_EU27_2020&product=7204&flow=1&indicators=VALUE_IN_EUROS&indicators=QUANTITY_IN_100KG&sinceTimePeriod=2025-01",
+    "http_status": 200,
+    "retrieved_utc": "2026-10-22T02:33:59Z",
+    "sha256": "5886e914f3373d11d9b080db917e3a2a2e11160dd919698e28b9e031e4f908c6",
+    "bytes": 3429,
+    "dataset_updated": "2026-10-16T11:00:00+0200",
+    "n_values": 40,
+    "positions_with_no_data": {
+      "freq": [],
+      "reporter": [],
+      "partner": [],
+      "product": [],
+      "flow": [],
+      "indicators": [],
+      "time": [
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "file": "monthly_7204_flow2_exports.json",
+    "url": "https://ec.europa.eu/eurostat/api/comext/dissemination/statistics/1.0/data/DS-045409?format=JSON&lang=EN&freq=M&reporter=DE&partner=EXT_EU27_2020&product=7204&flow=2&indicators=VALUE_IN_EUROS&indicators=QUANTITY_IN_100KG&sinceTimePeriod=2025-01",
+    "http_status": 200,
+    "retrieved_utc": "2026-10-22T02:34:00Z",
+    "sha256": "98917fb10bec0ebabfa739ff3c646ab8843eb2011243c048910f381cdf5b85c6",
+    "bytes": 3441,
+    "dataset_updated": "2026-10-16T11:00:00+0200",
+    "n_values": 40,
+    "positions_with_no_data": {
+      "freq": [],
+      "reporter": [],
+      "partner": [],
+      "product": [],
+      "flow": [],
+      "indicators": [],
+      "time": [
+        20,
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "file": "annual_72_flow1_imports.json",
+    "url": "https://ec.europa.eu/eurostat/api/comext/dissemination/statistics/1.0/data/DS-045409?format=JSON&lang=EN&freq=A&reporter=DE&partner=EXT_EU27_2020&product=72&flow=1&indicators=VALUE_IN_EUROS&indicators=QUANTITY_IN_100KG&sinceTimePeriod=2024",
+    "http_status": 200,
+    "retrieved_utc": "2026-10-22T02:34:02Z",
+    "sha256": "32b4efbacd15d9f00310e1d726361115d48edcb72434d7dd8c330dd6d51fd8c7",
+    "bytes": 1962,
+    "dataset_updated": "2026-10-16T11:00:00+0200",
+    "n_values": 4,
+    "positions_with_no_data": {
+      "freq": [],
+      "reporter": [],
+      "partner": [],
+      "product": [],
+      "flow": [],
+      "indicators": [],
+      "time": [
+        2
+      ]
+    }
+  },
+  {
+    "file": "annual_72_flow2_exports.json",
+    "url": "https://ec.europa.eu/eurostat/api/comext/dissemination/statistics/1.0/data/DS-045409?format=JSON&lang=EN&freq=A&reporter=DE&partner=EXT_EU27_2020&product=72&flow=2&indicators=VALUE_IN_EUROS&indicators=QUANTITY_IN_100KG&sinceTimePeriod=2024",
+    "http_status": 200,
+    "retrieved_utc": "2026-10-22T02:34:02Z",
+    "sha256": "4b2a57d9290c20fd4494312b45a5c01384bdd59938d477c40f12d27f0cee0faa",
+    "bytes": 1962,
+    "dataset_updated": "2026-10-16T11:00:00+0200",
+    "n_values": 4,
+    "positions_with_no_data": {
+      "freq": [],
+      "reporter": [],
+      "partner": [],
+      "product": [],
+      "flow": [],
+      "indicators": [],
+      "time": [
+        2
+      ]
+    }
+  },
+  {
+    "file": "annual_7208_flow1_imports.json",
+    "url": "https://ec.europa.eu/eurostat/api/comext/dissemination/statistics/1.0/data/DS-045409?format=JSON&lang=EN&freq=A&reporter=DE&partner=EXT_EU27_2020&product=7208&flow=1&indicators=VALUE_IN_EUROS&indicators=QUANTITY_IN_100KG&sinceTimePeriod=2024",
+    "http_status": 200,
+    "retrieved_utc": "2026-10-22T02:34:03Z",
+    "sha256": "7c39aa300f144f77c77b351f3dc6f9a9e1866b2b376aff8cc4080f25332044d5",
+    "bytes": 2053,
+    "dataset_updated": "2026-10-16T11:00:00+0200",
+    "n_values": 4,
+    "positions_with_no_data": {
+      "freq": [],
+      "reporter": [],
+      "partner": [],
+      "product": [],
+      "flow": [],
+      "indicators": [],
+      "time": [
+        2
+      ]
+    }
+  },
+  {
+    "file": "annual_7208_flow2_exports.json",
+    "url": "https://ec.europa.eu/eurostat/api/comext/dissemination/statistics/1.0/data/DS-045409?format=JSON&lang=EN&freq=A&reporter=DE&partner=EXT_EU27_2020&product=7208&flow=2&indicators=VALUE_IN_EUROS&indicators=QUANTITY_IN_100KG&sinceTimePeriod=2024",
+    "http_status": 200,
+    "retrieved_utc": "2026-10-22T02:34:05Z",
+    "sha256": "a12033d4a2b4c6a71a0f836fb183f202649e32ce6b7c3b8d1ada8d78c4362073",
+    "bytes": 2057,
+    "dataset_updated": "2026-10-16T11:00:00+0200",
+    "n_values": 4,
+    "positions_with_no_data": {
+      "freq": [],
+      "reporter": [],
+      "partner": [],
+      "product": [],
+      "flow": [],
+      "indicators": [],
+      "time": [
+        2
+      ]
+    }
+  }
+]

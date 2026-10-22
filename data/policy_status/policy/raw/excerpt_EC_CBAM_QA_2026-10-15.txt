@@ -1,0 +1,76 @@
+# EXCERPT of Commission CBAM Questions and Answers (last updated 15 October 2026), source: https://taxation-customs.ec.europa.eu/document/download/013fa763-5dce-4726-a204-69fec04d5ce2_en?filename=CBAM_Questions%20and%20Answers.pdf
+                      Carbon Border Adjustment Mechanism (CBAM)
+
+            Questions and Answers
+
+                                   Last updated on 15 October 2026
+
+Importers must be authorised CBAM declarants to import CBAM goods into the EU's
+customs territory as from 1 January 2026. For this, they must contact the national
+competent authority of the Member State where they are established and apply for an
+authorisation. A list of national competent authorities is publicly available here: List of
+National Competent Authorities for CBAM.
+
+However, importers importing CBAM goods other than hydrogen and electricity below the
+annual single-mass based threshold (50t) do not need an authorisation. Importers of
+hydrogen and electricity into the EU must always be authorised CBAM declarants.
+
+Once they are granted an authorisation, authorised CBAM declarants are able to access
+the CBAM registry where they fulfil their CBAM obligations.
+
+Authorised CBAM declarants importing CBAM goods above the annual threshold will
+have to comply with CBAM obligations:
+
+    · By 30 September of the year following the year of importation, thus for the first
+         time by 30 September 2027 for the 2026 import-year, they must submit a CBAM
+         declaration containing detailed information on emissions embedded in CBAM
+         goods imported into the EU during the previous year.
+
+    · By the same date, thus for the first time by 30 September 2027 for the 2026 import
+         year, they must surrender the number of CBAM certificates which corresponds to
+         the embedded emissions declared in their annual CBAM declaration (step 1).
+
+After they have submitted their declaration and surrendered the correct number of CBAM
+certificates (respectively, steps 1 and 2 above), authorised CBAM declarants may have
+some CBAM certificates remaining on their account in the CBAM registry repurchased.
+
+As from 2027, authorised CBAM declarants, once their imported CBAM goods exceed the
+annual threshold, will have to buy, every calendar quarter, a certain number of CBAM
+certificates that corresponds to at least 50% of the emissions embedded in the CBAM
+goods imported into the EU since the beginning of the year.
+
+Sales of CBAM certificates will start on 1 February 2027. As from that date, authorised
+CBAM declarants will be able to buy CBAM certificates corresponding to the emissions
+embedded in CBAM goods imported into the EU for both 2026 and 2027 onwards.
+
+In addition, in 2027 authorised CBAM declarants will have to buy the CBAM certificates
+which correspond to the emissions in goods imported into the EU in 2026.
+
+      3.2. How will declarants buy CBAM certificates?
+
+Authorised CBAM declarants will buy CBAM certificates from the Member State where
+they are established. All purchases will take place on the common central platform (CCP)
+which the Commission will establish following a joint procurement procedure between
+the Member States and the Commission.
+The CCP will start operations on 1 February 2027.
+The CCP will be accessible only by authorised CBAM declarants and only from the CBAM
+registry.
+
+      3.3. How will declarants buy CBAM certificates for 2026
+      imports?
+
+As sales of CBAM certificates will start in February 2027, there is a specific rule to
+determine authorised CBAM declarants' financial adjustment for imports of CBAM goods
+above the annual threshold in 2026.
+The number of CBAM certificates which authorised CBAM declarants will have to buy in
+2027 will be calculated as the emissions (tonnes of CO2) in CBAM goods imported into
+the EU in each quarter in 2026. This determination will be made based on the calendar
+quarter of importation of the said goods.
+The Commission will calculate 4 quarterly prices in 2026, one for each quarter.
+Declarants will buy the number of CBAM certificates which corresponds to the emissions
+embedded in the CBAM goods they imported in 2026 into the EU on the CCP from
+February 2027 and before 30 September 2027.
+
+                                                       22
+      3.4. Can CBAM certificates be transferred or sold to another
+      person?

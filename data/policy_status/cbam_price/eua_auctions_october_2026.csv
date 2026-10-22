@@ -1,0 +1,15 @@
+date,auction_name,contract,status,clearing_price_eur_per_tco2,volume_tco2,zone,total_revenue_eur
+2026-10-01,Auction 4. Period CAP3 EU,T3PA,successful,84.7,2791500.0,EU,236440050.0
+2026-10-02,Auction 4. Period DE,T3PA,successful,85.31,1548000.0,DE,132059880.0
+2026-10-05,Auction 4. Period CAP3 EU,T3PA,successful,82.6,2791500.0,EU,230577900.0
+2026-10-06,Auction 4. Period CAP3 EU,T3PA,successful,84.31,2791500.0,EU,235351365.0
+2026-10-07,Auction 4. Period CAP3 NIR,T3PA,successful,83.83,584000.0,XI,48956720.0
+2026-10-08,Auction 4. Period CAP3 EU,T3PA,successful,85.07,2791500.0,EU,237472905.0
+2026-10-09,Auction 4. Period DE,T3PA,successful,86.11,1548000.0,DE,133298280.0
+2026-10-12,Auction 4. Period CAP3 EU,T3PA,successful,86.28,2791500.0,EU,240850620.0
+2026-10-13,Auction 4. Period CAP3 EU,T3PA,successful,87.04,2791500.0,EU,242972160.0
+2026-10-14,Auction 4. Period CAP3 PL,T3PA,successful,87.02,1945000.0,PL,169253900.0
+2026-10-15,Auction 4. Period CAP3 EU,T3PA,successful,85.84,2791500.0,EU,239622360.0
+2026-10-16,Auction 4. Period DE,T3PA,successful,85.5,1548000.0,DE,132354000.0
+2026-10-19,Auction 4. Period CAP3 EU,T3PA,successful,85.12,2791500.0,EU,237612480.0
+2026-10-20,Auction 4. Period CAP3 EU,T3PA,successful,85.1,2791500.0,EU,237556650.0

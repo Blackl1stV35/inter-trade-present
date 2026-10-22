@@ -1,0 +1,65 @@
+SOURCE_URL: https://stegra.com/en/news-and-stories
+RETRIEVED: 2026-10-22
+EXTRACTION: tag-stripped text of the saved HTML (longest of article/main/body block); layout not reproduced
+og:title: Stegra
+----
+Go to main content
+What we do
+Green steel
+Green iron
+Green hydrogen
+Our process
+Our Boden plant
+Explore our Boden plant
+Visit the lookout tower
+Career
+Working at Stegra
+Career in Boden
+Open positions
+About us
+We are Stegra
+Get in touch
+News
+News and stories
+Media bank
+News and stories
+2026.10.16
+News
+Stegra's partners for port and logistics operations in Europe
+Read more
+2026.10.06
+News
+Stegra implements changes to project organization
+Read more
+2026.09.30
+News
+Stegra implements changes following 100-day review under new owners – Håkan Buskhe appointed CEO
+Read more
+2026.09.23
+Stories
+Meet Mattias Meyer – Talent acquisition partner
+Read more
+2026.09.17
+News
+Google and Stegra in agreement for environmental attribute certificates
+Read more
+2026.09.14
+News
+Stegra's partners for maritime transport
+Read more
+2026.09.07
+Stories
+Meet Betty Callne – Visit coordinator
+Read more
+2026.09.04
+News
+Stegra and partners develop book-and-claim system for iron and steel
+Read more
+2026.06.24
+News
+Changes to Stegra’s board of directors and company structure
+Read more
+2026.06.24
+News
+Stegra announces closing of €1.4 billion financing round
+Read more

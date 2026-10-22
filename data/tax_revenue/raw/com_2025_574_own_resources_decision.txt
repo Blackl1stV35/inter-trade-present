@@ -1,0 +1,1081 @@
+                                   EUROPEAN
+                                   COMMISSION
+
+                                                                Brussels, 16.7.2025
+                                                                COM(2025) 574 final
+                                                                2025/0574 (CNS)
+
+                                                 Proposal for a
+                                          COUNCIL DECISION
+    on the system of own resources of the European Union and repealing Decision (EU,
+
+                                            Euratom) 2020/2053
+
+EN                                                                                    EN
+        EXPLANATORY MEMORANDUM
+
+    1.  REASONS FOR AND OBJECTIVES OF THE PROPOSAL
+
+    The European Union faces growing demands in key areas such as competitiveness, defence,
+    security, the green and digital transition, and resilience to external shocks. In addition, the
+    next Multiannual Financial Framework (MFF) must cater for the repayment of
+    NextGenerationEU without undue cuts to EU programmes or excessive increase in GNI
+    contributions. While the current own resources system has ensured stable and predictable
+    financing of the EU budget, it is largely, and increasingly, dependent on GNI contributions,
+    which will reach its limits as financing needs increase. The EU budget is about creating
+    European added value for all, and this calls for joint financing of common priorities.
+    Introducing new own resources will reduce the burden on Member States and ensure the
+    sustainable funding of common EU policies and the repayment of NextGenerationEU.
+    Moreover, recent years have shown that the EU budget must be able to respond more flexibly
+    to crises and a changing world.
+
+    In line with the Interinstitutional Agreement between the European Parliament, the Council
+    and the Commission of 20201, the Commission put forward proposals in 2021 and 2023 to
+    introduce new own resources, which have not been adopted. The present proposal builds on
+    the previous proposals and discussions. It is in line with the EU‚Äôs political priorities in the
+    context of the next MFF and would generate sizeable revenue. The own resources are based
+    on existing sectoral legislation or the Own Resources Decision itself and can be implemented
+    with a reasonable administrative burden.
+
+    The Emissions Trading System (ETS)-based own resource remains a backbone of the
+    Commission‚Äôs proposals, as it is closely linked to the Union‚Äôs climate targets and has
+    significant revenue potential. With 30 % of revenue going to the EU budget, most revenue
+    from the auctioning of emission allowances would continue to flow to national budgets.
+    Furthermore, the Commission decided to re-focus solely on revenues from the emissions
+    trading system (ETS1) that is already in place and not base the own resource on the new
+    emissions trading system on road transport and buildings (ETS2).
+
+    The own resource based on Carbon Border Adjustment Mechanism (CBAM) can be
+    considered as the ‚Äòexternal dimension‚Äô of the ETS and therefore remains an integral element
+    of the package. The CBAM ensures that imports to the EU are subject to the carbon price
+    equivalent to producing these same goods in the EU.
+
+    The Commission proposes three additional new own resources:
+
+    ‚Äì   A new resource based on the amount of electrical and electronic equipment not
+
+        collected (‚Äòe-waste‚Äô) that would lead to positive environmental outcomes while
+
+        supporting the Union‚Äôs strategic autonomy in critical raw materials. Implementing a
+
+        new own resource based on the non-collected e-waste reported by Member States
+
+        would incentivise waste reduction and encourage progress in collection schemes. The
+
+        e-waste own resource would be based on already existing data reported by Member
+
+        States to Eurostat and calculated by applying a rate of EUR 2 per kg on non-collected
+
+    1   Interinstitutional Agreement between the European Parliament, the Council of the European Union and
+
+        the European Commission on budgetary discipline, on cooperation in budgetary matters and on sound
+
+        financial management, as well as on new own resources, including a roadmap towards the introduction
+
+        of new own resources (OJ L 433I , 22.12.2020, p. 28).
+
+EN      1                                                                                                    EN
+       e-waste. To maintain the real value of the call rate, it would subsequently be adjusted
+       annually for inflation.
+
+    ‚Äì  A Tobacco Excise Duty Own Resource (TEDOR) would support EU health policy
+
+       objectives as well as address the issue of cross-border shopping for certain products,
+
+       which is currently influenced by differentials in tax policies between Member States,
+
+       and generate significant revenue for the EU budget. The proposal complements the
+
+       proposal for a recast of the tobacco excise duty Council Directive, which aims to
+
+       adapt EU minimum excise duties and enlarge the scope of the Directive to new
+
+       products. However, the proposed TEDOR is not legally dependent on the adoption of
+
+       the recast of the Council Directive. A call rate of 15 % would be applied for all
+
+       Member States to the amounts of manufactured tobacco and to amounts of tobacco
+
+       related products released for consumption multiplied by the minimum rate applicable
+
+       to each Member State.
+
+    ‚Äì  A Corporate Resource for Europe (CORE) aims to ensure that the corporate sector,
+
+       operating in the world‚Äôs biggest single market with more than 450 million
+
+       consumers, contributes to the financing of the EU budget. The own resource would
+
+       focus on EU companies and companies of third countries having a permanent
+
+       establishment in the EU with an annual net turnover above EUR 100 million. The
+
+       CORE would be established as an annual lump-sum contribution differentiated per
+
+       companies‚Äô net turnover.
+
+    Targeted adjustments to existing own resources are proposed to preserve the revenue base of
+    the EU budget. The call rate for the own resource based on non-recycled plastic packaging
+    waste, which was introduced at the start of the current MFF, was set at a fixed amount of
+    EUR 0,8/kg. However, inflation has significantly reduced the real value of the revenue from
+    this own resource. To correct for this, it is proposed to increase the call rate to a new level of
+    EUR 1/kg in 2028 and, from that point onward, to adjust it annually to inflation. Furthermore,
+    the present level of 25 % of customs duties that Member States retain to cover their collection
+    costs results in a high share of own resources not being made available to the Union budget. It
+    is therefore proposed to lower the share of collection costs to 10 %. Lastly, the proposal
+    clarifies that amounts related to e-commerce as established under the Union Customs Code
+    (UCC) fall into the category of traditional own resources.
+
+    To ensure a transparent own resources system, there will be no adjustments to own resources.
+    Thus, the capping of the VAT base, as well as the lump sum reductions applied to the non-
+    recycled plastic packaging waste own resource and the GNI own resource will be
+    discontinued.
+
+    In view of possible changes to the European System of National and Regional Accounts
+    (‚ÄòESA 2010‚Äô), the proposal clarifies the approach to and treatment of such changes where
+    relevant for the own resources system.
+
+    Recent years have shown that the frequency, severity and depth of severe crises, hardships or
+    threat thereof have increased. The rigidity of the current budget infrastructure restricted the
+    Union in its response to such events. Therefore, a new extraordinary mechanism should be
+    established to respond to these events over the period of the upcoming MFF 2028-2034. The
+    activation of this extraordinary and targeted crisis response mechanism will be decided by the
+    Council taking into account the specificities and needs of a given crisis. The Council will act
+    by means of a Council Regulation, adopted in accordance with the procedure set out in Article
+    311(4) of the Treaty on the Functioning of the European Union (TFEU), after obtaining the
+    consent of the European Parliament. Should such extraordinary crisis response mechanism be
+
+EN                               2                                                                      EN
+    activated, its implementation will follow the rules set in the most relevant programme or
+    instrument.
+
+    The Council Regulation will authorise the borrowing by the Commission, on capital markets,
+    of the amount for the loans to Member States. The Council Regulation will also establish the
+    principles for the repayment. This extraordinary crisis response tool will be backed by a
+    dedicated increase of the own resources ceiling.
+
+    2.  LEGAL FRAMEWORK
+
+    2.1. Own resources Decision
+
+    Pursuant to Article 311(3) TFEU, the Council, after consulting the European Parliament "may
+    establish new categories of own resources or abolish an existing category". This provision
+    explicitly allows for the creation of new own resources.
+
+    In accordance with the special legislative procedure set out in Article 311(3) TFEU, the
+    Council adopts the Decision by unanimity after consulting the European Parliament. The
+    Decision will enter into force once it is approved by the Member States in accordance with
+    their constitutional requirements.
+
+    The present Commission proposal make full use of this possibility by initiating the creation of
+    several new own resources.
+
+    2.2. Implementing measures for the system of the own resources and Making available
+              Regulations
+
+    Article 311(4) TFEU provides that the "Council, acting by means of regulations in accordance
+    with a special legislative procedure, shall lay down implementing measures for the Union's
+    own resources system in so far as this is provided for in the [Own Resources] Decision". This
+    provision introduces the possibility of setting specific implementing measures related to the
+    own resources system in a Regulation (IMSOR) within the limits set out by the Own
+    Resources Decision. It does not include aspects of the own resources system that relate to the
+    making available of the own resources and to meeting cash requirements (see below).
+
+    The IMSOR is to include provisions of a general nature, applicable to all types of own
+    resources. They mainly cover matters of control and supervision of revenues and the related
+    powers of Commission inspectors. The IMSOR will also include some implementation
+    aspects of the CORE.
+
+    Beyond the implementing measures, the operational requirements for making available the
+    own resources to the EU budget and the Commission's accounts are specified in Council
+    regulations pursuant to Article 322(2) TFEU.
+
+    New making available provisions are required for all new own resources.
+
+    The Commission will submit the necessary proposals at a later stage.
+
+EN                               3                                                                   EN
+                                                                    2025/0574 (CNS)
+
+                                                    Proposal for a
+
+                                              COUNCIL DECISION
+
+       on the system of own resources of the European Union and repealing Decision (EU,
+                                                Euratom) 2020/2053
+
+    THE COUNCIL OF THE EUROPEAN UNION,
+    Having regard to the Treaty on the Functioning of the European Union, and in particular the
+    third paragraph Article 311 thereof,
+    Having regard to the Treaty establishing the European Atomic Energy Community, and in
+    particular Article 106a thereof,
+    Having regard to the proposal from the European Commission,
+    After transmission of the draft legislative act to the national parliaments,
+    Having regard to the opinion of the European Parliament2,
+    Acting in accordance with a special legislative procedure,
+    Whereas:
+    (1) The system of own resources of the Union should ensure adequate resources for the
+
+            orderly development of the policies of the Union, subject to strict budgetary discipline.
+            The development of the system of own resources should also contribute, to the greatest
+            extent possible, to the development of the policies of the Union.
+    (2) In the framework of the Interinstitutional Agreement of 16 December 20203, the
+            European Parliament, the Council and the Commission recognised the importance of
+            the context of the European Union Recovery Instrument and acknowledged that
+            ‚Äòexpenditure from the Union budget related to the repayment of the European Union
+            Recovery Instrument should not lead to an undue reduction in programme expenditure
+            or investment instruments under the Multiannual Financial Framework (‚ÄòMFF‚Äô).
+            Moreover, the Interinstitutional Agreement stated that ‚Äòit is also desirable to mitigate
+            the increases in the Gross National Income (‚ÄòGNI‚Äô)-based own resource for the
+            Member States‚Äô.
+    (3) In line with the Interinstitutional Agreement, the Commission put forward proposals in
+            2021 and 2023 to introduce new own resources. The present Decision builds on
+            previous discussions and reflects the EU‚Äôs political priorities in the context of the
+            MFF. Therefore, this Decision introduces five new own resources.
+
+    2  OJ C , , p. .
+
+    3  Interinstitutional Agreement between the European Parliament, the Council and the European
+
+    Commission of 16 December 2020 on budgetary discipline, on cooperation in budgetary matters and on
+
+    sound financial management, as well as on new own resources, including a roadmap for the
+
+    introduction of new own resources (OJ L 433I , 22.12.2020, p. 28).
+
+EN                    1                                                                                 EN
+    (4) Recent developments have demonstrated an increase of goods sold in distance sales.
+            To cover the increasing costs of ensuring the release of those goods for free circulation
+            by checking the data provided, carrying out risk analysis, performing documentary and
+            physical controls when needed, new amounts of traditional own resources, based on
+            other amounts or factors might be chargeable in trade with third countries, like a
+            Union handling fee, commensurate to the services rendered for releasing those goods
+            for free circulation. It is appropriate to specify that this Union handling fee, as
+            traditional own resources, is only made available to the Union as of 1 January 2028.
+
+    (5) Council Decision (EU, Euratom) 2020/2053 sets the share of traditional own resources
+            that Member States retain to cover their collection costs of customs duties at 25 %.
+            This results in a high share of own resources not being made available to the Union
+            budget. The collection costs retained by Member States from the traditional own
+            resources should be restored from 25 % to the level of 10 % to better align the
+            financial support for customs equipment, staff, digitalisation and information with the
+            actual costs and needs.
+
+    (6) A financial contribution linked to the corporate sector should be introduced as an own
+            resource. The Corporate Resource for Europe (‚ÄòCORE‚Äô) should apply to companies
+            that are resident for tax purposes in the Union with an annual net turnover exceeding
+            EUR 100 000 000. Likewise, the CORE should apply to permanent establishments
+            located in a Member State of entities resident, for tax purposes, in a third country. The
+            CORE should apply to the net turnover of a permanent establishment, irrespective of
+            the net turnover of the entity resident for tax purposes in a third country which is not
+            generated by the permanent establishment.
+
+    (7) The CORE should be established as an annual lump-sum contribution based on the net
+            turnover of companies in scope, with higher net turnovers resulting in larger
+            contributions as per a ‚Äòbracket system‚Äò. Using net turnover as the basis should ensure
+            that this own resource is based on standard corporate data. The application of the net
+            turnover threshold of EUR 100 000 000 should ensure that, in principle, small and
+            medium-sized companies are excluded from the scope of the CORE. It is also
+            appropriate to exclude from the scope of the CORE certain entities, which based on
+            their particular purpose and status generally do not carry on a trade or business for
+            profit purposes. Therefore, governmental entities (except state-owned enterprises),
+            international organisations and non-profit organisations should fall outside the scope
+            of the CORE. The CORE should be applied at entity level or at the level of each
+            permanent establishment located in a Member State of entities resident, for tax
+            purposes, in a third country.
+
+    (8) For the purpose of implementing the CORE, it is necessary to identify the companies
+            that will be liable towards the Union and the scope of their obligations. In addition, it
+            is appropriate to entrust Member States with the task of collecting the CORE on behalf
+            of the Union and in accordance with the requirements of Union rules.
+
+    (9) The Council Directive 2011/64/EU has introduced harmonized minimum rates for
+            manufactured tobacco released for consumption. The Council Directive [XXX]
+            recasting Council Directive 2011/64/EC revises the structure of minimum rates and
+            extends the scope of the Directive to tobacco related products. At the same time,
+            smoking remains an EU-wide health policy challenge. To support relevant health
+            policies and given competition-distorting cross-border shopping in these products,
+            driven by differentials in taxation, it is appropriate that a call rate of 15 % to the
+
+EN  2                                                                                                  EN
+            revenue stemming from the application of those harmonised minimum rates to the
+            products released for consumption is established as an own resource.
+
+    (10) Council Decision (EU, Euratom) 2020/2053 set the call rate for the own resource
+            based on non-recycled plastic packaging waste at an amount of EUR 0.8 per kg from
+            2021. Since then, relatively high inflation has reduced the real value of the revenue
+            from this own resource, which might in turn also reduce incentives for Member States
+            to intensify their efforts to achieve the EU recycling target. Therefore, an increase of
+            the call rate to EUR 1 per kg in 2028 appears appropriate.
+
+    (11) To yield positive environmental outcomes and strengthen the Union‚Äôs strategic
+            autonomy in critical raw materials, the Union budget should contribute to increase the
+            collection of e-waste. An own resource proportional to the quantity of non-collected e-
+            waste in each Member State, with a call rate of EUR 2 per kg of non-collected waste,
+            would incentivise waste reduction and encourage separate collection. At the same
+            time, it should be left to the discretion of the Member States to take the most suitable
+            measures to achieve those goals, in line with the principle of subsidiarity.
+
+    (12) The call rates related to the plastics packaging waste own resource and e-waste own
+            resource should reflect the evolution of the general level of prices for goods and
+            services and therefore be adjusted to annual inflation.
+
+    (13) The EU Emissions Trading System (‚ÄòETS‚Äô), established by Directive 2003/87/EC of
+            the European Parliament and of the Council, is a central part of the climate policy of
+            the Union. Considering the close link of emissions trading to the climate policy
+            objectives of the Union, it is appropriate to allocate a share of the revenues auctioned
+            pursuant to articles 3d and 10 to the Union budget. 30 % of these auction revenues
+            should be transferred to the Union budget.
+
+    (14) The emissions trading own resources includes a share of revenues generated from the
+            auctioning of allowances in certain sectors falling under the scope of Directive
+            2003/87/EC. Under Directive 2003/87/EC and Regulation (EU) 2018/842 of the
+            European Parliament and of the Council4, Member States may decide not to auction
+            some of the total quantity of allowances specified under Directive 2003/87/EC or to
+            have it transferred and auctioned for the Modernisation Fund established by that
+            Directive. Those allowances should also be used to calculate the amount of own
+            resources based on emission trading. It is appropriate to exclude allowances for the
+            initial endowment of the Modernisation Fund as well as allowances for the Innovation
+            Fund.
+
+    (15) Regulation (EU) 2023/956 of the European Parliament and of the Council5 establishes
+            a carbon border adjustment mechanism to complement the EU emissions trading
+            system and to ensure the effectiveness of the climate policy of the Union. Considering
+            the close link of the carbon border adjustment mechanism to the Union‚Äôs climate
+            policy, a share of the revenues from the sale of certificates should be transferred to the
+            Union budget as an own resource.
+
+    4  Regulation (EU) 2018/842 of the European Parliament and of the Council of 30 May 2018 on binding
+
+       annual greenhouse gas emission reductions by Member States from 2021 to 2030 contributing to
+
+       climate action to meet commitments under the Paris Agreement and amending Regulation (EU) No
+
+       525/2013 (OJ L 156, 19.6.2018, p. 26).
+
+    5  Regulation (EU) 2023/956/EC of the European Parliament and of the Council establishing a carbon
+
+    border adjustment mechanism (OJ L 130, 16.05.2023, p. 52).
+
+EN                                             3                                                         EN
+    (16) Adjustments to own resources increase the complexity and opacity of the own
+            resources system. To address this, and ensure transparency of the own resources
+            system, the capping of the VAT base and the lump sum reductions applied to the non-
+            recycled plastic packaging waste own resource and the GNI own resource are
+            discontinued.
+
+    (17) A sufficient margin should be preserved under the own resources ceilings for the
+            Union to cover all of its financial obligations and contingent liabilities falling due in
+            any given year. The total amount of own resources allocated to the Union to cover
+            annual appropriations for payments should not exceed 1.75 % of the sum of all the
+            Member States‚Äô GNIs. The total annual amount of appropriations for commitments
+            entered in the Union budget should not exceed 1.81 % of the sum of all the Member
+            States‚Äô GNIs.
+
+    (18) The GNI should be defined as annual GNI at market prices as provided by the
+            Commission in application of the European System of Accounts 2010 (‚ÄòESA 2010‚Äô)
+            within the meaning of Regulation (EU) No 549/2013 of the European Parliament and
+            of the Council6 (‚ÄòESA 2010‚Äô). Following the adoption by the United Nations of the
+            ‚ÄòSystem of National Accounts 2025‚Äô, it is expected for ESA 2010 to be revised in the
+            coming years in the form of a new European System of Accounts (‚Äòthe revised ESA‚Äô).
+            It is appropriate to provide for rules on how such revision would impact the GNI
+            definition. Once applicable, GNI should be defined as annual GNI at market prices as
+            provided for in application of the revised ESA. In the event that the revised ESA
+            entails a significant change in the level of GNI, the ceilings for own resources for
+            payment and commitment appropriations should be adapted. However, a safeguard
+            should ensure that adaptation does not lead to a downward adjustment of the ceilings
+            in euro.
+
+    (19) Rules should be provided to allow a smooth transition to the application of the revised
+            ESA. To avoid retrospective changes in the applicable accounting system, the ESA
+            2010 should continue to apply for the determination of GNI of the Member States and
+            for the own resources ceilings in respect of the years where the GNI has been
+            established for the first time under ESA 2010.
+
+    (20) Recent years have shown that the frequency, severity and depth of crises and hardships
+            affecting the Union or its Member States have increased. This underlined the
+            importance of ensuring that the Union has sufficient financial capacity to respond.
+            Since 2020 the Union‚Äôs budget has been equipped with several ad-hoc and temporary
+            instruments: NextGenerationEU, the Support for Unemployment Risks in an
+            Emergency (SURE) and the Security Action For Europe (SAFE). The Union needs to
+            continue to provide itself with the means to attain its objectives. Extraordinary
+            financial resources on an exceptional scale can be required in order to address the
+            budgetary consequences of such events, related to one or more exceptional event.
+
+    (21) Without sufficient budgetary capacity to provide loans backed by the own resources,
+            the budget architecture‚Äôs ability to respond efficiently and timely to crises, is limited.
+            It is therefore appropriate to establish a new limited, extraordinary and targeted tool to
+            respond solely to severe crises, severe hardship or serious threat thereof. This
+            extraordinary crisis tool should allocate the budgetary resources for the granting of
+            loans solely in the period of the upcoming MFF 2028-2034. The crisis mechanism
+
+    6  Regulation (EU) No 549/2013 of the European Parliament and of the Council of 21 May 2013 on the
+
+       European system of national and regional accounts in the European Union (OJ L 174, 26.6.2013, p. 1).
+
+EN     4                                                                                                     EN
+            should not be activated where Union programmes already adequately address the
+            consequences of the situation.
+
+    (22) The recourse to this extraordinary and targeted crisis response tool should be decided
+            by the Council ad hoc taking into account the specificities and needs arising while
+            recognising the role of the European Council in providing the necessary impetus for
+            the development of the Union and in defining the general political directions and
+            priorities including in times of crises, hardships or threats thereof. The Council should
+            act by means of a Council Regulation, adopted in accordance with the procedure set
+            out in Article 311(4) TFEU, after obtaining the consent of the European Parliament.
+            The Council Regulation should authorize the amount of the loans. The modalities and
+            rules establishing the allocation of the amounts of loans determined in the Council
+            Regulation should be set in the basic act to be adopted or adapted in the light of the
+            needs arising to address the situation.
+
+    (23) The borrowed funds which are used to provide loans to Member States should be
+            repaid using the sums received from the beneficiary Member States. To allow the
+            Union to bear the contingent liability related to the envisaged borrowing of funds for
+            loans, an extraordinary and temporary increase in the own resources ceilings is
+            necessary. The ceiling for appropriations for payments and the ceiling for
+            appropriations for commitments should each be increased by 0.25 percentage points.
+            The sole purpose of the increase should be to cover all liabilities of the Union resulting
+            from its borrowing for loans to address the consequences of such events.
+
+    (24) The empowerment of the Commission to borrow funds on capital markets on behalf of
+            the Union for the sole and exclusive purpose of financing extraordinary measures in
+            the form of loans to address the consequences of such crises should be closely related
+            to the increase in the own resources ceilings foreseen in this Decision and, ultimately,
+            to the functioning of the system of own resources of the Union. Accordingly, the
+            empowerment should be included in this Decision. The extraordinary nature of this
+            operation and the exceptional amount of the funds to be borrowed call for certainty
+            about the overall volume of the Union‚Äôs liability. In view of the envisaged volume, it
+            is appropriate to use for the borrowing the diversified funding strategy, which is the
+            standard method under Article 224 of the Financial Regulation7.
+
+    (25) However, the extraordinary increase in the own resources ceilings is necessary since
+            the standard ceilings would not be sufficient to ensure the availability of adequate
+            resources that the Union needs to cover the contingent liabilities resulting from the
+            extraordinary and temporary empowerment to borrow funds for loans.
+
+    (26) It is appropriate to maintain the rule that the Union should not use funds borrowed on
+            capital markets for the financing of operational expenditure as external assigned
+            revenue, which generates commitment and payment appropriations for the Union
+            budget. The empowerment of the Commission to use borrowed funds for expenditure
+            should remain limited to the extraordinary and temporary nature of addressing the
+            consequences of COVID-19 crisis through the European Union Recovery Instrument.
+
+    7  Regulation (EU, Euratom) 2024/2509 of the European Parliament and of the Council of 23 September
+
+       2024 on the financial rules applicable to the general budget of the Union (recast) (OJ L, 2024/2509,
+
+       26.9.2024).
+
+EN                  5                                                                                        EN
+    HAS ADOPTED THIS DECISION:
+
+                                                        Article 1
+                                                    Subject matter
+
+    This Decision lays down rules on the allocation of own resources to the Union in order to
+    ensure the financing of the Union‚Äôs annual budget.
+
+                                                        Article 2
+                                                      Definitions
+
+    For the purposes of this Decision, the following definitions shall apply:
+
+    (1) ‚Äònet turnover‚Äô means the net turnover as defined in paragraph 5 of Article 2 of
+              Directive 2013/34/EU8 or under national law;
+
+    (2) ‚Äòcompany‚Äô means any legal person or legal arrangement (‚Äòentity‚Äô) that is resident for
+              tax purposes in a Member State and any permanent establishment located in a
+              Member State of entities resident, for tax purposes, in a third country, in respect of
+              which there is an obligation to report net turnover. However, companies shall not
+              include governmental entities, international organisations and non-profit
+              organisations;
+
+    (3) ‚Äòmanufactured tobacco‚Äô means products as defined in Article 2 and following of
+              Council Directive 2011/64/EU9;
+
+    (4) ‚Äòtobacco related products‚Äô means products as defined in Article 2 and following of
+              [Council Directive [XXX]]10;
+
+    (5) ‚Äòthe minimum rate‚Äô applicable to each Member State means, for the purpose of point
+              (d) of paragraph 1 of Article 3, the minimum nominal value applicable in each
+              Member State for overall excise duty as defined in Articles 10 and 14 of Council
+              Directive 2011/64/EU;
+
+    (6) ‚Äòreleased for consumption‚Äô has the meaning as defined in paragraph 3 of Article 6 of
+              Council Directive (EU) 2020/26211;
+
+    (7) ‚Äòplastic‚Äô means plastic as defined in point (52) of paragraph 1 of Article 3 of
+              Regulation (EU) 2025/40 of the European Parliament and of the Council12;
+
+    (8) ‚Äòpackaging waste‚Äô means packaging waste as defined in point (25) of paragraph 1 of
+              Article 3 of Regulation (EU) 2025/40 of the European Parliament and of the Council;
+
+    8   Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual
+
+        financial statements, consolidated financial statements and related reports of certain types of
+
+        undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and
+
+        repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19).
+
+    9   Council Directive 2011/64/EU of 21 June 2011 on the structure and rates of excise duty applied to
+
+        manufactured tobacco (OJ L 176, 5.7.2011, p. 24).
+
+    10  Council Directive [XX] on the structure and rates of excise duty applied to manufactured tobacco and
+
+        tobacco related products (recast).
+
+    11  Council Directive (EU) 2020/262 of 19 December 2019 laying down the general arrangements for
+
+        excise duty (recast) (OJ L 58, 27.2.2020, p. 4).
+
+    12  Regulation (EU) 2025/40 of the European Parliament and of the Council of 19 December 2024 on
+
+        packaging and packaging waste, amending Regulation (EU) 2019/1020 and Directive (EU) 2019/904,
+
+        and repealing Directive 94/62/EC, (OJ L, 2025/40, 22.1.2025).
+
+EN                                                        6                                                   EN
+    (9) ‚Äòrecycling‚Äô means recycling as defined in paragraph 1 of Article 3 of Regulation
+              (EU) 2025/40 of the European Parliament and of the Council;
+
+    (10) ‚Äòelectrical and electronic equipment‚Äô means electrical and electronic equipment as
+              defined in point (a) of paragraph 1 of Article 3 of Directive 2012/19/EU of the
+              European Parliament and of the Council13;
+
+    (11) ‚Äòcollection‚Äô, means, for the purpose of point (f) of paragraph 1 of Article 3, collection
+              as referred to in paragraph 2 of Article 3 of Directive 2012/19/EU;
+
+    (12) ‚Äòplaced on market‚Äô, means, for the purpose of point (f) of paragraph 1 of Article 3,
+              placing on the market as defined in point (k) of paragraph 1 of Article 3 of Directive
+              2012/19/EU of the European Parliament and of the Council.
+
+                                              Article 3
+        Categories of own resources and specific methods for their calculation
+
+    1.  Revenue from the following shall constitute own resources entered in the Union
+
+        budget:
+
+    (a) traditional own resources consisting of levies, premiums, additional or compensatory
+              amounts, additional amounts or factors, Common Customs Tariff duties and other
+              duties established or to be established by the institutions of the Union in respect of
+              trade with third countries, customs duties on products under the expired Treaty
+              establishing the European Coal and Steel Community, as well as contributions and
+              other duties provided for within the framework of the common organisation of the
+              markets in sugar;
+
+    (b) annual contributions from companies in respect of their annual net turnover. The
+              annual contribution from each company is determined according to the following
+              scale:
+
+        i. net turnover from EUR 100 000 000,01 to EUR 249 999 999,99 a contribution
+
+        of EUR 100 000;
+
+        ii. net turnover from EUR 250 000 000 to EUR 499 999 999,99 a contribution of
+              EUR 250 000;
+
+        iii. net turnover from EUR 500 000 000 to EUR 749 999 999,99 a contribution of
+              EUR 500 000;
+
+        iv. net turnover of EUR 750 000 000 or more a contribution of EUR 750 000;
+
+    (c) the application of a uniform call rate of 0,30 % for all Member States to the total
+              amount of VAT revenues collected in respect of all taxable supplies divided by the
+
+    13  Directive 2012/19/EU of the European Parliament and of the Council of 4 July 2012 on waste electrical
+
+        and electronic equipment (WEEE) (recast) (OJ L 197, 24.7.2012, p. 38).
+
+EN                       7                                                                                     EN
+              weighted average VAT rate calculated for the relevant calendar year as provided in
+              Council Regulation (EEC, Euratom) No 1553/8914;
+
+    (d) the application of a uniform call rate of 15 % for all Member States to amounts of
+              manufactured tobacco and to amounts of tobacco related products released for
+              consumption multiplied by the minimum rate applicable to each Member State in a
+              calendar year;
+
+    (e) the application of a uniform call rate to the weight of plastic packaging waste
+              generated in each Member State that is not recycled. The uniform call rate shall be
+              EUR 1 per kilogram;
+
+              The weight of plastic packaging waste that is not recycled shall be calculated as the
+              difference between the weight of the plastic packaging waste generated in a Member
+              State in a given year and the weight of the plastic packaging waste recycled in that
+              year. For the purpose of calculating the plastic packaging waste generated, the
+              Member States shall use both approaches as referred to in points (a) and (b) of
+              paragraph 2 of Article 53 of Regulation (EU) 2025/40, which shall be adjusted to
+              ensure the comparability, reliability and exhaustiveness of the results.
+
+    (f) the application of a uniform call rate to the weight of electrical and electronic
+              equipment in each Member State that is not collected annually. The uniform call rate
+              shall be EUR 2 per kilogram;
+
+              The weight of electrical and electronic equipment that is not collected in a Member
+              State in a given year (N) shall be calculated as the annual average weight of electrical
+              and electronic equipment placed on the market in the three preceding years (N-1, N-
+              2, N-3) reduced by the weight of waste electrical and electronic equipment collected
+              in year N.
+
+              In case the difference is negative, the weight of electrical and electronic equipment
+              that is not collected in a Member State shall be considered to be zero.
+
+    (g) the application of a uniform rate of 30 % to:
+
+                     (1) the revenues generated from the auctioning of allowances by the Member
+                             States pursuant to Articles 3d and 10 of Directive 2003/87/EC of the
+                             European Parliament and of the Council15;
+
+                     (2) the amount calculated by multiplying the annual amount of allowances in
+                             respect of which the relevant Member State applies any of the following:
+
+                             (a) the possibility of limited cancellation referred to in paragraph 1 of
+                                    Article 6 of Regulation (EU) 2018/842 of the European Parliament
+                                    and of the Council16;
+
+    14  Council Regulation (EEC, Euratom) No 1553/89 of 29 May 1989 on the definitive uniform
+
+        arrangements for the collection of own resources accruing from value added tax (OJ L 155, 7.6.1989, p.
+
+        9).
+
+    15  Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establishing a
+
+        scheme for greenhouse gas emission allowance trading within the Community and amending Council
+
+        Directive 96/61/EC (OJ L 275, 25.10.2003, p. 32).
+
+    16  Regulation (EU) 2018/842 of the European Parliament and of the Council of 30 May 2018 on binding
+
+        annual greenhouse gas emission reductions by Member States from 2021 to 2030 contributing to
+
+        climate action to meet commitments under the Paris Agreement and amending Regulation (EU) No
+
+        525/2013 (OJ L 156, 19.6.2018, p. 26).
+
+EN                                              8                                                               EN
+         (b) the use of allowances referred to in paragraph 4 of Article 10d of
+                Directive 2003/87/EC to auctioning for the Modernisation Fund
+                referred to in paragraph 3 of Article 10d of that Directive;
+
+         with the average weighted price of allowances auctioned on the common
+         auction platform by Member States pursuant to Articles 3d and 10 of
+         Directive 2003/87/EC in the year in which these allowances would have
+         been auctioned.
+
+    (h) the application of a uniform call rate of 75 % of the revenues from the sale of
+
+              certificates of the carbon border adjustment mechanism established by Regulation
+              (EU) 2023/95617;
+
+    (i)  the application of a uniform call rate, to be determined pursuant to the budgetary
+
+         procedure in the light of the total of all other revenue, to the sum of GNI of all the
+
+         Member States.
+
+    2.   For the purpose of points (e) and (f) of paragraph 1, the respective call rate shall be
+
+         measured in 2028 prices and adjusted to current prices by applying the most recent
+
+         gross domestic product deflator for the Union expressed in euro, as provided by the
+
+         Commission, which is available when the draft budget is drawn up.
+
+    3.   For the purposes of point (i) of paragraph 1, the uniform call rate shall apply to the
+
+         GNI of each Member State.
+
+         GNI as referred to in point (i) of paragraph 1 means annual GNI at market prices, as
+         provided by the Commission in application of Regulation (EU) No 549/201318, as
+         amended by Regulation (EU) 2023/73419, until the revised ESA becomes applicable.
+
+         Where the GNI has been established in respect of a particular year for the first time
+
+         in accordance with ESA 2010, for the purposes of this paragraph the ESA 2010 shall
+
+         continue to apply.
+
+    4.   If, at the beginning of the financial year, the Union budget has not been adopted, the
+
+         previous uniform call rates based on GNI shall continue to apply until the entry into
+
+         force of the new rates.
+
+                                           Article 4
+                                  Own resources ceilings
+
+    1.   The total amount of own resources allocated to the Union to cover annual
+
+         appropriations for payments shall not exceed 1.75 % of the sum of all the Member
+
+         States‚Äô GNIs.
+
+    2.   The total annual amount of appropriations for commitments entered in the Union
+
+         budget shall not exceed 1.81 % of the sum of all the Member States‚Äô GNIs.
+
+    17   Regulation (EU) 2023/956 of the European Parliament and of the Council establishing a carbon border
+
+         adjustment mechanism (OJ L 130, 16.05.2023, p. 52).
+
+    18   Regulation (EU) No 549/2013 of the European Parliament and of the Council of 21 May 2013 on the
+
+         European system of national and regional accounts in the European Union (OJ L 174, 26.6.2013, p. 1).
+
+    19   Regulation (EU) 2023/734 of the European Parliament and of the Council of 15 March 2023 amending
+
+         Regulation (EU) No 549/2013 on the European system of national and regional accounts in the
+
+         European Union and repealing 11 legal acts in the field of national accounts (OJ L 97, 5.4.2023, p. 1).
+
+EN                                  9                                                                             EN
+    3.  An orderly ratio between appropriations for commitments and appropriations for
+
+        payments shall be maintained to guarantee their compatibility and to enable the
+
+        ceiling set in paragraph 1 to be complied with in subsequent years.
+
+    4.  Where amendments to Regulation (EU) No 549/2013, in particular those introducing
+
+        the revised ESA, result in significant changes in the level of GNI, the Commission
+
+        shall recalculate the ceilings set out in paragraphs 1 and 2 on the basis of the
+
+        following formula:
+
+        Ì†µÌ±•%(Ì†µÌ±¶%)    √ó   Ì†µÌ∞∫Ì†µÌ±ÅÌ†µÌ∞ºÌ†µÌ±°‚àí2 + Ì†µÌ∞∫Ì†µÌ±ÅÌ†µÌ∞ºÌ†µÌ±°‚àí1 + Ì†µÌ∞∫Ì†µÌ±ÅÌ†µÌ∞ºÌ†µÌ±° Ì†µÌ∞∏Ì†µÌ±ÜÌ†µÌ∞¥ Ì†µÌ±êÌ†µÌ±¢Ì†µÌ±üÌ†µÌ±üÌ†µÌ±íÌ†µÌ±õÌ†µÌ±°
+                       Ì†µÌ∞∫Ì†µÌ±ÅÌ†µÌ∞ºÌ†µÌ±°‚àí2 + Ì†µÌ∞∫Ì†µÌ±ÅÌ†µÌ∞ºÌ†µÌ±°‚àí1 + Ì†µÌ∞∫Ì†µÌ±ÅÌ†µÌ∞ºÌ†µÌ±° Ì†µÌ∞∏Ì†µÌ±ÜÌ†µÌ∞¥ Ì†µÌ±öÌ†µÌ±úÌ†µÌ±ëÌ†µÌ±ñÌ†µÌ±ìÌ†µÌ±ñÌ†µÌ±íÌ†µÌ±ë
+
+        where:
+
+        ‚Äî           ‚Äòx %‚Äô is the own resources ceiling for appropriations for payments;
+
+        ‚Äî           ‚Äòy %‚Äô is the own resources ceiling for appropriations for commitments;
+
+        ‚Äî           ‚Äòt‚Äô is the latest full year for which the data defined by Regulation (EU)
+
+                    2019/516 is available,
+
+        ‚Äî           ‚ÄòESA‚Äô is the European system of national and regional accounts in the
+
+                    Union.
+
+        The adjustments shall apply as of the year in respect of which the GNI is to be
+        established for the first time in line with revised ESA. Where the GNI has been
+        established in respect of a particular year for the first time in accordance with ESA
+        2010, for the purposes of this paragraph the ESA 2010 shall continue to apply.
+
+        In the event that such a recalculation of the ceilings set out in paragraphs 1 and 2
+        would lead to a downward adjustment in euro, the results of that recalculation shall
+        not be taken into account for the purposes of this paragraph.
+
+                                                        Article 5
+                                   Use of funds borrowed on capital markets
+
+    The Union shall not use funds borrowed on capital markets for the financing of operational
+    expenditure.
+
+                                                      Article 6
+    Extraordinary borrowing to address the consequences of severe crises, severe hardship or
+
+                               serious threat thereof in the period 2028-2034
+
+    1.  In the event of a severe crisis, severe hardship or serious threat thereof affecting the
+
+        Union or its Member States, the Council may activate, by means of a Regulation
+
+        adopted in accordance with the procedure set out in Article 311(4) TFEU, an
+
+        extraordinary borrowing for the sole purpose of addressing the consequences of such
+
+        situation.
+
+    2.  Within the overall limit of the amounts referred to in Article 7, the Council
+
+        Regulation may authorise borrowing for loans to Member States, provided that the
+
+        respective loan agreements enter into force between 1 January 2028 and 31
+
+        December 2034.
+
+EN                                          10                                                    EN
+    3.  The procedure established in the first paragraph shall not be activated where Union
+
+        programmes already adequately address the consequences of the situation.
+
+                                                       Article 7
+    Maximum amount of extraordinary borrowing to address the consequences of severe crises,
+
+                    severe hardship or serious threat thereof in the period 2028-2034
+
+    1.  The Commission shall be empowered to borrow funds on capital markets on behalf
+
+        of the Union provided that the conditions referred to in Article 6 are complied with
+
+        and within the limits set out in paragraph 2 of this Article. The borrowing operations
+
+        shall be carried out in accordance with Article 224 of Regulation (EU, Euratom)
+
+        2024/2509 and in euro.
+
+    2.  The sum of outstanding principal amounts which the Commission may be authorised
+
+        to borrow on capital markets for such financing shall be limited to the amount,
+
+        which, in view of the forecast multiannual evolution of contingent liabilities resulting
+
+        from the borrowing by the Commission on behalf of the Union is compatible with
+
+        the ceiling set out in Article 8.
+
+                                                        Article 8
+                  Extraordinary and temporary increase in the own resources ceilings
+
+    The ceilings set out in paragraphs 1 and 2 of Article 4 shall each be temporarily increased by
+    0.25 percentage points for the sole purpose of covering all liabilities of the Union resulting
+    from the borrowing for loans referred to in Article 7 until all such liabilities have ceased to
+    exist.
+
+    The increase in the own resources ceilings shall not be used to cover any other liabilities of
+    the Union.
+
+                                                        Article 9
+                                               Universality principle
+
+    The revenue referred to in Article 3 shall be used without distinction to finance all
+    expenditure entered in the Union‚Äôs annual budget.
+
+                                                       Article 10
+                                               Carry-over of surplus
+
+    Any surplus of the Union‚Äôs revenue over total actual expenditure during a financial year shall
+    be carried over to the following financial year.
+
+                                               Article 11
+        Collecting own resources and making them available to the Commission
+
+    1.  The own resource referred to in point (b) of paragraph 1 of Article 3 shall be due by
+
+        each company.
+
+    2.  The Member States shall collect the own resources referred to in points (a) and (b) of
+
+        paragraph 1 of Article 3 in accordance with relevant Union legislation, the rules
+
+        adopted under Article 12 and the national laws, regulations and administrative
+
+        provisions necessary for ensuring the collection, including recovery, enforcement
+
+        measures, sanctions and administrative penalties in cases of non-compliance. The
+
+        Member States shall adopt or adapt those provisions to meet the requirements of
+
+EN                                         11                                                        EN
+        Union rules, taking due account of the principles of sound financial management and
+        protection of Union financial interests.
+
+        The Commission shall examine the relevant national provisions communicated to it
+        by Member States, transmit to Member States the adjustments it deems necessary in
+        order to ensure that they comply with Union rules and report, if necessary, to the
+        European Parliament and the Council.
+
+    3.  Member States shall retain, by way of collection costs, 10 % of the amounts referred
+
+        to in point (a) of paragraph 1 of Article 3.
+
+    4.  Member States shall make the own resources provided for in paragraph 1 of Article 3
+
+        of this Decision available to the Commission, in accordance with regulations adopted
+
+        under Article 322(2) TFEU. Those regulations shall also establish rules on liability of
+
+        the Member States towards the Union in respect of collection and recovery of the
+
+        own resources referred to in points (a) and (b) of paragraph 1 of Article 3 from
+
+        customs debtors and companies.
+
+                                                       Article 12
+                                              Implementing measures
+    The Council may lay down implementing measures in accordance with the procedure set out
+    in the fourth paragraph of Article 311 TFEU as regards the following elements of the system
+    of own resources of the Union:
+    (a) the procedure for the calculation of the annual budgetary balance as set out in Article
+              10;
+    (b) the provisions and arrangements necessary for controlling and supervising the
+              collection of the own resources referred to in paragraph 1 of Article 3 and any
+              relevant reporting requirements;
+    (c) in respect of the own resource referred to in point (b) of paragraph 1 of Article 3,
+                i. rules regarding the obligations of companies with regard to the contribution;
+
+                ii. any rule necessary for the practical functioning of the collection of the
+                      contribution by the Member States from the companies, including those related
+
+                      to administrative procedures, forms, late payment interests, control measures
+                      and any relevant measures regarding recovery, and sanctions and
+
+                      administrative penalties in cases of non-compliance by the companies;
+
+                iii. the rules for the conversion of the thresholds and amounts of contribution into
+
+                      national currencies in case of Member States whose currency is not the euro;
+
+    (d) in respect of the own resource referred to in point (e) of paragraph 1 of Article 3,
+              provisions on adjustments to ensure the comparability, reliability and exhaustiveness
+              of the results related to weight of plastic packaging waste generated.
+
+EN                                      12                                                            EN
+                                 Article 13
+                   Final and transitional provisions
+
+    1.  Subject to paragraphs 2, 3 and 4, Council Decision (EU, Euratom) 2020/2053 is
+
+        repealed.
+
+        Any references to Council Decision 70/243/ECSC, EEC, Euratom20, to Council
+        Decision 85/257/EEC, Euratom21, to Council Decision 88/376/EEC, Euratom22, to
+        Council Decision 94/728/EC, Euratom23, to Council Decision 2000/597/EC,
+        Euratom24, to Council Decision 2007/436/EC, Euratom25, to Council Decision
+        2014/335/EU, Euratom26 or to Council Decision (EU, Euratom) 2020/205327 shall be
+
+        construed as references to this Decision; references to the repealed Decision shall be
+
+        read in accordance with the correlation table in the Annex to this Decision.
+
+    2.  Articles 2, 4 and 5 of Decision 94/728/EC, Euratom, Articles 2, 4 and 5 of Decision
+
+        2000/597/EC, Euratom, Articles 2, 4 and 5 of Decision 2007/436/EC, Euratom and
+
+        Articles 2, 4 and 5 of Decision 2014/335/EU, Euratom and Article 2 of Council
+
+        Decision (EU, Euratom) 2020/2053 shall continue to apply to the calculation and
+
+        adjustment of revenue accruing from the application of the rate of call to the VAT
+
+        base determined in a uniform manner and limited to between 50 % and 55 % of the
+
+        GNP or GNI of each Member State, depending on the relevant year.
+
+    3.  Articles 5, 6 and 9(4) to (9) of Council Decision (EU, Euratom) 2020/2053 shall
+
+        continue to apply for the purpose of the extraordinary and temporary additional
+
+        means to address the consequences of the COVID-19 crisis.
+
+    4.  The European System of Accounts as referred to in paragraph 3 of Article 2 of
+
+        Council Decision 2020/2053 shall continue to be the ESA 2010.
+
+    5.  Member States shall continue to retain, by way of collection costs, 10 % of the
+
+        amounts referred to in point (a) of Article 3(1) which should have been made
+
+        available by the Member States before 28 February 2001 in accordance with the
+
+        applicable Union rules.
+
+    6.  Member States shall continue to retain, by way of collection costs, 25 % of the
+
+        amounts referred to in point (a) of Article 3(1) which should have been made
+
+        available by the Member States between 1 March 2001 and 28 February 2014 in
+
+        accordance with the applicable Union rules.
+
+    20  Council Decision 70/243/ECSC, EEC, Euratom of 21 April 1970 on the replacement of financial
+
+        contributions from Member States by the Communities‚Äô own resources (OJ L 94, 28.4.1970, p. 19).
+
+    21  Council Decision 85/257/EEC, Euratom of 7 May 1985 on the Communities‚Äô system of own resources
+
+        (OJ L 128, 14.5.1985, p. 15).
+
+    22  Council Decision 88/376/EEC, Euratom of 24 June 1988 on the system of the Communities‚Äô own
+
+        resources (OJ L 185, 15.7.1988, p. 24).
+
+    23  Council Decision 94/728/EC, Euratom of 31 October 1994 on the system of the European
+
+        Communities‚Äô own resources (OJ L 293, 12.11.1994, p. 9).
+
+    24  Council Decision 2000/597/EC, Euratom of 29 September 2000 on the system of the European
+
+        Communities‚Äô own resources (OJ L 253, 7.10.2000, p. 42).
+
+    25  Council Decision 2007/436/EC, Euratom of 7 June 2007 on the system of the European Communities‚Äô
+
+        own resources (OJ L 163, 23.6.2007, p. 17).
+
+    26  Council Decision 2014/335/EU, Euratom of 26 May 2014 on the system of own resources of the
+
+        European Union (OJ L 168, 7.6.2014, p. 105).
+
+    27  Council Decision (EU, Euratom) 2020/2053 of 14 December 2020 on the system of own resources of
+
+        the European Union and repealing Decision 2014/335/EU, Euratom (OJ L 424, 15.12.2020, p. 1).
+
+EN                                                    13                                                 EN
+    7.  Member States shall continue to retain, by way of collection costs, 20 % of the
+
+        amounts referred to in point (a) of Article 3(1) which should have been made
+
+        available by the Member States between 1 March 2014 and 28 February 2021 in
+
+        accordance with the applicable Union rules.
+
+    8.  Member States shall continue to retain, by way of collection costs, 25 % of the
+
+        amounts referred to in point (a) of Article 3(1) which should have been made
+
+        available by the Member States between 1 March 2021 and 29 February 2028 in
+
+        accordance with the applicable Union rules.
+
+    9.  In the period between [1 November 2026] and 31 December 2027, by derogation
+
+        from paragraph 3 of Article 9 and the rules adopted pursuant to point (b) of Article
+
+        10 of Decision (EU, Euratom) 2020/2053, amounts of traditional own resources
+
+        related to the handling of the release for free circulation of goods sold in distance
+
+        sales shall not be made available and the rules related to controls, supervision and
+
+        reporting shall not apply to those amounts.
+
+    10. For the purposes of this Decision, all monetary amounts shall be expressed in euro.
+
+                                                       Article 14
+                                                   Entry into force
+
+    The Secretary-General of the Council shall notify the Member States of this Decision.
+
+    Member States shall notify the Secretary-General of the Council without delay of the
+    completion of the procedures for the adoption of this Decision in accordance with their
+    respective constitutional requirements.
+
+    This Decision shall enter into force on the first day of the first month following receipt of the
+    last of the notifications referred to in the second paragraph.
+
+    It shall apply from [1 January 2028].
+
+    However, point (b) of paragraph 1 of Article 3 shall apply from 1 January of the first calendar
+    year following the year in which this Decision has entered into force.
+
+                                                       Article 15
+                                                      Addressees
+
+    This Decision is addressed to the Member States.
+
+    Done at Brussels,
+
+        For the Council
+        The President
+
+EN      14                                                                                             EN
+

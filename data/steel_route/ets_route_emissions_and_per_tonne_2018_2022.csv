@@ -1,0 +1,6 @@
+year,blast_furnace_route_incl_coke_sinter_Mt_CO2e,electric_arc_route_direct_Mt_CO2e,taetigkeit11_processing_Mt_CO2e,oxygen_steel_output_kt,electric_steel_output_kt,BF_route_tCO2e_per_t_oxygen_steel,EAF_route_tCO2e_per_t_electric_steel,source_DEHSt_pdf_pages,note
+2018,31.4,,5.294,29732,12703,1.056,,"VET 2019 p.43: Hochofenroute 2018 31.4 Mt; Elektrostahl ""etwa 1.2"" Mt (approximate, not used); Taetigkeit 11 5,294 kt (Tabelle 9)",
+2019,29.7,1.029,4.749,27722,11905,1.071,0.086,"VET 2019 p.43 (BF 29.7 Mt, EAF c.1.0 Mt) and VET 2020 p.48 (EAF 1,029,000 t; Taetigkeit 11 4,749 kt)",
+2020,26.2,0.989,4.115,24169,11531,1.084,0.086,"VET 2020 p.48 (BF 26.2 Mt; EAF 989,000 t; Taetigkeit 11 4,115 kt)",route output derived from 35.7 Mt x published 67.7/32.3 %
+2021,29.6,1.068,4.354,28150,12091,1.052,0.088,"VET 2021 p.43 (BF 29.6 Mt; EAF 1,068,000 t; Taetigkeit 11 4,354 kt)",
+2022,28.0,0.945,4.058,25873,10987,1.082,0.086,"VET 2022 p.43 (BF 28.0 Mt; EAF 945,000 t; Taetigkeit 11 4,058 kt)",

@@ -1,0 +1,569 @@
+heading,level,code_type,code,description,flow,first_year_with_value,last_year_with_value,years_with_value,cumulative_value_eur_1999_2025
+7204,HS6,regular,720410,"Waste and scrap, of cast iron (excl. radioactive)",import,1999,2025,27,98945373
+7204,CN8,regular,72041000,"Waste and scrap, of cast iron (excl. radioactive)",import,1999,2025,27,98945373
+7204,HS6,regular,720421,"Waste and scrap of stainless steel (excl. radioactive, and waste and scrap of batteries an",import,1999,2025,27,2938903690
+7204,CN8,regular,72042110,"Waste and scrap of stainless steel, containing by weight >= 8% nickel (excl. radioactive, ",import,1999,2025,27,2522043632
+7204,CN8,regular,72042190,"Waste and scrap of stainless steel (not containing >= 8% nickel, radioactive, or waste and",import,1999,2025,27,416860058
+7204,HS6,regular,720429,"Waste and scrap of alloy steel (excl. stainless steel, and waste and scrap, radioactive, o",import,1999,2025,27,327492873
+7204,CN8,regular,72042900,"Waste and scrap of alloy steel (excl. stainless steel, and waste and scrap, radioactive, o",import,1999,2025,27,327492873
+7204,HS6,regular,720430,"Waste and scrap of tinned iron or steel (excl. radioactive, and waste and scrap of batteri",import,1999,2025,27,20141516
+7204,CN8,regular,72043000,"Waste and scrap of tinned iron or steel (excl. radioactive, and waste and scrap of batteri",import,1999,2025,27,20141516
+7204,HS6,regular,720441,"Turnings, shavings, chips, milling waste, sawdust, filings, trimmings and stampings of iro",import,1999,2025,27,244047546
+7204,CN8,regular,72044110,"Turnings, shavings, chips, milling waste, sawdust and filings, of iron or steel, whether o",import,1999,2025,27,95743689
+7204,CN8,regular,72044191,"Trimmings and stampings, of iron or steel, in bundles (excl. such items of cast iron, allo",import,1999,2021,19,3100179
+7204,CN8,regular,72044199,"Trimmings and stampings, of iron or steel, not in bundles (excl. such items of cast iron, ",import,1999,2025,27,145203678
+7204,HS6,regular,720449,"Waste and scrap of iron or steel (excl. slag, scale and other waste of the production of i",import,1999,2025,27,2540941190
+7204,CN8,regular,72044910,"Waste and scrap of iron or steel, fragmentised ""shredded"" (excl. slag, scale and other was",import,1999,2025,27,1094858047
+7204,CN8,regular,72044930,"Waste and scrap of iron or steel, not fragmentised ""shredded"", in bundles (excl. slag, sca",import,1999,2025,25,15980946
+7204,CN8,regular,72044990,"Waste and scrap of iron or steel, not fragmentised ""shredded"", not in bundles (excl. slag,",import,2004,2025,22,1291634978
+7204,CN8,regular,72044991,"Waste and scrap of iron or steel, not fragmentised ""shredded"", not in bundles, not sorted ",import,1999,2003,5,22061021
+7204,CN8,regular,72044999,"Waste and scrap of iron or steel, not fragmentised ""shredded"", not in bundles, but sorted ",import,1999,2003,5,116406198
+7204,HS6,regular,720450,Remelting scrap ingots of iron or steel (excl. products whose chemical composition conform,import,1999,2025,27,165666582
+7204,CN8,regular,72045000,Remelting scrap ingots of iron or steel (excl. products whose chemical composition conform,import,2004,2025,22,92270945
+7204,CN8,regular,72045010,Remelted scrap ingots of alloy steel (excl. products with a chemical composition correspon,import,1999,2003,5,72702813
+7204,CN8,regular,72045090,Remelted scrap ingots of iron or non-alloy steel (excl. products with a chemical compositi,import,1999,2003,5,692824
+7204,HS6,regular,720410,"Waste and scrap, of cast iron (excl. radioactive)",export,1999,2025,27,186832408
+7204,CN8,regular,72041000,"Waste and scrap, of cast iron (excl. radioactive)",export,1999,2025,27,186832408
+7204,HS6,regular,720421,"Waste and scrap of stainless steel (excl. radioactive, and waste and scrap of batteries an",export,1999,2025,27,1939616229
+7204,CN8,regular,72042110,"Waste and scrap of stainless steel, containing by weight >= 8% nickel (excl. radioactive, ",export,1999,2025,27,1744579853
+7204,CN8,regular,72042190,"Waste and scrap of stainless steel (not containing >= 8% nickel, radioactive, or waste and",export,1999,2025,27,195036376
+7204,HS6,regular,720429,"Waste and scrap of alloy steel (excl. stainless steel, and waste and scrap, radioactive, o",export,1999,2025,27,407549055
+7204,CN8,regular,72042900,"Waste and scrap of alloy steel (excl. stainless steel, and waste and scrap, radioactive, o",export,1999,2025,27,407549055
+7204,HS6,regular,720430,"Waste and scrap of tinned iron or steel (excl. radioactive, and waste and scrap of batteri",export,2002,2025,20,9373863
+7204,CN8,regular,72043000,"Waste and scrap of tinned iron or steel (excl. radioactive, and waste and scrap of batteri",export,2002,2025,20,9373863
+7204,HS6,regular,720441,"Turnings, shavings, chips, milling waste, sawdust, filings, trimmings and stampings of iro",export,1999,2025,27,1416030175
+7204,CN8,regular,72044110,"Turnings, shavings, chips, milling waste, sawdust and filings, of iron or steel, whether o",export,1999,2025,27,370316489
+7204,CN8,regular,72044191,"Trimmings and stampings, of iron or steel, in bundles (excl. such items of cast iron, allo",export,1999,2025,27,237971248
+7204,CN8,regular,72044199,"Trimmings and stampings, of iron or steel, not in bundles (excl. such items of cast iron, ",export,1999,2025,27,807742438
+7204,HS6,regular,720449,"Waste and scrap of iron or steel (excl. slag, scale and other waste of the production of i",export,1999,2025,27,6196666574
+7204,CN8,regular,72044910,"Waste and scrap of iron or steel, fragmentised ""shredded"" (excl. slag, scale and other was",export,1999,2025,27,1156410418
+7204,CN8,regular,72044930,"Waste and scrap of iron or steel, not fragmentised ""shredded"", in bundles (excl. slag, sca",export,1999,2025,24,46331154
+7204,CN8,regular,72044990,"Waste and scrap of iron or steel, not fragmentised ""shredded"", not in bundles (excl. slag,",export,2004,2025,22,4621679443
+7204,CN8,regular,72044991,"Waste and scrap of iron or steel, not fragmentised ""shredded"", not in bundles, not sorted ",export,1999,2003,5,39859673
+7204,CN8,regular,72044999,"Waste and scrap of iron or steel, not fragmentised ""shredded"", not in bundles, but sorted ",export,1999,2003,5,332385886
+7204,HS6,regular,720450,Remelting scrap ingots of iron or steel (excl. products whose chemical composition conform,export,2000,2021,13,3078482
+7204,CN8,regular,72045000,Remelting scrap ingots of iron or steel (excl. products whose chemical composition conform,export,2006,2021,9,1968916
+7204,CN8,regular,72045010,Remelted scrap ingots of alloy steel (excl. products with a chemical composition correspon,export,2001,2003,3,972694
+7204,CN8,regular,72045090,Remelted scrap ingots of iron or non-alloy steel (excl. products with a chemical compositi,export,2000,2003,3,136872
+7207,HS6,regular,720711,"Semi-finished products of iron or non-alloy steel containing, by weight, &lt; 0,25% of car",import,1999,2025,27,290098934
+7207,CN8,regular,72071111,"Semi-finished products, of non-alloy free-cutting steel, containing by weight &lt; 0,25% c",import,1999,2025,17,840685
+7207,CN8,regular,72071114,"Semi-finished products, of iron or non-alloy steel, containing by weight &lt; 0,25% carbon",import,1999,2025,27,80028739
+7207,CN8,regular,72071116,"Semi-finished products, of iron or non-alloy steel, containing by weight &lt; 0,25% carbon",import,1999,2025,25,208940608
+7207,CN8,regular,72071190,"Semi-finished products of iron or non-alloy steel, containing by weight &lt; 0,25% carbon,",import,2000,2024,6,288902
+7207,HS6,regular,720712,"Semi-finished products of iron or non-alloy steel containing, by weight, &lt; 0,25% of car",import,1999,2025,27,3949817000
+7207,CN8,regular,72071210,"Semi-finished products of iron or non-alloy steel, containing by weight &lt; 0,25 of carbo",import,1999,2025,27,3943026451
+7207,CN8,regular,72071290,"Semi-finished products of iron or non-alloy steel, containing by weight &lt; 0,25% carbon,",import,1999,2025,14,6790549
+7207,HS6,regular,720719,"Semi-finished products of iron or non-alloy steel containing, by weight, &lt; 0,25% of car",import,1999,2025,27,50354620
+7207,CN8,regular,72071911,"Semi-finished products, of non-alloy free-cutting steel, containing by weight &lt; 0,25% c",import,2001,2001,1,0
+7207,CN8,regular,72071912,"Semi-finished products, of iron or non-alloy steel, containing by weight &lt; 0,25% carbon",import,2004,2025,22,25561669
+7207,CN8,regular,72071914,"Semi-finished products, of iron or non-alloy steel, containing by weight &lt; 0,25% carbon",import,1999,2003,5,11741292
+7207,CN8,regular,72071916,"Semi-finished products, of iron or non-alloy steel, containing by weight &lt; 0,25% carbon",import,1999,2003,4,558100
+7207,CN8,regular,72071919,"Semi-finished products of iron or non-alloy steel, containing by weight &lt; 0,25% carbon,",import,1999,2025,22,5684509
+7207,CN8,regular,72071939,"Blanks for angles, shapes and sections of iron or non-alloy steel, forged",import,2000,2001,2,1039027
+7207,CN8,regular,72071980,"Semi-finished products of iron or non-alloy steel, containing by weight &lt; 0,25% carbon ",import,2004,2025,21,5525445
+7207,CN8,regular,72071990,"Semi-finished products of iron or non-alloy steel, containing by weight &lt; 0,25% carbon ",import,1999,2003,5,244578
+7207,HS6,regular,720720,"Semi-finished products of iron or non-alloy steel containing, by weight, >= 0,25% of carbo",import,1999,2025,27,299076446
+7207,CN8,regular,72072011,"Semi-finished products, of non-alloy free-cutting steel, containing by weight >= 0,25% car",import,1999,2025,23,22053955
+7207,CN8,regular,72072015,"Semi-finished products of iron or non-alloy steel, containing by weight >= 0,25% but &lt; ",import,1999,2022,24,37859272
+7207,CN8,regular,72072017,"Semi-finished products of iron or non-alloy steel, containing by weight >= 0,6% carbon, of",import,2000,2025,26,51011169
+7207,CN8,regular,72072019,"Semi-finished products of iron or non-alloy steel, containing by weight >= 0,25% carbon, o",import,2007,2025,11,314900
+7207,CN8,regular,72072032,"Semi-finished products of iron or non-alloy steel, containing by weight >= 0,25 of carbon,",import,1999,2025,24,15274818
+7207,CN8,regular,72072039,"Semi-finished products of iron or non-alloy steel, containing by weight >= 0,25% carbon, o",import,2003,2025,23,1084645
+7207,CN8,regular,72072052,"Semi-finished products of iron or non-alloy steel, containing by weight >= 0,25% carbon, o",import,2004,2025,22,142625225
+7207,CN8,regular,72072055,"Semi-finished products of iron or non-alloy steel, containing by weight >= 0,25% but &lt; ",import,1999,2003,3,760775
+7207,CN8,regular,72072057,"Semi-finished products of iron or non-alloy steel, containing by weight >= 0,6% carbon, of",import,1999,2003,4,981768
+7207,CN8,regular,72072059,"Semi-finished products of iron or non-alloy steel, containing by weight >= 0,6% carbon, of",import,1999,2024,24,21289391
+7207,CN8,regular,72072079,"Blanks for angles, shapes and sections of iron or non-alloy steel, containing by weight >=",import,2001,2003,3,8638
+7207,CN8,regular,72072080,"Semi-finished products of iron or non-alloy steel, containing by weight >= 0,25% carbon (e",import,2004,2025,22,5522858
+7207,CN8,regular,72072090,"Semi-finished products of iron or non-alloy steel, containing by weight >= 0,25% carbon (e",import,1999,2003,5,289032
+7207,HS6,regular,720711,"Semi-finished products of iron or non-alloy steel containing, by weight, &lt; 0,25% of car",export,1999,2025,27,1404646807
+7207,CN8,regular,72071111,"Semi-finished products, of non-alloy free-cutting steel, containing by weight &lt; 0,25% c",export,1999,2025,26,473960917
+7207,CN8,regular,72071114,"Semi-finished products, of iron or non-alloy steel, containing by weight &lt; 0,25% carbon",export,1999,2025,27,615308617
+7207,CN8,regular,72071116,"Semi-finished products, of iron or non-alloy steel, containing by weight &lt; 0,25% carbon",export,1999,2025,27,315233517
+7207,CN8,regular,72071190,"Semi-finished products of iron or non-alloy steel, containing by weight &lt; 0,25% carbon,",export,2000,2022,11,143756
+7207,HS6,regular,720712,"Semi-finished products of iron or non-alloy steel containing, by weight, &lt; 0,25% of car",export,1999,2025,27,711885568
+7207,CN8,regular,72071210,"Semi-finished products of iron or non-alloy steel, containing by weight &lt; 0,25 of carbo",export,1999,2025,27,711873521
+7207,CN8,regular,72071290,"Semi-finished products of iron or non-alloy steel, containing by weight &lt; 0,25% carbon,",export,2006,2023,4,12047
+7207,HS6,regular,720719,"Semi-finished products of iron or non-alloy steel containing, by weight, &lt; 0,25% of car",export,1999,2025,27,104256682
+7207,CN8,regular,72071911,"Semi-finished products, of non-alloy free-cutting steel, containing by weight &lt; 0,25% c",export,1999,2003,5,269908
+7207,CN8,regular,72071912,"Semi-finished products, of iron or non-alloy steel, containing by weight &lt; 0,25% carbon",export,2004,2025,22,93922511
+7207,CN8,regular,72071914,"Semi-finished products, of iron or non-alloy steel, containing by weight &lt; 0,25% carbon",export,1999,2003,5,3978550
+7207,CN8,regular,72071916,"Semi-finished products, of iron or non-alloy steel, containing by weight &lt; 0,25% carbon",export,1999,2003,5,2033293
+7207,CN8,regular,72071919,"Semi-finished products of iron or non-alloy steel, containing by weight &lt; 0,25% carbon,",export,1999,2025,21,505671
+7207,CN8,regular,72071931,"Blanks for angles, shapes and sections of iron or non-alloy steel, rolled or obtained by c",export,2001,2001,1,2746
+7207,CN8,regular,72071980,"Semi-finished products of iron or non-alloy steel, containing by weight &lt; 0,25% carbon ",export,2004,2025,22,2959616
+7207,CN8,regular,72071990,"Semi-finished products of iron or non-alloy steel, containing by weight &lt; 0,25% carbon ",export,1999,2003,5,584387
+7207,HS6,regular,720720,"Semi-finished products of iron or non-alloy steel containing, by weight, >= 0,25% of carbo",export,1999,2025,27,518724910
+7207,CN8,regular,72072011,"Semi-finished products, of non-alloy free-cutting steel, containing by weight >= 0,25% car",export,1999,2023,23,24052397
+7207,CN8,regular,72072015,"Semi-finished products of iron or non-alloy steel, containing by weight >= 0,25% but &lt; ",export,1999,2025,27,265005430
+7207,CN8,regular,72072017,"Semi-finished products of iron or non-alloy steel, containing by weight >= 0,6% carbon, of",export,1999,2025,27,103682466
+7207,CN8,regular,72072019,"Semi-finished products of iron or non-alloy steel, containing by weight >= 0,25% carbon, o",export,2021,2021,1,20200
+7207,CN8,regular,72072032,"Semi-finished products of iron or non-alloy steel, containing by weight >= 0,25 of carbon,",export,1999,2025,27,21167272
+7207,CN8,regular,72072039,"Semi-finished products of iron or non-alloy steel, containing by weight >= 0,25% carbon, o",export,2021,2025,5,62489
+7207,CN8,regular,72072051,"Semi-finished products, of non-alloy free-cutting steel, containing by weight >= 0,25% car",export,1999,2003,5,37985
+7207,CN8,regular,72072052,"Semi-finished products of iron or non-alloy steel, containing by weight >= 0,25% carbon, o",export,2004,2025,22,74828749
+7207,CN8,regular,72072055,"Semi-finished products of iron or non-alloy steel, containing by weight >= 0,25% but &lt; ",export,1999,2003,5,8619395
+7207,CN8,regular,72072057,"Semi-finished products of iron or non-alloy steel, containing by weight >= 0,6% carbon, of",export,1999,2003,5,273426
+7207,CN8,regular,72072059,"Semi-finished products of iron or non-alloy steel, containing by weight >= 0,6% carbon, of",export,2001,2021,10,97143
+7207,CN8,regular,72072071,"Blanks for angles, shapes and sections of iron or non-alloy steel, containing by weight >=",export,2002,2002,1,89655
+7207,CN8,regular,72072079,"Blanks for angles, shapes and sections of iron or non-alloy steel, containing by weight >=",export,2000,2000,1,5205
+7207,CN8,regular,72072080,"Semi-finished products of iron or non-alloy steel, containing by weight >= 0,25% carbon (e",export,2004,2025,22,19966179
+7207,CN8,regular,72072090,"Semi-finished products of iron or non-alloy steel, containing by weight >= 0,25% carbon (e",export,1999,2003,5,816919
+7208,HS6,regular,720810,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",import,1999,2024,23,11061391
+7208,CN8,regular,72081000,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",import,1999,2024,23,11061391
+7208,HS6,regular,720825,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",import,1999,2025,27,36650561
+7208,CN8,regular,72082500,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",import,1999,2025,27,36650561
+7208,HS6,regular,720826,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",import,1999,2025,27,164219877
+7208,CN8,regular,72082600,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",import,1999,2025,27,164219877
+7208,HS6,regular,720827,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",import,1999,2025,27,329835321
+7208,CN8,regular,72082700,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",import,1999,2025,27,329835321
+7208,HS6,regular,720836,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",import,1999,2025,26,24764735
+7208,CN8,regular,72083600,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",import,1999,2025,26,24764735
+7208,HS6,regular,720837,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",import,1999,2025,27,234127198
+7208,CN8,regular,72083700,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",import,2004,2025,22,196794738
+7208,CN8,regular,72083710,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",import,1999,2003,5,20144121
+7208,CN8,regular,72083790,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",import,1999,2003,5,17188339
+7208,HS6,regular,720838,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",import,1999,2025,27,211009871
+7208,CN8,regular,72083800,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",import,2004,2025,22,112545516
+7208,CN8,regular,72083810,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",import,1999,2003,5,79708560
+7208,CN8,regular,72083890,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",import,1999,2003,5,18755795
+7208,HS6,regular,720839,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",import,1999,2025,25,171239972
+7208,CN8,regular,72083900,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",import,2004,2025,20,77306501
+7208,CN8,regular,72083910,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",import,1999,2003,5,76422734
+7208,CN8,regular,72083990,"Flat-rolled products of iron or non-alloy steel, of a width >= 600 mm, in coils, simply ho",import,1999,2003,5,17510737
+7208,HS6,regular,720840,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, not in coils, si",import,1999,2025,27,49231931
+7208,CN8,regular,72084000,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, not in coils, si",import,2004,2025,22,44822488
+7208,CN8,regular,72084010,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, not in coils, si",import,1999,2003,5,4308052
+7208,CN8,regular,72084090,"Flat-rolled products of iron or non-alloy steel, of a width >= 600 mm, not in coils, simpl",import,1999,2003,4,101391
+7208,HS6,regular,720851,"Flat-rolled products of iron or non-alloy steel, of a width >= 600 mm, not in coils, simpl",import,1999,2025,27,2329747693
+7208,CN8,regular,72085110,"Flat-rolled products of iron or non-alloy steel, simply hot-rolled on four faces or in a c",import,1999,2003,5,2791613
+7208,CN8,regular,72085120,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, not in coils, si",import,2004,2025,22,1505026894
+7208,CN8,regular,72085130,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, not in coils, si",import,1999,2003,5,172030911
+7208,CN8,regular,72085150,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, not in coils, si",import,1999,2003,5,65418507
+7208,CN8,regular,72085191,"Flat-rolled products of iron or non-alloy steel, of a width of >= 2.050 mm, not in coils, ",import,1999,2025,27,364510077
+7208,CN8,regular,72085198,"Flat-rolled products of iron or non-alloy steel, of a width of &lt; 2.050 mm but >= 600 mm",import,2004,2025,22,198925987
+7208,CN8,regular,72085199,"Flat-rolled products of iron or non-alloy steel, of a width of &lt; 2050 mm but >= 600 mm,",import,1999,2003,5,21043704
+7208,HS6,regular,720852,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, not in coils, si",import,1999,2025,27,551401441
+7208,CN8,regular,72085210,"Flat-rolled products of iron or non-alloy steel, of a width of &lt;= 1.250 mm, not in coil",import,1999,2025,25,12106571
+7208,CN8,regular,72085220,"Flat-rolled products of iron or non-alloy steel, of a width of >= 2050 mm, not in coils, s",import,2004,2004,1,10321245
+7208,CN8,regular,72085280,"Flat-rolled products of iron or non-alloy steel, of a width of &lt; 2050 mm but >= 600 mm,",import,2004,2004,1,7960473
+7208,CN8,regular,72085291,"Flat-rolled products of iron or non-alloy steel, of a width of >= 2.050 mm, not in coils, ",import,1999,2025,26,268563609
+7208,CN8,regular,72085299,"Flat-rolled products of iron or non-alloy steel, of a width of &lt; 2.050 mm but >= 600 mm",import,1999,2025,26,252449543
+7208,HS6,regular,720853,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, not in coils, si",import,1999,2025,27,85839769
+7208,CN8,regular,72085300,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, not in coils, si",import,2004,2004,1,2768028
+7208,CN8,regular,72085310,"Flat-rolled products of iron or non-alloy steel, of a width of &lt;= 1.250 mm, not in coil",import,1999,2025,20,1694464
+7208,CN8,regular,72085390,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, not in coils, si",import,1999,2025,26,81377277
+7208,HS6,regular,720854,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, not in coils, si",import,1999,2025,27,15314813
+7208,CN8,regular,72085400,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, not in coils, si",import,2004,2025,22,12131025
+7208,CN8,regular,72085410,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, not in coils, si",import,1999,2003,5,1932320
+7208,CN8,regular,72085490,"Flat-rolled products of iron or non-alloy steel, of a width >= 600 mm, not in coils, simpl",import,1999,2003,5,1251468
+7208,HS6,regular,720890,"Flat-rolled products of iron or steel, of a width >= 600 mm, hot-rolled and further worked",import,1999,2025,27,63804261
+7208,CN8,regular,72089000,"Flat-rolled products of iron or steel, of a width >= 600 mm, hot-rolled and further worked",import,2004,2005,2,3667165
+7208,CN8,regular,72089010,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, hot-rolled, not ",import,1999,2003,4,57859
+7208,CN8,regular,72089020,"Flat-rolled products of iron or steel, of a width >= 600 mm, hot-rolled and further worked",import,2006,2025,18,251289
+7208,CN8,regular,72089080,"Flat-rolled products of iron or steel, of a width >= 600 mm, hot-rolled and further worked",import,2006,2025,20,47701693
+7208,CN8,regular,72089090,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, hot-rolled and f",import,1999,2003,5,12126255
+7208,HS6,regular,720810,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",export,1999,2025,27,332683329
+7208,CN8,regular,72081000,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",export,1999,2025,27,332683329
+7208,HS6,regular,720825,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",export,1999,2025,27,142041107
+7208,CN8,regular,72082500,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",export,1999,2025,27,142041107
+7208,HS6,regular,720826,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",export,1999,2025,27,289374171
+7208,CN8,regular,72082600,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",export,1999,2025,27,289374171
+7208,HS6,regular,720827,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",export,1999,2025,27,496033917
+7208,CN8,regular,72082700,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",export,1999,2025,27,496033917
+7208,HS6,regular,720836,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",export,1999,2025,27,1203600911
+7208,CN8,regular,72083600,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",export,1999,2025,27,1203600911
+7208,HS6,regular,720837,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",export,1999,2025,27,1254040731
+7208,CN8,regular,72083700,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",export,2004,2025,22,1146716775
+7208,CN8,regular,72083710,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",export,1999,2003,5,518509
+7208,CN8,regular,72083790,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",export,1999,2003,5,106805447
+7208,HS6,regular,720838,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",export,1999,2025,27,521663368
+7208,CN8,regular,72083800,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",export,2004,2025,22,417829344
+7208,CN8,regular,72083810,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",export,1999,2003,5,901357
+7208,CN8,regular,72083890,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",export,1999,2003,5,102932667
+7208,HS6,regular,720839,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",export,1999,2025,27,551473154
+7208,CN8,regular,72083900,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",export,2004,2025,22,443063058
+7208,CN8,regular,72083910,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, in coils, simply",export,1999,2003,5,3848739
+7208,CN8,regular,72083990,"Flat-rolled products of iron or non-alloy steel, of a width >= 600 mm, in coils, simply ho",export,1999,2003,5,104561357
+7208,HS6,regular,720840,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, not in coils, si",export,1999,2025,27,24765011
+7208,CN8,regular,72084000,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, not in coils, si",export,2004,2025,22,20602409
+7208,CN8,regular,72084010,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, not in coils, si",export,1999,2003,5,3912115
+7208,CN8,regular,72084090,"Flat-rolled products of iron or non-alloy steel, of a width >= 600 mm, not in coils, simpl",export,1999,2003,5,250487
+7208,HS6,regular,720851,"Flat-rolled products of iron or non-alloy steel, of a width >= 600 mm, not in coils, simpl",export,1999,2025,27,7503415527
+7208,CN8,regular,72085110,"Flat-rolled products of iron or non-alloy steel, simply hot-rolled on four faces or in a c",export,1999,2003,5,2362445
+7208,CN8,regular,72085120,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, not in coils, si",export,2004,2025,22,6041213612
+7208,CN8,regular,72085130,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, not in coils, si",export,1999,2003,5,537945653
+7208,CN8,regular,72085150,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, not in coils, si",export,1999,2003,5,296708479
+7208,CN8,regular,72085191,"Flat-rolled products of iron or non-alloy steel, of a width of >= 2.050 mm, not in coils, ",export,1999,2025,27,422320503
+7208,CN8,regular,72085198,"Flat-rolled products of iron or non-alloy steel, of a width of &lt; 2.050 mm but >= 600 mm",export,2004,2025,22,170915750
+7208,CN8,regular,72085199,"Flat-rolled products of iron or non-alloy steel, of a width of &lt; 2050 mm but >= 600 mm,",export,1999,2003,5,31949085
+7208,HS6,regular,720852,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, not in coils, si",export,1999,2025,27,568538229
+7208,CN8,regular,72085210,"Flat-rolled products of iron or non-alloy steel, of a width of &lt;= 1.250 mm, not in coil",export,1999,2025,26,37591570
+7208,CN8,regular,72085220,"Flat-rolled products of iron or non-alloy steel, of a width of >= 2050 mm, not in coils, s",export,2004,2004,1,8409056
+7208,CN8,regular,72085280,"Flat-rolled products of iron or non-alloy steel, of a width of &lt; 2050 mm but >= 600 mm,",export,2004,2004,1,12391036
+7208,CN8,regular,72085291,"Flat-rolled products of iron or non-alloy steel, of a width of >= 2.050 mm, not in coils, ",export,1999,2025,26,150395182
+7208,CN8,regular,72085299,"Flat-rolled products of iron or non-alloy steel, of a width of &lt; 2.050 mm but >= 600 mm",export,1999,2025,26,359751385
+7208,HS6,regular,720853,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, not in coils, si",export,1999,2025,27,140340297
+7208,CN8,regular,72085300,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, not in coils, si",export,2004,2004,1,4712271
+7208,CN8,regular,72085310,"Flat-rolled products of iron or non-alloy steel, of a width of &lt;= 1.250 mm, not in coil",export,1999,2025,26,8805646
+7208,CN8,regular,72085390,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, not in coils, si",export,1999,2025,26,126822380
+7208,HS6,regular,720854,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, not in coils, si",export,1999,2025,27,48104049
+7208,CN8,regular,72085400,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, not in coils, si",export,2004,2025,22,36507004
+7208,CN8,regular,72085410,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, not in coils, si",export,1999,2003,5,8728976
+7208,CN8,regular,72085490,"Flat-rolled products of iron or non-alloy steel, of a width >= 600 mm, not in coils, simpl",export,1999,2003,5,2868069
+7208,HS6,regular,720890,"Flat-rolled products of iron or steel, of a width >= 600 mm, hot-rolled and further worked",export,1999,2025,27,130279078
+7208,CN8,regular,72089000,"Flat-rolled products of iron or steel, of a width >= 600 mm, hot-rolled and further worked",export,2004,2005,2,10257539
+7208,CN8,regular,72089010,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, hot-rolled, not ",export,1999,2003,5,2176041
+7208,CN8,regular,72089020,"Flat-rolled products of iron or steel, of a width >= 600 mm, hot-rolled and further worked",export,2006,2025,20,20829644
+7208,CN8,regular,72089080,"Flat-rolled products of iron or steel, of a width >= 600 mm, hot-rolled and further worked",export,2006,2025,20,73638815
+7208,CN8,regular,72089090,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, hot-rolled and f",export,1999,2003,5,23377039
+7304,HS6,regular,730410,"Line pipe of a kind used for oil or gas pipelines, seamless, of iron or steel (excl. produ",import,1999,2006,8,6978223
+7304,CN8,regular,73041010,"Line pipe of a kind used for oil or gas pipelines, seamless, of iron or steel, of an exter",import,1999,2006,8,4492928
+7304,CN8,regular,73041030,"Line pipe of a kind used for oil or gas pipelines, seamless, of iron or steel, of an exter",import,1999,2006,8,2092988
+7304,CN8,regular,73041090,"Line pipe of a kind used for oil or gas pipelines, seamless, of iron or steel, of an exter",import,1999,2006,8,392307
+7304,HS6,regular,730411,"Line pipe of a kind used for oil or gas pipelines, seamless, of stainless steel",import,2007,2025,19,10694384
+7304,CN8,regular,73041100,"Line pipe of a kind used for oil or gas pipelines, seamless, of stainless steel",import,2007,2025,19,10694384
+7304,HS6,regular,730419,"Line pipe of a kind used for oil or gas pipelines, seamless, of iron or steel (excl. produ",import,2007,2025,19,120478849
+7304,CN8,regular,73041910,"Line pipe of a kind used for oil or gas pipelines, seamless, of iron or steel, of an exter",import,2007,2025,19,23883467
+7304,CN8,regular,73041930,"Line pipe of a kind used for oil or gas pipelines, seamless, of iron or steel, of an exter",import,2007,2025,19,91420309
+7304,CN8,regular,73041990,"Line pipe of a kind used for oil or gas pipelines, seamless, of iron or steel, of an exter",import,2007,2025,19,5175073
+7304,HS6,regular,730421,"Drill pipe, seamless, of a kind used in drilling for oil or gas, of iron or steel (excl. p",import,1999,2006,8,20627304
+7304,CN8,regular,73042100,"Drill pipe, seamless, of a kind used in drilling for oil or gas, of iron or steel (excl. p",import,1999,2006,8,20627304
+7304,HS6,regular,730422,"Drill pipe, seamless, of stainless steel, of a kind used in drilling for oil or gas",import,2007,2025,19,7242937
+7304,CN8,regular,73042200,"Drill pipe, seamless, of stainless steel, of a kind used in drilling for oil or gas",import,2007,2025,19,7242937
+7304,HS6,regular,730423,"Drill pipe, seamless, of a kind used in drilling for oil or gas, of iron or steel (excl. p",import,2007,2025,19,86599829
+7304,CN8,regular,73042300,"Drill pipe, seamless, of a kind used in drilling for oil or gas, of iron or steel (excl. p",import,2007,2025,19,86599829
+7304,HS6,regular,730424,"Casing and tubing, seamless, of a kind used for drilling for oil or gas, of stainless stee",import,2007,2025,19,19990396
+7304,CN8,regular,73042400,"Casing and tubing, seamless, of a kind used for drilling for oil or gas, of stainless stee",import,2007,2025,19,19990396
+7304,HS6,regular,730429,"Casing and tubing, seamless, of iron or steel, of a kind used in drilling for oil or gas (",import,1999,2025,27,111300281
+7304,CN8,regular,73042910,"Casing and tubing of a kind used for drilling for oil or gas, seamless, of iron or steel, ",import,2007,2025,19,59416364
+7304,CN8,regular,73042911,"Casing and tubing of a kind used for drilling for oil or gas, seamless, of iron or steel, ",import,1999,2006,8,16286146
+7304,CN8,regular,73042919,"Casing and tubing of a kind used for drilling for oil or gas, seamless, of iron or steel, ",import,2000,2005,6,118067
+7304,CN8,regular,73042930,"Casing and tubing of a kind used for drilling for oil or gas, seamless, of iron or steel, ",import,2007,2025,19,31185924
+7304,CN8,regular,73042990,"Casing and tubing of a kind used for drilling for oil or gas, seamless, of iron or steel, ",import,2007,2025,19,4293780
+7304,HS6,regular,730431,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-allo",import,1999,2025,27,259525909
+7304,CN8,regular,73043110,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-allo",import,2000,2005,6,48957
+7304,CN8,regular,73043120,"Precision tubes, seamless, of circular cross-section, of iron or non-alloy steel, cold-dra",import,2006,2025,20,107320724
+7304,CN8,regular,73043180,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-allo",import,2006,2025,20,35456045
+7304,CN8,regular,73043191,"Precision tubes, seamless, of circular cross-section, of non-alloy steel, cold-drawn or co",import,1999,2005,7,25264604
+7304,CN8,regular,73043199,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-allo",import,1999,2005,7,91435579
+7304,HS6,regular,730439,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-allo",import,1999,2025,27,892116125
+7304,CN8,regular,73043910,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-allo",import,1999,2021,20,11405674
+7304,CN8,regular,73043920,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-allo",import,1999,2005,7,173479
+7304,CN8,regular,73043930,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron (excl. cast",import,1999,2008,9,1476451
+7304,CN8,regular,73043950,"Threaded or threadable tubes ""gas pipe"", seamless, of iron or non-alloy steel (excl. of ca",import,2022,2025,4,3420168
+7304,CN8,regular,73043951,"Threaded or threadable tubes, seamless, of iron or non-alloy steel, plated or coated with ",import,1999,2005,7,225963
+7304,CN8,regular,73043952,"Threaded or threadable tubes ""gas pipe"", seamless, of iron or non-alloy steel, plated or c",import,2006,2021,16,2205567
+7304,CN8,regular,73043958,"Threaded or threadable tubes ""gas pipe"", seamless, of iron or non-alloy steel (excl. cast ",import,2006,2021,16,31598953
+7304,CN8,regular,73043959,"Threaded or threadable tubes, seamless, of iron or non-alloy steel (excl. cast iron produc",import,1999,2005,7,43111377
+7304,CN8,regular,73043982,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-allo",import,2022,2025,4,102429112
+7304,CN8,regular,73043983,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-allo",import,2022,2025,4,98324470
+7304,CN8,regular,73043988,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-allo",import,2022,2025,4,9400772
+7304,CN8,regular,73043991,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-allo",import,1999,2005,7,49463744
+7304,CN8,regular,73043992,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-allo",import,2006,2021,16,266467829
+7304,CN8,regular,73043993,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-allo",import,1999,2021,23,244696479
+7304,CN8,regular,73043998,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-allo",import,2009,2021,13,24895070
+7304,CN8,regular,73043999,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-allo",import,1999,2008,10,2821017
+7304,HS6,regular,730441,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of stainless steel,",import,1999,2025,27,1381007977
+7304,CN8,regular,73044100,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of stainless steel,",import,2006,2025,20,1259507010
+7304,CN8,regular,73044110,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of stainless steel,",import,1999,2005,7,518411
+7304,CN8,regular,73044190,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of stainless steel,",import,1999,2005,7,120982556
+7304,HS6,regular,730449,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of stainless steel,",import,1999,2025,27,721291182
+7304,CN8,regular,73044910,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of stainless steel,",import,1999,2021,22,98895871
+7304,CN8,regular,73044930,"Tubes and pipes of circular cross-section, of stainless steel, not cold-drawn or cold-roll",import,1999,2003,5,104516
+7304,CN8,regular,73044983,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of stainless steel,",import,2022,2025,4,141500322
+7304,CN8,regular,73044985,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of stainless steel,",import,2022,2025,4,26571134
+7304,CN8,regular,73044989,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of stainless steel,",import,2022,2025,4,2042410
+7304,CN8,regular,73044991,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of stainless steel,",import,1999,2005,7,62472780
+7304,CN8,regular,73044992,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of stainless steel,",import,2006,2007,2,45553763
+7304,CN8,regular,73044993,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of stainless steel,",import,2008,2021,14,276818583
+7304,CN8,regular,73044995,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of stainless steel,",import,2008,2021,14,50980817
+7304,CN8,regular,73044999,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of stainless steel,",import,1999,2021,23,16350986
+7304,HS6,regular,730451,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",import,1999,2025,27,151726864
+7304,CN8,regular,73045110,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",import,2022,2025,4,8748270
+7304,CN8,regular,73045111,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",import,1999,2003,5,7312148
+7304,CN8,regular,73045112,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",import,2004,2021,13,2000690
+7304,CN8,regular,73045118,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",import,2004,2021,18,19276108
+7304,CN8,regular,73045119,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",import,2000,2003,4,331028
+7304,CN8,regular,73045130,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",import,1999,2005,7,889631
+7304,CN8,regular,73045181,"Precision tubes, seamless, of circular cross-section, of alloy steel other than stainless,",import,2006,2025,20,45045692
+7304,CN8,regular,73045189,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",import,2006,2025,20,52862423
+7304,CN8,regular,73045191,"Steel precision tubes, seamless, of circular cross-section, of alloy steel other than stai",import,1999,2005,7,3941732
+7304,CN8,regular,73045199,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",import,1999,2005,7,11319142
+7304,HS6,regular,730459,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",import,1999,2025,27,249119069
+7304,CN8,regular,73045910,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",import,1999,2021,16,8330603
+7304,CN8,regular,73045930,"Tubes, pipes and hollow profiles of alloy steel (excl. stainless), seamless, of circular c",import,2022,2025,4,918037
+7304,CN8,regular,73045931,"Tubes, pipes and hollow profiles of alloy steel (excl. stainless), seamless, of circular c",import,1999,2003,5,3533822
+7304,CN8,regular,73045932,"Tubes, pipes and hollow profiles of alloy steel (excl. stainless), seamless, of circular c",import,2009,2019,8,47889
+7304,CN8,regular,73045938,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel (exc",import,2004,2021,18,7097383
+7304,CN8,regular,73045939,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel (exc",import,2000,2003,4,495790
+7304,CN8,regular,73045950,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",import,2003,2003,1,895
+7304,CN8,regular,73045982,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",import,2022,2025,4,22757455
+7304,CN8,regular,73045983,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",import,2022,2025,4,28533373
+7304,CN8,regular,73045989,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",import,2022,2025,4,10356083
+7304,CN8,regular,73045991,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",import,1999,2005,7,8431731
+7304,CN8,regular,73045992,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",import,2006,2021,16,59114100
+7304,CN8,regular,73045993,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",import,1999,2021,23,74438810
+7304,CN8,regular,73045999,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",import,1999,2021,21,25063098
+7304,HS6,regular,730490,"Tubes, pipes and hollow profiles, seamless, of non-circular cross-section, of iron or stee",import,1999,2025,27,141573557
+7304,CN8,regular,73049000,"Tubes, pipes and hollow profiles, seamless, of non-circular cross-section, of iron or stee",import,2006,2025,20,134097498
+7304,CN8,regular,73049010,"Tubes, pipes and hollow profiles, seamless, of non-circular cross-section, of iron or stee",import,2000,2002,3,27068
+7304,CN8,regular,73049090,"Tubes, pipes and hollow profiles, seamless, of non-circular cross-section, of iron or stee",import,1999,2005,7,7448991
+7304,HS6,special (NES/confidential/plant components),7304XX,"Trade of heading 7304, not elsewhere specified",import,2004,2004,1,22519
+7304,CN8,special (NES/confidential/plant components),7304XXXX,"Trade of heading 7304, not elsewhere specified",import,2004,2004,1,22519
+7304,HS6,regular,730410,"Line pipe of a kind used for oil or gas pipelines, seamless, of iron or steel (excl. produ",export,1999,2006,8,613699926
+7304,CN8,regular,73041010,"Line pipe of a kind used for oil or gas pipelines, seamless, of iron or steel, of an exter",export,1999,2006,8,226220360
+7304,CN8,regular,73041030,"Line pipe of a kind used for oil or gas pipelines, seamless, of iron or steel, of an exter",export,1999,2006,8,294188904
+7304,CN8,regular,73041090,"Line pipe of a kind used for oil or gas pipelines, seamless, of iron or steel, of an exter",export,1999,2006,8,93290662
+7304,HS6,regular,730411,"Line pipe of a kind used for oil or gas pipelines, seamless, of stainless steel",export,2007,2025,19,45804088
+7304,CN8,regular,73041100,"Line pipe of a kind used for oil or gas pipelines, seamless, of stainless steel",export,2007,2025,19,45804088
+7304,HS6,regular,730419,"Line pipe of a kind used for oil or gas pipelines, seamless, of iron or steel (excl. produ",export,2007,2025,19,3120279873
+7304,CN8,regular,73041910,"Line pipe of a kind used for oil or gas pipelines, seamless, of iron or steel, of an exter",export,2007,2025,19,505858955
+7304,CN8,regular,73041930,"Line pipe of a kind used for oil or gas pipelines, seamless, of iron or steel, of an exter",export,2007,2025,19,2359332754
+7304,CN8,regular,73041990,"Line pipe of a kind used for oil or gas pipelines, seamless, of iron or steel, of an exter",export,2007,2025,19,255088164
+7304,HS6,regular,730421,"Drill pipe, seamless, of a kind used in drilling for oil or gas, of iron or steel (excl. p",export,1999,2006,8,165041275
+7304,CN8,regular,73042100,"Drill pipe, seamless, of a kind used in drilling for oil or gas, of iron or steel (excl. p",export,1999,2006,8,165041275
+7304,HS6,regular,730422,"Drill pipe, seamless, of stainless steel, of a kind used in drilling for oil or gas",export,2007,2025,19,23215571
+7304,CN8,regular,73042200,"Drill pipe, seamless, of stainless steel, of a kind used in drilling for oil or gas",export,2007,2025,19,23215571
+7304,HS6,regular,730423,"Drill pipe, seamless, of a kind used in drilling for oil or gas, of iron or steel (excl. p",export,2007,2025,19,422680100
+7304,CN8,regular,73042300,"Drill pipe, seamless, of a kind used in drilling for oil or gas, of iron or steel (excl. p",export,2007,2025,19,422680100
+7304,HS6,regular,730424,"Casing and tubing, seamless, of a kind used for drilling for oil or gas, of stainless stee",export,2007,2025,19,443252781
+7304,CN8,regular,73042400,"Casing and tubing, seamless, of a kind used for drilling for oil or gas, of stainless stee",export,2007,2025,19,443252781
+7304,HS6,regular,730429,"Casing and tubing, seamless, of iron or steel, of a kind used in drilling for oil or gas (",export,1999,2025,27,5293390907
+7304,CN8,regular,73042910,"Casing and tubing of a kind used for drilling for oil or gas, seamless, of iron or steel, ",export,2007,2025,19,1438725407
+7304,CN8,regular,73042911,"Casing and tubing of a kind used for drilling for oil or gas, seamless, of iron or steel, ",export,1999,2006,8,1272038192
+7304,CN8,regular,73042919,"Casing and tubing of a kind used for drilling for oil or gas, seamless, of iron or steel, ",export,1999,2006,8,114473250
+7304,CN8,regular,73042930,"Casing and tubing of a kind used for drilling for oil or gas, seamless, of iron or steel, ",export,2007,2025,19,1871399023
+7304,CN8,regular,73042990,"Casing and tubing of a kind used for drilling for oil or gas, seamless, of iron or steel, ",export,2007,2025,19,596755035
+7304,HS6,regular,730431,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-allo",export,1999,2025,27,2878402985
+7304,CN8,regular,73043110,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-allo",export,2001,2005,5,511806
+7304,CN8,regular,73043120,"Precision tubes, seamless, of circular cross-section, of iron or non-alloy steel, cold-dra",export,2006,2025,20,2180902767
+7304,CN8,regular,73043180,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-allo",export,2006,2025,20,264187576
+7304,CN8,regular,73043191,"Precision tubes, seamless, of circular cross-section, of non-alloy steel, cold-drawn or co",export,1999,2005,7,401968227
+7304,CN8,regular,73043199,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-allo",export,1999,2005,7,30832609
+7304,HS6,regular,730439,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-allo",export,1999,2025,27,4378011232
+7304,CN8,regular,73043910,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-allo",export,1999,2021,23,373388087
+7304,CN8,regular,73043920,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-allo",export,2004,2005,2,37888
+7304,CN8,regular,73043930,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron (excl. cast",export,1999,2008,10,441591855
+7304,CN8,regular,73043950,"Threaded or threadable tubes ""gas pipe"", seamless, of iron or non-alloy steel (excl. of ca",export,2022,2025,4,2666546
+7304,CN8,regular,73043951,"Threaded or threadable tubes, seamless, of iron or non-alloy steel, plated or coated with ",export,1999,2005,7,3018268
+7304,CN8,regular,73043952,"Threaded or threadable tubes ""gas pipe"", seamless, of iron or non-alloy steel, plated or c",export,2006,2021,16,7410526
+7304,CN8,regular,73043958,"Threaded or threadable tubes ""gas pipe"", seamless, of iron or non-alloy steel (excl. cast ",export,2006,2021,16,6755171
+7304,CN8,regular,73043959,"Threaded or threadable tubes, seamless, of iron or non-alloy steel (excl. cast iron produc",export,1999,2005,7,4833407
+7304,CN8,regular,73043982,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-allo",export,2022,2025,4,413531802
+7304,CN8,regular,73043983,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-allo",export,2022,2025,4,83552313
+7304,CN8,regular,73043988,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-allo",export,2022,2025,4,23280491
+7304,CN8,regular,73043991,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-allo",export,1999,2005,7,418357120
+7304,CN8,regular,73043992,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-allo",export,2006,2021,16,1254255923
+7304,CN8,regular,73043993,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-allo",export,1999,2021,23,948818746
+7304,CN8,regular,73043998,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-allo",export,2009,2021,13,326561909
+7304,CN8,regular,73043999,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of iron or non-allo",export,1999,2008,10,69951180
+7304,HS6,regular,730441,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of stainless steel,",export,1999,2025,27,1214394212
+7304,CN8,regular,73044100,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of stainless steel,",export,2006,2025,20,1089807590
+7304,CN8,regular,73044110,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of stainless steel,",export,2001,2005,5,1455820
+7304,CN8,regular,73044190,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of stainless steel,",export,1999,2005,7,123130802
+7304,HS6,regular,730449,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of stainless steel,",export,1999,2025,27,907939327
+7304,CN8,regular,73044910,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of stainless steel,",export,1999,2021,23,163660642
+7304,CN8,regular,73044930,"Tubes and pipes of circular cross-section, of stainless steel, not cold-drawn or cold-roll",export,2005,2005,1,7140
+7304,CN8,regular,73044983,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of stainless steel,",export,2022,2025,4,90489031
+7304,CN8,regular,73044985,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of stainless steel,",export,2022,2025,4,22367362
+7304,CN8,regular,73044989,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of stainless steel,",export,2022,2025,4,7016881
+7304,CN8,regular,73044991,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of stainless steel,",export,1999,2005,7,112828040
+7304,CN8,regular,73044992,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of stainless steel,",export,2006,2007,2,57899683
+7304,CN8,regular,73044993,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of stainless steel,",export,2008,2021,14,286488766
+7304,CN8,regular,73044995,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of stainless steel,",export,2008,2021,14,124655581
+7304,CN8,regular,73044999,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of stainless steel,",export,1999,2021,23,42526201
+7304,HS6,regular,730451,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",export,1999,2025,27,808460894
+7304,CN8,regular,73045110,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",export,2022,2025,4,398418
+7304,CN8,regular,73045111,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",export,1999,2003,5,53201815
+7304,CN8,regular,73045112,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",export,2004,2021,18,3704411
+7304,CN8,regular,73045118,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",export,2004,2021,18,36445070
+7304,CN8,regular,73045119,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",export,1999,2003,5,146927
+7304,CN8,regular,73045130,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",export,2004,2004,1,69465
+7304,CN8,regular,73045181,"Precision tubes, seamless, of circular cross-section, of alloy steel other than stainless,",export,2006,2025,20,540916394
+7304,CN8,regular,73045189,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",export,2006,2025,20,102594682
+7304,CN8,regular,73045191,"Steel precision tubes, seamless, of circular cross-section, of alloy steel other than stai",export,1999,2005,7,45631931
+7304,CN8,regular,73045199,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",export,1999,2005,7,25351781
+7304,HS6,regular,730459,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",export,1999,2025,27,7146412168
+7304,CN8,regular,73045910,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",export,1999,2021,23,169899723
+7304,CN8,regular,73045930,"Tubes, pipes and hollow profiles of alloy steel (excl. stainless), seamless, of circular c",export,2022,2025,4,10595174
+7304,CN8,regular,73045931,"Tubes, pipes and hollow profiles of alloy steel (excl. stainless), seamless, of circular c",export,1999,2003,5,1342213
+7304,CN8,regular,73045932,"Tubes, pipes and hollow profiles of alloy steel (excl. stainless), seamless, of circular c",export,2004,2021,18,920671
+7304,CN8,regular,73045938,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel (exc",export,2004,2021,18,7604836
+7304,CN8,regular,73045939,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel (exc",export,1999,2003,5,725922
+7304,CN8,regular,73045950,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",export,1999,2005,7,3896354
+7304,CN8,regular,73045982,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",export,2022,2025,4,243925926
+7304,CN8,regular,73045983,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",export,2022,2025,4,44846253
+7304,CN8,regular,73045989,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",export,2022,2025,4,43530942
+7304,CN8,regular,73045991,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",export,1999,2005,7,449803191
+7304,CN8,regular,73045992,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",export,2006,2021,16,1213169185
+7304,CN8,regular,73045993,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",export,1999,2021,23,1001147016
+7304,CN8,regular,73045999,"Tubes, pipes and hollow profiles, seamless, of circular cross-section, of alloy steel othe",export,1999,2021,23,3955004762
+7304,HS6,regular,730490,"Tubes, pipes and hollow profiles, seamless, of non-circular cross-section, of iron or stee",export,1999,2025,27,576970061
+7304,CN8,regular,73049000,"Tubes, pipes and hollow profiles, seamless, of non-circular cross-section, of iron or stee",export,2006,2025,20,477040704
+7304,CN8,regular,73049010,"Tubes, pipes and hollow profiles, seamless, of non-circular cross-section, of iron or stee",export,2005,2005,1,93696
+7304,CN8,regular,73049090,"Tubes, pipes and hollow profiles, seamless, of non-circular cross-section, of iron or stee",export,1999,2005,7,99835661
+7304,HS6,special (NES/confidential/plant components),7304XX,"Trade of heading 7304, not elsewhere specified",export,1999,2005,7,443102702
+7304,CN8,special (NES/confidential/plant components),7304XXXX,"Trade of heading 7304, not elsewhere specified",export,1999,2005,7,443102702
+7306,HS6,regular,730610,"Line pipe of a kind used for oil or gas pipelines, of iron or steel, of an external diamet",import,1999,2006,8,80674240
+7306,CN8,regular,73061011,"Line pipe of a kind used for oil or gas pipelines, of iron or steel, longitudinally welded",import,1999,2006,8,26500666
+7306,CN8,regular,73061019,"Line pipe of a kind used for oil or gas pipelines, of iron or steel, longitudinally welded",import,1999,2006,8,52214015
+7306,CN8,regular,73061090,"Line pipe of a kind used for oil or gas pipelines, of iron or steel, spirally welded, of a",import,1999,2006,8,1959559
+7306,HS6,regular,730611,"Line pipe of a kind used for oil or gas pipelines, welded, of flat-rolled products of stai",import,2007,2025,19,4030978
+7306,CN8,regular,73061100,"Line pipe of a kind used for oil or gas pipelines, welded, of flat-rolled products of stai",import,2022,2025,4,1120790
+7306,CN8,regular,73061110,"Line pipe of a kind used for oil or gas pipelines, longitudinally welded, of flat-rolled p",import,2007,2021,15,2656340
+7306,CN8,regular,73061190,"Line pipe of a kind used for oil or gas pipelines, spirally welded, of flat-rolled product",import,2009,2021,13,253848
+7306,HS6,regular,730619,"Line pipe of a kind used for oil or gas pipelines, welded, of flat-rolled products of iron",import,2007,2025,19,135045392
+7306,CN8,regular,73061900,"Line pipe of a kind used for oil or gas pipelines, welded, of flat-rolled products of iron",import,2022,2025,4,17146396
+7306,CN8,regular,73061910,"Line pipe of a kind used for oil or gas pipelines, longitudinally welded, of flat-rolled p",import,2008,2021,14,87196533
+7306,CN8,regular,73061911,"Line pipe of a kind used for oil or gas pipelines, longitudinally welded, of flat-rolled p",import,2007,2007,1,4031172
+7306,CN8,regular,73061919,"Line pipe of a kind used for oil or gas pipelines, longitudinally welded, of flat-rolled p",import,2007,2007,1,4476380
+7306,CN8,regular,73061990,"Line pipe of a kind used for oil or gas pipelines, spirally welded, of flat-rolled product",import,2007,2021,15,22194911
+7306,HS6,regular,730620,"Casing and tubing of a kind used in drilling for oil or gas, of flat-rolled products of ir",import,1999,2005,6,288483
+7306,CN8,regular,73062000,"Casing and tubing of a kind used in drilling for oil or gas, of flat-rolled products of ir",import,1999,2005,6,288483
+7306,HS6,regular,730621,"Casing and tubing of a kind used in drilling for oil or gas, welded, of flat-rolled produc",import,2007,2025,17,5956484
+7306,CN8,regular,73062100,"Casing and tubing of a kind used in drilling for oil or gas, welded, of flat-rolled produc",import,2007,2025,17,5956484
+7306,HS6,regular,730629,"Casing and tubing of a kind used in drilling for oil or gas, welded, of flat-rolled produc",import,2007,2025,19,12457822
+7306,CN8,regular,73062900,"Casing and tubing of a kind used in drilling for oil or gas, welded, of flat-rolled produc",import,2007,2025,19,12457822
+7306,HS6,regular,730630,"Tubes, pipes and hollow profiles, welded, of circular cross-section, of iron or non-alloy ",import,1999,2025,27,3842508851
+7306,CN8,regular,73063010,"Tubes, pipes and hollow profiles, welded, having a circular cross-section, of iron or non-",import,2000,2004,5,48176
+7306,CN8,regular,73063011,"Precision tubes, welded, of circular cross-section, of iron or non-alloy steel, with a wal",import,2006,2021,16,669946655
+7306,CN8,regular,73063012,"Precision tubes, welded, of circular cross-section, of iron or non-alloy steel, cold-drawn",import,2022,2025,4,238828477
+7306,CN8,regular,73063018,"Precision tubes, welded, of circular cross-section, of iron or non-alloy steel (excl. cold",import,2022,2025,4,112664694
+7306,CN8,regular,73063019,"Precision tubes, welded, of circular cross-section, of iron or non-alloy steel, with a wal",import,2006,2021,16,1212033129
+7306,CN8,regular,73063021,"Precision steel tubes, welded, having a circular cross-section, of iron or non-alloy steel",import,1999,2005,7,309349717
+7306,CN8,regular,73063029,"Precision steel tubes, welded, having a circular cross-section, of iron or non-alloy steel",import,1999,2005,7,339278902
+7306,CN8,regular,73063041,"Threaded or threadable tubes ""gas pipe"", welded, of circular cross-section, of iron or non",import,2006,2025,20,162115006
+7306,CN8,regular,73063049,"Threaded or threadable tubes ""gas pipe"", welded, of circular cross-section, of iron or non",import,2006,2025,20,121856351
+7306,CN8,regular,73063051,"Threaded or threadable tubes ""gas pipe"", welded, having a circular cross-section, of iron ",import,1999,2005,7,27014639
+7306,CN8,regular,73063059,"Threaded or threadable tubes ""gas pipe"", welded, having a circular cross-section, of iron ",import,1999,2005,7,39030046
+7306,CN8,regular,73063071,"Other tubes, pipes and hollow profiles, welded, having a circular cross-section, of iron o",import,1999,2005,7,1596657
+7306,CN8,regular,73063072,"Other tubes, pipes and hollow profiles, welded, of circular cross-section, of iron or non-",import,2006,2025,20,42212580
+7306,CN8,regular,73063077,"Other tubes, pipes and hollow profiles, welded, of circular cross-section, of iron or non-",import,2006,2025,20,343509317
+7306,CN8,regular,73063078,"Other tubes, pipes and hollow profiles, welded, having a circular cross-section, of iron o",import,1999,2005,7,45215389
+7306,CN8,regular,73063080,"Tubes, pipes and hollow profiles, welded, having a circular cross-section, of iron or stee",import,2006,2025,20,165392850
+7306,CN8,regular,73063090,"Tubes, pipes and hollow profiles, welded, having a circular cross-section, of iron or stee",import,1999,2005,7,12416266
+7306,HS6,regular,730640,"Tubes, pipes and hollow profiles, welded, of circular cross-section, of stainless steel (e",import,1999,2025,27,997321284
+7306,CN8,regular,73064010,"Tubes, pipes and hollow profiles, welded, having a circular cross-section, of stainless st",import,1999,2005,6,200535
+7306,CN8,regular,73064020,"Tubes, pipes and hollow profiles, welded, of circular cross-section, of stainless steel, c",import,2006,2025,20,274929999
+7306,CN8,regular,73064080,"Tubes, pipes and hollow profiles, welded, of circular cross-section, of stainless steel (e",import,2006,2025,20,540892027
+7306,CN8,regular,73064091,"Tubes, pipes and hollow profiles, welded, having a circular cross-section, of stainless st",import,1999,2005,7,67556807
+7306,CN8,regular,73064099,"Tubes, pipes and hollow profiles, welded, having a circular cross-section, of stainless st",import,1999,2005,7,113741916
+7306,HS6,regular,730650,"Tubes, pipes and hollow profiles, welded, of circular cross-section, of alloy steel other ",import,1999,2025,27,468661745
+7306,CN8,regular,73065010,"Tubes, pipes and hollow profiles, welded, having a circular cross-section, of alloy steel ",import,1999,2005,7,305358
+7306,CN8,regular,73065020,"Precision steel tubes, welded, of circular cross-section, of alloy steel other than stainl",import,2006,2021,16,266501883
+7306,CN8,regular,73065021,"Precision steel tubes, welded, of circular cross-section, of alloy steel other than stainl",import,2022,2025,4,140656706
+7306,CN8,regular,73065029,"Precision steel tubes, welded, of circular cross-section, of alloy steel other than stainl",import,2022,2025,4,9570054
+7306,CN8,regular,73065080,"Tubes, pipes and hollow profiles, welded, of circular cross-section, of alloy steel other ",import,2006,2025,20,32958147
+7306,CN8,regular,73065091,"Precision steel tubes, welded, having a circular cross-section, of alloy steel other than ",import,1999,2005,7,16614829
+7306,CN8,regular,73065099,"Tubes, pipes and hollow profiles, welded, having a circular cross-section, of alloy steel ",import,1999,2005,7,2054768
+7306,HS6,regular,730660,"Tubes, pipes and hollow profiles, welded, of non-circular cross-section, of iron or steel ",import,1999,2006,8,577503799
+7306,CN8,regular,73066010,"Tubes, pipes and hollow profiles, welded, having a non-circular cross-section, of iron or ",import,1999,2005,6,175567
+7306,CN8,regular,73066011,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of st",import,2006,2006,1,1240212
+7306,CN8,regular,73066019,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of ir",import,2006,2006,1,35301885
+7306,CN8,regular,73066021,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of st",import,2006,2006,1,2246944
+7306,CN8,regular,73066029,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of ir",import,2006,2006,1,67817786
+7306,CN8,regular,73066031,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of ir",import,1999,2003,5,88906880
+7306,CN8,regular,73066032,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of st",import,2004,2005,2,3226266
+7306,CN8,regular,73066034,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of ir",import,2004,2005,2,53746336
+7306,CN8,regular,73066036,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of st",import,2004,2005,2,6062834
+7306,CN8,regular,73066038,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of ir",import,2004,2005,2,91493063
+7306,CN8,regular,73066039,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of ir",import,1999,2003,5,114720057
+7306,CN8,regular,73066081,"Tubes, pipes and hollow profiles, welded, of non-circular cross-section, of stainless stee",import,2006,2006,1,244542
+7306,CN8,regular,73066089,"Tubes, pipes and hollow profiles, welded, of non-circular cross-section, of iron or steel ",import,2006,2006,1,11884278
+7306,CN8,regular,73066090,"Tubes, pipes and hollow profiles, welded, of non-circular cross-section, of iron or steel ",import,1999,2003,5,73294525
+7306,CN8,regular,73066091,"Tubes, pipes and hollow profiles, welded, of non-circular cross-section, of stainless stee",import,2004,2005,2,840423
+7306,CN8,regular,73066099,"Tubes, pipes and hollow profiles, welded, of non-circular cross-section, of iron or steel ",import,2004,2005,2,26302201
+7306,HS6,regular,730661,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of ir",import,2007,2025,19,1499183018
+7306,CN8,regular,73066110,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of st",import,2008,2025,18,56690454
+7306,CN8,regular,73066111,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of st",import,2007,2007,1,1415026
+7306,CN8,regular,73066119,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of ir",import,2007,2007,1,38063142
+7306,CN8,regular,73066191,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of st",import,2007,2007,1,2098297
+7306,CN8,regular,73066192,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of ir",import,2008,2025,18,375721046
+7306,CN8,regular,73066199,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of ir",import,2007,2025,19,1025195053
+7306,HS6,regular,730669,"Tubes, pipes and hollow profiles, welded, of non-circular cross-section, of iron or steel ",import,2007,2025,19,344011718
+7306,CN8,regular,73066910,"Tubes, pipes and hollow profiles, welded, of non-circular cross-section, of stainless stee",import,2007,2025,19,45290152
+7306,CN8,regular,73066990,"Tubes, pipes and hollow profiles, welded, of non-circular cross-section, of iron or steel ",import,2007,2025,19,298721566
+7306,HS6,regular,730690,"Tubes, pipes and hollow profiles ""e.g., open seam, riveted or similarly closed"", of iron o",import,1999,2025,27,97237396
+7306,CN8,regular,73069000,"Tubes, pipes and hollow profiles ""e.g., open seam, riveted or similarly closed"", of iron o",import,1999,2025,27,97237396
+7306,HS6,regular,730610,"Line pipe of a kind used for oil or gas pipelines, of iron or steel, of an external diamet",export,1999,2006,8,292097094
+7306,CN8,regular,73061011,"Line pipe of a kind used for oil or gas pipelines, of iron or steel, longitudinally welded",export,1999,2006,8,35046547
+7306,CN8,regular,73061019,"Line pipe of a kind used for oil or gas pipelines, of iron or steel, longitudinally welded",export,1999,2006,8,219728093
+7306,CN8,regular,73061090,"Line pipe of a kind used for oil or gas pipelines, of iron or steel, spirally welded, of a",export,1999,2006,8,37322454
+7306,HS6,regular,730611,"Line pipe of a kind used for oil or gas pipelines, welded, of flat-rolled products of stai",export,2007,2025,19,80441009
+7306,CN8,regular,73061100,"Line pipe of a kind used for oil or gas pipelines, welded, of flat-rolled products of stai",export,2022,2025,4,18495582
+7306,CN8,regular,73061110,"Line pipe of a kind used for oil or gas pipelines, longitudinally welded, of flat-rolled p",export,2007,2021,15,51039493
+7306,CN8,regular,73061190,"Line pipe of a kind used for oil or gas pipelines, spirally welded, of flat-rolled product",export,2007,2021,15,10905934
+7306,HS6,regular,730619,"Line pipe of a kind used for oil or gas pipelines, welded, of flat-rolled products of iron",export,2007,2025,19,1380456747
+7306,CN8,regular,73061900,"Line pipe of a kind used for oil or gas pipelines, welded, of flat-rolled products of iron",export,2022,2025,4,348318577
+7306,CN8,regular,73061910,"Line pipe of a kind used for oil or gas pipelines, longitudinally welded, of flat-rolled p",export,2008,2021,14,965990519
+7306,CN8,regular,73061911,"Line pipe of a kind used for oil or gas pipelines, longitudinally welded, of flat-rolled p",export,2007,2007,1,15685106
+7306,CN8,regular,73061919,"Line pipe of a kind used for oil or gas pipelines, longitudinally welded, of flat-rolled p",export,2007,2007,1,39939074
+7306,CN8,regular,73061990,"Line pipe of a kind used for oil or gas pipelines, spirally welded, of flat-rolled product",export,2007,2021,15,10523471
+7306,HS6,regular,730620,"Casing and tubing of a kind used in drilling for oil or gas, of flat-rolled products of ir",export,1999,2006,8,47929171
+7306,CN8,regular,73062000,"Casing and tubing of a kind used in drilling for oil or gas, of flat-rolled products of ir",export,1999,2006,8,47929171
+7306,HS6,regular,730621,"Casing and tubing of a kind used in drilling for oil or gas, welded, of flat-rolled produc",export,2007,2025,19,12680393
+7306,CN8,regular,73062100,"Casing and tubing of a kind used in drilling for oil or gas, welded, of flat-rolled produc",export,2007,2025,19,12680393
+7306,HS6,regular,730629,"Casing and tubing of a kind used in drilling for oil or gas, welded, of flat-rolled produc",export,2007,2025,19,125585701
+7306,CN8,regular,73062900,"Casing and tubing of a kind used in drilling for oil or gas, welded, of flat-rolled produc",export,2007,2025,19,125585701
+7306,HS6,regular,730630,"Tubes, pipes and hollow profiles, welded, of circular cross-section, of iron or non-alloy ",export,1999,2025,27,2586553036
+7306,CN8,regular,73063010,"Tubes, pipes and hollow profiles, welded, having a circular cross-section, of iron or non-",export,2001,2003,3,114539
+7306,CN8,regular,73063011,"Precision tubes, welded, of circular cross-section, of iron or non-alloy steel, with a wal",export,2006,2021,16,572962251
+7306,CN8,regular,73063012,"Precision tubes, welded, of circular cross-section, of iron or non-alloy steel, cold-drawn",export,2022,2025,4,167460710
+7306,CN8,regular,73063018,"Precision tubes, welded, of circular cross-section, of iron or non-alloy steel (excl. cold",export,2022,2025,4,43033804
+7306,CN8,regular,73063019,"Precision tubes, welded, of circular cross-section, of iron or non-alloy steel, with a wal",export,2006,2021,16,495084671
+7306,CN8,regular,73063021,"Precision steel tubes, welded, having a circular cross-section, of iron or non-alloy steel",export,1999,2005,7,254768464
+7306,CN8,regular,73063029,"Precision steel tubes, welded, having a circular cross-section, of iron or non-alloy steel",export,1999,2005,7,118369892
+7306,CN8,regular,73063041,"Threaded or threadable tubes ""gas pipe"", welded, of circular cross-section, of iron or non",export,2006,2025,20,32991723
+7306,CN8,regular,73063049,"Threaded or threadable tubes ""gas pipe"", welded, of circular cross-section, of iron or non",export,2006,2025,20,30753143
+7306,CN8,regular,73063051,"Threaded or threadable tubes ""gas pipe"", welded, having a circular cross-section, of iron ",export,1999,2005,7,8879016
+7306,CN8,regular,73063059,"Threaded or threadable tubes ""gas pipe"", welded, having a circular cross-section, of iron ",export,1999,2005,7,16893559
+7306,CN8,regular,73063071,"Other tubes, pipes and hollow profiles, welded, having a circular cross-section, of iron o",export,1999,2005,7,12426677
+7306,CN8,regular,73063072,"Other tubes, pipes and hollow profiles, welded, of circular cross-section, of iron or non-",export,2006,2025,20,69870931
+7306,CN8,regular,73063077,"Other tubes, pipes and hollow profiles, welded, of circular cross-section, of iron or non-",export,2006,2025,20,258556761
+7306,CN8,regular,73063078,"Other tubes, pipes and hollow profiles, welded, having a circular cross-section, of iron o",export,1999,2005,7,45184346
+7306,CN8,regular,73063080,"Tubes, pipes and hollow profiles, welded, having a circular cross-section, of iron or stee",export,2006,2025,20,410987250
+7306,CN8,regular,73063090,"Tubes, pipes and hollow profiles, welded, having a circular cross-section, of iron or stee",export,1999,2005,7,48215299
+7306,HS6,regular,730640,"Tubes, pipes and hollow profiles, welded, of circular cross-section, of stainless steel (e",export,1999,2025,27,3896871592
+7306,CN8,regular,73064010,"Tubes, pipes and hollow profiles, welded, having a circular cross-section, of stainless st",export,2000,2005,6,968008
+7306,CN8,regular,73064020,"Tubes, pipes and hollow profiles, welded, of circular cross-section, of stainless steel, c",export,2006,2025,20,840760595
+7306,CN8,regular,73064080,"Tubes, pipes and hollow profiles, welded, of circular cross-section, of stainless steel (e",export,2006,2025,20,2440350301
+7306,CN8,regular,73064091,"Tubes, pipes and hollow profiles, welded, having a circular cross-section, of stainless st",export,1999,2005,7,145177953
+7306,CN8,regular,73064099,"Tubes, pipes and hollow profiles, welded, having a circular cross-section, of stainless st",export,1999,2005,7,469614735
+7306,HS6,regular,730650,"Tubes, pipes and hollow profiles, welded, of circular cross-section, of alloy steel other ",export,1999,2025,27,764712299
+7306,CN8,regular,73065010,"Tubes, pipes and hollow profiles, welded, having a circular cross-section, of alloy steel ",export,2002,2005,2,18265
+7306,CN8,regular,73065020,"Precision steel tubes, welded, of circular cross-section, of alloy steel other than stainl",export,2006,2021,16,281491704
+7306,CN8,regular,73065021,"Precision steel tubes, welded, of circular cross-section, of alloy steel other than stainl",export,2022,2025,4,137480891
+7306,CN8,regular,73065029,"Precision steel tubes, welded, of circular cross-section, of alloy steel other than stainl",export,2022,2025,4,11823914
+7306,CN8,regular,73065080,"Tubes, pipes and hollow profiles, welded, of circular cross-section, of alloy steel other ",export,2006,2025,20,277013953
+7306,CN8,regular,73065091,"Precision steel tubes, welded, having a circular cross-section, of alloy steel other than ",export,1999,2005,7,18271476
+7306,CN8,regular,73065099,"Tubes, pipes and hollow profiles, welded, having a circular cross-section, of alloy steel ",export,1999,2005,7,38612096
+7306,HS6,regular,730660,"Tubes, pipes and hollow profiles, welded, of non-circular cross-section, of iron or steel ",export,1999,2006,8,227098228
+7306,CN8,regular,73066010,"Tubes, pipes and hollow profiles, welded, having a non-circular cross-section, of iron or ",export,2001,2002,2,37365
+7306,CN8,regular,73066011,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of st",export,2006,2006,1,2923792
+7306,CN8,regular,73066019,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of ir",export,2006,2006,1,2571674
+7306,CN8,regular,73066021,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of st",export,2006,2006,1,4468303
+7306,CN8,regular,73066029,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of ir",export,2006,2006,1,20447047
+7306,CN8,regular,73066031,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of ir",export,1999,2003,5,29408785
+7306,CN8,regular,73066032,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of st",export,2004,2005,2,5412465
+7306,CN8,regular,73066034,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of ir",export,2004,2005,2,3209212
+7306,CN8,regular,73066036,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of st",export,2004,2005,2,2985730
+7306,CN8,regular,73066038,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of ir",export,2004,2005,2,29179459
+7306,CN8,regular,73066039,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of ir",export,1999,2003,5,66707608
+7306,CN8,regular,73066081,"Tubes, pipes and hollow profiles, welded, of non-circular cross-section, of stainless stee",export,2006,2006,1,618360
+7306,CN8,regular,73066089,"Tubes, pipes and hollow profiles, welded, of non-circular cross-section, of iron or steel ",export,2006,2006,1,10028550
+7306,CN8,regular,73066090,"Tubes, pipes and hollow profiles, welded, of non-circular cross-section, of iron or steel ",export,1999,2003,5,35576529
+7306,CN8,regular,73066091,"Tubes, pipes and hollow profiles, welded, of non-circular cross-section, of stainless stee",export,2004,2005,2,1536722
+7306,CN8,regular,73066099,"Tubes, pipes and hollow profiles, welded, of non-circular cross-section, of iron or steel ",export,2004,2005,2,11986627
+7306,HS6,regular,730661,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of ir",export,2007,2025,19,610800540
+7306,CN8,regular,73066110,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of st",export,2008,2025,18,184468741
+7306,CN8,regular,73066111,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of st",export,2007,2007,1,3795240
+7306,CN8,regular,73066119,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of ir",export,2007,2007,1,5168064
+7306,CN8,regular,73066191,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of st",export,2007,2007,1,3693147
+7306,CN8,regular,73066192,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of ir",export,2008,2025,18,112988384
+7306,CN8,regular,73066199,"Tubes and pipes and hollow profiles, welded, of square or rectangular cross-section, of ir",export,2007,2025,19,300686964
+7306,HS6,regular,730669,"Tubes, pipes and hollow profiles, welded, of non-circular cross-section, of iron or steel ",export,2007,2025,19,820095480
+7306,CN8,regular,73066910,"Tubes, pipes and hollow profiles, welded, of non-circular cross-section, of stainless stee",export,2007,2025,19,61630764
+7306,CN8,regular,73066990,"Tubes, pipes and hollow profiles, welded, of non-circular cross-section, of iron or steel ",export,2007,2025,19,758464716
+7306,HS6,regular,730690,"Tubes, pipes and hollow profiles ""e.g., open seam, riveted or similarly closed"", of iron o",export,1999,2025,27,303683266
+7306,CN8,regular,73069000,"Tubes, pipes and hollow profiles ""e.g., open seam, riveted or similarly closed"", of iron o",export,1999,2025,27,303683266

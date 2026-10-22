@@ -1,0 +1,25 @@
+wz08,label_en,measure,2024,2025,change_pct
+WZ08-C,Manufacturing (C),"production index, unadjusted annual mean (2021=100)",93.84,92.75,-1.16
+WZ08-C,Manufacturing (C),"production index, calendar+seasonally adjusted annual mean (2021=100)",93.99,93.12,-0.93
+WZ08-C,Manufacturing (C),"GENESIS 42111: turnover (nominal), EUR thousand",2149745954.0,2119381127.0,-1.41
+WZ08-C,Manufacturing (C),GENESIS 42111: employees (Beschaeftigte),5540101.0,5433048.0,-1.93
+WZ08-C,Manufacturing (C),"GENESIS 42271: turnover (nominal), EUR thousand",2276813591.0,2244516202.0,-1.42
+WZ08-C,Manufacturing (C),GENESIS 42271: employees (Beschaeftigte),6215663.0,6086878.0,-2.07
+WZ08-24,Basic metals (24),"production index, unadjusted annual mean (2021=100)",90.02,88.14,-2.09
+WZ08-24,Basic metals (24),"production index, calendar+seasonally adjusted annual mean (2021=100)",90.03,88.42,-1.79
+WZ08-24,Basic metals (24),"GENESIS 42111: turnover (nominal), EUR thousand",121064338.0,124655876.0,2.97
+WZ08-24,Basic metals (24),GENESIS 42111: employees (Beschaeftigte),227406.0,215640.0,-5.17
+WZ08-24,Basic metals (24),"GENESIS 42271: turnover (nominal), EUR thousand",124945204.0,127366075.0,1.94
+WZ08-24,Basic metals (24),GENESIS 42271: employees (Beschaeftigte),236922.0,224646.0,-5.18
+WZ08-25,Fabricated metal products (25),"production index, unadjusted annual mean (2021=100)",88.03,85.77,-2.57
+WZ08-25,Fabricated metal products (25),"production index, calendar+seasonally adjusted annual mean (2021=100)",88.17,86.22,-2.22
+WZ08-25,Fabricated metal products (25),"GENESIS 42111: turnover (nominal), EUR thousand",109174995.0,109957143.0,0.72
+WZ08-25,Fabricated metal products (25),GENESIS 42111: employees (Beschaeftigte),503607.0,491376.0,-2.43
+WZ08-25,Fabricated metal products (25),"GENESIS 42271: turnover (nominal), EUR thousand",130175495.0,130744236.0,0.44
+WZ08-25,Fabricated metal products (25),GENESIS 42271: employees (Beschaeftigte),645566.0,629323.0,-2.52
+WZ08-241,Basic iron and steel (24.1),"production index, unadjusted annual mean (2021=100)",91.73,86.58,-5.61
+WZ08-241,Basic iron and steel (24.1),"production index, calendar+seasonally adjusted annual mean (2021=100)",91.72,86.7,-5.47
+WZ08-241,Basic iron and steel (24.1),"GENESIS 42111: turnover (nominal), EUR thousand",38795153.0,36226494.0,-6.62
+WZ08-241,Basic iron and steel (24.1),GENESIS 42111: employees (Beschaeftigte),70458.0,68993.0,-2.08
+WZ08-241,Basic iron and steel (24.1),"GENESIS 42271: turnover (nominal), EUR thousand",38995546.0,36500933.0,-6.4
+WZ08-241,Basic iron and steel (24.1),GENESIS 42271: employees (Beschaeftigte),71749.0,69818.0,-2.69

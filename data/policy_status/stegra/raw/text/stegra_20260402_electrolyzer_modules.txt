@@ -1,0 +1,15 @@
+SOURCE_URL: https://stegra.com/en/news-and-stories/final-electrolyzer-module-installed-at-stegras-green-hydrogen-plant
+RETRIEVED: 2026-10-22
+EXTRACTION: tag-stripped text of the saved HTML (article/main block); layout not reproduced
+og:title: Final electrolyzer module installed at Stegra's green hydrogen plant - Stegra
+og:description: Today, the installation of the final electrolyzer module was completed, meaning all 37 modules are now in place. 
+----
+Today, the installation of the final electrolyzer module was completed, meaning all 37 modules are now in place. 
+With the final module installed, the scale of what we’re building in Boden is really starting to take shape. The modules, which were delivered in more than 800 containers to our plant, are now coming together to form what will become Europe’s largest green hydrogen production facility.
+There’s still work ahead before the hydrogen plant is complete, but this is an important step forward for our entire Boden site and reflects a strong team effort across engineering, logistics, procurement, quality, safety, site services, construction, operations and contractors.
+ Some of the team gathered around module no. 37 today to celebrate!
+With all 37 modules in place, we are now moving into the next phases of pre-commissioning and commissioning, critical steps in maintaining momentum toward full site completion and operational readiness.
+Previous
+Why 145 Meters? The reason behind a DRI tower’s height
+Next
+Meet Sanna Johansson - Shift manager

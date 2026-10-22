@@ -1,0 +1,31 @@
+Emissionen der Anlagen in Deutschland nach Branchen (EU-ETS-1-Abgrenzung)
+
+                                                                                                                      Emissionen (Mio. t CO2/a)*
+
+Bezeichnung des Sektors/der     Zahl der Anlagen   Durchschnitt                                        Durchschnitt   2020    2021                2022    2023    2024    2025
+Branche                                2025       2008 - 2012**                                       2013 - 2020***
+
+Energieanlagen                  873               348,2                                               307,9           206,0   235,3               241,6   188,3   170,4   167,1
+                                                  105,6                                               123,9           114,7   119,9               112,3   101,0   102,5    97,2
+Industrieanlagen                921                                                                                                                                        30,0
+                                                   31,1                                                36,3            31,5    35,4                33,2    32,5    33,1    20,8
+Eisen und Stahl                 115                26,9                                                24,7            22,9    22,5                23,5    21,3    21,8    26,5
+                                                   34,6                                                35,2            34,4    35,6                33,6    28,5    27,2    13,3
+Raffinerien                     22                                                                     18,0            17,0    17,3                14,1    12,1    13,3      3,8
+                                                     6,3                                                                                                                     2,4
+Mineralverarbeitende Industrie  317                  6,3                                                 5,9             5,3     5,4                 4,8     4,0     4,0     0,5
+                                                     0,1                                                 3,2             3,1     3,1                 2,7     2,1     2,5
+Chemische Industrie             242                  0,2                                                 0,6             0,5     0,5                 0,5     0,5     0,5
+
+Papier und Zellstoff            135
+
+Nichteisenmetalle               39
+
+Sonstige Verbrennungsanlagen    51
+
+Gesamt                          1.794             453,8                                               431,8           320,6   355,2               353,9   289,3   272,9   264,3
+
+* Inklusive der Emissionen von Anlagen, die im Jahr 2025 nicht mehr emissionshandelspflichtig waren.                                                                               Quelle: Umweltbundesamt 2026, Deutsche Emissionshandelsstelle (DEHSt), Treibhausgas-Emissionen 2025,
+** Anwendungsbereich der 2. Handelsperiode des EU-ETS 1.                                                                                          Emissionshandelspflichtige stationäre Anlagen, Luft- und Seeverkehr in Deutschland, Berlin, verschiedene Jahrgänge (Stand 05/2026)
+*** Anwendungsbereich der 3. Handelsperiode des EU-ETS 1.
+

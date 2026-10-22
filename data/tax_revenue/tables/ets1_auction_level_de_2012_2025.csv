@@ -1,0 +1,660 @@
+year,date,contract,product,status,price_eur_per_t,volume_t,revenue_reported_eur,source_file,revenue_eur_used,revenue_basis
+2012,2012-01-03,T2PA,EUA,not given in file,6.31,300000,,emission-spot-primary-market-auction-report-2012-data.xls,1893000.0,derived: price x volume (cell empty in EEX file)
+2012,2012-01-10,T2PA,EUA,not given in file,6.83,300000,,emission-spot-primary-market-auction-report-2012-data.xls,2049000.0,derived: price x volume (cell empty in EEX file)
+2012,2012-01-17,T2PA,EUA,not given in file,6.68,300000,,emission-spot-primary-market-auction-report-2012-data.xls,2004000.0,derived: price x volume (cell empty in EEX file)
+2012,2012-01-24,T2PA,EUA,not given in file,6.9,300000,,emission-spot-primary-market-auction-report-2012-data.xls,2070000.0,derived: price x volume (cell empty in EEX file)
+2012,2012-01-31,T2PA,EUA,not given in file,7.66,300000,,emission-spot-primary-market-auction-report-2012-data.xls,2298000.0,derived: price x volume (cell empty in EEX file)
+2012,2012-02-07,T2PA,EUA,not given in file,8.42,300000,,emission-spot-primary-market-auction-report-2012-data.xls,2526000.0,derived: price x volume (cell empty in EEX file)
+2012,2012-02-14,T2PA,EUA,not given in file,7.6,300000,,emission-spot-primary-market-auction-report-2012-data.xls,2280000.0,derived: price x volume (cell empty in EEX file)
+2012,2012-02-21,T2PA,EUA,not given in file,8.58,300000,,emission-spot-primary-market-auction-report-2012-data.xls,2574000.0,derived: price x volume (cell empty in EEX file)
+2012,2012-02-28,T2PA,EUA,not given in file,9.17,300000,,emission-spot-primary-market-auction-report-2012-data.xls,2751000.0,derived: price x volume (cell empty in EEX file)
+2012,2012-03-06,T2PA,EUA,not given in file,8.44,300000,,emission-spot-primary-market-auction-report-2012-data.xls,2532000.0,derived: price x volume (cell empty in EEX file)
+2012,2012-03-13,T2PA,EUA,not given in file,7.65,300000,,emission-spot-primary-market-auction-report-2012-data.xls,2295000.0,derived: price x volume (cell empty in EEX file)
+2012,2012-03-20,T2PA,EUA,not given in file,7.25,300000,,emission-spot-primary-market-auction-report-2012-data.xls,2175000.0,derived: price x volume (cell empty in EEX file)
+2012,2012-03-27,T2PA,EUA,not given in file,6.9,300000,,emission-spot-primary-market-auction-report-2012-data.xls,2070000.0,derived: price x volume (cell empty in EEX file)
+2012,2012-04-03,T2PA,EUA,not given in file,6.0,300000,,emission-spot-primary-market-auction-report-2012-data.xls,1800000.0,derived: price x volume (cell empty in EEX file)
+2012,2012-04-10,T2PA,EUA,not given in file,6.54,300000,,emission-spot-primary-market-auction-report-2012-data.xls,1962000.0,derived: price x volume (cell empty in EEX file)
+2012,2012-04-17,T2PA,EUA,not given in file,6.97,300000,,emission-spot-primary-market-auction-report-2012-data.xls,2091000.0,derived: price x volume (cell empty in EEX file)
+2012,2012-04-24,T2PA,EUA,not given in file,7.06,300000,,emission-spot-primary-market-auction-report-2012-data.xls,2118000.0,derived: price x volume (cell empty in EEX file)
+2012,2012-05-08,T2PA,EUA,not given in file,6.5,300000,,emission-spot-primary-market-auction-report-2012-data.xls,1950000.0,derived: price x volume (cell empty in EEX file)
+2012,2012-05-15,T2PA,EUA,not given in file,6.49,300000,,emission-spot-primary-market-auction-report-2012-data.xls,1947000.0,derived: price x volume (cell empty in EEX file)
+2012,2012-05-22,T2PA,EUA,not given in file,6.65,300000,,emission-spot-primary-market-auction-report-2012-data.xls,1995000.0,derived: price x volume (cell empty in EEX file)
+2012,2012-05-29,T2PA,EUA,not given in file,6.55,300000,,emission-spot-primary-market-auction-report-2012-data.xls,1965000.0,derived: price x volume (cell empty in EEX file)
+2012,2012-06-05,T2PA,EUA,not given in file,6.27,300000,,emission-spot-primary-market-auction-report-2012-data.xls,1881000.0,derived: price x volume (cell empty in EEX file)
+2012,2012-06-12,T2PA,EUA,not given in file,6.54,300000,1962000.0,emission-spot-primary-market-auction-report-2012-data.xls,1962000.0,reported in EEX file
+2012,2012-06-19,T2PA,EUA,not given in file,7.39,300000,2217000.0,emission-spot-primary-market-auction-report-2012-data.xls,2217000.0,reported in EEX file
+2012,2012-06-26,T2PA,EUA,not given in file,8.0,300000,2400000.0,emission-spot-primary-market-auction-report-2012-data.xls,2400000.0,reported in EEX file
+2012,2012-07-03,T2PA,EUA,not given in file,8.11,300000,2433000.0,emission-spot-primary-market-auction-report-2012-data.xls,2433000.0,reported in EEX file
+2012,2012-07-10,T2PA,EUA,not given in file,7.87,300000,2361000.0,emission-spot-primary-market-auction-report-2012-data.xls,2361000.0,reported in EEX file
+2012,2012-07-17,T2PA,EUA,not given in file,7.68,300000,2304000.0,emission-spot-primary-market-auction-report-2012-data.xls,2304000.0,reported in EEX file
+2012,2012-07-24,T2PA,EUA,not given in file,7.13,300000,2139000.0,emission-spot-primary-market-auction-report-2012-data.xls,2139000.0,reported in EEX file
+2012,2012-07-31,T2PA,EUA,not given in file,6.64,300000,1992000.0,emission-spot-primary-market-auction-report-2012-data.xls,1992000.0,reported in EEX file
+2012,2012-08-07,T2PA,EUA,not given in file,7.21,300000,2163000.0,emission-spot-primary-market-auction-report-2012-data.xls,2163000.0,reported in EEX file
+2012,2012-08-14,T2PA,EUA,not given in file,7.51,300000,2253000.0,emission-spot-primary-market-auction-report-2012-data.xls,2253000.0,reported in EEX file
+2012,2012-08-21,T2PA,EUA,not given in file,7.6,300000,2280000.0,emission-spot-primary-market-auction-report-2012-data.xls,2280000.0,reported in EEX file
+2012,2012-08-28,T2PA,EUA,not given in file,8.25,300000,2475000.0,emission-spot-primary-market-auction-report-2012-data.xls,2475000.0,reported in EEX file
+2012,2012-09-04,T2PA,EUA,not given in file,8.24,300000,2472000.0,emission-spot-primary-market-auction-report-2012-data.xls,2472000.0,reported in EEX file
+2012,2012-09-11,T2PA,EUA,not given in file,7.72,300000,2316000.0,emission-spot-primary-market-auction-report-2012-data.xls,2316000.0,reported in EEX file
+2012,2012-09-18,T2PA,EUA,not given in file,7.25,300000,2175000.0,emission-spot-primary-market-auction-report-2012-data.xls,2175000.0,reported in EEX file
+2012,2012-09-25,T2PA,EUA,not given in file,7.21,300000,2163000.0,emission-spot-primary-market-auction-report-2012-data.xls,2163000.0,reported in EEX file
+2012,2012-10-02,T2PA,EUA,not given in file,7.79,300000,2337000.0,emission-spot-primary-market-auction-report-2012-data.xls,2337000.0,reported in EEX file
+2012,2012-10-09,T2PA,EUA,not given in file,7.85,300000,2355000.0,emission-spot-primary-market-auction-report-2012-data.xls,2355000.0,reported in EEX file
+2012,2012-10-16,T2PA,EUA,not given in file,7.76,300000,2328000.0,emission-spot-primary-market-auction-report-2012-data.xls,2328000.0,reported in EEX file
+2012,2012-10-23,T2PA,EUA,not given in file,7.85,300000,2355000.0,emission-spot-primary-market-auction-report-2012-data.xls,2355000.0,reported in EEX file
+2012,2012-10-26,T3PA,EUA,not given in file,7.54,3000000,22620000.0,emission-spot-primary-market-auction-report-2012-data.xls,22620000.0,reported in EEX file
+2012,2012-10-30,T2PA,EUA,not given in file,8.12,300000,2436000.0,emission-spot-primary-market-auction-report-2012-data.xls,2436000.0,reported in EEX file
+2012,2012-10-31,EAA2,EUAA (aviation),not given in file,7.01,2500000,17525000.0,emission-spot-primary-market-auction-report-2012-data.xls,17525000.0,reported in EEX file
+2012,2012-11-02,T3PA,EUA,not given in file,7.96,3000000,23880000.0,emission-spot-primary-market-auction-report-2012-data.xls,23880000.0,reported in EEX file
+2012,2012-11-06,T2PA,EUA,not given in file,8.24,1150000,9476000.0,emission-spot-primary-market-auction-report-2012-data.xls,9476000.0,reported in EEX file
+2012,2012-11-09,T3PA,EUA,not given in file,8.2,3000000,24600000.0,emission-spot-primary-market-auction-report-2012-data.xls,24600000.0,reported in EEX file
+2012,2012-11-13,T2PA,EUA,not given in file,8.53,1150000,9809500.0,emission-spot-primary-market-auction-report-2012-data.xls,9809500.0,reported in EEX file
+2012,2012-11-16,T3PA,EUA,not given in file,6.75,3000000,20250000.0,emission-spot-primary-market-auction-report-2012-data.xls,20250000.0,reported in EEX file
+2012,2012-11-20,T2PA,EUA,not given in file,6.56,868000,5694080.0,emission-spot-primary-market-auction-report-2012-data.xls,5694080.0,reported in EEX file
+2012,2012-11-23,T3PA,EUA,not given in file,6.75,3000000,20250000.0,emission-spot-primary-market-auction-report-2012-data.xls,20250000.0,reported in EEX file
+2012,2012-11-30,T3PA,EUA,not given in file,6.23,3000000,18690000.0,emission-spot-primary-market-auction-report-2012-data.xls,18690000.0,reported in EEX file
+2012,2012-12-07,T3PA,EUA,not given in file,6.42,3000000,19260000.0,emission-spot-primary-market-auction-report-2012-data.xls,19260000.0,reported in EEX file
+2012,2012-12-14,T3PA,EUA,not given in file,6.57,2531000,16628670.0,emission-spot-primary-market-auction-report-2012-data.xls,16628670.0,reported in EEX file
+2013,2013-01-11,T3PA,EUA,not given in file,5.75,4020000,23115000.0,emission-spot-primary-market-auction-report-2013-data.xls,23115000.0,reported in EEX file
+2013,2013-01-25,T3PA,EUA,not given in file,3.88,5025000,19497000.0,emission-spot-primary-market-auction-report-2013-data.xls,19497000.0,reported in EEX file
+2013,2013-02-01,T3PA,EUA,not given in file,3.15,5025000,15828750.0,emission-spot-primary-market-auction-report-2013-data.xls,15828750.0,reported in EEX file
+2013,2013-02-08,T3PA,EUA,not given in file,4.32,5025000,21708000.0,emission-spot-primary-market-auction-report-2013-data.xls,21708000.0,reported in EEX file
+2013,2013-02-15,T3PA,EUA,not given in file,4.96,5025000,24924000.0,emission-spot-primary-market-auction-report-2013-data.xls,24924000.0,reported in EEX file
+2013,2013-03-01,T3PA,EUA,not given in file,4.64,5025000,23316000.0,emission-spot-primary-market-auction-report-2013-data.xls,23316000.0,reported in EEX file
+2013,2013-03-08,T3PA,EUA,not given in file,4.15,5025000,20853750.0,emission-spot-primary-market-auction-report-2013-data.xls,20853750.0,reported in EEX file
+2013,2013-03-15,T3PA,EUA,not given in file,3.47,5025000,17436750.0,emission-spot-primary-market-auction-report-2013-data.xls,17436750.0,reported in EEX file
+2013,2013-03-22,T3PA,EUA,not given in file,4.23,5025000,21255750.0,emission-spot-primary-market-auction-report-2013-data.xls,21255750.0,reported in EEX file
+2013,2013-04-05,T3PA,EUA,not given in file,5.05,4020000,20301000.0,emission-spot-primary-market-auction-report-2013-data.xls,20301000.0,reported in EEX file
+2013,2013-04-12,T3PA,EUA,not given in file,4.4,4020000,17688000.0,emission-spot-primary-market-auction-report-2013-data.xls,17688000.0,reported in EEX file
+2013,2013-04-19,T3PA,EUA,not given in file,3.1,4020000,12462000.0,emission-spot-primary-market-auction-report-2013-data.xls,12462000.0,reported in EEX file
+2013,2013-04-26,T3PA,EUA,not given in file,2.95,4020000,11859000.0,emission-spot-primary-market-auction-report-2013-data.xls,11859000.0,reported in EEX file
+2013,2013-05-03,T3PA,EUA,not given in file,2.95,4020000,11859000.0,emission-spot-primary-market-auction-report-2013-data.xls,11859000.0,reported in EEX file
+2013,2013-05-10,T3PA,EUA,not given in file,3.52,4020000,14150400.0,emission-spot-primary-market-auction-report-2013-data.xls,14150400.0,reported in EEX file
+2013,2013-05-17,T3PA,EUA,not given in file,3.55,4020000,14271000.0,emission-spot-primary-market-auction-report-2013-data.xls,14271000.0,reported in EEX file
+2013,2013-05-24,T3PA,EUA,not given in file,3.3,4020000,13266000.0,emission-spot-primary-market-auction-report-2013-data.xls,13266000.0,reported in EEX file
+2013,2013-05-31,T3PA,EUA,not given in file,3.96,4020000,15919200.0,emission-spot-primary-market-auction-report-2013-data.xls,15919200.0,reported in EEX file
+2013,2013-06-07,T3PA,EUA,not given in file,4.12,4020000,16562400.0,emission-spot-primary-market-auction-report-2013-data.xls,16562400.0,reported in EEX file
+2013,2013-06-14,T3PA,EUA,not given in file,4.4,4020000,17688000.0,emission-spot-primary-market-auction-report-2013-data.xls,17688000.0,reported in EEX file
+2013,2013-06-21,T3PA,EUA,not given in file,4.33,4020000,17406600.0,emission-spot-primary-market-auction-report-2013-data.xls,17406600.0,reported in EEX file
+2013,2013-06-28,T3PA,EUA,not given in file,4.31,4020000,17326200.0,emission-spot-primary-market-auction-report-2013-data.xls,17326200.0,reported in EEX file
+2013,2013-07-05,T3PA,EUA,not given in file,4.4,4020000,17688000.0,emission-spot-primary-market-auction-report-2013-data.xls,17688000.0,reported in EEX file
+2013,2013-07-12,T3PA,EUA,not given in file,3.95,4020000,15879000.0,emission-spot-primary-market-auction-report-2013-data.xls,15879000.0,reported in EEX file
+2013,2013-07-19,T3PA,EUA,not given in file,4.06,4020000,16321200.0,emission-spot-primary-market-auction-report-2013-data.xls,16321200.0,reported in EEX file
+2013,2013-07-26,T3PA,EUA,not given in file,4.28,4020000,17205600.0,emission-spot-primary-market-auction-report-2013-data.xls,17205600.0,reported in EEX file
+2013,2013-08-02,T3PA,EUA,not given in file,4.3,2010000,8643000.0,emission-spot-primary-market-auction-report-2013-data.xls,8643000.0,reported in EEX file
+2013,2013-08-09,T3PA,EUA,not given in file,4.48,2010000,9004800.0,emission-spot-primary-market-auction-report-2013-data.xls,9004800.0,reported in EEX file
+2013,2013-08-16,T3PA,EUA,not given in file,4.33,2010000,8703300.0,emission-spot-primary-market-auction-report-2013-data.xls,8703300.0,reported in EEX file
+2013,2013-08-23,T3PA,EUA,not given in file,4.49,2010000,9024900.0,emission-spot-primary-market-auction-report-2013-data.xls,9024900.0,reported in EEX file
+2013,2013-08-30,T3PA,EUA,not given in file,4.54,2010000,9125400.0,emission-spot-primary-market-auction-report-2013-data.xls,9125400.0,reported in EEX file
+2013,2013-09-06,T3PA,EUA,not given in file,5.05,4020000,20301000.0,emission-spot-primary-market-auction-report-2013-data.xls,20301000.0,reported in EEX file
+2013,2013-09-13,T3PA,EUA,not given in file,5.37,4020000,21587400.0,emission-spot-primary-market-auction-report-2013-data.xls,21587400.0,reported in EEX file
+2013,2013-09-20,T3PA,EUA,not given in file,5.3,4020000,21306000.0,emission-spot-primary-market-auction-report-2013-data.xls,21306000.0,reported in EEX file
+2013,2013-09-27,T3PA,EUA,not given in file,5.38,4020000,21627600.0,emission-spot-primary-market-auction-report-2013-data.xls,21627600.0,reported in EEX file
+2013,2013-10-04,T3PA,EUA,not given in file,5.12,4020000,20582400.0,emission-spot-primary-market-auction-report-2013-data.xls,20582400.0,reported in EEX file
+2013,2013-10-11,T3PA,EUA,not given in file,4.58,4020000,18411600.0,emission-spot-primary-market-auction-report-2013-data.xls,18411600.0,reported in EEX file
+2013,2013-10-18,T3PA,EUA,not given in file,5.14,4020000,20662800.0,emission-spot-primary-market-auction-report-2013-data.xls,20662800.0,reported in EEX file
+2013,2013-10-25,T3PA,EUA,not given in file,4.61,4020000,18532200.0,emission-spot-primary-market-auction-report-2013-data.xls,18532200.0,reported in EEX file
+2013,2013-11-01,T3PA,EUA,not given in file,4.63,4020000,18612600.0,emission-spot-primary-market-auction-report-2013-data.xls,18612600.0,reported in EEX file
+2013,2013-11-08,T3PA,EUA,not given in file,4.78,4020000,19215600.0,emission-spot-primary-market-auction-report-2013-data.xls,19215600.0,reported in EEX file
+2013,2013-11-15,T3PA,EUA,not given in file,4.46,4020000,17929200.0,emission-spot-primary-market-auction-report-2013-data.xls,17929200.0,reported in EEX file
+2013,2013-11-22,T3PA,EUA,not given in file,4.48,4020000,18009600.0,emission-spot-primary-market-auction-report-2013-data.xls,18009600.0,reported in EEX file
+2013,2013-11-29,T3PA,EUA,not given in file,4.36,4020000,17527200.0,emission-spot-primary-market-auction-report-2013-data.xls,17527200.0,reported in EEX file
+2013,2013-12-06,T3PA,EUA,not given in file,4.7,4020000,18894000.0,emission-spot-primary-market-auction-report-2013-data.xls,18894000.0,reported in EEX file
+2013,2013-12-13,T3PA,EUA,not given in file,4.84,3670500,17765220.0,emission-spot-primary-market-auction-report-2013-data.xls,17765220.0,reported in EEX file
+2014,2014-01-10,T3PA,EUA,not given in file,4.45,4600000,20470000.0,emission-spot-primary-market-auction-report-2014-data.xls,20470000.0,reported in EEX file
+2014,2014-01-17,T3PA,EUA,not given in file,5.04,4600000,23184000.0,emission-spot-primary-market-auction-report-2014-data.xls,23184000.0,reported in EEX file
+2014,2014-01-24,T3PA,EUA,not given in file,4.97,4600000,22862000.0,emission-spot-primary-market-auction-report-2014-data.xls,22862000.0,reported in EEX file
+2014,2014-01-31,T3PA,EUA,not given in file,5.6,4600000,25760000.0,emission-spot-primary-market-auction-report-2014-data.xls,25760000.0,reported in EEX file
+2014,2014-02-07,T3PA,EUA,not given in file,6.45,4600000,29670000.0,emission-spot-primary-market-auction-report-2014-data.xls,29670000.0,reported in EEX file
+2014,2014-02-14,T3PA,EUA,not given in file,6.31,4600000,29026000.0,emission-spot-primary-market-auction-report-2014-data.xls,29026000.0,reported in EEX file
+2014,2014-02-21,T3PA,EUA,not given in file,6.85,4600000,31510000.0,emission-spot-primary-market-auction-report-2014-data.xls,31510000.0,reported in EEX file
+2014,2014-02-28,T3PA,EUA,not given in file,6.83,4600000,31418000.0,emission-spot-primary-market-auction-report-2014-data.xls,31418000.0,reported in EEX file
+2014,2014-03-07,T3PA,EUA,not given in file,6.72,4600000,30912000.0,emission-spot-primary-market-auction-report-2014-data.xls,30912000.0,reported in EEX file
+2014,2014-03-14,T3PA,EUA,not given in file,6.19,4600000,28474000.0,emission-spot-primary-market-auction-report-2014-data.xls,28474000.0,reported in EEX file
+2014,2014-03-21,T3PA,EUA,not given in file,6.1,2352000,14347200.0,emission-spot-primary-market-auction-report-2014-data.xls,14347200.0,reported in EEX file
+2014,2014-03-28,T3PA,EUA,not given in file,5.1,2352000,11995200.0,emission-spot-primary-market-auction-report-2014-data.xls,11995200.0,reported in EEX file
+2014,2014-04-04,T3PA,EUA,not given in file,4.75,2352000,11172000.0,emission-spot-primary-market-auction-report-2014-data.xls,11172000.0,reported in EEX file
+2014,2014-04-11,T3PA,EUA,not given in file,5.26,2352000,12371520.0,emission-spot-primary-market-auction-report-2014-data.xls,12371520.0,reported in EEX file
+2014,2014-04-25,T3PA,EUA,not given in file,5.52,2352000,12983040.0,emission-spot-primary-market-auction-report-2014-data.xls,12983040.0,reported in EEX file
+2014,2014-05-02,T3PA,EUA,not given in file,5.28,2352000,12418560.0,emission-spot-primary-market-auction-report-2014-data.xls,12418560.0,reported in EEX file
+2014,2014-05-09,T3PA,EUA,not given in file,5.1,2352000,11995200.0,emission-spot-primary-market-auction-report-2014-data.xls,11995200.0,reported in EEX file
+2014,2014-05-16,T3PA,EUA,not given in file,4.72,2352000,11101440.0,emission-spot-primary-market-auction-report-2014-data.xls,11101440.0,reported in EEX file
+2014,2014-05-23,T3PA,EUA,not given in file,5.08,2352000,11948160.0,emission-spot-primary-market-auction-report-2014-data.xls,11948160.0,reported in EEX file
+2014,2014-05-30,T3PA,EUA,not given in file,5.1,2352000,11995200.0,emission-spot-primary-market-auction-report-2014-data.xls,11995200.0,reported in EEX file
+2014,2014-06-06,T3PA,EUA,not given in file,5.41,2352000,12724320.0,emission-spot-primary-market-auction-report-2014-data.xls,12724320.0,reported in EEX file
+2014,2014-06-13,T3PA,EUA,not given in file,5.63,2352000,13241760.0,emission-spot-primary-market-auction-report-2014-data.xls,13241760.0,reported in EEX file
+2014,2014-06-20,T3PA,EUA,not given in file,5.56,2352000,13077120.0,emission-spot-primary-market-auction-report-2014-data.xls,13077120.0,reported in EEX file
+2014,2014-06-27,T3PA,EUA,not given in file,5.7,2352000,13406400.0,emission-spot-primary-market-auction-report-2014-data.xls,13406400.0,reported in EEX file
+2014,2014-07-04,T3PA,EUA,not given in file,5.91,2352000,13900320.0,emission-spot-primary-market-auction-report-2014-data.xls,13900320.0,reported in EEX file
+2014,2014-07-11,T3PA,EUA,not given in file,5.64,2352000,13265280.0,emission-spot-primary-market-auction-report-2014-data.xls,13265280.0,reported in EEX file
+2014,2014-07-18,T3PA,EUA,not given in file,6.0,2352000,14112000.0,emission-spot-primary-market-auction-report-2014-data.xls,14112000.0,reported in EEX file
+2014,2014-07-25,T3PA,EUA,not given in file,5.99,2352000,14088480.0,emission-spot-primary-market-auction-report-2014-data.xls,14088480.0,reported in EEX file
+2014,2014-08-01,T3PA,EUA,not given in file,6.29,1176000,7397040.0,emission-spot-primary-market-auction-report-2014-data.xls,7397040.0,reported in EEX file
+2014,2014-08-08,T3PA,EUA,not given in file,5.93,1176000,6973680.0,emission-spot-primary-market-auction-report-2014-data.xls,6973680.0,reported in EEX file
+2014,2014-08-15,T3PA,EUA,not given in file,6.18,1176000,7267680.0,emission-spot-primary-market-auction-report-2014-data.xls,7267680.0,reported in EEX file
+2014,2014-08-22,T3PA,EUA,not given in file,6.34,1176000,7455840.0,emission-spot-primary-market-auction-report-2014-data.xls,7455840.0,reported in EEX file
+2014,2014-08-29,T3PA,EUA,not given in file,6.4,1176000,7526400.0,emission-spot-primary-market-auction-report-2014-data.xls,7526400.0,reported in EEX file
+2014,2014-09-05,T3PA,EUA,not given in file,6.04,2352000,14206080.0,emission-spot-primary-market-auction-report-2014-data.xls,14206080.0,reported in EEX file
+2014,2014-09-12,T3PA,EUA,not given in file,6.06,2352000,14253120.0,emission-spot-primary-market-auction-report-2014-data.xls,14253120.0,reported in EEX file
+2014,2014-09-19,T3PA,EUA,not given in file,5.94,2352000,13970880.0,emission-spot-primary-market-auction-report-2014-data.xls,13970880.0,reported in EEX file
+2014,2014-09-26,T3PA,EUA,not given in file,5.8,2352000,13641600.0,emission-spot-primary-market-auction-report-2014-data.xls,13641600.0,reported in EEX file
+2014,2014-10-10,T3PA,EUA,not given in file,6.03,2352000,14182560.0,emission-spot-primary-market-auction-report-2014-data.xls,14182560.0,reported in EEX file
+2014,2014-10-17,T3PA,EUA,not given in file,6.23,2352000,14652960.0,emission-spot-primary-market-auction-report-2014-data.xls,14652960.0,reported in EEX file
+2014,2014-10-24,T3PA,EUA,not given in file,6.35,2352000,14935200.0,emission-spot-primary-market-auction-report-2014-data.xls,14935200.0,reported in EEX file
+2014,2014-10-31,T3PA,EUA,not given in file,6.35,2352000,14935200.0,emission-spot-primary-market-auction-report-2014-data.xls,14935200.0,reported in EEX file
+2014,2014-11-07,T3PA,EUA,not given in file,6.6,2352000,15523200.0,emission-spot-primary-market-auction-report-2014-data.xls,15523200.0,reported in EEX file
+2014,2014-11-14,T3PA,EUA,not given in file,6.7,2352000,15758400.0,emission-spot-primary-market-auction-report-2014-data.xls,15758400.0,reported in EEX file
+2014,2014-11-21,T3PA,EUA,not given in file,6.88,2352000,16181760.0,emission-spot-primary-market-auction-report-2014-data.xls,16181760.0,reported in EEX file
+2014,2014-11-28,T3PA,EUA,not given in file,7.02,2352000,16511040.0,emission-spot-primary-market-auction-report-2014-data.xls,16511040.0,reported in EEX file
+2014,2014-12-05,T3PA,EUA,not given in file,6.66,2352000,15664320.0,emission-spot-primary-market-auction-report-2014-data.xls,15664320.0,reported in EEX file
+2014,2014-12-12,T3PA,EUA,not given in file,6.64,2335500,15507720.0,emission-spot-primary-market-auction-report-2014-data.xls,15507720.0,reported in EEX file
+2015,2015-01-09,T3PA,EUA,not given in file,6.71,3198000,21458580.0,emission-spot-primary-market-auction-report-2015-data.xls,21458580.0,reported in EEX file
+2015,2015-01-16,T3PA,EUA,not given in file,7.05,3198000,22545900.0,emission-spot-primary-market-auction-report-2015-data.xls,22545900.0,reported in EEX file
+2015,2015-01-23,T3PA,EUA,not given in file,6.81,3198000,21778380.0,emission-spot-primary-market-auction-report-2015-data.xls,21778380.0,reported in EEX file
+2015,2015-01-30,T3PA,EUA,not given in file,6.96,3198000,22258080.0,emission-spot-primary-market-auction-report-2015-data.xls,22258080.0,reported in EEX file
+2015,2015-02-06,T3PA,EUA,not given in file,6.92,3198000,22130160.0,emission-spot-primary-market-auction-report-2015-data.xls,22130160.0,reported in EEX file
+2015,2015-02-13,T3PA,EUA,not given in file,7.35,3198000,23505300.0,emission-spot-primary-market-auction-report-2015-data.xls,23505300.0,reported in EEX file
+2015,2015-02-20,T3PA,EUA,not given in file,7.26,3198000,23217480.0,emission-spot-primary-market-auction-report-2015-data.xls,23217480.0,reported in EEX file
+2015,2015-02-25,EAA3,EUAA (aviation),not given in file,7.35,1447500,10639125.0,emission-spot-primary-market-auction-report-2015-data.xls,10639125.0,reported in EEX file
+2015,2015-02-27,T3PA,EUA,not given in file,6.93,3198000,22162140.0,emission-spot-primary-market-auction-report-2015-data.xls,22162140.0,reported in EEX file
+2015,2015-03-06,T3PA,EUA,not given in file,6.7,3198000,21426600.0,emission-spot-primary-market-auction-report-2015-data.xls,21426600.0,reported in EEX file
+2015,2015-03-13,T3PA,EUA,not given in file,6.26,3198000,20019480.0,emission-spot-primary-market-auction-report-2015-data.xls,20019480.0,reported in EEX file
+2015,2015-03-20,T3PA,EUA,not given in file,6.7,3198000,21426600.0,emission-spot-primary-market-auction-report-2015-data.xls,21426600.0,reported in EEX file
+2015,2015-03-27,T3PA,EUA,not given in file,6.9,3198000,22066200.0,emission-spot-primary-market-auction-report-2015-data.xls,22066200.0,reported in EEX file
+2015,2015-04-10,T3PA,EUA,not given in file,6.96,3198000,22258080.0,emission-spot-primary-market-auction-report-2015-data.xls,22258080.0,reported in EEX file
+2015,2015-04-17,T3PA,EUA,not given in file,6.83,3198000,21842340.0,emission-spot-primary-market-auction-report-2015-data.xls,21842340.0,reported in EEX file
+2015,2015-04-24,T3PA,EUA,not given in file,7.27,3198000,23249460.0,emission-spot-primary-market-auction-report-2015-data.xls,23249460.0,reported in EEX file
+2015,2015-05-08,T3PA,EUA,not given in file,7.43,3198000,23761140.0,emission-spot-primary-market-auction-report-2015-data.xls,23761140.0,reported in EEX file
+2015,2015-05-15,T3PA,EUA,not given in file,7.48,3198000,23921040.0,emission-spot-primary-market-auction-report-2015-data.xls,23921040.0,reported in EEX file
+2015,2015-05-22,T3PA,EUA,not given in file,7.25,3198000,23185500.0,emission-spot-primary-market-auction-report-2015-data.xls,23185500.0,reported in EEX file
+2015,2015-05-29,T3PA,EUA,not given in file,7.22,3198000,23089560.0,emission-spot-primary-market-auction-report-2015-data.xls,23089560.0,reported in EEX file
+2015,2015-06-05,T3PA,EUA,not given in file,7.4,3198000,23665200.0,emission-spot-primary-market-auction-report-2015-data.xls,23665200.0,reported in EEX file
+2015,2015-06-12,T3PA,EUA,not given in file,7.52,3198000,24048960.0,emission-spot-primary-market-auction-report-2015-data.xls,24048960.0,reported in EEX file
+2015,2015-06-19,T3PA,EUA,not given in file,7.41,3198000,23697180.0,emission-spot-primary-market-auction-report-2015-data.xls,23697180.0,reported in EEX file
+2015,2015-06-26,T3PA,EUA,not given in file,7.5,3198000,23985000.0,emission-spot-primary-market-auction-report-2015-data.xls,23985000.0,reported in EEX file
+2015,2015-07-03,T3PA,EUA,not given in file,7.42,3198000,23729160.0,emission-spot-primary-market-auction-report-2015-data.xls,23729160.0,reported in EEX file
+2015,2015-07-10,T3PA,EUA,not given in file,7.52,3198000,24048960.0,emission-spot-primary-market-auction-report-2015-data.xls,24048960.0,reported in EEX file
+2015,2015-07-17,T3PA,EUA,not given in file,7.6,3198000,24304800.0,emission-spot-primary-market-auction-report-2015-data.xls,24304800.0,reported in EEX file
+2015,2015-07-24,T3PA,EUA,not given in file,8.01,3198000,25615980.0,emission-spot-primary-market-auction-report-2015-data.xls,25615980.0,reported in EEX file
+2015,2015-07-31,T3PA,EUA,not given in file,7.82,3198000,25008360.0,emission-spot-primary-market-auction-report-2015-data.xls,25008360.0,reported in EEX file
+2015,2015-08-07,T3PA,EUA,not given in file,7.79,1599000,12456210.0,emission-spot-primary-market-auction-report-2015-data.xls,12456210.0,reported in EEX file
+2015,2015-08-14,T3PA,EUA,not given in file,8.15,1599000,13031850.0,emission-spot-primary-market-auction-report-2015-data.xls,13031850.0,reported in EEX file
+2015,2015-08-21,T3PA,EUA,not given in file,8.31,1599000,13287690.0,emission-spot-primary-market-auction-report-2015-data.xls,13287690.0,reported in EEX file
+2015,2015-08-28,T3PA,EUA,not given in file,8.04,1599000,12855960.0,emission-spot-primary-market-auction-report-2015-data.xls,12855960.0,reported in EEX file
+2015,2015-09-04,T3PA,EUA,not given in file,8.06,3198000,25775880.0,emission-spot-primary-market-auction-report-2015-data.xls,25775880.0,reported in EEX file
+2015,2015-09-11,T3PA,EUA,not given in file,8.22,3198000,26287560.0,emission-spot-primary-market-auction-report-2015-data.xls,26287560.0,reported in EEX file
+2015,2015-09-18,T3PA,EUA,not given in file,8.16,3198000,26095680.0,emission-spot-primary-market-auction-report-2015-data.xls,26095680.0,reported in EEX file
+2015,2015-09-25,T3PA,EUA,not given in file,7.94,3198000,25392120.0,emission-spot-primary-market-auction-report-2015-data.xls,25392120.0,reported in EEX file
+2015,2015-10-02,T3PA,EUA,not given in file,8.1,3198000,25903800.0,emission-spot-primary-market-auction-report-2015-data.xls,25903800.0,reported in EEX file
+2015,2015-10-07,EAA3,EUAA (aviation),not given in file,7.97,781500,6228555.0,emission-spot-primary-market-auction-report-2015-data.xls,6228555.0,reported in EEX file
+2015,2015-10-09,T3PA,EUA,not given in file,8.16,3198000,26095680.0,emission-spot-primary-market-auction-report-2015-data.xls,26095680.0,reported in EEX file
+2015,2015-10-16,T3PA,EUA,not given in file,8.37,3198000,26767260.0,emission-spot-primary-market-auction-report-2015-data.xls,26767260.0,reported in EEX file
+2015,2015-10-23,T3PA,EUA,not given in file,8.52,3198000,27246960.0,emission-spot-primary-market-auction-report-2015-data.xls,27246960.0,reported in EEX file
+2015,2015-10-30,T3PA,EUA,not given in file,8.59,3198000,27470820.0,emission-spot-primary-market-auction-report-2015-data.xls,27470820.0,reported in EEX file
+2015,2015-11-06,T3PA,EUA,not given in file,8.45,3198000,27023100.0,emission-spot-primary-market-auction-report-2015-data.xls,27023100.0,reported in EEX file
+2015,2015-11-13,T3PA,EUA,not given in file,8.34,3198000,26671320.0,emission-spot-primary-market-auction-report-2015-data.xls,26671320.0,reported in EEX file
+2015,2015-11-20,T3PA,EUA,not given in file,8.59,3198000,27470820.0,emission-spot-primary-market-auction-report-2015-data.xls,27470820.0,reported in EEX file
+2015,2015-11-27,T3PA,EUA,not given in file,8.54,3198000,27310920.0,emission-spot-primary-market-auction-report-2015-data.xls,27310920.0,reported in EEX file
+2015,2015-12-04,T3PA,EUA,not given in file,8.56,3198000,27374880.0,emission-spot-primary-market-auction-report-2015-data.xls,27374880.0,reported in EEX file
+2015,2015-12-11,T3PA,EUA,not given in file,7.98,3181500,25388370.0,emission-spot-primary-market-auction-report-2015-data.xls,25388370.0,reported in EEX file
+2016,2016-01-15,T3PA,EUA,not given in file,6.71,3495000,23451450.0,emission-spot-primary-market-auction-report-2016-data.xls,23451450.0,reported in EEX file
+2016,2016-01-22,T3PA,EUA,not given in file,6.33,3495000,22123350.0,emission-spot-primary-market-auction-report-2016-data.xls,22123350.0,reported in EEX file
+2016,2016-01-29,T3PA,EUA,not given in file,6.06,3495000,21179700.0,emission-spot-primary-market-auction-report-2016-data.xls,21179700.0,reported in EEX file
+2016,2016-02-05,T3PA,EUA,not given in file,5.55,3495000,19397250.0,emission-spot-primary-market-auction-report-2016-data.xls,19397250.0,reported in EEX file
+2016,2016-02-12,T3PA,EUA,not given in file,4.94,3495000,17265300.0,emission-spot-primary-market-auction-report-2016-data.xls,17265300.0,reported in EEX file
+2016,2016-02-19,T3PA,EUA,not given in file,5.26,3495000,18383700.0,emission-spot-primary-market-auction-report-2016-data.xls,18383700.0,reported in EEX file
+2016,2016-02-26,T3PA,EUA,not given in file,5.08,3495000,17754600.0,emission-spot-primary-market-auction-report-2016-data.xls,17754600.0,reported in EEX file
+2016,2016-03-04,T3PA,EUA,not given in file,4.8,3495000,16776000.0,emission-spot-primary-market-auction-report-2016-data.xls,16776000.0,reported in EEX file
+2016,2016-03-11,T3PA,EUA,not given in file,5.01,3495000,17509950.0,emission-spot-primary-market-auction-report-2016-data.xls,17509950.0,reported in EEX file
+2016,2016-03-18,T3PA,EUA,not given in file,4.92,3495000,17195400.0,emission-spot-primary-market-auction-report-2016-data.xls,17195400.0,reported in EEX file
+2016,2016-04-01,T3PA,EUA,not given in file,5.18,3495000,18104100.0,emission-spot-primary-market-auction-report-2016-data.xls,18104100.0,reported in EEX file
+2016,2016-04-08,T3PA,EUA,not given in file,5.23,3495000,18278850.0,emission-spot-primary-market-auction-report-2016-data.xls,18278850.0,reported in EEX file
+2016,2016-04-13,EAA3,EUAA (aviation),not given in file,5.42,857500,4647650.0,emission-spot-primary-market-auction-report-2016-data.xls,4647650.0,reported in EEX file
+2016,2016-04-15,T3PA,EUA,not given in file,5.54,3495000,19362300.0,emission-spot-primary-market-auction-report-2016-data.xls,19362300.0,reported in EEX file
+2016,2016-04-22,T3PA,EUA,not given in file,5.74,3495000,20061300.0,emission-spot-primary-market-auction-report-2016-data.xls,20061300.0,reported in EEX file
+2016,2016-04-29,T3PA,EUA,not given in file,6.29,3495000,21983550.0,emission-spot-primary-market-auction-report-2016-data.xls,21983550.0,reported in EEX file
+2016,2016-05-06,T3PA,EUA,not given in file,6.13,3495000,21424350.0,emission-spot-primary-market-auction-report-2016-data.xls,21424350.0,reported in EEX file
+2016,2016-05-13,T3PA,EUA,not given in file,5.75,3495000,20096250.0,emission-spot-primary-market-auction-report-2016-data.xls,20096250.0,reported in EEX file
+2016,2016-05-20,T3PA,EUA,not given in file,5.95,3495000,20795250.0,emission-spot-primary-market-auction-report-2016-data.xls,20795250.0,reported in EEX file
+2016,2016-05-27,T3PA,EUA,not given in file,5.9,3495000,20620500.0,emission-spot-primary-market-auction-report-2016-data.xls,20620500.0,reported in EEX file
+2016,2016-06-03,T3PA,EUA,not given in file,5.96,3495000,20830200.0,emission-spot-primary-market-auction-report-2016-data.xls,20830200.0,reported in EEX file
+2016,2016-06-10,T3PA,EUA,not given in file,5.93,3495000,20725350.0,emission-spot-primary-market-auction-report-2016-data.xls,20725350.0,reported in EEX file
+2016,2016-06-17,T3PA,EUA,not given in file,5.68,3495000,19851600.0,emission-spot-primary-market-auction-report-2016-data.xls,19851600.0,reported in EEX file
+2016,2016-06-24,T3PA,EUA,not given in file,4.96,3495000,17335200.0,emission-spot-primary-market-auction-report-2016-data.xls,17335200.0,reported in EEX file
+2016,2016-07-01,T3PA,EUA,not given in file,4.35,3495000,15203250.0,emission-spot-primary-market-auction-report-2016-data.xls,15203250.0,reported in EEX file
+2016,2016-07-08,T3PA,EUA,not given in file,4.45,3495000,15552750.0,emission-spot-primary-market-auction-report-2016-data.xls,15552750.0,reported in EEX file
+2016,2016-07-15,T3PA,EUA,not given in file,4.65,3495000,16251750.0,emission-spot-primary-market-auction-report-2016-data.xls,16251750.0,reported in EEX file
+2016,2016-07-22,T3PA,EUA,not given in file,4.6,3495000,16077000.0,emission-spot-primary-market-auction-report-2016-data.xls,16077000.0,reported in EEX file
+2016,2016-07-29,T3PA,EUA,not given in file,4.38,3495000,15308100.0,emission-spot-primary-market-auction-report-2016-data.xls,15308100.0,reported in EEX file
+2016,2016-08-05,T3PA,EUA,not given in file,4.75,1747500,8300625.0,emission-spot-primary-market-auction-report-2016-data.xls,8300625.0,reported in EEX file
+2016,2016-08-12,T3PA,EUA,not given in file,4.86,1747500,8492850.0,emission-spot-primary-market-auction-report-2016-data.xls,8492850.0,reported in EEX file
+2016,2016-08-19,T3PA,EUA,not given in file,4.71,1747500,8230725.0,emission-spot-primary-market-auction-report-2016-data.xls,8230725.0,reported in EEX file
+2016,2016-08-26,T3PA,EUA,not given in file,4.71,1747500,8230725.0,emission-spot-primary-market-auction-report-2016-data.xls,8230725.0,reported in EEX file
+2016,2016-09-02,T3PA,EUA,not given in file,4.32,3495000,15098400.0,emission-spot-primary-market-auction-report-2016-data.xls,15098400.0,reported in EEX file
+2016,2016-09-09,T3PA,EUA,not given in file,4.07,3495000,14224650.0,emission-spot-primary-market-auction-report-2016-data.xls,14224650.0,reported in EEX file
+2016,2016-09-16,T3PA,EUA,not given in file,4.26,3495000,14888700.0,emission-spot-primary-market-auction-report-2016-data.xls,14888700.0,reported in EEX file
+2016,2016-09-23,T3PA,EUA,not given in file,4.38,3495000,15308100.0,emission-spot-primary-market-auction-report-2016-data.xls,15308100.0,reported in EEX file
+2016,2016-09-30,T3PA,EUA,not given in file,5.0,3495000,17475000.0,emission-spot-primary-market-auction-report-2016-data.xls,17475000.0,reported in EEX file
+2016,2016-10-07,T3PA,EUA,not given in file,5.62,3495000,19641900.0,emission-spot-primary-market-auction-report-2016-data.xls,19641900.0,reported in EEX file
+2016,2016-10-14,T3PA,EUA,not given in file,5.65,3495000,19746750.0,emission-spot-primary-market-auction-report-2016-data.xls,19746750.0,reported in EEX file
+2016,2016-10-21,T3PA,EUA,not given in file,5.58,3495000,19502100.0,emission-spot-primary-market-auction-report-2016-data.xls,19502100.0,reported in EEX file
+2016,2016-10-28,T3PA,EUA,not given in file,5.7,3495000,19921500.0,emission-spot-primary-market-auction-report-2016-data.xls,19921500.0,reported in EEX file
+2016,2016-11-04,T3PA,EUA,not given in file,6.54,3495000,22857300.0,emission-spot-primary-market-auction-report-2016-data.xls,22857300.0,reported in EEX file
+2016,2016-11-11,T3PA,EUA,not given in file,5.85,3495000,20445750.0,emission-spot-primary-market-auction-report-2016-data.xls,20445750.0,reported in EEX file
+2016,2016-11-18,T3PA,EUA,not given in file,5.73,3495000,20026350.0,emission-spot-primary-market-auction-report-2016-data.xls,20026350.0,reported in EEX file
+2016,2016-11-25,T3PA,EUA,not given in file,5.05,3495000,17649750.0,emission-spot-primary-market-auction-report-2016-data.xls,17649750.0,reported in EEX file
+2016,2016-12-02,T3PA,EUA,not given in file,4.32,3495000,15098400.0,emission-spot-primary-market-auction-report-2016-data.xls,15098400.0,reported in EEX file
+2016,2016-12-09,T3PA,EUA,not given in file,4.48,3495000,15657600.0,emission-spot-primary-market-auction-report-2016-data.xls,15657600.0,reported in EEX file
+2016,2016-12-16,T3PA,EUA,not given in file,4.59,3495500,16044345.0,emission-spot-primary-market-auction-report-2016-data.xls,16044345.0,reported in EEX file
+2017,2017-01-13,T3PA,EUA,not given in file,5.06,4473000,22633380.0,emission-spot-primary-market-auction-report-2017-data.xls,22633380.0,reported in EEX file
+2017,2017-01-20,T3PA,EUA,not given in file,5.16,4473000,23080680.0,emission-spot-primary-market-auction-report-2017-data.xls,23080680.0,reported in EEX file
+2017,2017-01-27,T3PA,EUA,not given in file,5.05,4473000,22588650.0,emission-spot-primary-market-auction-report-2017-data.xls,22588650.0,reported in EEX file
+2017,2017-02-03,T3PA,EUA,not given in file,5.22,4473000,23349060.0,emission-spot-primary-market-auction-report-2017-data.xls,23349060.0,reported in EEX file
+2017,2017-02-10,T3PA,EUA,not given in file,5.3,4473000,23706900.0,emission-spot-primary-market-auction-report-2017-data.xls,23706900.0,reported in EEX file
+2017,2017-02-17,T3PA,EUA,not given in file,4.85,4473000,21694050.0,emission-spot-primary-market-auction-report-2017-data.xls,21694050.0,reported in EEX file
+2017,2017-02-24,T3PA,EUA,not given in file,5.31,4473000,23751630.0,emission-spot-primary-market-auction-report-2017-data.xls,23751630.0,reported in EEX file
+2017,2017-03-03,T3PA,EUA,not given in file,5.55,4473000,24825150.0,emission-spot-primary-market-auction-report-2017-data.xls,24825150.0,reported in EEX file
+2017,2017-03-10,T3PA,EUA,not given in file,5.08,4473000,22722840.0,emission-spot-primary-market-auction-report-2017-data.xls,22722840.0,reported in EEX file
+2017,2017-03-17,T3PA,EUA,not given in file,5.13,4473000,22946490.0,emission-spot-primary-market-auction-report-2017-data.xls,22946490.0,reported in EEX file
+2017,2017-03-24,T3PA,EUA,not given in file,4.88,4473000,21828240.0,emission-spot-primary-market-auction-report-2017-data.xls,21828240.0,reported in EEX file
+2017,2017-03-31,T3PA,EUA,not given in file,4.85,4473000,21694050.0,emission-spot-primary-market-auction-report-2017-data.xls,21694050.0,reported in EEX file
+2017,2017-04-07,T3PA,EUA,not given in file,5.06,4473000,22633380.0,emission-spot-primary-market-auction-report-2017-data.xls,22633380.0,reported in EEX file
+2017,2017-04-21,T3PA,EUA,not given in file,4.73,4473000,21157290.0,emission-spot-primary-market-auction-report-2017-data.xls,21157290.0,reported in EEX file
+2017,2017-04-28,T3PA,EUA,not given in file,4.52,4473000,20217960.0,emission-spot-primary-market-auction-report-2017-data.xls,20217960.0,reported in EEX file
+2017,2017-05-05,T3PA,EUA,not given in file,4.52,4473000,20217960.0,emission-spot-primary-market-auction-report-2017-data.xls,20217960.0,reported in EEX file
+2017,2017-05-12,T3PA,EUA,not given in file,4.26,4473000,19054980.0,emission-spot-primary-market-auction-report-2017-data.xls,19054980.0,reported in EEX file
+2017,2017-05-19,T3PA,EUA,not given in file,4.77,4473000,21336210.0,emission-spot-primary-market-auction-report-2017-data.xls,21336210.0,reported in EEX file
+2017,2017-06-02,T3PA,EUA,not given in file,5.07,4473000,22678110.0,emission-spot-primary-market-auction-report-2017-data.xls,22678110.0,reported in EEX file
+2017,2017-06-09,T3PA,EUA,not given in file,4.98,4473000,22275540.0,emission-spot-primary-market-auction-report-2017-data.xls,22275540.0,reported in EEX file
+2017,2017-06-23,T3PA,EUA,not given in file,4.87,4473000,21783510.0,emission-spot-primary-market-auction-report-2017-data.xls,21783510.0,reported in EEX file
+2017,2017-06-30,T3PA,EUA,not given in file,5.02,4473000,22454460.0,emission-spot-primary-market-auction-report-2017-data.xls,22454460.0,reported in EEX file
+2017,2017-07-07,T3PA,EUA,not given in file,5.24,4473000,23438520.0,emission-spot-primary-market-auction-report-2017-data.xls,23438520.0,reported in EEX file
+2017,2017-07-14,T3PA,EUA,not given in file,5.27,4473000,23572710.0,emission-spot-primary-market-auction-report-2017-data.xls,23572710.0,reported in EEX file
+2017,2017-07-21,T3PA,EUA,not given in file,5.23,4473000,23393790.0,emission-spot-primary-market-auction-report-2017-data.xls,23393790.0,reported in EEX file
+2017,2017-07-28,T3PA,EUA,not given in file,5.06,4473000,22633380.0,emission-spot-primary-market-auction-report-2017-data.xls,22633380.0,reported in EEX file
+2017,2017-08-04,T3PA,EUA,not given in file,5.33,2236500,11920545.0,emission-spot-primary-market-auction-report-2017-data.xls,11920545.0,reported in EEX file
+2017,2017-08-11,T3PA,EUA,not given in file,5.35,2236500,11965275.0,emission-spot-primary-market-auction-report-2017-data.xls,11965275.0,reported in EEX file
+2017,2017-08-18,T3PA,EUA,not given in file,5.8,2236500,12971700.0,emission-spot-primary-market-auction-report-2017-data.xls,12971700.0,reported in EEX file
+2017,2017-08-25,T3PA,EUA,not given in file,5.93,2236500,13262445.0,emission-spot-primary-market-auction-report-2017-data.xls,13262445.0,reported in EEX file
+2017,2017-09-01,T3PA,EUA,not given in file,5.88,4473000,26301240.0,emission-spot-primary-market-auction-report-2017-data.xls,26301240.0,reported in EEX file
+2017,2017-09-08,T3PA,EUA,not given in file,6.9,4473000,30863700.0,emission-spot-primary-market-auction-report-2017-data.xls,30863700.0,reported in EEX file
+2017,2017-09-15,T3PA,EUA,not given in file,6.96,4473000,31132080.0,emission-spot-primary-market-auction-report-2017-data.xls,31132080.0,reported in EEX file
+2017,2017-09-22,T3PA,EUA,not given in file,6.5,4473000,29074500.0,emission-spot-primary-market-auction-report-2017-data.xls,29074500.0,reported in EEX file
+2017,2017-09-29,T3PA,EUA,not given in file,7.09,4473000,31713570.0,emission-spot-primary-market-auction-report-2017-data.xls,31713570.0,reported in EEX file
+2017,2017-10-06,T3PA,EUA,not given in file,6.77,4473000,30282210.0,emission-spot-primary-market-auction-report-2017-data.xls,30282210.0,reported in EEX file
+2017,2017-10-13,T3PA,EUA,not given in file,7.3,4473000,32652900.0,emission-spot-primary-market-auction-report-2017-data.xls,32652900.0,reported in EEX file
+2017,2017-10-20,T3PA,EUA,not given in file,7.56,4473000,33815880.0,emission-spot-primary-market-auction-report-2017-data.xls,33815880.0,reported in EEX file
+2017,2017-10-27,T3PA,EUA,not given in file,7.25,4473000,32429250.0,emission-spot-primary-market-auction-report-2017-data.xls,32429250.0,reported in EEX file
+2017,2017-11-08,EAA3,EUAA (aviation),not given in file,7.51,675500,5073005.0,emission-spot-primary-market-auction-report-2017-data.xls,5073005.0,reported in EEX file
+2017,2017-11-10,T3PA,EUA,not given in file,7.35,5591500,41097525.0,emission-spot-primary-market-auction-report-2017-data.xls,41097525.0,reported in EEX file
+2017,2017-11-17,T3PA,EUA,not given in file,7.43,5591500,41544845.0,emission-spot-primary-market-auction-report-2017-data.xls,41544845.0,reported in EEX file
+2017,2017-11-24,T3PA,EUA,not given in file,7.7,5591000,43050700.0,emission-spot-primary-market-auction-report-2017-data.xls,43050700.0,reported in EEX file
+2017,2017-12-01,T3PA,EUA,not given in file,7.5,5591000,41932500.0,emission-spot-primary-market-auction-report-2017-data.xls,41932500.0,reported in EEX file
+2017,2017-12-08,T3PA,EUA,not given in file,7.24,4473000,32384520.0,emission-spot-primary-market-auction-report-2017-data.xls,32384520.0,reported in EEX file
+2017,2017-12-15,T3PA,EUA,not given in file,7.07,4481000,31680670.0,emission-spot-primary-market-auction-report-2017-data.xls,31680670.0,reported in EEX file
+2018,2018-01-12,T3PA,EUA,not given in file,7.79,4360000,33964400.0,emission-spot-primary-market-auction-report-2018-data.xls,33964400.0,reported in EEX file
+2018,2018-01-19,T3PA,EUA,not given in file,8.6,4360000,37496000.0,emission-spot-primary-market-auction-report-2018-data.xls,37496000.0,reported in EEX file
+2018,2018-01-26,T3PA,EUA,not given in file,9.02,4360000,39327200.0,emission-spot-primary-market-auction-report-2018-data.xls,39327200.0,reported in EEX file
+2018,2018-02-02,T3PA,EUA,not given in file,9.04,4360000,39414400.0,emission-spot-primary-market-auction-report-2018-data.xls,39414400.0,reported in EEX file
+2018,2018-02-09,T3PA,EUA,not given in file,8.97,4360000,39109200.0,emission-spot-primary-market-auction-report-2018-data.xls,39109200.0,reported in EEX file
+2018,2018-02-16,T3PA,EUA,not given in file,9.53,4360000,41550800.0,emission-spot-primary-market-auction-report-2018-data.xls,41550800.0,reported in EEX file
+2018,2018-02-23,T3PA,EUA,not given in file,9.68,4360000,42204800.0,emission-spot-primary-market-auction-report-2018-data.xls,42204800.0,reported in EEX file
+2018,2018-03-02,T3PA,EUA,not given in file,9.89,4360000,43120400.0,emission-spot-primary-market-auction-report-2018-data.xls,43120400.0,reported in EEX file
+2018,2018-03-09,T3PA,EUA,not given in file,11.1,4360000,48396000.0,emission-spot-primary-market-auction-report-2018-data.xls,48396000.0,reported in EEX file
+2018,2018-03-16,T3PA,EUA,not given in file,10.97,4360000,47829200.0,emission-spot-primary-market-auction-report-2018-data.xls,47829200.0,reported in EEX file
+2018,2018-03-23,T3PA,EUA,not given in file,12.37,4360000,53933200.0,emission-spot-primary-market-auction-report-2018-data.xls,53933200.0,reported in EEX file
+2018,2018-04-06,T3PA,EUA,not given in file,12.68,4360000,55284800.0,emission-spot-primary-market-auction-report-2018-data.xls,55284800.0,reported in EEX file
+2018,2018-04-13,T3PA,EUA,not given in file,13.8,4360000,60168000.0,emission-spot-primary-market-auction-report-2018-data.xls,60168000.0,reported in EEX file
+2018,2018-04-20,T3PA,EUA,not given in file,13.05,4360000,56898000.0,emission-spot-primary-market-auction-report-2018-data.xls,56898000.0,reported in EEX file
+2018,2018-04-27,T3PA,EUA,not given in file,13.28,4360000,57900800.0,emission-spot-primary-market-auction-report-2018-data.xls,57900800.0,reported in EEX file
+2018,2018-05-04,T3PA,EUA,not given in file,12.78,4360000,55720800.0,emission-spot-primary-market-auction-report-2018-data.xls,55720800.0,reported in EEX file
+2018,2018-05-18,T3PA,EUA,not given in file,15.2,4360000,66272000.0,emission-spot-primary-market-auction-report-2018-data.xls,66272000.0,reported in EEX file
+2018,2018-05-25,T3PA,EUA,not given in file,15.89,4360000,69280400.0,emission-spot-primary-market-auction-report-2018-data.xls,69280400.0,reported in EEX file
+2018,2018-06-01,T3PA,EUA,not given in file,14.9,4360000,64964000.0,emission-spot-primary-market-auction-report-2018-data.xls,64964000.0,reported in EEX file
+2018,2018-06-08,T3PA,EUA,not given in file,15.78,4360000,68800800.0,emission-spot-primary-market-auction-report-2018-data.xls,68800800.0,reported in EEX file
+2018,2018-06-15,T3PA,EUA,not given in file,14.62,4360000,63743200.0,emission-spot-primary-market-auction-report-2018-data.xls,63743200.0,reported in EEX file
+2018,2018-06-22,T3PA,EUA,not given in file,14.78,4360000,64440800.0,emission-spot-primary-market-auction-report-2018-data.xls,64440800.0,reported in EEX file
+2018,2018-06-29,T3PA,EUA,not given in file,14.85,4360000,64746000.0,emission-spot-primary-market-auction-report-2018-data.xls,64746000.0,reported in EEX file
+2018,2018-07-06,T3PA,EUA,not given in file,15.55,4360000,67798000.0,emission-spot-primary-market-auction-report-2018-data.xls,67798000.0,reported in EEX file
+2018,2018-07-13,T3PA,EUA,not given in file,15.8,4360000,68888000.0,emission-spot-primary-market-auction-report-2018-data.xls,68888000.0,reported in EEX file
+2018,2018-07-20,T3PA,EUA,not given in file,16.9,4360000,73684000.0,emission-spot-primary-market-auction-report-2018-data.xls,73684000.0,reported in EEX file
+2018,2018-07-27,T3PA,EUA,not given in file,16.91,4360000,73727600.0,emission-spot-primary-market-auction-report-2018-data.xls,73727600.0,reported in EEX file
+2018,2018-08-03,T3PA,EUA,not given in file,17.62,2180000,38411600.0,emission-spot-primary-market-auction-report-2018-data.xls,38411600.0,reported in EEX file
+2018,2018-08-10,T3PA,EUA,not given in file,17.72,2180000,38629600.0,emission-spot-primary-market-auction-report-2018-data.xls,38629600.0,reported in EEX file
+2018,2018-08-17,T3PA,EUA,not given in file,18.1,2180000,39458000.0,emission-spot-primary-market-auction-report-2018-data.xls,39458000.0,reported in EEX file
+2018,2018-08-24,T3PA,EUA,not given in file,20.55,2180000,44799000.0,emission-spot-primary-market-auction-report-2018-data.xls,44799000.0,reported in EEX file
+2018,2018-08-31,T3PA,EUA,not given in file,21.11,2180000,46019800.0,emission-spot-primary-market-auction-report-2018-data.xls,46019800.0,reported in EEX file
+2018,2018-09-07,T3PA,EUA,not given in file,22.51,4360000,98143600.0,emission-spot-primary-market-auction-report-2018-data.xls,98143600.0,reported in EEX file
+2018,2018-09-14,T3PA,EUA,not given in file,19.51,4360000,85063600.0,emission-spot-primary-market-auction-report-2018-data.xls,85063600.0,reported in EEX file
+2018,2018-09-28,T3PA,EUA,not given in file,20.3,5450000,110635000.0,emission-spot-primary-market-auction-report-2018-data.xls,110635000.0,reported in EEX file
+2018,2018-10-05,T3PA,EUA,not given in file,21.14,5450000,115213000.0,emission-spot-primary-market-auction-report-2018-data.xls,115213000.0,reported in EEX file
+2018,2018-10-10,EAA3,EUAA (aviation),not given in file,20.38,800500,16314190.0,emission-spot-primary-market-auction-report-2018-data.xls,16314190.0,reported in EEX file
+2018,2018-10-12,T3PA,EUA,not given in file,19.95,5450000,108727500.0,emission-spot-primary-market-auction-report-2018-data.xls,108727500.0,reported in EEX file
+2018,2018-10-19,T3PA,EUA,not given in file,19.17,5450000,104476500.0,emission-spot-primary-market-auction-report-2018-data.xls,104476500.0,reported in EEX file
+2018,2018-10-26,T3PA,EUA,not given in file,18.98,4360000,82752800.0,emission-spot-primary-market-auction-report-2018-data.xls,82752800.0,reported in EEX file
+2018,2018-11-02,T3PA,EUA,not given in file,16.15,4360000,70414000.0,emission-spot-primary-market-auction-report-2018-data.xls,70414000.0,reported in EEX file
+2018,2018-11-09,T3PA,EUA,not given in file,19.25,4360000,83930000.0,emission-spot-primary-market-auction-report-2018-data.xls,83930000.0,reported in EEX file
+2019,2019-02-01,T3PA,EUA,not given in file,21.38,3209000,68608420.0,emission-spot-primary-market-auction-report-2019-data.xls,68608420.0,reported in EEX file
+2019,2019-02-08,T3PA,EUA,not given in file,23.28,3209000,74705520.0,emission-spot-primary-market-auction-report-2019-data.xls,74705520.0,reported in EEX file
+2019,2019-02-15,T3PA,EUA,not given in file,19.99,3209000,64147910.0,emission-spot-primary-market-auction-report-2019-data.xls,64147910.0,reported in EEX file
+2019,2019-02-22,T3PA,EUA,not given in file,18.35,3209000,58885150.0,emission-spot-primary-market-auction-report-2019-data.xls,58885150.0,reported in EEX file
+2019,2019-03-01,T3PA,EUA,not given in file,21.31,3209000,68383790.0,emission-spot-primary-market-auction-report-2019-data.xls,68383790.0,reported in EEX file
+2019,2019-03-08,T3PA,EUA,not given in file,22.88,3209000,73421920.0,emission-spot-primary-market-auction-report-2019-data.xls,73421920.0,reported in EEX file
+2019,2019-03-15,T3PA,EUA,not given in file,22.77,3209000,73068930.0,emission-spot-primary-market-auction-report-2019-data.xls,73068930.0,reported in EEX file
+2019,2019-03-22,T3PA,EUA,not given in file,20.64,3209000,66233760.0,emission-spot-primary-market-auction-report-2019-data.xls,66233760.0,reported in EEX file
+2019,2019-03-29,T3PA,EUA,not given in file,21.83,3209000,70052470.0,emission-spot-primary-market-auction-report-2019-data.xls,70052470.0,reported in EEX file
+2019,2019-04-05,T3PA,EUA,not given in file,24.17,3209000,77561530.0,emission-spot-primary-market-auction-report-2019-data.xls,77561530.0,reported in EEX file
+2019,2019-04-12,T3PA,EUA,not given in file,26.72,3209000,85744480.0,emission-spot-primary-market-auction-report-2019-data.xls,85744480.0,reported in EEX file
+2019,2019-04-26,T3PA,EUA,not given in file,26.79,3209000,85969110.0,emission-spot-primary-market-auction-report-2019-data.xls,85969110.0,reported in EEX file
+2019,2019-05-03,T3PA,EUA,not given in file,24.32,3209000,78042880.0,emission-spot-primary-market-auction-report-2019-data.xls,78042880.0,reported in EEX file
+2019,2019-05-10,T3PA,EUA,not given in file,26.35,3209000,84557150.0,emission-spot-primary-market-auction-report-2019-data.xls,84557150.0,reported in EEX file
+2019,2019-05-17,T3PA,EUA,not given in file,25.01,3209000,80257090.0,emission-spot-primary-market-auction-report-2019-data.xls,80257090.0,reported in EEX file
+2019,2019-05-24,T3PA,EUA,not given in file,25.61,3209000,82182490.0,emission-spot-primary-market-auction-report-2019-data.xls,82182490.0,reported in EEX file
+2019,2019-06-07,T3PA,EUA,not given in file,24.24,3209000,77786160.0,emission-spot-primary-market-auction-report-2019-data.xls,77786160.0,reported in EEX file
+2019,2019-06-14,T3PA,EUA,not given in file,24.67,3209000,79166030.0,emission-spot-primary-market-auction-report-2019-data.xls,79166030.0,reported in EEX file
+2019,2019-06-21,T3PA,EUA,not given in file,24.87,3209000,79807830.0,emission-spot-primary-market-auction-report-2019-data.xls,79807830.0,reported in EEX file
+2019,2019-06-28,T3PA,EUA,not given in file,26.4,3209000,84717600.0,emission-spot-primary-market-auction-report-2019-data.xls,84717600.0,reported in EEX file
+2019,2019-07-05,T3PA,EUA,not given in file,25.84,3209000,82920560.0,emission-spot-primary-market-auction-report-2019-data.xls,82920560.0,reported in EEX file
+2019,2019-07-12,T3PA,EUA,not given in file,28.25,3209000,90654250.0,emission-spot-primary-market-auction-report-2019-data.xls,90654250.0,reported in EEX file
+2019,2019-07-19,T3PA,EUA,not given in file,28.15,3209000,90333350.0,emission-spot-primary-market-auction-report-2019-data.xls,90333350.0,reported in EEX file
+2019,2019-07-26,T3PA,EUA,not given in file,28.51,3209000,91488590.0,emission-spot-primary-market-auction-report-2019-data.xls,91488590.0,reported in EEX file
+2019,2019-08-02,T3PA,EUA,not given in file,29.1,1604500,46690950.0,emission-spot-primary-market-auction-report-2019-data.xls,46690950.0,reported in EEX file
+2019,2019-08-09,T3PA,EUA,not given in file,28.37,1604500,45519665.0,emission-spot-primary-market-auction-report-2019-data.xls,45519665.0,reported in EEX file
+2019,2019-08-16,T3PA,EUA,not given in file,26.12,1604500,41909540.0,emission-spot-primary-market-auction-report-2019-data.xls,41909540.0,reported in EEX file
+2019,2019-08-23,T3PA,EUA,not given in file,25.33,1604500,40641985.0,emission-spot-primary-market-auction-report-2019-data.xls,40641985.0,reported in EEX file
+2019,2019-08-30,T3PA,EUA,not given in file,26.8,1604500,43000600.0,emission-spot-primary-market-auction-report-2019-data.xls,43000600.0,reported in EEX file
+2019,2019-09-06,T3PA,EUA,not given in file,25.46,2834500,72166370.0,emission-spot-primary-market-auction-report-2019-data.xls,72166370.0,reported in EEX file
+2019,2019-09-13,T3PA,EUA,not given in file,26.22,2834500,74320590.0,emission-spot-primary-market-auction-report-2019-data.xls,74320590.0,reported in EEX file
+2019,2019-09-20,T3PA,EUA,not given in file,26.17,2834500,74178865.0,emission-spot-primary-market-auction-report-2019-data.xls,74178865.0,reported in EEX file
+2019,2019-09-27,T3PA,EUA,not given in file,25.3,2834500,71712850.0,emission-spot-primary-market-auction-report-2019-data.xls,71712850.0,reported in EEX file
+2019,2019-10-04,T3PA,EUA,not given in file,23.41,2834500,66355645.0,emission-spot-primary-market-auction-report-2019-data.xls,66355645.0,reported in EEX file
+2019,2019-10-09,EAA3,EUAA (aviation),not given in file,22.32,801500,17889480.0,emission-spot-primary-market-auction-report-2019-data.xls,17889480.0,reported in EEX file
+2019,2019-10-11,T3PA,EUA,not given in file,23.62,2834500,66950890.0,emission-spot-primary-market-auction-report-2019-data.xls,66950890.0,reported in EEX file
+2019,2019-10-18,T3PA,EUA,not given in file,25.64,2834500,72676580.0,emission-spot-primary-market-auction-report-2019-data.xls,72676580.0,reported in EEX file
+2019,2019-10-25,T3PA,EUA,not given in file,24.86,2834500,70465670.0,emission-spot-primary-market-auction-report-2019-data.xls,70465670.0,reported in EEX file
+2019,2019-11-01,T3PA,EUA,not given in file,25.71,2834500,72874995.0,emission-spot-primary-market-auction-report-2019-data.xls,72874995.0,reported in EEX file
+2019,2019-11-08,T3PA,EUA,not given in file,24.62,2834500,69785390.0,emission-spot-primary-market-auction-report-2019-data.xls,69785390.0,reported in EEX file
+2019,2019-11-15,T3PA,EUA,not given in file,23.41,2834500,66355645.0,emission-spot-primary-market-auction-report-2019-data.xls,66355645.0,reported in EEX file
+2019,2019-11-22,T3PA,EUA,not given in file,24.32,2834500,68935040.0,emission-spot-primary-market-auction-report-2019-data.xls,68935040.0,reported in EEX file
+2019,2019-11-29,T3PA,EUA,not given in file,25.03,2834500,70947535.0,emission-spot-primary-market-auction-report-2019-data.xls,70947535.0,reported in EEX file
+2019,2019-12-06,T3PA,EUA,not given in file,24.7,2834500,70012150.0,emission-spot-primary-market-auction-report-2019-data.xls,70012150.0,reported in EEX file
+2019,2019-12-13,T3PA,EUA,not given in file,25.33,2840000,71937200.0,emission-spot-primary-market-auction-report-2019-data.xls,71937200.0,reported in EEX file
+2020,2020-01-10,T3PA,EUA,successful,24.48,2363000,57846240.0,emission-spot-primary-market-auction-report-2020-data.xlsx,57846240.0,reported in EEX file
+2020,2020-01-17,T3PA,EUA,successful,25.01,2363000,59098630.0,emission-spot-primary-market-auction-report-2020-data.xlsx,59098630.0,reported in EEX file
+2020,2020-01-24,T3PA,EUA,successful,24.48,2363000,57846240.0,emission-spot-primary-market-auction-report-2020-data.xlsx,57846240.0,reported in EEX file
+2020,2020-01-31,T3PA,EUA,successful,23.48,2363000,55483240.0,emission-spot-primary-market-auction-report-2020-data.xlsx,55483240.0,reported in EEX file
+2020,2020-02-07,T3PA,EUA,successful,23.17,2363000,54750710.0,emission-spot-primary-market-auction-report-2020-data.xlsx,54750710.0,reported in EEX file
+2020,2020-02-14,T3PA,EUA,successful,24.27,2363000,57350010.0,emission-spot-primary-market-auction-report-2020-data.xlsx,57350010.0,reported in EEX file
+2020,2020-02-21,T3PA,EUA,successful,25.15,2363000,59429450.0,emission-spot-primary-market-auction-report-2020-data.xlsx,59429450.0,reported in EEX file
+2020,2020-02-28,T3PA,EUA,successful,23.46,2363000,55435980.0,emission-spot-primary-market-auction-report-2020-data.xlsx,55435980.0,reported in EEX file
+2020,2020-03-06,T3PA,EUA,successful,23.36,2363000,55199680.0,emission-spot-primary-market-auction-report-2020-data.xlsx,55199680.0,reported in EEX file
+2020,2020-03-13,T3PA,EUA,successful,22.78,2363000,53829140.0,emission-spot-primary-market-auction-report-2020-data.xlsx,53829140.0,reported in EEX file
+2020,2020-03-20,T3PA,EUA,successful,16.35,2363000,38635050.0,emission-spot-primary-market-auction-report-2020-data.xlsx,38635050.0,reported in EEX file
+2020,2020-03-27,T3PA,EUA,successful,16.55,2363000,39107650.0,emission-spot-primary-market-auction-report-2020-data.xlsx,39107650.0,reported in EEX file
+2020,2020-04-03,T3PA,EUA,successful,17.9,2363000,42297700.0,emission-spot-primary-market-auction-report-2020-data.xlsx,42297700.0,reported in EEX file
+2020,2020-04-17,T3PA,EUA,successful,21.87,2363000,51678810.0,emission-spot-primary-market-auction-report-2020-data.xlsx,51678810.0,reported in EEX file
+2020,2020-04-24,T3PA,EUA,successful,20.49,2363000,48417870.0,emission-spot-primary-market-auction-report-2020-data.xlsx,48417870.0,reported in EEX file
+2020,2020-05-08,T3PA,EUA,successful,19.38,2363000,45794940.0,emission-spot-primary-market-auction-report-2020-data.xlsx,45794940.0,reported in EEX file
+2020,2020-05-15,T3PA,EUA,successful,19.02,2363000,44944260.0,emission-spot-primary-market-auction-report-2020-data.xlsx,44944260.0,reported in EEX file
+2020,2020-05-29,T3PA,EUA,successful,21.7,2363000,51277100.0,emission-spot-primary-market-auction-report-2020-data.xlsx,51277100.0,reported in EEX file
+2020,2020-06-05,T3PA,EUA,successful,22.5,2363000,53167500.0,emission-spot-primary-market-auction-report-2020-data.xlsx,53167500.0,reported in EEX file
+2020,2020-06-12,T3PA,EUA,successful,22.15,2363000,52340450.0,emission-spot-primary-market-auction-report-2020-data.xlsx,52340450.0,reported in EEX file
+2020,2020-06-19,T3PA,EUA,successful,24.18,2363000,57137340.0,emission-spot-primary-market-auction-report-2020-data.xlsx,57137340.0,reported in EEX file
+2020,2020-06-26,T3PA,EUA,successful,24.9,2363000,58838700.0,emission-spot-primary-market-auction-report-2020-data.xlsx,58838700.0,reported in EEX file
+2020,2020-07-03,T3PA,EUA,successful,27.0,2363000,63801000.0,emission-spot-primary-market-auction-report-2020-data.xlsx,63801000.0,reported in EEX file
+2020,2020-07-10,T3PA,EUA,successful,27.66,2363000,65360580.0,emission-spot-primary-market-auction-report-2020-data.xlsx,65360580.0,reported in EEX file
+2020,2020-07-17,T3PA,EUA,successful,26.85,2363000,63446550.0,emission-spot-primary-market-auction-report-2020-data.xlsx,63446550.0,reported in EEX file
+2020,2020-07-24,T3PA,EUA,successful,26.57,2363000,62784910.0,emission-spot-primary-market-auction-report-2020-data.xlsx,62784910.0,reported in EEX file
+2020,2020-07-31,T3PA,EUA,successful,26.3,2363000,62146900.0,emission-spot-primary-market-auction-report-2020-data.xlsx,62146900.0,reported in EEX file
+2020,2020-08-07,T3PA,EUA,successful,26.16,1181500,30908040.0,emission-spot-primary-market-auction-report-2020-data.xlsx,30908040.0,reported in EEX file
+2020,2020-08-14,T3PA,EUA,successful,25.25,1181500,29832875.0,emission-spot-primary-market-auction-report-2020-data.xlsx,29832875.0,reported in EEX file
+2020,2020-08-21,T3PA,EUA,successful,25.36,1181500,29962840.0,emission-spot-primary-market-auction-report-2020-data.xlsx,29962840.0,reported in EEX file
+2020,2020-08-28,T3PA,EUA,successful,29.5,1187000,35016500.0,emission-spot-primary-market-auction-report-2020-data.xlsx,35016500.0,reported in EEX file
+2020,2020-09-04,T3PA,EUA,successful,28.8,2593000,74678400.0,emission-spot-primary-market-auction-report-2020-data.xlsx,74678400.0,reported in EEX file
+2020,2020-09-11,T3PA,EUA,successful,28.05,2593000,72733650.0,emission-spot-primary-market-auction-report-2020-data.xlsx,72733650.0,reported in EEX file
+2020,2020-09-18,T3PA,EUA,successful,28.36,2593000,73537480.0,emission-spot-primary-market-auction-report-2020-data.xlsx,73537480.0,reported in EEX file
+2020,2020-09-25,T3PA,EUA,successful,26.2,2593000,67936600.0,emission-spot-primary-market-auction-report-2020-data.xlsx,67936600.0,reported in EEX file
+2020,2020-10-02,T3PA,EUA,successful,26.11,2593000,67703230.0,emission-spot-primary-market-auction-report-2020-data.xlsx,67703230.0,reported in EEX file
+2020,2020-10-07,EAA3,EUAA (aviation),successful,26.76,769000,20578440.0,emission-spot-primary-market-auction-report-2020-data.xlsx,20578440.0,reported in EEX file
+2020,2020-10-09,T3PA,EUA,successful,26.0,2593000,67418000.0,emission-spot-primary-market-auction-report-2020-data.xlsx,67418000.0,reported in EEX file
+2020,2020-10-16,T3PA,EUA,successful,25.46,2593000,66017780.0,emission-spot-primary-market-auction-report-2020-data.xlsx,66017780.0,reported in EEX file
+2020,2020-10-23,T3PA,EUA,successful,24.92,2593000,64617560.0,emission-spot-primary-market-auction-report-2020-data.xlsx,64617560.0,reported in EEX file
+2020,2020-10-30,T3PA,EUA,successful,23.45,2593000,60805850.0,emission-spot-primary-market-auction-report-2020-data.xlsx,60805850.0,reported in EEX file
+2020,2020-11-06,T3PA,EUA,successful,25.2,2593000,65343600.0,emission-spot-primary-market-auction-report-2020-data.xlsx,65343600.0,reported in EEX file
+2020,2020-11-13,T3PA,EUA,successful,26.31,2593000,68221830.0,emission-spot-primary-market-auction-report-2020-data.xlsx,68221830.0,reported in EEX file
+2020,2020-11-20,T3PA,EUA,successful,26.8,2593000,69492400.0,emission-spot-primary-market-auction-report-2020-data.xlsx,69492400.0,reported in EEX file
+2020,2020-11-27,T3PA,EUA,successful,28.23,2593000,73200390.0,emission-spot-primary-market-auction-report-2020-data.xlsx,73200390.0,reported in EEX file
+2020,2020-12-04,T3PA,EUA,successful,30.0,2593000,77790000.0,emission-spot-primary-market-auction-report-2020-data.xlsx,77790000.0,reported in EEX file
+2020,2020-12-11,T3PA,EUA,successful,30.45,2598500,79124325.0,emission-spot-primary-market-auction-report-2020-data.xlsx,79124325.0,reported in EEX file
+2021,2021-01-29,T3PA,EUA,successful,33.51,2651000,88835010.0,emission-spot-primary-market-auction-report-2021-data.xlsx,88835010.0,reported in EEX file
+2021,2021-02-05,T3PA,EUA,successful,37.61,2651000,99704110.0,emission-spot-primary-market-auction-report-2021-data.xlsx,99704110.0,reported in EEX file
+2021,2021-02-12,T3PA,EUA,successful,37.8,2651000,100207800.0,emission-spot-primary-market-auction-report-2021-data.xlsx,100207800.0,reported in EEX file
+2021,2021-02-19,T3PA,EUA,successful,38.36,2651000,101692360.0,emission-spot-primary-market-auction-report-2021-data.xlsx,101692360.0,reported in EEX file
+2021,2021-02-26,T3PA,EUA,successful,37.51,2651000,99439010.0,emission-spot-primary-market-auction-report-2021-data.xlsx,99439010.0,reported in EEX file
+2021,2021-03-05,T3PA,EUA,successful,38.08,2651000,100950080.0,emission-spot-primary-market-auction-report-2021-data.xlsx,100950080.0,reported in EEX file
+2021,2021-03-12,T3PA,EUA,successful,41.52,2651000,110069520.0,emission-spot-primary-market-auction-report-2021-data.xlsx,110069520.0,reported in EEX file
+2021,2021-03-19,T3PA,EUA,successful,41.91,2651000,111103410.0,emission-spot-primary-market-auction-report-2021-data.xlsx,111103410.0,reported in EEX file
+2021,2021-03-26,T3PA,EUA,successful,40.86,2651000,108319860.0,emission-spot-primary-market-auction-report-2021-data.xlsx,108319860.0,reported in EEX file
+2021,2021-04-09,T3PA,EUA,successful,43.18,2651000,114470180.0,emission-spot-primary-market-auction-report-2021-data.xlsx,114470180.0,reported in EEX file
+2021,2021-04-16,T3PA,EUA,successful,44.5,2651000,117969500.0,emission-spot-primary-market-auction-report-2021-data.xlsx,117969500.0,reported in EEX file
+2021,2021-04-23,T3PA,EUA,successful,46.41,2651000,123032910.0,emission-spot-primary-market-auction-report-2021-data.xlsx,123032910.0,reported in EEX file
+2021,2021-04-30,T3PA,EUA,successful,47.68,2651000,126399680.0,emission-spot-primary-market-auction-report-2021-data.xlsx,126399680.0,reported in EEX file
+2021,2021-05-07,T3PA,EUA,successful,49.46,2651000,131118460.0,emission-spot-primary-market-auction-report-2021-data.xlsx,131118460.0,reported in EEX file
+2021,2021-05-21,T3PA,EUA,successful,52.71,2651000,139734210.0,emission-spot-primary-market-auction-report-2021-data.xlsx,139734210.0,reported in EEX file
+2021,2021-05-28,T3PA,EUA,successful,51.08,2651000,135413080.0,emission-spot-primary-market-auction-report-2021-data.xlsx,135413080.0,reported in EEX file
+2021,2021-06-04,T3PA,EUA,successful,49.55,2651000,131357050.0,emission-spot-primary-market-auction-report-2021-data.xlsx,131357050.0,reported in EEX file
+2021,2021-06-11,T3PA,EUA,successful,53.12,2651000,140821120.0,emission-spot-primary-market-auction-report-2021-data.xlsx,140821120.0,reported in EEX file
+2021,2021-06-18,T3PA,EUA,successful,51.51,2651000,136553010.0,emission-spot-primary-market-auction-report-2021-data.xlsx,136553010.0,reported in EEX file
+2021,2021-06-25,T3PA,EUA,successful,55.69,2651000,147634190.0,emission-spot-primary-market-auction-report-2021-data.xlsx,147634190.0,reported in EEX file
+2021,2021-07-02,T3PA,EUA,successful,57.11,2651000,151398610.0,emission-spot-primary-market-auction-report-2021-data.xlsx,151398610.0,reported in EEX file
+2021,2021-07-09,T3PA,EUA,successful,53.85,2651000,142756350.0,emission-spot-primary-market-auction-report-2021-data.xlsx,142756350.0,reported in EEX file
+2021,2021-07-16,T3PA,EUA,successful,53.33,2651000,141377830.0,emission-spot-primary-market-auction-report-2021-data.xlsx,141377830.0,reported in EEX file
+2021,2021-07-23,T3PA,EUA,successful,50.13,2651000,132894630.0,emission-spot-primary-market-auction-report-2021-data.xlsx,132894630.0,reported in EEX file
+2021,2021-07-30,T3PA,EUA,successful,53.0,2651000,140503000.0,emission-spot-primary-market-auction-report-2021-data.xlsx,140503000.0,reported in EEX file
+2021,2021-08-06,T3PA,EUA,successful,56.72,1325500,75182360.0,emission-spot-primary-market-auction-report-2021-data.xlsx,75182360.0,reported in EEX file
+2021,2021-08-13,T3PA,EUA,successful,55.6,1325500,73697800.0,emission-spot-primary-market-auction-report-2021-data.xlsx,73697800.0,reported in EEX file
+2021,2021-08-20,T3PA,EUA,successful,54.4,1325500,72107200.0,emission-spot-primary-market-auction-report-2021-data.xlsx,72107200.0,reported in EEX file
+2021,2021-08-27,T3PA,EUA,successful,57.51,1328500,76402035.0,emission-spot-primary-market-auction-report-2021-data.xlsx,76402035.0,reported in EEX file
+2021,2021-09-03,T3PA,EUA,successful,61.25,1805000,110556250.0,emission-spot-primary-market-auction-report-2021-data.xlsx,110556250.0,reported in EEX file
+2021,2021-09-10,T3PA,EUA,successful,61.85,1805000,111639250.0,emission-spot-primary-market-auction-report-2021-data.xlsx,111639250.0,reported in EEX file
+2021,2021-09-17,T3PA,EUA,successful,59.6,1805000,107578000.0,emission-spot-primary-market-auction-report-2021-data.xlsx,107578000.0,reported in EEX file
+2021,2021-09-24,T3PA,EUA,successful,61.24,1805000,110538200.0,emission-spot-primary-market-auction-report-2021-data.xlsx,110538200.0,reported in EEX file
+2021,2021-10-01,T3PA,EUA,successful,62.04,1805000,111982200.0,emission-spot-primary-market-auction-report-2021-data.xlsx,111982200.0,reported in EEX file
+2021,2021-10-08,T3PA,EUA,successful,59.92,1805000,108155600.0,emission-spot-primary-market-auction-report-2021-data.xlsx,108155600.0,reported in EEX file
+2021,2021-10-13,EAA3,EUAA (aviation),successful,58.75,600000,35250000.0,emission-spot-primary-market-auction-report-2021-data.xlsx,35250000.0,reported in EEX file
+2021,2021-10-15,T3PA,EUA,successful,61.01,1805000,110123050.0,emission-spot-primary-market-auction-report-2021-data.xlsx,110123050.0,reported in EEX file
+2021,2021-10-22,T3PA,EUA,successful,59.5,1805000,107397500.0,emission-spot-primary-market-auction-report-2021-data.xlsx,107397500.0,reported in EEX file
+2021,2021-10-29,T3PA,EUA,successful,59.4,1805000,107217000.0,emission-spot-primary-market-auction-report-2021-data.xlsx,107217000.0,reported in EEX file
+2021,2021-11-05,T3PA,EUA,successful,61.05,1805000,110195250.0,emission-spot-primary-market-auction-report-2021-data.xlsx,110195250.0,reported in EEX file
+2021,2021-11-12,T3PA,EUA,successful,63.53,1805000,114671650.0,emission-spot-primary-market-auction-report-2021-data.xlsx,114671650.0,reported in EEX file
+2021,2021-11-19,T3PA,EUA,successful,69.21,1805000,124924050.0,emission-spot-primary-market-auction-report-2021-data.xlsx,124924050.0,reported in EEX file
+2021,2021-11-26,T3PA,EUA,successful,71.95,1805000,129869750.0,emission-spot-primary-market-auction-report-2021-data.xlsx,129869750.0,reported in EEX file
+2021,2021-12-03,T3PA,EUA,successful,78.76,1805000,142161800.0,emission-spot-primary-market-auction-report-2021-data.xlsx,142161800.0,reported in EEX file
+2021,2021-12-10,T3PA,EUA,successful,79.83,1805000,144093150.0,emission-spot-primary-market-auction-report-2021-data.xlsx,144093150.0,reported in EEX file
+2021,2021-12-17,T3PA,EUA,successful,82.25,1807500,148666875.0,emission-spot-primary-market-auction-report-2021-data.xlsx,148666875.0,reported in EEX file
+2022,2022-01-14,T3PA,EUA,successful,81.52,1944000,158474880.0,emission-spot-primary-market-auction-report-2022-data.xlsx,158474880.0,reported in EEX file
+2022,2022-01-21,T3PA,EUA,successful,84.03,1944000,163354320.0,emission-spot-primary-market-auction-report-2022-data.xlsx,163354320.0,reported in EEX file
+2022,2022-01-28,T3PA,EUA,successful,89.25,1944000,173502000.0,emission-spot-primary-market-auction-report-2022-data.xlsx,173502000.0,reported in EEX file
+2022,2022-02-04,T3PA,EUA,successful,94.65,1944000,183999600.0,emission-spot-primary-market-auction-report-2022-data.xlsx,183999600.0,reported in EEX file
+2022,2022-02-11,T3PA,EUA,successful,89.98,1944000,174921120.0,emission-spot-primary-market-auction-report-2022-data.xlsx,174921120.0,reported in EEX file
+2022,2022-02-18,T3PA,EUA,successful,87.65,1944000,170391600.0,emission-spot-primary-market-auction-report-2022-data.xlsx,170391600.0,reported in EEX file
+2022,2022-02-25,T3PA,EUA,successful,86.9,1944000,168933600.0,emission-spot-primary-market-auction-report-2022-data.xlsx,168933600.0,reported in EEX file
+2022,2022-03-04,T3PA,EUA,successful,67.22,1944000,130675680.0,emission-spot-primary-market-auction-report-2022-data.xlsx,130675680.0,reported in EEX file
+2022,2022-03-11,T3PA,EUA,successful,76.5,1944000,148716000.0,emission-spot-primary-market-auction-report-2022-data.xlsx,148716000.0,reported in EEX file
+2022,2022-03-18,T3PA,EUA,successful,79.21,1944000,153984240.0,emission-spot-primary-market-auction-report-2022-data.xlsx,153984240.0,reported in EEX file
+2022,2022-03-25,T3PA,EUA,successful,78.5,1944000,152604000.0,emission-spot-primary-market-auction-report-2022-data.xlsx,152604000.0,reported in EEX file
+2022,2022-04-01,T3PA,EUA,successful,78.0,1944000,151632000.0,emission-spot-primary-market-auction-report-2022-data.xlsx,151632000.0,reported in EEX file
+2022,2022-04-08,T3PA,EUA,successful,80.21,1944000,155928240.0,emission-spot-primary-market-auction-report-2022-data.xlsx,155928240.0,reported in EEX file
+2022,2022-04-22,T3PA,EUA,successful,87.4,1944000,169905600.0,emission-spot-primary-market-auction-report-2022-data.xlsx,169905600.0,reported in EEX file
+2022,2022-04-29,T3PA,EUA,successful,82.86,1944000,161079840.0,emission-spot-primary-market-auction-report-2022-data.xlsx,161079840.0,reported in EEX file
+2022,2022-05-06,T3PA,EUA,successful,90.77,1944000,176456880.0,emission-spot-primary-market-auction-report-2022-data.xlsx,176456880.0,reported in EEX file
+2022,2022-05-13,T3PA,EUA,successful,88.75,1944000,172530000.0,emission-spot-primary-market-auction-report-2022-data.xlsx,172530000.0,reported in EEX file
+2022,2022-05-20,T3PA,EUA,successful,81.15,1944000,157755600.0,emission-spot-primary-market-auction-report-2022-data.xlsx,157755600.0,reported in EEX file
+2022,2022-06-10,T3PA,EUA,successful,80.73,1944000,156939120.0,emission-spot-primary-market-auction-report-2022-data.xlsx,156939120.0,reported in EEX file
+2022,2022-06-17,T3PA,EUA,successful,83.0,1944000,161352000.0,emission-spot-primary-market-auction-report-2022-data.xlsx,161352000.0,reported in EEX file
+2022,2022-06-24,T3PA,EUA,successful,82.9,1944000,161157600.0,emission-spot-primary-market-auction-report-2022-data.xlsx,161157600.0,reported in EEX file
+2022,2022-07-01,T3PA,EUA,successful,88.22,1944000,171499680.0,emission-spot-primary-market-auction-report-2022-data.xlsx,171499680.0,reported in EEX file
+2022,2022-07-08,T3PA,EUA,successful,82.63,1944000,160632720.0,emission-spot-primary-market-auction-report-2022-data.xlsx,160632720.0,reported in EEX file
+2022,2022-07-15,T3PA,EUA,successful,83.71,1944000,162732240.0,emission-spot-primary-market-auction-report-2022-data.xlsx,162732240.0,reported in EEX file
+2022,2022-07-22,T3PA,EUA,successful,78.06,1944000,151748640.0,emission-spot-primary-market-auction-report-2022-data.xlsx,151748640.0,reported in EEX file
+2022,2022-07-29,T3PA,EUA,successful,77.96,1944000,151554240.0,emission-spot-primary-market-auction-report-2022-data.xlsx,151554240.0,reported in EEX file
+2022,2022-08-05,T3PA,EUA,successful,84.5,972000,82134000.0,emission-spot-primary-market-auction-report-2022-data.xlsx,82134000.0,reported in EEX file
+2022,2022-08-12,T3PA,EUA,successful,87.3,972000,84855600.0,emission-spot-primary-market-auction-report-2022-data.xlsx,84855600.0,reported in EEX file
+2022,2022-08-19,T3PA,EUA,successful,96.87,972000,94157640.0,emission-spot-primary-market-auction-report-2022-data.xlsx,94157640.0,reported in EEX file
+2022,2022-08-26,T3PA,EUA,successful,89.56,982000,87947920.0,emission-spot-primary-market-auction-report-2022-data.xlsx,87947920.0,reported in EEX file
+2022,2022-09-02,T3PA,EUA,successful,78.41,1861500,145960215.0,emission-spot-primary-market-auction-report-2022-data.xlsx,145960215.0,reported in EEX file
+2022,2022-09-09,T3PA,EUA,successful,65.21,1861500,121388415.0,emission-spot-primary-market-auction-report-2022-data.xlsx,121388415.0,reported in EEX file
+2022,2022-09-16,T3PA,EUA,successful,71.0,1861500,132166500.0,emission-spot-primary-market-auction-report-2022-data.xlsx,132166500.0,reported in EEX file
+2022,2022-09-23,T3PA,EUA,successful,67.56,1861500,125762940.0,emission-spot-primary-market-auction-report-2022-data.xlsx,125762940.0,reported in EEX file
+2022,2022-09-30,T3PA,EUA,successful,66.87,1861500,124478505.0,emission-spot-primary-market-auction-report-2022-data.xlsx,124478505.0,reported in EEX file
+2022,2022-10-07,T3PA,EUA,successful,67.52,1861500,125688480.0,emission-spot-primary-market-auction-report-2022-data.xlsx,125688480.0,reported in EEX file
+2022,2022-10-14,T3PA,EUA,successful,67.7,1861500,126023550.0,emission-spot-primary-market-auction-report-2022-data.xlsx,126023550.0,reported in EEX file
+2022,2022-10-19,EAA3,EUAA (aviation),successful,68.62,586500,40245630.0,emission-spot-primary-market-auction-report-2022-data.xlsx,40245630.0,reported in EEX file
+2022,2022-10-21,T3PA,EUA,successful,67.9,1861500,126395850.0,emission-spot-primary-market-auction-report-2022-data.xlsx,126395850.0,reported in EEX file
+2022,2022-10-28,T3PA,EUA,successful,80.76,1861500,150334740.0,emission-spot-primary-market-auction-report-2022-data.xlsx,150334740.0,reported in EEX file
+2022,2022-11-04,T3PA,EUA,successful,78.14,1861500,145457610.0,emission-spot-primary-market-auction-report-2022-data.xlsx,145457610.0,reported in EEX file
+2022,2022-11-11,T3PA,EUA,successful,73.33,1861500,136503795.0,emission-spot-primary-market-auction-report-2022-data.xlsx,136503795.0,reported in EEX file
+2022,2022-11-18,T3PA,EUA,successful,72.22,1861500,134437530.0,emission-spot-primary-market-auction-report-2022-data.xlsx,134437530.0,reported in EEX file
+2022,2022-11-25,T3PA,EUA,successful,79.36,1861500,147728640.0,emission-spot-primary-market-auction-report-2022-data.xlsx,147728640.0,reported in EEX file
+2022,2022-12-02,T3PA,EUA,successful,85.21,1861500,158618415.0,emission-spot-primary-market-auction-report-2022-data.xlsx,158618415.0,reported in EEX file
+2022,2022-12-09,T3PA,EUA,successful,88.26,1861500,164295990.0,emission-spot-primary-market-auction-report-2022-data.xlsx,164295990.0,reported in EEX file
+2022,2022-12-16,T3PA,EUA,successful,83.41,1865500,155601355.0,emission-spot-primary-market-auction-report-2022-data.xlsx,155601355.0,reported in EEX file
+2023,2023-01-13,T3PA,EUA,successful,76.42,1939500,148216590.0,emission-spot-primary-market-auction-report-2023-data.xlsx,148216590.0,reported in EEX file
+2023,2023-01-20,T3PA,EUA,successful,81.01,1939500,157118895.0,emission-spot-primary-market-auction-report-2023-data.xlsx,157118895.0,reported in EEX file
+2023,2023-01-27,T3PA,EUA,successful,86.71,1939500,168174045.0,emission-spot-primary-market-auction-report-2023-data.xlsx,168174045.0,reported in EEX file
+2023,2023-02-03,T3PA,EUA,successful,91.15,1939500,176785425.0,emission-spot-primary-market-auction-report-2023-data.xlsx,176785425.0,reported in EEX file
+2023,2023-02-10,T3PA,EUA,successful,89.7,1939500,173973150.0,emission-spot-primary-market-auction-report-2023-data.xlsx,173973150.0,reported in EEX file
+2023,2023-02-17,T3PA,EUA,successful,93.69,1939500,181711755.0,emission-spot-primary-market-auction-report-2023-data.xlsx,181711755.0,reported in EEX file
+2023,2023-02-24,T3PA,EUA,successful,95.83,1939500,185862285.0,emission-spot-primary-market-auction-report-2023-data.xlsx,185862285.0,reported in EEX file
+2023,2023-03-03,T3PA,EUA,successful,88.81,1939500,172246995.0,emission-spot-primary-market-auction-report-2023-data.xlsx,172246995.0,reported in EEX file
+2023,2023-03-10,T3PA,EUA,successful,95.16,1939500,184562820.0,emission-spot-primary-market-auction-report-2023-data.xlsx,184562820.0,reported in EEX file
+2023,2023-03-17,T3PA,EUA,successful,86.5,1939500,167766750.0,emission-spot-primary-market-auction-report-2023-data.xlsx,167766750.0,reported in EEX file
+2023,2023-03-24,T3PA,EUA,successful,88.09,1939500,170850555.0,emission-spot-primary-market-auction-report-2023-data.xlsx,170850555.0,reported in EEX file
+2023,2023-03-31,T3PA,EUA,successful,88.61,1939500,171859095.0,emission-spot-primary-market-auction-report-2023-data.xlsx,171859095.0,reported in EEX file
+2023,2023-04-14,T3PA,EUA,successful,92.3,1939500,179015850.0,emission-spot-primary-market-auction-report-2023-data.xlsx,179015850.0,reported in EEX file
+2023,2023-04-21,T3PA,EUA,successful,88.6,1939500,171839700.0,emission-spot-primary-market-auction-report-2023-data.xlsx,171839700.0,reported in EEX file
+2023,2023-04-28,T3PA,EUA,successful,84.0,1939500,162918000.0,emission-spot-primary-market-auction-report-2023-data.xlsx,162918000.0,reported in EEX file
+2023,2023-05-05,T3PA,EUA,successful,84.38,1939500,163655010.0,emission-spot-primary-market-auction-report-2023-data.xlsx,163655010.0,reported in EEX file
+2023,2023-05-12,T3PA,EUA,successful,86.67,1939500,168096465.0,emission-spot-primary-market-auction-report-2023-data.xlsx,168096465.0,reported in EEX file
+2023,2023-05-26,T3PA,EUA,successful,81.11,1939500,157312845.0,emission-spot-primary-market-auction-report-2023-data.xlsx,157312845.0,reported in EEX file
+2023,2023-06-02,T3PA,EUA,successful,78.2,1939500,151668900.0,emission-spot-primary-market-auction-report-2023-data.xlsx,151668900.0,reported in EEX file
+2023,2023-06-09,T3PA,EUA,successful,83.11,1939500,161191845.0,emission-spot-primary-market-auction-report-2023-data.xlsx,161191845.0,reported in EEX file
+2023,2023-06-16,T3PA,EUA,successful,89.3,1939500,173197350.0,emission-spot-primary-market-auction-report-2023-data.xlsx,173197350.0,reported in EEX file
+2023,2023-06-23,T3PA,EUA,successful,88.9,1939500,172421550.0,emission-spot-primary-market-auction-report-2023-data.xlsx,172421550.0,reported in EEX file
+2023,2023-06-30,T3PA,EUA,successful,85.31,1939500,165458745.0,emission-spot-primary-market-auction-report-2023-data.xlsx,165458745.0,reported in EEX file
+2023,2023-07-07,T3PA,EUA,successful,84.82,1939500,164508390.0,emission-spot-primary-market-auction-report-2023-data.xlsx,164508390.0,reported in EEX file
+2023,2023-07-14,T3PA,EUA,successful,85.51,1939500,165846645.0,emission-spot-primary-market-auction-report-2023-data.xlsx,165846645.0,reported in EEX file
+2023,2023-07-21,T3PA,EUA,successful,89.36,1939500,173313720.0,emission-spot-primary-market-auction-report-2023-data.xlsx,173313720.0,reported in EEX file
+2023,2023-07-28,T3PA,EUA,successful,87.33,1939500,169376535.0,emission-spot-primary-market-auction-report-2023-data.xlsx,169376535.0,reported in EEX file
+2023,2023-08-04,T3PA,EUA,successful,83.33,970000,80830100.0,emission-spot-primary-market-auction-report-2023-data.xlsx,80830100.0,reported in EEX file
+2023,2023-08-11,T3PA,EUA,successful,84.2,970000,81674000.0,emission-spot-primary-market-auction-report-2023-data.xlsx,81674000.0,reported in EEX file
+2023,2023-08-18,T3PA,EUA,successful,86.68,970000,84079600.0,emission-spot-primary-market-auction-report-2023-data.xlsx,84079600.0,reported in EEX file
+2023,2023-08-25,T3PA,EUA,successful,85.5,976500,83490750.0,emission-spot-primary-market-auction-report-2023-data.xlsx,83490750.0,reported in EEX file
+2023,2023-09-01,T3PA,EUA,successful,84.0,2147000,180348000.0,emission-spot-primary-market-auction-report-2023-data.xlsx,180348000.0,reported in EEX file
+2023,2023-09-08,T3PA,EUA,successful,82.09,2147000,176247230.0,emission-spot-primary-market-auction-report-2023-data.xlsx,176247230.0,reported in EEX file
+2023,2023-09-15,T3PA,EUA,successful,82.33,2147000,176762510.0,emission-spot-primary-market-auction-report-2023-data.xlsx,176762510.0,reported in EEX file
+2023,2023-09-22,T3PA,EUA,successful,84.03,2147000,180412410.0,emission-spot-primary-market-auction-report-2023-data.xlsx,180412410.0,reported in EEX file
+2023,2023-09-29,T3PA,EUA,successful,81.65,2147000,175302550.0,emission-spot-primary-market-auction-report-2023-data.xlsx,175302550.0,reported in EEX file
+2023,2023-10-06,T3PA,EUA,successful,79.95,2147000,171652650.0,emission-spot-primary-market-auction-report-2023-data.xlsx,171652650.0,reported in EEX file
+2023,2023-10-13,T3PA,EUA,successful,84.61,2147000,181657670.0,emission-spot-primary-market-auction-report-2023-data.xlsx,181657670.0,reported in EEX file
+2023,2023-10-18,EAA3,EUAA (aviation),successful,81.72,907000,74120040.0,emission-spot-primary-market-auction-report-2023-data.xlsx,74120040.0,reported in EEX file
+2023,2023-10-20,T3PA,EUA,successful,81.19,2147000,174314930.0,emission-spot-primary-market-auction-report-2023-data.xlsx,174314930.0,reported in EEX file
+2023,2023-10-27,T3PA,EUA,successful,79.41,2147000,170493270.0,emission-spot-primary-market-auction-report-2023-data.xlsx,170493270.0,reported in EEX file
+2023,2023-11-03,T3PA,EUA,successful,78.35,2147000,168217450.0,emission-spot-primary-market-auction-report-2023-data.xlsx,168217450.0,reported in EEX file
+2023,2023-11-10,T3PA,EUA,successful,76.46,2147000,164159620.0,emission-spot-primary-market-auction-report-2023-data.xlsx,164159620.0,reported in EEX file
+2023,2023-11-17,T3PA,EUA,successful,76.55,2147000,164352850.0,emission-spot-primary-market-auction-report-2023-data.xlsx,164352850.0,reported in EEX file
+2023,2023-11-24,T3PA,EUA,successful,75.9,2147000,162957300.0,emission-spot-primary-market-auction-report-2023-data.xlsx,162957300.0,reported in EEX file
+2023,2023-12-01,T3PA,EUA,successful,71.45,2147000,153403150.0,emission-spot-primary-market-auction-report-2023-data.xlsx,153403150.0,reported in EEX file
+2023,2023-12-08,T3PA,EUA,successful,69.84,2147000,149946480.0,emission-spot-primary-market-auction-report-2023-data.xlsx,149946480.0,reported in EEX file
+2023,2023-12-15,T3PA,EUA,successful,66.6,2151000,143256600.0,emission-spot-primary-market-auction-report-2023-data.xlsx,143256600.0,reported in EEX file
+2024,2024-01-19,T3PA,EUA,successful,61.93,1796000,111226280.0,emission-spot-primary-market-auction-report-2024-data.xlsx,111226280.0,reported in EEX file
+2024,2024-01-26,T3PA,EUA,successful,61.95,1796000,111262200.0,emission-spot-primary-market-auction-report-2024-data.xlsx,111262200.0,reported in EEX file
+2024,2024-02-02,T3PA,EUA,successful,60.92,1796000,109412320.0,emission-spot-primary-market-auction-report-2024-data.xlsx,109412320.0,reported in EEX file
+2024,2024-02-09,T3PA,EUA,successful,57.24,1796000,102803040.0,emission-spot-primary-market-auction-report-2024-data.xlsx,102803040.0,reported in EEX file
+2024,2024-02-16,T3PA,EUA,successful,55.12,1796000,98995520.0,emission-spot-primary-market-auction-report-2024-data.xlsx,98995520.0,reported in EEX file
+2024,2024-02-23,T3PA,EUA,successful,49.5,1796000,88902000.0,emission-spot-primary-market-auction-report-2024-data.xlsx,88902000.0,reported in EEX file
+2024,2024-03-01,T3PA,EUA,successful,53.6,1796000,96265600.0,emission-spot-primary-market-auction-report-2024-data.xlsx,96265600.0,reported in EEX file
+2024,2024-03-08,T3PA,EUA,successful,57.1,1796000,102551600.0,emission-spot-primary-market-auction-report-2024-data.xlsx,102551600.0,reported in EEX file
+2024,2024-03-15,T3PA,EUA,successful,57.75,1796000,103719000.0,emission-spot-primary-market-auction-report-2024-data.xlsx,103719000.0,reported in EEX file
+2024,2024-03-22,T3PA,EUA,successful,57.93,1796000,104042280.0,emission-spot-primary-market-auction-report-2024-data.xlsx,104042280.0,reported in EEX file
+2024,2024-04-05,T3PA,EUA,successful,57.17,1796000,102677320.0,emission-spot-primary-market-auction-report-2024-data.xlsx,102677320.0,reported in EEX file
+2024,2024-04-12,T3PA,EUA,successful,68.01,1796000,122145960.0,emission-spot-primary-market-auction-report-2024-data.xlsx,122145960.0,reported in EEX file
+2024,2024-04-19,T3PA,EUA,successful,67.77,1796000,121714920.0,emission-spot-primary-market-auction-report-2024-data.xlsx,121714920.0,reported in EEX file
+2024,2024-04-26,T3PA,EUA,successful,65.66,1796000,117925360.0,emission-spot-primary-market-auction-report-2024-data.xlsx,117925360.0,reported in EEX file
+2024,2024-05-03,T3PA,EUA,successful,71.18,1796000,127839280.0,emission-spot-primary-market-auction-report-2024-data.xlsx,127839280.0,reported in EEX file
+2024,2024-05-17,T3PA,EUA,successful,69.46,1796000,124750160.0,emission-spot-primary-market-auction-report-2024-data.xlsx,124750160.0,reported in EEX file
+2024,2024-05-24,T3PA,EUA,successful,72.8,1796000,130748800.0,emission-spot-primary-market-auction-report-2024-data.xlsx,130748800.0,reported in EEX file
+2024,2024-05-31,T3PA,EUA,successful,74.49,1796000,133784040.0,emission-spot-primary-market-auction-report-2024-data.xlsx,133784040.0,reported in EEX file
+2024,2024-06-07,T3PA,EUA,successful,69.9,1796000,125540400.0,emission-spot-primary-market-auction-report-2024-data.xlsx,125540400.0,reported in EEX file
+2024,2024-06-14,T3PA,EUA,successful,68.41,1796000,122864360.0,emission-spot-primary-market-auction-report-2024-data.xlsx,122864360.0,reported in EEX file
+2024,2024-06-21,T3PA,EUA,successful,67.36,1796000,120978560.0,emission-spot-primary-market-auction-report-2024-data.xlsx,120978560.0,reported in EEX file
+2024,2024-06-28,T3PA,EUA,successful,65.01,1796000,116757960.0,emission-spot-primary-market-auction-report-2024-data.xlsx,116757960.0,reported in EEX file
+2024,2024-07-05,T3PA,EUA,successful,68.68,1796000,123349280.0,emission-spot-primary-market-auction-report-2024-data.xlsx,123349280.0,reported in EEX file
+2024,2024-07-12,T3PA,EUA,successful,67.06,1796000,120439760.0,emission-spot-primary-market-auction-report-2024-data.xlsx,120439760.0,reported in EEX file
+2024,2024-07-19,T3PA,EUA,successful,64.73,1796000,116255080.0,emission-spot-primary-market-auction-report-2024-data.xlsx,116255080.0,reported in EEX file
+2024,2024-07-26,T3PA,EUA,successful,66.33,1796000,119128680.0,emission-spot-primary-market-auction-report-2024-data.xlsx,119128680.0,reported in EEX file
+2024,2024-08-02,T3PA,EUA,successful,69.76,1796000,125288960.0,emission-spot-primary-market-auction-report-2024-data.xlsx,125288960.0,reported in EEX file
+2024,2024-08-09,T3PA,EUA,successful,70.46,1796000,126546160.0,emission-spot-primary-market-auction-report-2024-data.xlsx,126546160.0,reported in EEX file
+2024,2024-08-16,T3PA,EUA,successful,71.0,1796000,127516000.0,emission-spot-primary-market-auction-report-2024-data.xlsx,127516000.0,reported in EEX file
+2024,2024-08-23,T3PA,EUA,successful,70.73,1796000,127031080.0,emission-spot-primary-market-auction-report-2024-data.xlsx,127031080.0,reported in EEX file
+2024,2024-08-30,T3PA,EUA,successful,70.07,1810000,126826700.0,emission-spot-primary-market-auction-report-2024-data.xlsx,126826700.0,reported in EEX file
+2024,2024-09-06,T3PA,EUA,successful,67.0,1886500,126395500.0,emission-spot-primary-market-auction-report-2024-data.xlsx,126395500.0,reported in EEX file
+2024,2024-09-13,T3PA,EUA,successful,64.89,1886500,122414985.0,emission-spot-primary-market-auction-report-2024-data.xlsx,122414985.0,reported in EEX file
+2024,2024-09-20,T3PA,EUA,successful,63.18,1886500,119189070.0,emission-spot-primary-market-auction-report-2024-data.xlsx,119189070.0,reported in EEX file
+2024,2024-09-27,T3PA,EUA,successful,65.45,1886500,123471425.0,emission-spot-primary-market-auction-report-2024-data.xlsx,123471425.0,reported in EEX file
+2024,2024-10-04,T3PA,EUA,successful,61.03,1886500,115133095.0,emission-spot-primary-market-auction-report-2024-data.xlsx,115133095.0,reported in EEX file
+2024,2024-10-11,T3PA,EUA,successful,63.71,1886500,120188915.0,emission-spot-primary-market-auction-report-2024-data.xlsx,120188915.0,reported in EEX file
+2024,2024-10-16,EAA3,EUAA (aviation),successful,64.14,1061000,68052540.0,emission-spot-primary-market-auction-report-2024-data.xlsx,68052540.0,reported in EEX file
+2024,2024-10-18,T3PA,EUA,successful,61.9,1886500,116774350.0,emission-spot-primary-market-auction-report-2024-data.xlsx,116774350.0,reported in EEX file
+2024,2024-10-25,T3PA,EUA,successful,66.32,1886500,125112680.0,emission-spot-primary-market-auction-report-2024-data.xlsx,125112680.0,reported in EEX file
+2024,2024-11-01,T3PA,EUA,successful,64.46,1886500,121603790.0,emission-spot-primary-market-auction-report-2024-data.xlsx,121603790.0,reported in EEX file
+2024,2024-11-08,T3PA,EUA,successful,66.2,1886500,124886300.0,emission-spot-primary-market-auction-report-2024-data.xlsx,124886300.0,reported in EEX file
+2024,2024-11-15,T3PA,EUA,successful,66.78,1886500,125980470.0,emission-spot-primary-market-auction-report-2024-data.xlsx,125980470.0,reported in EEX file
+2024,2024-11-22,T3PA,EUA,successful,69.71,1886500,131507915.0,emission-spot-primary-market-auction-report-2024-data.xlsx,131507915.0,reported in EEX file
+2024,2024-11-29,T3PA,EUA,successful,67.3,1886500,126961450.0,emission-spot-primary-market-auction-report-2024-data.xlsx,126961450.0,reported in EEX file
+2024,2024-12-06,T3PA,EUA,successful,67.25,1886500,126867125.0,emission-spot-primary-market-auction-report-2024-data.xlsx,126867125.0,reported in EEX file
+2024,2024-12-13,T3PA,EUA,successful,66.07,1890500,124905335.0,emission-spot-primary-market-auction-report-2024-data.xlsx,124905335.0,reported in EEX file
+2025,2025-01-10,T3PA,EUA,successful,70.63,1607000,113502410.0,emission-spot-primary-market-auction-report-2025-data.xlsx,113502410.0,reported in EEX file
+2025,2025-01-17,T3PA,EUA,successful,77.3,1607000,124221100.0,emission-spot-primary-market-auction-report-2025-data.xlsx,124221100.0,reported in EEX file
+2025,2025-01-24,T3PA,EUA,successful,78.43,1607000,126037010.0,emission-spot-primary-market-auction-report-2025-data.xlsx,126037010.0,reported in EEX file
+2025,2025-01-31,T3PA,EUA,successful,81.11,1607000,130343770.0,emission-spot-primary-market-auction-report-2025-data.xlsx,130343770.0,reported in EEX file
+2025,2025-02-07,T3PA,EUA,successful,80.71,1607000,129700970.0,emission-spot-primary-market-auction-report-2025-data.xlsx,129700970.0,reported in EEX file
+2025,2025-02-14,T3PA,EUA,successful,75.84,1607000,121874880.0,emission-spot-primary-market-auction-report-2025-data.xlsx,121874880.0,reported in EEX file
+2025,2025-02-21,T3PA,EUA,successful,73.01,1607000,117327070.0,emission-spot-primary-market-auction-report-2025-data.xlsx,117327070.0,reported in EEX file
+2025,2025-02-28,T3PA,EUA,successful,70.65,1607000,113534550.0,emission-spot-primary-market-auction-report-2025-data.xlsx,113534550.0,reported in EEX file
+2025,2025-03-07,T3PA,EUA,successful,67.77,1607000,108906390.0,emission-spot-primary-market-auction-report-2025-data.xlsx,108906390.0,reported in EEX file
+2025,2025-03-14,T3PA,EUA,successful,68.65,1607000,110320550.0,emission-spot-primary-market-auction-report-2025-data.xlsx,110320550.0,reported in EEX file
+2025,2025-03-21,T3PA,EUA,successful,71.56,1607000,114996920.0,emission-spot-primary-market-auction-report-2025-data.xlsx,114996920.0,reported in EEX file
+2025,2025-03-28,T3PA,EUA,successful,67.36,1607000,108247520.0,emission-spot-primary-market-auction-report-2025-data.xlsx,108247520.0,reported in EEX file
+2025,2025-04-04,T3PA,EUA,successful,63.8,1607000,102526600.0,emission-spot-primary-market-auction-report-2025-data.xlsx,102526600.0,reported in EEX file
+2025,2025-04-11,T3PA,EUA,successful,61.01,1607000,98043070.0,emission-spot-primary-market-auction-report-2025-data.xlsx,98043070.0,reported in EEX file
+2025,2025-04-25,T3PA,EUA,successful,65.89,1607000,105885230.0,emission-spot-primary-market-auction-report-2025-data.xlsx,105885230.0,reported in EEX file
+2025,2025-05-09,T3PA,EUA,successful,70.2,1607000,112811400.0,emission-spot-primary-market-auction-report-2025-data.xlsx,112811400.0,reported in EEX file
+2025,2025-05-16,T3PA,EUA,successful,72.94,1607000,117214580.0,emission-spot-primary-market-auction-report-2025-data.xlsx,117214580.0,reported in EEX file
+2025,2025-05-23,T3PA,EUA,successful,71.11,1607000,114273770.0,emission-spot-primary-market-auction-report-2025-data.xlsx,114273770.0,reported in EEX file
+2025,2025-06-06,T3PA,EUA,successful,72.3,1607000,116186100.0,emission-spot-primary-market-auction-report-2025-data.xlsx,116186100.0,reported in EEX file
+2025,2025-06-13,T3PA,EUA,successful,75.36,1607000,121103520.0,emission-spot-primary-market-auction-report-2025-data.xlsx,121103520.0,reported in EEX file
+2025,2025-06-20,T3PA,EUA,successful,71.97,1607000,115655790.0,emission-spot-primary-market-auction-report-2025-data.xlsx,115655790.0,reported in EEX file
+2025,2025-06-27,T3PA,EUA,successful,69.4,1607000,111525800.0,emission-spot-primary-market-auction-report-2025-data.xlsx,111525800.0,reported in EEX file
+2025,2025-07-04,T3PA,EUA,successful,70.85,1607000,113855950.0,emission-spot-primary-market-auction-report-2025-data.xlsx,113855950.0,reported in EEX file
+2025,2025-07-11,T3PA,EUA,successful,69.3,1607000,111365100.0,emission-spot-primary-market-auction-report-2025-data.xlsx,111365100.0,reported in EEX file
+2025,2025-07-18,T3PA,EUA,successful,69.68,1607000,111975760.0,emission-spot-primary-market-auction-report-2025-data.xlsx,111975760.0,reported in EEX file
+2025,2025-07-25,T3PA,EUA,successful,70.22,1607000,112843540.0,emission-spot-primary-market-auction-report-2025-data.xlsx,112843540.0,reported in EEX file
+2025,2025-08-01,T3PA,EUA,successful,71.14,1607000,114321980.0,emission-spot-primary-market-auction-report-2025-data.xlsx,114321980.0,reported in EEX file
+2025,2025-08-08,T3PA,EUA,successful,72.14,1607000,115928980.0,emission-spot-primary-market-auction-report-2025-data.xlsx,115928980.0,reported in EEX file
+2025,2025-08-15,T3PA,EUA,successful,70.13,1607000,112698910.0,emission-spot-primary-market-auction-report-2025-data.xlsx,112698910.0,reported in EEX file
+2025,2025-08-22,T3PA,EUA,successful,72.05,1607000,115784350.0,emission-spot-primary-market-auction-report-2025-data.xlsx,115784350.0,reported in EEX file
+2025,2025-08-29,T3PA,EUA,successful,71.3,1614500,115113850.0,emission-spot-primary-market-auction-report-2025-data.xlsx,115113850.0,reported in EEX file
+2025,2025-09-05,T3PA,EUA,successful,75.44,1691000,127569040.0,emission-spot-primary-market-auction-report-2025-data.xlsx,127569040.0,reported in EEX file
+2025,2025-09-12,T3PA,EUA,successful,75.02,1691000,126858820.0,emission-spot-primary-market-auction-report-2025-data.xlsx,126858820.0,reported in EEX file
+2025,2025-09-19,T3PA,EUA,successful,76.57,1691000,129479870.0,emission-spot-primary-market-auction-report-2025-data.xlsx,129479870.0,reported in EEX file
+2025,2025-09-26,T3PA,EUA,successful,75.17,1691000,127112470.0,emission-spot-primary-market-auction-report-2025-data.xlsx,127112470.0,reported in EEX file
+2025,2025-10-10,T3PA,EUA,successful,79.22,1691000,133961020.0,emission-spot-primary-market-auction-report-2025-data.xlsx,133961020.0,reported in EEX file
+2025,2025-10-17,T3PA,EUA,successful,77.99,1691000,131881090.0,emission-spot-primary-market-auction-report-2025-data.xlsx,131881090.0,reported in EEX file
+2025,2025-10-24,T3PA,EUA,successful,78.47,1691000,132692770.0,emission-spot-primary-market-auction-report-2025-data.xlsx,132692770.0,reported in EEX file
+2025,2025-10-31,T3PA,EUA,successful,78.66,1691000,133014060.0,emission-spot-primary-market-auction-report-2025-data.xlsx,133014060.0,reported in EEX file
+2025,2025-11-07,T3PA,EUA,successful,79.76,1691000,134874160.0,emission-spot-primary-market-auction-report-2025-data.xlsx,134874160.0,reported in EEX file
+2025,2025-11-14,T3PA,EUA,successful,80.85,1691000,136717350.0,emission-spot-primary-market-auction-report-2025-data.xlsx,136717350.0,reported in EEX file
+2025,2025-11-21,T3PA,EUA,successful,80.47,1691000,136074770.0,emission-spot-primary-market-auction-report-2025-data.xlsx,136074770.0,reported in EEX file
+2025,2025-11-28,T3PA,EUA,successful,82.6,1691000,139676600.0,emission-spot-primary-market-auction-report-2025-data.xlsx,139676600.0,reported in EEX file
+2025,2025-12-05,T3PA,EUA,successful,82.25,1691000,139084750.0,emission-spot-primary-market-auction-report-2025-data.xlsx,139084750.0,reported in EEX file
+2025,2025-12-12,T3PA,EUA,successful,83.65,1696000,141870400.0,emission-spot-primary-market-auction-report-2025-data.xlsx,141870400.0,reported in EEX file

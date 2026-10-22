@@ -1,0 +1,21 @@
+SOURCE_URL: https://eurometal.net/stegra-to-boost-boden-construction-after-new-funding/
+RETRIEVED: 2026-10-22
+EXTRACTION: tag-stripped text of the saved HTML (article/main block); layout not reproduced
+og:title: Stegra to boost Boden construction after new funding - EUROMETAL
+article:published_time: 2026-04-16T09:16:24+00:00
+article:modified_time: 2026-04-16T09:16:24+00:00
+og:description: Swedish green steel start-up Stegra says it will accelerate construction activities following an in-principle €1.4 billion ($1.65 billion) financing agreement, Kallanish reports. Wallenberg Investments has led the financing round with a consortium with Temasek and IMAS. Existing Stegra shareholders, including Altor, Hy24 and Just Climate, also participated. The new capital, subject to credit approvals, will enable the
+ld_datePublished: 2026-04-16T11:16:24+02:00
+----
+Swedish green steel start-up Stegra says it will accelerate construction activities following an in-principle €1.4 billion ($1.65 billion) financing agreement, Kallanish reports.
+Wallenberg Investments has led the financing round with a consortium with Temasek and IMAS. Existing Stegra shareholders, including Altor, Hy24 and Just Climate, also participated. The new capital, subject to credit approvals, will enable the completion and commissioning of Stegra’s green steel plant in Boden.
+“After several slower months during the funding activities, Stegra will now ramp up construction activities,” the company says, noting the project timeline is currently under review.
+The plant is designed to produce up to 5 million tonnes/year of green steel by 2030, running an electrolysis capacity of 700 megawatts.
+The first steel production was initially expected this year. However, the company previously confirmed a temporary construction break late last year. It denied that financial struggles were risking the viability of a new Swedish start-up, following the downfall of battery maker Northvolt.
+Stegra’s chief executive Henrik Henriksson says the financing reflects the “strong conviction” in its business model amid a “very challenging macro-environment”.
+“We are convinced of the competitiveness of Stegra and the commercial attractiveness of green steel … while remaining clear-eyed about the challenges that lie ahead,” comments Leif Johansson, adviser to the consortium led by Wallenberg Investments. “We also consider the project to be of great importance to Sweden’s position as an industrial nation.”
+SteelWatch executive director Caroline Ashley welcomes the announcement saying it signals the change towards “truly clean” steelmaking at scale is happening. “Naysayers have had their day,” she adds.
+Stegra expects the deal to close in June, when Johansson will become Stegra’s new chair of the board. Wallenberg Investments’ senior industrialist Håkan Buskhe and Altor’s managing partner Paal Weberg will also join the board.
+Kallanish has contacted Stegra for clarification on the new timeline.
+Author: Gabriela Farhangi UK
+ kallanish.com

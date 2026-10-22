@@ -1,0 +1,106 @@
+{
+ "minutes_sum": 15,
+ "variable_coverage": [
+  {
+   "variable": "X",
+   "covered_on_slide": "S8 (Dataset B exports 27.3 to 22.9 Mt, all partners) and S10 row X. National-accounts exports (-0.3%, S16) are only in A6.",
+   "adequate": true
+  },
+  {
+   "variable": "M",
+   "covered_on_slide": "S5 (theory plus 2023-25 extra-EU imports), S7 (full 1999-2025 series), S10 row M.",
+   "adequate": true
+  },
+  {
+   "variable": "NX",
+   "covered_on_slide": "S8 (derived X-M balance -1.2 to +4.1 Mt, labelled approximate) and S10 row NX. The extra-EU gap is stated honestly.",
+   "adequate": true
+  },
+  {
+   "variable": "BOP",
+   "covered_on_slide": "S8 footnote and S10 row (current account about EUR 203 bn, S18, not a steel effect). The capital and financial accounts appear only in A6. This meets the one-line minimum.",
+   "adequate": true
+  },
+  {
+   "variable": "Q (goods/services)",
+   "covered_on_slide": "S5, S6 (production index), S7 (tonnes), S10 row Q (crude steel Mt; services 'indirect, no series').",
+   "adequate": true
+  },
+  {
+   "variable": "P (goods/services)",
+   "covered_on_slide": "S5 (electricity, certificate prices), S7 and S10 (import unit value, marked mix-affected). The S10 P row omits services, and no domestic steel price series exists.",
+   "adequate": false
+  },
+  {
+   "variable": "GDP",
+   "covered_on_slide": "S10 only (GDP +0.2% and the identity). S1 and S6 give manufacturing GVA shares, explicitly not GDP. The theory cell states an identity, not a direction.",
+   "adequate": true
+  },
+  {
+   "variable": "Tax",
+   "covered_on_slide": "S10 row and speaker point ('not yet observable', U35). The cell wording 'not German tax or G' is stronger than the source's 'not automatically'.",
+   "adequate": true
+  },
+  {
+   "variable": "C",
+   "covered_on_slide": "S10 row (household consumption +1.4% real, Dataset F, context only).",
+   "adequate": true
+  },
+  {
+   "variable": "I",
+   "covered_on_slide": "S9 (announced plans, not spending) and S10 (gross fixed capital formation -0.5% real, context only).",
+   "adequate": true
+  },
+  {
+   "variable": "G",
+   "covered_on_slide": "S10 row only (government consumption +1.5%, whole-economy context). No subsidy facts on a main slide; they are in A11. This is thin but allowed as one line.",
+   "adequate": true
+  }
+ ],
+ "gaps": [
+  "The policy objective is missing from the main deck. CBAM's purpose (preventing carbon leakage) is not on S3 or any other main slide. 'Leakage' first appears as a reconsider-trigger on S13 and is defined only in A5. Member B 1.3/1.4 asks for 'objective and mechanism'.",
+  "The outline contradicts its own rule. Approach section 5 says corrected claims such as '11,000 dismissals' are never repeated on main slides, yet S11 (card 3 and speaker point 3) says 'not 11,000 dismissals'.",
+  "There is no sources slide. Tags [U1-U35], [S1-S24], [G1-G5], Dataset A-F and BaseNotes-n are never resolved to titles in the main deck or in A1-A14. Chat 23:48 stresses the 35-reference list.",
+  "Member D data request 4 (cleaner vs dirtier input material, time series 1999 to latest) is only met by the Chapter 72 aggregate (S7/A7), 7208 for 2019-25 and a 2025 snapshot (A8). No by-product 1999-2025 series exists for 7204, 7207, 7208, 7304/7306 or 26011200, and the to-do list omits it. Conflict ruling (e), 'superseded by update 4.2', is true only for the Chapter 72 aggregate.",
+  "Member D data request 5 (job market by manufacturing sub-industry) is only met by total Section C employment 2023-25 and company or skills anecdotes in A12. No sub-industry series exists, and it is not in the to-dos.",
+  "Member D's priority 1, marked 'required' (green steel vs other materials / EU import prices), appears on the main deck only as qualitative IEA and Salzgitter lines. The S11 footer points to A8 and A12 but not A9. S5 has no pointer to A10. The premium (A9) and the import unit values (A7, S7) are not cross-referenced.",
+  "S10 mixes scopes without saying so in the cells. X is all-partner Mt (2017-24), M is extra-EU kt (to 2025) and NX is all-partner. National-accounts X -0.3% and M +3.6% [S16] are absent from the macro block even though GDP = C + I + G + NX is shown. The P row omits services, and the Tax cell is overstated. The crude-steel series in the Q row splices two sources (S12 and S13).",
+  "On-slide density breaks the outline's own rules (cells of about 8 words; no two consecutive dense slides). Estimated on-slide words: S9 about 165, S10 about 225, S12 about 170, S13 about 190. S9 then S10 and S12 then S13 are consecutive dense slides. S8 stacks a chart, a balance strip, a tile, a gap box and a badge.",
+  "S1 has no 'why steel' rationale (Member B 1.6). Speaker point 2 gives only Germany-manufacturing figures, and the steel tile (34.1 Mt) is not explained.",
+  "Evidence labels have three problems. S12's dominant label is 'Observed data', yet only 1 of 4 'consistent with' items is observed and the verdict is team judgement. Chips 'Published research', 'published analysis' and 'Context only' fall outside the five-label taxonomy. S19 is described as 'small' where the source says 'smaller and sensitive to assumptions'.",
+  "S5 has wording and bucket issues. The key message states 'pass-through is partial' as fact, although the source only says 'avoid assuming 100%'. The BEFORE strip includes the 2024 electricity value (16.77), which falls inside the reporting window. S2's BEFORE box has only policy dates, not situation facts.",
+  "CH1 'data/graph' is satisfied but thin: a timeline, stat tiles and a one-line CBAM factor strip. The 9-value factor schedule [S9] is ready-made chart data that was dropped to A3.",
+  "S8 says 'weak home demand', but crude-steel output is production, not demand. No apparent-consumption series exists. The wording is conditional, but the proxy should be named as output."
+ ],
+ "timing_issues": [
+  "Arithmetic verified. CH1 = 1+1+1+1 = 4.0; CH2 = 1+1+1+1.5+1.5+1.5+1 = 8.5; CH3 = 1+1.5 = 2.5; total 15.0 across 13 slides, all in 0.5 steps. Checkpoints 4.0 / 12.5 / 15.0 are correct. The 20-minute stretch plan sums to +5.0 correctly.",
+  "The talk is realistic overall. Speaker points total 1,431 words, about 95 words per minute on average (11.9 min at 120 wpm). That leaves roughly 3 minutes of slack for 3 handovers and chart pauses, but only if presenters stick to the points. The suggested split is uneven (4.0 / 3.0 / 5.5 / 2.5 min), and the 5.5-minute block (S8-S11) is the heaviest.",
+  "The heaviest slides per minute are S7 (119 words), S4 (117), S1 (107), S11 (106), S3 (105) and S12 (105). The lightest relative to on-slide text are S9 (63 words per min for about 165 on-slide words) and S13 (78).",
+  "Numbers read aloud break the outline's own cap of about 5 per minute (counted from digit tokens, so years and dates are included). S4 has 18, S7 has 16, S6 has 10 and S8 has 11 in 1.5 min (7.3 per min). S1, S2, S5 and S11 have 6 each.",
+  "S10 needs about 8 seconds per variable for 11 variables with a table of about 225 words. This works only with the three-block reveal and read-aloud limited to the block headlines.",
+  "S2 plus S5 (2.0 min) must carry two theory diagrams and two before/during/after strips with no slack. The text fallback keeps the minutes unchanged, so the timing risk does not grow if the graphs are rejected.",
+  "Suggested rebalance, once S9 on-slide text is cut: move 0.5 min from S9 (1.5 to 1.0) to S7 (1.0 to 1.5). The total stays 15.0 and the checkpoints are unchanged, because both slides are in CH2. The alternative of giving S4 +0.5 shifts the checkpoints to 4.5 / 12.5."
+ ],
+ "tap_draft_items_missing": [
+  "1.3/1.4 'objective and mechanism': the objective is missing. Nothing on S3 says CBAM prevents carbon leakage or what the ETS cap is for, so the mechanism is shown without its purpose.",
+  "1.6 'why steel': the reason for choosing the steel industry is not stated on S1 (only the 34.1 Mt tile).",
+  "Member B's own export request (value in EUR and volume, matched to the import period) is not delivered. Only all-partner tonnes for 2017-24 are shown. The outline flags this honestly, but the matched extra-EU Chapter 72 export series (Comext flow 2, 1999-2025) is still open, with no firm owner or date other than 'before the freeze'.",
+  "2.5 'which mechanism the data is consistent with, and what cannot be confirmed': S10 has no per-variable consistent / not consistent / cannot-tell marker. Only S12 does this in aggregate, and a reader could miss that I (-0.5%) and C (+1.4%) do not support the positive mechanisms.",
+  "Member B's reasoning cites 'market demand for steel' alongside volume and value of both flows. Apparent consumption is dropped to the A6 spec only, and S8 uses crude-steel output as a proxy."
+ ],
+ "recommendations": [
+  "Keep as is (verified). The minutes sum to 15.0 and every slide has 2-4 speaker points and one dominant label. CH1 has history (S4) plus data (S1 tiles, S4 strip and data window). CH3 has a conclusion (S12) and KEEP / CHANGE / DROP-or-reconsider (S13). The diagram ceiling holds: 2 of 3 allowed (Fig. 1 on S2, redrawn Fig. 2 on S5). Only S2 and S5 are flagged as dependent on the pending lecturer confirmation, each with a text fallback. The S8 NX handling is honest. The checked figures and arithmetic match the repository: Dataset B balances, update 4.1/4.2, the CBAM worked example and Fig. 1 (including its SIMULATION footer).",
+  "S3: add a 'Purpose' row (ETS: cap and price emissions; CBAM: prevent carbon leakage by applying the same carbon-cost comparison to covered imports). Replace the 'Not' row or merge it into 'What', and say 'leakage' once before S13 uses it. No time added.",
+  "S11: delete 'not 11,000 dismissals' from the card and speaker point. State only 'about 5,000 reductions plus about 6,000 transfers or sales by 2030 [U9]' and leave the negation to A2/A12. Add 'Backup A9' (price comparison) to the footer, and 'Backup A10' to S5. Cross-reference A7 and A9.",
+  "S10: label scopes in the cells ('all partners, Mt' for X and NX; 'extra-EU, kt' for M). Add 'services: indirect, no series' to the P row. Add national X -0.3% and M +3.6% [S16] to the macro block. Soften Tax to 'not automatically German tax revenue or G'. Replace the GDP theory cell with a direction ('ambiguous: identity; value added matters'). Add a one-word consistent / not clear marker per row, since I and C are not supportive.",
+  "Cut on-slide text to about 90-110 words on S9, S12 and S13 and cells of 8 words or fewer on S10. For S9, keep one Opportunity and one Limit line per case and move the BMW/Mercedes detail to speaker notes. Use build reveals for S10, S12 and S13 so no two consecutive slides are dense. For S8, keep the chart, the balance strip and a one-line gap note; move the crude-steel tile and the scope badge into the footer.",
+  "Apply the minute rebalance: S9 1.5 to 1.0 and S7 1.0 to 1.5. Trim numbers read aloud: on S4, read only 2005, Oct 2023, 1 Jan 2026 and Feb/Sep 2027; on S6, read only 2009 and the 22.3% to 19.4% share; on S7, put the three unit values on the slide only; on S8, read only the first and last balance values.",
+  "Add an untimed A15 'Sources' slide mapping every tag to its title: U1-U35, S1-S24, G1-G5, Dataset A-F, and BaseNotes-1..5 marked 'verify at source'.",
+  "Add to dependencies: (a) a Comext by-product 1999-2025 series (7204 scrap vs 7207 / 7208 / 7304-7306 / 26011200) for Member D request 4, appendix only; (b) Eurostat nama_10_a64_e employment by NACE C24, C28 and C29 for Member D request 5; (c) an optional Destatis steel producer price index for P, only if actually pulled, with nothing estimated. Narrow ruling (e) to 'superseded for the Chapter 72 aggregate only'.",
+  "S5: change the key message and speaker point to 'pass-through need not be full'. Show the BEFORE strip as electricity 2020-22 only, and move 16.77 (2024) to DURING. On S2, add one observed pre-ETS fact (for example 1995-2004 manufacturing or imports) so the 'before' is a situation, not just a date.",
+  "S12: show the dominant label as 'mixed, per-item chips'. Map 'Published research' to Observed data or Model-based, and 'Context only' to Observed data (context). Paraphrase S19 as 'smaller than sectoral effects and sensitive to assumptions'.",
+  "S1: add one clause on why steel, from the scope: the first-stage input to automotive and machinery, and a CBAM-covered sector [S4]. Speaker point 2 would carry it with no extra time.",
+  "S4: render the CBAM factor strip as a small step chart (97.5, 95.0, 90.0, 77.5, 51.5, 39.0, 26.5, 14.0, 0.0 for 2026-2034, from S9). This gives CH1 a real data graph at no cost in minutes.",
+  "S8: replace 'weak home demand' with 'crude-steel output is a production measure, not demand; apparent consumption needs a matched source (A6)'."
+ ]
+}

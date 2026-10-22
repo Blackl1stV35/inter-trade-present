@@ -1,0 +1,23 @@
+SOURCE_URL: https://stegra.com/en/news-and-stories/changes-to-stegras-board-of-directors-and-company-structure
+RETRIEVED: 2026-10-22
+EXTRACTION: tag-stripped text of the saved HTML (article/main block); layout not reproduced
+og:title: Changes to Stegra’s board of directors and company structure - Stegra
+og:description: Stegra announces that changes have been made to its board of directors, following the closing of its €1.4 billion financing round.
+----
+Stegra announces that changes have been made to its board of directors, following the closing of its €1.4 billion financing round, in which a Wallenberg Investments-led consortium takes a leading position in the company.
+A new holding company, Stegra Holding AB*, owned by the investors in the new financing round holds over 90% of the shares and votes in Stegra. The companies in the Wallenberg Investments-led consortium together have an indirect majority shareholding in Stegra through Stegra Holding AB. The board of directors of Stegra Holding AB consists of the following directors: 
+● Leif Johansson, new chair of the board, representing the Wallenberg Investments-led consortium. Johansson succeeds Shaun Kingsbury who chaired the board of Stegra over the past several quarters and who remains on the board.
+● Håkan Buskhe, Astrid Skarheim Onsum and Erika Söderberg Johnsson, representing the Wallenberg Investments-led consortium.
+● Paal Weberg and Karin Rådström, representing Altor. 
+● Shaun Kingsbury, representing Just Climate.
+● Pierre-Etienne Franc, representing Hy24.
+Henrik Henriksson will continue as CEO of Stegra. 
+I'm very pleased to now have a very strong board in place – one that combines deep industrial competence with broad international experience, and that I'm confident will make a great team for Stegra. I want to thank Shaun Kingsbury, my predecessor as chair, for his leadership in securing the financing package and I look forward to continuing to work with him on the board. I also want to thank Harald Mix, who as Stegra’s co-founder served as chair under the company’s first five years and built the company from start.
+Leif JohanssonIncoming chairman of the board of Stegra
+The company which holds the investments made prior to the financing round has been renamed from Stegra AB to Green Nexus Investment Holding AB. It has, following completion of the new financing round become a minority shareholder of Stegra. 
+The name Stegra AB will during June be transferred to the company* in the Stegra group that is overall responsible for the business of running the hydrogen, iron and steel plants. 
+* name change in progress
+Previous
+Stegra and partners develop book-and-claim system for iron and steel
+Next
+Stegra announces closing of €1.4 billion financing round

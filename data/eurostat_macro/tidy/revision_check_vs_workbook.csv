@@ -1,0 +1,94 @@
+year,series,workbook_value,live_value,difference_live_minus_workbook,live_flag,status
+1995,real GVA CLV_I20 (2020=100),71.61,71.61,0.0,,unchanged
+1995,production I21 (2021=100),71.3,71.3,0.0,,unchanged
+1995,mfg share of total GVA PC_TOT (%),22.3,22.3,0.0,,unchanged
+1996,real GVA CLV_I20 (2020=100),69.67,69.67,0.0,,unchanged
+1996,production I21 (2021=100),71.0,71.0,0.0,,unchanged
+1996,mfg share of total GVA PC_TOT (%),21.8,21.8,0.0,,unchanged
+1997,real GVA CLV_I20 (2020=100),72.47,72.47,0.0,,unchanged
+1997,production I21 (2021=100),73.5,73.5,0.0,,unchanged
+1997,mfg share of total GVA PC_TOT (%),22.0,22.0,0.0,,unchanged
+1998,real GVA CLV_I20 (2020=100),73.31,73.31,0.0,,unchanged
+1998,production I21 (2021=100),77.0,77.0,0.0,,unchanged
+1998,mfg share of total GVA PC_TOT (%),22.2,22.2,0.0,,unchanged
+1999,real GVA CLV_I20 (2020=100),74.13,74.13,0.0,,unchanged
+1999,production I21 (2021=100),78.2,78.2,0.0,,unchanged
+1999,mfg share of total GVA PC_TOT (%),21.9,21.9,0.0,,unchanged
+2000,real GVA CLV_I20 (2020=100),79.37,79.37,0.0,,unchanged
+2000,production I21 (2021=100),82.7,82.7,0.0,,unchanged
+2000,mfg share of total GVA PC_TOT (%),22.6,22.6,0.0,,unchanged
+2001,real GVA CLV_I20 (2020=100),80.54,80.54,0.0,,unchanged
+2001,production I21 (2021=100),82.8,82.8,0.0,,unchanged
+2001,mfg share of total GVA PC_TOT (%),22.3,22.3,0.0,,unchanged
+2002,real GVA CLV_I20 (2020=100),78.23,78.23,0.0,,unchanged
+2002,production I21 (2021=100),81.8,81.8,0.0,,unchanged
+2002,mfg share of total GVA PC_TOT (%),21.6,21.6,0.0,,unchanged
+2003,real GVA CLV_I20 (2020=100),79.11,79.11,0.0,,unchanged
+2003,production I21 (2021=100),82.0,82.0,0.0,,unchanged
+2003,mfg share of total GVA PC_TOT (%),21.7,21.7,0.0,,unchanged
+2004,real GVA CLV_I20 (2020=100),82.21,82.21,0.0,,unchanged
+2004,production I21 (2021=100),85.7,85.7,0.0,,unchanged
+2004,mfg share of total GVA PC_TOT (%),21.9,21.9,0.0,,unchanged
+2005,real GVA CLV_I20 (2020=100),83.54,83.54,0.0,,unchanged
+2005,production I21 (2021=100),88.6,88.6,0.0,,unchanged
+2005,mfg share of total GVA PC_TOT (%),21.9,21.9,0.0,,unchanged
+2006,real GVA CLV_I20 (2020=100),90.78,90.78,0.0,,unchanged
+2006,production I21 (2021=100),93.8,93.8,0.0,,unchanged
+2006,mfg share of total GVA PC_TOT (%),22.6,22.6,0.0,,unchanged
+2007,real GVA CLV_I20 (2020=100),94.89,94.89,0.0,,unchanged
+2007,production I21 (2021=100),99.6,99.6,0.0,,unchanged
+2007,mfg share of total GVA PC_TOT (%),22.9,22.9,0.0,,unchanged
+2008,real GVA CLV_I20 (2020=100),92.93,92.93,0.0,,unchanged
+2008,production I21 (2021=100),100.5,100.5,0.0,,unchanged
+2008,mfg share of total GVA PC_TOT (%),22.1,22.1,0.0,,unchanged
+2009,real GVA CLV_I20 (2020=100),74.42,74.42,0.0,,unchanged
+2009,production I21 (2021=100),83.2,83.2,0.0,,unchanged
+2009,mfg share of total GVA PC_TOT (%),19.4,19.4,0.0,,unchanged
+2010,real GVA CLV_I20 (2020=100),89.0,89.0,0.0,,unchanged
+2010,production I21 (2021=100),93.2,93.2,0.0,,unchanged
+2010,mfg share of total GVA PC_TOT (%),21.7,21.7,0.0,,unchanged
+2011,real GVA CLV_I20 (2020=100),97.02,97.02,0.0,,unchanged
+2011,production I21 (2021=100),101.1,101.1,0.0,,unchanged
+2011,mfg share of total GVA PC_TOT (%),22.5,22.5,0.0,,unchanged
+2012,real GVA CLV_I20 (2020=100),95.32,95.32,0.0,,unchanged
+2012,production I21 (2021=100),100.0,100.0,0.0,,unchanged
+2012,mfg share of total GVA PC_TOT (%),22.4,22.4,0.0,,unchanged
+2013,real GVA CLV_I20 (2020=100),95.28,95.28,0.0,,unchanged
+2013,production I21 (2021=100),99.9,99.9,0.0,,unchanged
+2013,mfg share of total GVA PC_TOT (%),22.1,22.1,0.0,,unchanged
+2014,real GVA CLV_I20 (2020=100),100.57,100.57,0.0,,unchanged
+2014,production I21 (2021=100),101.9,101.9,0.0,,unchanged
+2014,mfg share of total GVA PC_TOT (%),22.5,22.5,0.0,,unchanged
+2015,real GVA CLV_I20 (2020=100),101.56,101.56,0.0,,unchanged
+2015,production I21 (2021=100),103.0,103.0,0.0,,unchanged
+2015,mfg share of total GVA PC_TOT (%),22.5,22.5,0.0,,unchanged
+2016,real GVA CLV_I20 (2020=100),105.55,105.55,0.0,,unchanged
+2016,production I21 (2021=100),104.1,104.1,0.0,,unchanged
+2016,mfg share of total GVA PC_TOT (%),22.8,22.8,0.0,,unchanged
+2017,real GVA CLV_I20 (2020=100),109.07,109.07,0.0,,unchanged
+2017,production I21 (2021=100),106.9,106.9,0.0,,unchanged
+2017,mfg share of total GVA PC_TOT (%),22.4,22.4,0.0,,unchanged
+2018,real GVA CLV_I20 (2020=100),110.5,110.5,0.0,,unchanged
+2018,production I21 (2021=100),108.1,108.1,0.0,,unchanged
+2018,mfg share of total GVA PC_TOT (%),22.0,22.0,0.0,,unchanged
+2019,real GVA CLV_I20 (2020=100),109.0,109.0,0.0,,unchanged
+2019,production I21 (2021=100),104.7,104.7,0.0,,unchanged
+2019,mfg share of total GVA PC_TOT (%),21.5,21.5,0.0,,unchanged
+2020,real GVA CLV_I20 (2020=100),100.0,100.0,0.0,,unchanged
+2020,production I21 (2021=100),95.4,95.4,0.0,,unchanged
+2020,mfg share of total GVA PC_TOT (%),20.5,20.5,0.0,,unchanged
+2021,real GVA CLV_I20 (2020=100),109.12,109.12,0.0,,unchanged
+2021,production I21 (2021=100),100.0,100.0,0.0,,unchanged
+2021,mfg share of total GVA PC_TOT (%),20.6,20.6,0.0,,unchanged
+2022,real GVA CLV_I20 (2020=100),110.74,110.74,0.0,,unchanged
+2022,production I21 (2021=100),99.8,99.8,0.0,,unchanged
+2022,mfg share of total GVA PC_TOT (%),20.3,20.3,0.0,,unchanged
+2023,real GVA CLV_I20 (2020=100),107.34,107.34,0.0,p,unchanged
+2023,production I21 (2021=100),98.6,98.6,0.0,,unchanged
+2023,mfg share of total GVA PC_TOT (%),20.4,20.4,0.0,p,unchanged
+2024,real GVA CLV_I20 (2020=100),105.64,105.64,0.0,p,unchanged
+2024,production I21 (2021=100),93.8,93.8,0.0,,unchanged
+2024,mfg share of total GVA PC_TOT (%),19.9,19.9,0.0,p,unchanged
+2025,real GVA CLV_I20 (2020=100),104.13,104.13,0.0,p,unchanged
+2025,production I21 (2021=100),92.8,92.8,0.0,,unchanged
+2025,mfg share of total GVA PC_TOT (%),19.4,19.4,0.0,p,unchanged

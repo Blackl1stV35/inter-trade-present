@@ -1,0 +1,66 @@
+# EXCERPT of PE-CONS 23/26 (27 May 2026), pre-signature text of Regulation (EU) 2026/1384, source: https://data.consilium.europa.eu/doc/document/PE-23-2026-INIT/en/pdf
+                         EUROPEAN UNION
+
+THE EUROPEAN PARLIAMENT                                        THE COUNCIL
+
+                                        Brussels, 27 May 2026
+                                        (OR. en)
+
+2025/0726(COD)                          PE-CONS 23/26
+
+                                        POLCOM 141
+                                        COMER 63
+                                        CODEC 704
+
+LEGISLATIVE ACTS AND OTHER INSTRUMENTS
+
+Subject:        REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE
+                COUNCIL addressing the negative trade-related effects of global
+                overcapacity on the Union steel market and amending Regulation
+                (EU) 2020/2170
+
+PE-CONS 23/26
+
+                         COMPET.3                                                EN
+                                         REGULATION (EU) 2026/...
+                  OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+   ELI: http://data.europa.eu/eli/reg/2012/978/oj).
+
+PE-CONS 23/26                                                                            9
+
+               COMPET.3                                                                  EN
+(16) Although under Implementing Regulation (EU) 2019/159 the out-of-quota tariff is set
+          at 25 %, taking into account the level of tariffs in the steel sector in other key markets, it is
+          appropriate to raise the out-of-quota duty to 50 %, to minimise the risk of trade diversion.
+          That duty would be in addition to other duties applying to the product categories covered
+          by this Regulation.
+
+(17) In view of the close and unique integration under the Agreement on the European
+          Economic Area4, Union imports from Iceland, Liechtenstein and Norway should be
+          excluded from the application of the tariff quotas and the out-of-quota duty.
+
+(18) The total volume of tariff quotas has been calculated by applying the market share of
+          imports into the Union market in the year 2013 as reference, which was around 13 %, to
+          the overall consumption in the Union steel market in 2024, which is the latest year for
+          which complete data are available. The calculation does not take into account imports
+          which originated in Belarus and the Russian Federation, which are currently subject to
+          import bans. That results in a total annual volume of tariff quotas of 18 345 922 tonnes.
+
+(19) The tariff quotas should be broken down per product category based on the share of
+          imports that each product category held over the period 2022-2024. That reference period
+          for breaking down the share of the tariff quota is appropriate, as it reflects accurately the
+          more recent trade flows.
+PE-CONS 23/26                                                                             4
+
+ANNEX I                      COMPET.3           EN
+                         ANNEX II
+
+                         Volume of tariff quotas per product category
+
+The total annual volume of tariff quotas shall be 18 345 922 tonnes.
+
+ Product      Product                     CN code                     Volume of      Out-of-quota
+category     category                                                 tariff quotas   duty level
+ number                  7208 10 00, 7208 25 00, 7208 26 00,          (in tonnes)
+1A             name      7208 27 00, 7208 36 00, 7208 37 00,

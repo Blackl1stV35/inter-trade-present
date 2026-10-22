@@ -1,0 +1,15 @@
+indicator,period,value,unit,source,note
+capacity utilisation 2025,2025,below 70 percent,text,press release 21 Jan 2026 (pm2025),no annual series published
+crude steel threshold for a viable utilisation,n/a,40 Mt per year,text,press release 21 Jan 2026; Q1 and Q2 2026 reports,WV Stahl's own benchmark
+"Auftragseingang Walzstahl, change on prior year",2022,-12.4,percent,Q2 2026 report p.4,chart label
+"Auftragseingang Walzstahl, change on prior year",2023,0.4,percent,Q2 2026 report p.4,chart label
+"Auftragseingang Walzstahl, change on prior year",2024,-0.4,percent,Q2 2026 report p.4,chart label
+"Auftragseingang Walzstahl, change on prior year",2025,2.1,percent,Q2 2026 report p.4,chart label
+"Auftragseingang Walzstahl, change on prior year",Jan-Jun 2026,7.3,percent,Q2 2026 report p.4,chart label
+"Marktversorgung, change on prior year",2022,-8,percent,Q2 2026 report p.4,chart label
+"Marktversorgung, change on prior year",2023,-11,percent,Q2 2026 report p.4,chart label
+"Marktversorgung, change on prior year",2024,-7,percent,Q2 2026 report p.4,chart label
+"Marktversorgung, change on prior year",2025,8,percent,Q2 2026 report p.4,chart label
+"Marktversorgung, change on prior year",Jan-Apr 2026,2,percent,Q2 2026 report p.4,chart label
+domestic steel demand since 2017,2025,"about -30 percent, about 12 Mt",text,Q1 2026 report p.2,WV Stahl wording
+2025 Marktversorgung stabilisation,2025,"'based exclusively on stock building' (Lageraufbau), not real demand growth",text,Q1 2026 report p.2,WV Stahl wording

@@ -1,0 +1,8 @@
+"title"	"code"	"type"	"last update of data"	"last table structure change"	"data start"	"data end"	"values"
+"Gross domestic product (GDP) and main components (output, expenditure and income) - quarterly data"	"namq_10_gdp"	"dataset"	"20.10.2026"	"20.10.2026"	"1978-Q1"	"2026-Q2"	8367914
+"Gross value added and income by main industry (NACE Rev.2 ) - quarterly data"	"namq_10_a10"	"dataset"	"21.10.2026"	"20.10.2026"	"1978-Q1"	"2026-Q2"	6089196
+"Gross domestic product (GDP) and main components (output, expenditure and income) - annual data"	"nama_10_gdp"	"dataset"	"21.10.2026"	"20.10.2026"	"1975"	"2025"	1087082
+"Gross value added and income by main industry (NACE Rev.2 ) - annual data"	"nama_10_a10"	"dataset"	"21.10.2026"	"20.10.2026"	"1975"	"2025"	860331
+"Gross value added and income by detailed industry (NACE Rev.2 )"	"nama_10_a64"	"dataset"	"21.10.2026"	"20.10.2026"	"1975"	"2025"	8984617
+"Employment by detailed industry (NACE Rev.2) - national accounts"	"nama_10_a64_e"	"dataset"	"21.10.2026"	"20.10.2026"	"1975"	"2025"	1307018
+"Production in industry - annual data"	"sts_inpr_a"	"dataset"	"15.10.2026"	"11.07.2026"	"1953"	"2025"	644170

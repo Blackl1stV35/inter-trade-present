@@ -1,0 +1,16 @@
+source,result,note
+ec.europa.eu presscorner API (reference=IP/..),worked,"Used for IP/22/5968, 23/3928, 23/6647, 24/845, 24/1009, 25/846, 26/815, 26/997"
+dserver.bundestag.de (Drucksachen),worked,"20/12166, 21/283, 21/3563, 21/7837"
+"landtag.nrw.de (Vorlage, Ausschussprotokoll)",worked,"MMV18-5029, MMA18-703"
+ptj.de,worked,SALCOS news 18 Apr 2023
+foerderdatenbank.de,worked,CCfD programme entry
+"ucpcdn.thyssenkrupp.com, thyssenkrupp-steel.com, transformation.thyssenkrupp-steel.com",worked,Company reports and releases
+www.thyssenkrupp.com (HTML),connection reset from this machine,Used ucpcdn PDFs instead
+salzgitter-ag.com,worked,"JPK 2026 slides, H1 2026 report, 2023 release"
+bundeswirtschaftsministerium.de / bmwk.de HTML pages,BLOCKED: Radware 'Verifying your browser' challenge; not bypassed,"Press releases of 26 Jul 2023, 18 Apr 2023, 5 May 2026, 19 Oct 2026 could not be opened. A PDF under /Downloads/ (Industriestrompreis press paper) was served normally"
+eur-lex.europa.eu (OJ C/2025/4871 for SA.105244),BLOCKED: HTTP 202 JavaScript challenge; not bypassed,Case number SA.105244 taken from the EC press release instead
+competition-cases.ec.europa.eu,"JavaScript application, no text returned",State aid register not read
+"land.nrw, wirtschaft.nrw, klimaschutzvertraege.info, co2-differenzvertraege.info",connection refused or reset from this machine,Used Landtag documents and Foerderdatenbank instead
+mw.niedersachsen.de,maintenance page returned,SALCOS top-up taken from dpa text and company slides
+reuters.com,not accessible to the search tool,"Aug 2026 funding amendment known only through EUToday, Eurometal, GMK, Gasworld"
+KfW,no KfW financing of the two flagships found in a search,"Company loans are export-credit-agency covered (SACE, OeKB) per search summary; not verified"

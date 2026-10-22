@@ -1,0 +1,6 @@
+year,wv_marktversorgung_walzstahl_mt_ed2026,wv_exports_steel_mill_products_mt,wv_imports_steel_mill_products_mt,wv_hot_rolled_products_output_mt,calc_hot_rolled_plus_imports_minus_exports_mt,marktversorgung_minus_calc_hot_rolled_mt,wv_crude_steel_output_mt,calc_crude_plus_imports_minus_exports_mt,marktversorgung_minus_calc_crude_mt,comext_ch72_extra_eu_exports_mt,comext_ch72_extra_eu_imports_mt,calc_workbook_basenotes_formula_crude_plus_extra_eu_m_minus_extra_eu_x_mt,marktversorgung_minus_workbook_formula_mt
+2021,35.4,24.6,25.0,34.760,35.16,0.24,40.241,40.64,-5.24,5.690,3.337,37.89,-2.49
+2022,32.6,23.2,22.8,31.771,31.37,1.23,36.861,36.46,-3.86,5.222,2.697,34.34,-1.74
+2023,29.1,23.0,20.0,30.673,27.67,1.43,35.395,32.40,-3.30,5.044,2.089,32.44,-3.34
+2024,26.9,23.3,19.0,31.500,27.20,-0.30,37.310,33.01,-6.11,5.048,1.955,34.22,-7.32
+2025,29.1,22.4,20.5,30.071,28.17,0.93,34.267,32.37,-3.27,4.681,1.464,31.05,-1.95

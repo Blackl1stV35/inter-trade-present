@@ -1,0 +1,22 @@
+SOURCE_URL: https://metal-supply.se/article/view/1251494/kinnevik_nollar_vardet_pa_stegra_avstar_kapitalrunda
+RETRIEVED: 2026-10-22
+EXTRACTION: tag-stripped text of the saved HTML (article/main block); layout not reproduced
+og:title: Kinnevik nollar värdet på Stegra – avstår kapitalrunda
+og:description: Investmentbolaget har skrivit ner värdet på Stegra till noll kronor och kommer inte heller att delta i den aktuella kapitalanskaffningen.
+ld_datePublished: Thu Oct 15 16:33:32 CEST 2026
+----
+Av Finwire
+ den 15 oktober 2026 16:33
+ Annons
+ Investmentbolaget Kinnevik släppte i dag sin delårsrapport för årets tredje kvartal. Det är Helena Saxons första rapport efter att hon tillträdde vd-posten den 1 augusti. Rapporten får ett kyligt mottagande och aktien hade strax efter klockan 11 fallit med knappt 7 procent.Substansvärdet kom in lägre än analytikernas förväntningar. Valutaeffekterna är stora i Kinnevik, där nästan tre fjärdedelar av substansvärdet ligger i dollar och euro. Rensar man bort det minskade värdet på den onoterade portföljen med 2 procent. – Vi har inte ändrat vår värderingsmetod. I kvartalet har vi haft starka finansieringsrundor i Tandem Health och Enveda, där vi deltog. Sedan har vi medvind från valutan. Det som motverkar är multipelkontraktion i några av de större bolagen och utspädning. Vi har också nedskrivningar inom klimatteknik, säger Helena Saxon i en intervju med Affärsvärlden.– Främst är det Stegra, som i dag värderas till noll i våra böcker, fortsätter Saxon.I början av 2025 värderade Kinnevik hela Stegra till närmare 40 miljarder kronor. Kinnevik kommer inte heller att delta i Stegras aktuella kapitalrunda.Industribolaget Stegra behöver ytterligare kapital för att färdigställa stålprojektet i Boden, bekräftade bolaget i slutet av september. Samtidigt utsågs Håkan Buskhe till ny vd med tillträde den 1 november.Kinnevik-aktien handlas med 42 procent rabatt mot substansvärdet. Nettokassan uppgår till 7,4 miljarder kronor. Helena Saxon avvisar dock återköp av egna aktier och framhåller att kassan är en viktig strategisk tillgång för att ställa om portföljen.– I det här läget tror jag inte att återköp passar, säger Saxon.
+ Ja tack! Jag vill prova Metal Supply gratis i en månad och få tillgång till nyhetsbrev och alla artiklar på sajten. Ingen bidningstid.
+ Få tillgång till allt innehåll på Metal Supply
+ Ingen bindningstid eller kortinformation krävs
+ Prova Metal Supply nu
+ Redan prenumerant? Logga in
+ Gäller endast personlig prenumeration.
+ Kontakta oss för en företagslösning.
+ {{ project.name }}
+ Läs om projektet
+ Alla relaterade projekt
+ Annons

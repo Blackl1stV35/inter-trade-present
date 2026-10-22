@@ -1,0 +1,16 @@
+URL: https://www.wvstahl.de/pressemitteilungen/jahresbilanz-der-stahlproduktion-2025-viertes-krisenjahr-in-folge/
+RETRIEVED_UTC: 2026-10-22T02:46:03Z
+PUBLISHED: 2026-01-21T07:55:18+01:00
+PDF: ['https://www.wvstahl.de/wp-content/uploads/20260121_PM_Jahresbilanz_Stahlindustrie_2025.pdf']
+TITLE: Verbandschefin Rippel: „2026 muss das Jahr der Standortsicherung werden!“ Jahresbilanz der Stahlproduktion 2025: Viertes Krisenjahr in Folge
+DATELINE: Berlin, 21. Januar 2026 | Die Stahlproduktion in Deutschland
+(Statistics table only; press-release prose omitted)
+
+in 1.000 t* Veränderung zum Vorjahresmonat* in 1.000 t** Veränderung zum Vorjahreszeitraum**
+Rohstahl gesamt 2.744 -0,2% 34.090 -8,6%
+Oxygenstahl 2.213 -0,9% 23.645 -10,7%
+Elektrostahl 531 2,7% 10.445 -3,5%
+Roheisen 1.980 -3,1% 21.872 -10,1%
+Warmgewalzte Stahlerzeugnisse 2.255 8,3% 29.760 -5,5%
+* Dezember 2025 | ** Januar-Dezember 2025
+Quelle: Wirtschaftsvereinigung Stahl

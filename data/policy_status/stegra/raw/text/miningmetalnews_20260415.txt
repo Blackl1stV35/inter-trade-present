@@ -1,0 +1,30 @@
+SOURCE_URL: https://www.miningmetalnews.com/20260415/3396/stegra-raises-eu14bn-boden-project-faces-delays
+RETRIEVED: 2026-10-22
+EXTRACTION: tag-stripped text of the saved HTML (article/main block); layout not reproduced
+og:title: Stegra raises €1.4bn as Boden project faces delays
+og:description: The Swedish steel company Stegra has secured an additional €1.4 billion in new financing for its high-profile industrial project in Boden, northern Sweden. At the same time, the company indicates that the project timeline is under review, pointing to further delays. The funding will be used to complete construction of the facility, which aims to produce steel using hydrogen instead of coal. The project includes a 740 megawatt electrolysis plant intended to produce so-called green hydrogen.
+ld_datePublished: 2026-04-15
+----
+Published by
+ Markku Björkman - 15 Apr, 2026
+ The Swedish steel company Stegra has secured an additional €1.4 billion in new financing for its high-profile industrial project in Boden, northern Sweden. At the same time, the company indicates that the project timeline is under review, pointing to further delays.
+The funding will be used to complete construction of the facility, which aims to produce steel using hydrogen instead of coal. The project includes a 740 megawatt electrolysis plant intended to produce so-called green hydrogen.
+Costs rise sharply
+The new financing comes after the company had already secured close to €6.5 billion in January 2024. Despite this, costs have continued to increase, and the company previously acknowledged the need for additional capital.
+The rising costs are partly linked to expanded infrastructure requirements, including rail and port developments, as well as the loss of a €165 million government grant from the Swedish Environmental Protection Agency.
+– The financing will cover increased project costs and establish a financial buffer, the company said in a press release.
+Following the latest funding round, Stegra states that it is in a stronger financial position, with a higher equity-to-debt ratio.
+Major investors step in
+The financing round is led by Wallenberg Investments, with participation from Singapore’s state-owned investment vehicle Temasek and the IMAS Foundation, linked to IKEA founder Ingvar Kamprad.
+Existing shareholders, including Hy24, Just Climate and private equity firm Altor, are also contributing. Once the deal is completed, Altor is expected to become the second-largest shareholder in the company.
+Stegra expects the financing to be finalised in June 2026.
+At the same time, the company says construction activity will now accelerate after a period focused on fundraising.
+– After several slower months during the financing process, we will now ramp up construction activities, the company stated.
+Delays and technical uncertainty
+The Boden project has already been delayed. Initially, production was expected to begin in 2025, but the company now targets continuous operations by late 2026.
+Although some parts of the electrolysis system have been installed, key components are still missing, including the electrolysis cells required to produce hydrogen.
+The plan is also to initially use scrap steel in electric arc furnaces before transitioning to hydrogen-based direct reduced iron.
+Hydrogen-based steel production has been promoted as an alternative to traditional blast furnace methods. However, the project remains technically complex and highly capital-intensive. At the same time, high electricity costs and uncertainty around a stable power supply in northern Sweden have been highlighted as significant risks.
+Substantial challenges, therefore, remain before full-scale production can begin.
+Source: Hydrogen Insight
+Fact checkStegra, formerly H2 Green Steel, aims to produce steel using hydrogen instead of coal. The technology requires large amounts of electricity and is not yet established at full industrial scale.

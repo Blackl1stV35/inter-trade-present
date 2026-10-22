@@ -1,0 +1,258 @@
+[
+ {
+  "scores": [
+   {
+    "draft": "A-rubric-first",
+    "score": 8,
+    "fatal_flaws": [
+     "No outright rule break. Minutes sum to 15.0 (CH1 4.5 / CH2 8.0 / CH3 2.5, checkpoints 4.5 / 12.5 / 15.0), there are 13 slides, all 11 CH2 variables sit on one tick sheet, and Member B's 16 sub-sections are mapped one by one. The flaws below are pacing and polish problems that a rubric grader would penalise.",
+     "Slides 10 and 11 are two dense tables back to back (2.5 min). Slide 10 is 11 rows x 5 columns and contains a stray editing fragment in the C row ('+1.5? NO: +1.4%'). Slide 11 is a 5 x 3 scorecard in 1.0 min with about 160 words of speaker points. Neither can be spoken at that length.",
+     "Slide 5 (redrawn Fig 2 plus a before/during/after strip with 8 numbers, 1.0 min) and slide 6 (Fig 4 plus a 3-case status ladder, 1.5 min) are crammed. Slide 6 also carries two evidence labels, and Fig 4 has no before/during/after strip of its own.",
+     "It uses all 3 theory-diagram slots, so slides 2, 5 and 6 (3.5 min) depend on the pending lecturer confirmation with no slack. Fig 4 on slide 6 also puts Member D's unresolved 'firms entirely replace the high-carbon profile' question into the main deck.",
+     "Slide 4 (1.0 min) holds a 2-lane timeline of about 14 events plus a 9-bar phase-in chart. Slide 9 (NX, 1.0 min) holds 2 charts, a sparkline, a hatched empty placeholder and a scope badge. If the export series is not pulled, an empty panel would be shown on stage.",
+     "Slide 5's 'before' column uses SMARD electricity figures from the detailed notes, which have no S/U tag (labelled BaseNotes-T3). Source-tag collision: Member D's figure labels G1-G6 (for example 'G2-rev') clash with the workbook's [G1]-[G5] source IDs, which are lecture PDFs and EC pages."
+    ],
+    "best_ideas": [
+     "CH1 | CH2 | CH3 ribbon on every slide, with the 11 variables previewed as greyed chips on slide 1 and lit as they are covered. This makes the lecturer's structure and every CH2 variable visibly ticked.",
+     "Variable tick sheet with columns Variable | mechanism | evidence | label | slide reference, using explicit 'not yet observable' (tax) and 'gap' (extra-EU exports) entries instead of silent omissions.",
+     "Explicit table mapping Member B's 16 sub-sections to slides (1.1+1.6, 1.3+1.4, 2.5+2.6, 3.1+3.2, 3.3+3.4 merged). Only 3 company cases for sub-section 2.4, as Member B asked.",
+     "CH1 data/graph requirement met with the CBAM phase-in series (97.5% falling to 0% over 2026-2034), and rehearsal checkpoints at 4.5 / 12.5 / 15.0 min.",
+     "NX slide separate from the extra-EU import slide, using Dataset B with the derived X - M balance as diverging bars (-1.2, -1.6, +0.3, +1.4, -0.4, +0.4, +3.0, +4.1 Mt, which I re-computed and which are correct). It also has a 'what is not claimed' list: not EUR NX, not national-accounts NX, not the CBAM base, no competitiveness verdict.",
+     "Source-conflict ledger (a)-(j) listing which source wins and why, plus a 20-minute expansion map in case the lecturer holds to 20 min."
+    ]
+   },
+   {
+    "draft": "B-story-first",
+    "score": 7,
+    "fatal_flaws": [
+     "No outright rule break: 13 slides, 15.0 min (CH1 4.5 / CH2 8.5 / CH3 2.0), all 11 variables on S10, 2 theory diagrams. Weaknesses are in distribution and cram.",
+     "CH3 gets only 2.0 min. S13 (KEEP / CHANGE with 5 items / DROP plus a watch list) is allotted 1.0 min with about 155 words of speaker points. The lecturer's required keep/change/drop chapter is the thinnest part of the talk.",
+     "S11 (cost ledger, 1.0 min) has 3 columns, about 9 numbers and about 155 words of speaker points. Its electricity and ETS-price figures carry only the ID-less tag DN3.",
+     "S9 puts 3 case cards (each with Opportunity and Limit) plus a dated strip of 3 more cases (BMW, Volvo, Outokumpu) into 1.5 min. This exceeds Member B's '2-3 cases'.",
+     "S1 opens with a 'pressure' card that sets steel and production declines (2017 to 2025; 2018 peak to 2025) next to 'carbon rules tighten' and 'signals'. This invites a causal reading in the first minute, and only a badge guards against it.",
+     "S8 (NX, 1.0 min) has clustered columns, an overlay line, a sparkline and a gap box. S4 (1.0 min) has a timeline of about 14 events. The 11-row S10 is the only carrier of BOP, tax, C, I and G and also acts as Member B 2.5, so its cells must be very short.",
+     "CH1 has no real data graph (the timeline only). Source-tag collision between Member D's G1-G6 figure labels and the workbook's [G1]-[G5] source IDs (the A14 title mixes them)."
+    ],
+    "best_ideas": [
+     "S10 design: each of the 11 variables gets 'Theory expects' (at most 6 words) | 'What we can show' (one number or 'not measured') | status chip, revealed in 3 blocks (trade; market; identity and tax). This delivers the variable coverage and Member B 2.5 (theory vs evidence) in one 1.5-min slide.",
+     "Theory diagrams drawn with qualitative axes and no invented numbers. The redrawn import channel marks partial pass-through and the upward shift of domestic supply, and its before/during/after strip uses real, correctly sourced facts: 2022 Dataset C, 2023-25 U24, 2026 Dataset E, with 'no 2026 annual trade data yet'.",
+     "Cost ledger in three columns (price gap; money and power; people and regions) with the conditions banner, which keeps the cost side visible but conditional. Uses the Thyssenkrupp 5,000 + 6,000 split and U28 employment.",
+     "Disclosed start years and an overrun cut order (S3 example to one line, drop the S7 inset, read only the trade block and the tax row on S10). Also a stretch plan if 20 min is enforced.",
+     "Stated order of precedence: update tab beats base tab, update 1999-2025 table beats Dataset C 2019-2025, Member D plus workbook text beat the old Fig 2."
+    ]
+   },
+   {
+    "draft": "C-defence-first",
+    "score": 6.5,
+    "fatal_flaws": [
+     "No outright rule break: 13 slides, 15.0 min (CH1 4.0 / CH2 8.5 / CH3 2.5), all 11 variables on slide 5, 2 theory diagrams. Weaknesses are coverage of Member B's structure and cram.",
+     "Member B 2.5 (theory versus actual evidence) has no CH2 slide. The 'conclusion' slide 12 reviews published results (Commission, OECD, UBA) rather than the team's own findings. It is labelled 'Model-based result' although two of its three tiles are observed or empirical results.",
+     "Slide 10 has about six dated company rows (Volvo, BMW, Mercedes, VW, SALCOS, Stegra) plus footnotes in 1.5 min, against Member B's '2-3 cases' and the 1.5-min budget.",
+     "CH1 slides 3 and 4 are crammed at 1.0 min each. Slide 3 is a 3-column x 4-row table whose third column is the steel quota measure (Member D ranked the quota 'not required', so a footnote lane is enough). Slide 4 is a 3-lane timeline plus a 9-cell strip.",
+     "Slide 5 (11-row map, 1.5 min) opens CH2 with numbers (2025 growth rates, unit values, certificate prices) before the theory or data graphs are shown, and repeats them later. It is labelled 'Theoretical-illustrative' while the right column is observed data. Other mixed labels: slide 11 'Observed' includes company and IEA statements.",
+     "Slide 9 (NX, 1.0 min) has 2 charts, a derived strip and a red box. Slide 11 spends 1.5 min on costs, more than the positive-narrative-first brief needs. A 'Does not show' footer on all 13 slides is useful for Q&A but adds on-slide text and tilts the tone.",
+     "Slide 6's before/during/after strip contains policy dates and certificate prices but almost no observed situational data, which is weaker than Member D's request for the real situation before, during and after. Source-tag collision: A11 uses '(G3)' for the subsidy figure and '[G2]' for the lecture."
+    ],
+    "best_ideas": [
+     "One-line 'Does not show: ...' footer plus 'Backup: A#' pointer on every main slide, so each slide has a ready Q&A hedge.",
+     "Before/during/after for the CBAM transition anchored in policy dates: reporting Oct 2023-Dec 2025 with no payments, definitive 1 Jan 2026, certificate sales 1 Feb 2027 and first surrender 30 Sep 2027, with 'after = not yet observed'.",
+     "Redrawn import diagram that separates movement along curves from the shift of domestic supply, plus a text fallback (three-row table) for each theory slide in case the lecturer rejects the graph.",
+     "Appendix ordered by likely hostile question (A2 corrected numbers, A3 quota/sanctions/dumping, A4 charge size, A6 NX/BOP and Comext pull spec, A12 'did CBAM force these contracts'), and a stated cut order if the talk runs long.",
+     "Keeps climate-policy design separate from trade-defence decisions in the recommendation, and says plainly that a 'because imports fell' reading is not drawn."
+    ]
+   }
+  ],
+  "winner": "A-rubric-first",
+  "must_fix_in_final": [
+   "LOCK THE MINUTE MAP (13 main slides, 0.5 steps, sums to 15.0, checkpoints 4.0 / 12.5 / 15.0). CH1 = S1 intro and case 1.0 | S2 externality 1.0 | S3 ETS+CBAM mechanics 1.0 | S4 timeline 1.0. CH2 = S5 import-channel theory 1.0 | S6 manufacturing 1.0 | S7 extra-EU imports 1.0 | S8 steel exports/NX 1.5 | S9 company cases 1.5 | S10 variable table 1.5 | S11 costs, conditions, limits 1.0. CH3 = S12 conclusion 1.0 | S13 keep/change/drop 1.5. Funding NX from S3 works only if the worked example, coverage, exemptions and the 50-tonne threshold go to appendix. If the team prefers CH1 at 4.5, keep NX at 1.0 with one chart and one gap line. Appendix and Q&A stay outside the 15.0.",
+   "CH2 variable table (S10): all 11 rows present: X, M, NX, BOP, Q, P, GDP, tax, C, I, G. Use the B-style columns Theory expects (at most 6 words) | What we can show (one number, one tag) | label chip, revealed in 3 blocks of about 0.5 min (trade; market; GDP identity, tax, C, I, G). Maximum 8 words per cell and one number per row. Delete the stray '+1.5? NO: +1.4%' text; household consumption is +1.4% real 2025 [Dataset F]. Tax = 'not yet observable' (certificate sales 1 Feb 2027, first surrender 30 Sep 2027 [U35]); services in Q and P = 'indirect, no series'; BOP row says goods trade is part of the current account (about EUR 203 bn [S18]) and is not a steel effect. Show 2025 growth rates [Dataset F] as one-vintage context, not policy effects. Keep the 11 greyed chips on slide 1 and a CH1|CH2|CH3 ribbon on every slide.",
+   "Theory diagrams: at most 2 in the main deck (Fig 1 externality on S2; redrawn Fig 2 import channel on S5). Fig 4 goes to appendix, because Member D's 'entirely replace' point is unresolved and the S9 case slide is already full. Use Fig 4 as a third slide only if the lecturer confirms it and 0.5 min can be found. Mark S2 and S5 (2.0 min) as dependent on the lecturer's pending confirmation, and give each a text fallback (mechanism box) so minutes do not change. Draw qualitative axes with no invented numbers, or an ILLUSTRATIVE banner. Fig 2-rev must show partial pass-through and an upward shift in domestic supply. Fig 4 if used: 'one fixed point in time', partial shift, 'demand shift is not cheaper steel'.",
+   "Before / during / after on each theory slide must use real facts, not only policy dates. S5 example: 2022 Dataset C (2,697.17 kt, EUR 1,175.74/t) or the pre-2023 level; 2023-25 U24 (2,088.99 -> 1,463.59 kt, reporting only, no payments); 2026 Dataset E (75.36 / 75.28 / 82.32 per tCO2e) with 'no 2026 annual trade data, first payments 2027, no after-effect claim'. S2: no EU ETS in 1995-2004; pilot 2005-07 mostly free allocation [U1]; covered emissions about 50% below 2005 in 2024, EU aggregate [U29].",
+   "Export/NX gap decision (S8, Member B's request, workbook 'chap 4.2'): own slide, never on the same axis as the 1999-2025 extra-EU import graph. Dataset B only (all partners incl. intra-EU, steel mill products, Mt, 2017-2024, rounded). Plot exports (27.3 -> 22.9) and imports (28.5 -> 18.8) and show the derived X - M balance (-1.2 -> +4.1 Mt, re-computed and correct) labelled 'approximate physical balance from rounded values'. Say 'while' not 'because' for imports falling faster. State the non-claims: not EUR NX, not national-accounts NX, not the CBAM base, no competitiveness verdict, since exports, imports and crude steel (43.3 -> 37.2 Mt, 2017-2024 [Dataset A]) all fell. Replace the empty hatched placeholder with one visible gap line: 'Matched extra-EU Chapter 72 exports (Comext DS-045409, flow 2, 1999-2025) not yet pulled'. Keep the pull spec and unit conversions in appendix. If the series is pulled before the freeze, add it as a second panel (tonnes and EUR on separate panels) and update the X/NX rows of S10 and the S12 wording; wording must stay neutral for either outcome.",
+   "Cut cram by rule: speaker points at most about 110-120 words per allotted minute, and at most 5 numbers read aloud per minute. Over-budget candidates to trim: A-S11 (about 160 words in 1.0 min), A-S9, A-S5, A-S12, B-S11 (about 155), B-S13 (about 155), B-S5. S4 timeline: at most 8 labelled events; the CBAM factor becomes one line (97.5% in 2026 -> 0% in 2034), full 9-year table in appendix; the steel quota measure is a one-line 'not CBAM' lane or footnote only (47% vs 2024 safeguard quotas, applied 1 Jul 2026 [U6][U8]). S9: exactly three cases (Thyssenkrupp-VW MoU 22 Oct 2024 [U10]; Salzgitter SALCOS + EWE [U12][U13]; Mercedes-Stegra buyer/producer, 30 Sep 2026 capital need [U14][U16]), each with one opportunity and one limit line. BMW, Volvo-SSAB and Outokumpu go to appendix. Never use two consecutive table slides.",
+   "Merge Member B 2.5 (theory vs evidence) into the S10 variable table and make S11 'Costs, conditions and what the data cannot show' (Member B 2.6): IEA cost gaps [U20], Salzgitter inputs dearer than coal [U12], Stegra capital [U16], Thyssenkrupp about 5,000 cuts + about 6,000 transfers/sales, not 11,000 dismissals [U9], overlapping factors (energy prices, COVID, Russia sanctions, separate steel quota). Never say green steel is cheaper. Positive mechanisms still lead S2, S3, S5, S9, S12.",
+   "Member B's 16 sub-sections to the 13 slides: 1.1+1.6 -> S1; 1.2 -> S2; 1.3+1.4 -> S3; 1.5 -> S4; 2.1 -> S5 (Fig 1 sits in S2); 2.2 -> S6; 2.3 -> S7+S8; 2.4 -> S9; 2.5 -> S10; 2.6 -> S11 and the 'Does not show' lines; 3.1+3.2 -> S12; 3.3+3.4 -> S13. Put this mapping table in the outline file, and add a one-line 'Does not show: ... Backup: A#' footer on each main slide.",
+   "Evidence labels: exactly one of the five per main slide, chosen by the dominant visual, with per-element chips where content is mixed. Fix C-S5 (Theoretical-illustrative but data), C-S12 (Model-based result but observed/empirical tiles), A-S6 (two labels), B-S1/A-S12 mixed cases. Label the recommendation slide 'Policy rule' and add 'team judgement, not a finding'. Label invented-value diagrams Theoretical-illustrative with an ILLUSTRATIVE banner.",
+   "Tags: rename figures Fig. 1-6 and reserve [G1]-[G5] strictly for the workbook sources (G1 Reason for Domestic Protection PDF, G2 Export Policy PDF, G3 Offshoring PDF, G4 EC ETS page, G5 EC CBAM page); this fixes the collision with Member D's G1-G6 figure labels. Give a fixed tag legend for the ID-less detailed-notes figures (for example SMARD electricity 5.92 / 35.70 / 16.77 ct/kWh, EUA 83.60 / 64.76), mark them 'verify at source before use', and keep them out of 1.0-min slides unless verified. Where two sources disagree the later or more specific one wins: update-tab section 8 over the 11 Oct chat screenshot claims (47%, 11,000, 14%, 5.5 m / 20.8%); U28 for employment (2023-25 only); update 1999-2025 table over Dataset C; Outokumpu 97% recycled content [U18].",
+   "Open items to carry into the outline: lecturer on-site confirmation of graphs; Member A's final confirm is dated 14/11 for 16-18/11 presentations and Member D leaves early November, so treat about 9/11 as the real content freeze; presentation language and template are unconfirmed; the 15 vs 20 minute slot (keep a short 20-min expansion map in the to-dos); refresh before presenting (Q4 certificate price, Stegra, U32 downstream extension, 2026 trade data, GVA 2023-25 provisional); outline/slide-outline-15min.md is referenced by README but absent (repo read-only). Rehearse to 14.5 min with checkpoints 4.0 / 12.5 / 15.0."
+  ]
+ },
+ {
+  "scores": [
+   {
+    "draft": "A-rubric-first",
+    "score": 7.5,
+    "fatal_flaws": [
+     "Slide 10 visual still contains an unresolved drafting artefact in the C row: 'household consumption +1.5? NO: +1.4%'. Dataset F gives C = +1.4 and G = +1.5, so the audit-trail tick sheet risks printing a wrong number.",
+     "Slide 5 key message says steel-using manufacturers 'feel it first'. No source says this. It also states 'not one-for-one' and 'pass-through is partial' as fact. Sources only say pass-through 'need not be full' (update 3.2) and 'avoid assuming 100%' (base 2.1). The DURING strip puts the 2023-25 import fall (2,088.99 to 1,463.59 kt) directly under a CBAM price-shift diagram, which reads as confirmation despite the hedges.",
+     "Slides 11 and 12 carry the single label 'Observed data' although they mix company announcements (U10-U16), published research (U30), an EU aggregate (U29), scenario modelling (S19) and team judgement. The label does not match the content. Slide 12 speaker point 1 says ETS and CBAM 'reduce leakage incentives' as fact; update section 9 says 'can'.",
+     "Uses the maximum 3 theory diagrams, including G4, which Member D flagged as urgent-fix. Slides 2, 5 and 6 (3.5 of 15 min) hinge on the unconfirmed lecturer review. The G4 slide has no explicit before/during/after strip, only a dated company table.",
+     "Density breaches 'spoken, not read'. Slide 10 has 11 rows with long cells in 1.5 min. Slide 9 has four visuals in 1 min. Slide 6 has a diagram plus a three-row case table in 1.5 min.",
+     "The slide 9 hatched panel reads 'not yet pulled'. That is a team to-do, not a presentable limitation statement."
+    ],
+    "best_ideas": [
+     "CH1/CH2/CH3 ribbon with the 11 variable chips lighting up slide by slide, plus one tick sheet. This guarantees no variable is silently missing, and tax is shown explicitly as 'not yet observable'.",
+     "Most complete source-conflict log, and it checks out against the files. Dataset C (2019-25) is a subset of the update 1999-2025 table with identical overlaps. The base-notes employment range '7.26-7.49 m over 2015-2025' is backed only for 2023-25 (U28). Figure 2 conflicts with Member D and update 3.2. Member D's 'entirely replaced' reading conflicts with sections 6 and 8.",
+     "CBAM phase-in bar chart 2026-2034 (complement 2.5 to 100%, factor 97.5 to 0) with the caption 'benchmark-based, NOT a % of each shipment's emissions'. It is verified against the S9 table.",
+     "Before / during / after strip for the CBAM import-cost diagram, with the 'after' column explicitly 'not yet observable' (certificate sales 1 Feb 2027, first surrender 30 Sep 2027).",
+     "Slide 13 'DROP / RECONSIDER IF' triggers and a monitoring strip give a real keep/change/drop answer.",
+     "Slide 9 states exactly what is not claimed (no EUR-based NX, not national-accounts NX, not the CBAM base, no competitiveness verdict). It also has a drop-in plan if the Comext flow-2 series arrives.",
+     "Status ladder (Plan, MoU, Contract, Delivery verified?) for company cases. A 20-minute expansion map is provided in case the lecturer insists on 20 minutes."
+    ]
+   },
+   {
+    "draft": "B-story-first",
+    "score": 6.5,
+    "fatal_flaws": [
+     "Slide 1 hook sets declining German crude steel (43.3 to 34.1 Mt) and the manufacturing production index (108.1 in 2018 to 92.8 in 2025) under a 'Pressure' card. It pairs them with 'carbon rules tighten' and the question 'burden or way out?'. This implies causation and starts from the 2018 production peak. Dataset A's own note says not to label the 2023-25 decline as a CBAM effect, and update 4.1 says the series cannot attribute an effect. The 'same window, not same cause' badge does not remove the framing.",
+     "Slide 7 key message says euro value 'stayed near its 1999 level'. Value fell from EUR 3,345 m (2018) to 1,591 m (2025). It is near 1999's 1,482 m only because it also fell, so 'stayed' is misleading. Speaker point 1 says 'demand shocks dominate this long series', which is an unsourced attribution.",
+     "Slide 11 places national manufacturing employment (7.490 to 7.262 m, 2023-25) in the 'cost ledger' with no 'not attributable' tag, which implies a policy cost. Its electricity and EUA figures rely on untagged detailed-notes data (DN3).",
+     "Slide 2 puts the OECD 2005-2012 result in the 'AFTER (to 2024)' box, the wrong slot. Slide 10 sets 'theory expects' arrows beside observed numbers (confirmation framing). Slide 12 reasons 'a conditional way out... because a market for cleaner steel is forming', inferring policy success from announcements.",
+     "Slide 13 replaces DROP with 'STOP over-claiming' and gives no condition under which the policy would be dropped, so the lecturer's keep / change / drop requirement is only partly met. CH3 gets just 2.0 min.",
+     "Labels 'Observed data' on slides 1, 10, 11 and 12 although the slides mix company announcements, model scenarios and team judgement. The approach and A14 say 'higher-carbon profiles still entered in 2025'. Update section 6 says a customs code does not show the footprint."
+    ],
+    "best_ideas": [
+     "Theory axes with no numbers, labelled 'short-run, static, one point in time'. This avoids putting invented values on a slide and is the safest way to present redrawn G1 and G2.",
+     "Cautious handling of the ambiguous '18.3 Mt / 50% out-of-quota duty' sentence: keep it off the main slide and flag a U7 check. The 47% is shown only as 'steel quota measure, NOT CBAM'.",
+     "Data-window bar under the timeline (manufacturing 1995-2025; extra-EU Ch. 72 imports 1999-2025). The 1995-98 and 2026 gaps are stated as 'not returned, not zero-filled'.",
+     "Balanced conclusion banner: 'a conditional way out - not a proven burden, not a proven success', and 'can strengthen, not has strengthened'.",
+     "Claim-correction wall (appendix A12) listing exactly what is not said and the corrected wording, including the unvalidated 67 regions, 26 regions, EUR 50 bn, EUR 7 bn and 1.5%.",
+     "Notes the update 4.2 table supersedes the 'no complete 1999-2025 series' caveat in the Thai notes."
+    ]
+   },
+   {
+    "draft": "C-defence-first",
+    "score": 8.3,
+    "fatal_flaws": [
+     "Slide 1 speaker point 4 tells the presenter to say aloud that 'the 14% and 5.5 million screenshot figures are not used'. That repeats corrected claims in the main talk. The lecturer never saw those screenshot numbers. Slide 3's 'common mix-up' row also prints 'the 47% cut is part of CBAM' as text.",
+     "Slide 12 is labelled 'Model-based result'. Its tiles are an observed EU aggregate (U29), published empirical research (U30) and scenario modelling (S19), so the label is wrong for two of the three. The CH3 conclusion is delivered as other people's evidence. The team's own verdict appears only in the speaker point, not as a banner.",
+     "Slide 5 (CH2 variable map) is labelled 'Theoretical-illustrative' although its right-hand column is observed data (Dataset F, S17, S18, U22, U23). Slides 3, 5 and 10 are very text-dense (11 rows in 1.5 min; five or six company cases against Member B's 2-3). That breaks 'spoken, not read'.",
+     "Appendix A16 says 'higher-carbon-profile imports still arrive in 2025', which contradicts update section 6 and the draft's own A7. Slide 2 asserts 'no EU carbon price in the 1995-2004 window', where the source says only 'pre-ETS observation window'."
+    ],
+    "best_ideas": [
+     "'Does not show: ...' footer plus a 'Backup: A#' pointer on every main slide. This is the strongest anti-causation and anti-overclaim device across the three drafts.",
+     "Three-way separation of ETS, CBAM and the steel quota measure by column and timeline lane. The 47% is stated as a reduction versus 2024 safeguard quotas, applied 1 Jul 2026. Russia sanctions and dumping are flagged as separate.",
+     "CH2 variable map with the banner 'one data vintage (Jan 2026), context not CBAM effects'. It adds scope guards, e.g. whole-economy real imports +3.6% versus direct extra-EU steel tonnes falling are 'different scopes'. Tax and services are stated as having no series.",
+     "Imports slide candidly notes that imports rose after the 2005 ETS launch to the 2007 peak (6,290.77 kt) and that no ETS import effect is claimed. This pre-empts the hostile question. Tonnes and euros are on separate panels, and unit value is called a product-mix indicator.",
+     "Company slide with a status chip per row and a reference line at 1 Jan 2026. It correctly notes that four of the five dated items (2021, 2021, 2023, 2024) pre-date the definitive regime, with buyer/producer and MoU/contract/delivery wording kept distinct.",
+     "NX slide: Dataset B labelled all-partner, physical and rounded. Exports and imports are not netted against the extra-EU series, the derived balance is flagged non-monotonic (2021 = -0.4), and a red GAP box carries the Comext DS-045409 flow-2 spec.",
+     "Cost slide with per-item chips. It says the certificate price is 'per tonne of CO2e, not per tonne of steel'. It states 'we do not say green steel is cheaper'.",
+     "Evidence ladder naming each study's comparator and scope (OECD 2005-2012 earlier period; UBA scenarios versus auctioning without CBAM). Extra conflict catches: Thyssenkrupp 2025 spec versus the 2024 plan, 'full hydrogen by 2029' versus the U10 MoU, scrap price HS 720449 versus 7204, the '+77%' electricity comparison, the garbled 'US250/t' line, and the 2015-2025 employment range versus U28."
+    ]
+   }
+  ],
+  "winner": "C-defence-first",
+  "must_fix_in_final": [
+   "Delete all spoken or on-slide repetition of corrected claims from the main deck (14%, 5.5 m / 20.8%, '47% cut under CBAM', '11,000 dismissals', 'GDP barely changed so no CBAM effect'). State only the positive corrected facts: 19.4% of GVA (2025) [U22]; 26% of EU sold industrial production [U26]; 7.490 / 7.415 / 7.262 m [U28]; the 47% is the separate steel quota measure versus 2024 safeguard quotas, applied 1 Jul 2026 [U6, U8]; about 5,000 cuts plus about 6,000 transfers or sales in a Nov 2024 plan that pre-dates the definitive regime [U9]. Keep the 'what we corrected' wall in the appendix only.",
+   "Remove drafting artefacts and re-verify every printed number against its table. Household consumption is +1.4% and government consumption is +1.5% (Dataset F). Never print 'stayed near 1999 level' for import value; use 'tonnes -62%, value +7% vs 1999' only if flagged as derived.",
+   "No sentence or visual may imply causation. Banned phrasing: 'because of the policy', 'steel users feel it first', 'demand shocks dominate', 'burden / pressure' hooks that pair output declines with policy dates, and baselines chosen at a peak (2018). Policy dates appear only as annotations. Use 'consistent with' wording. Do not say the 2023-25 import fall 'cannot be a payment effect' without adding that anticipation effects need their own evidence (base Q&A).",
+   "Evidence labels: exactly one of the five labels per slide, chosen by the dominant visual, with row-level chips on mixed slides. The CH2 variable map is Observed data with a Theoretical-illustrative mechanism column. The conclusion slide must not be labelled Observed data or Model-based result for team judgement: label it by the cited content and add a footer 'team judgement, not a measured finding'. The recommendation slide's 'Policy rule' label covers only the rules cited.",
+   "Theory diagrams: at most 3, and prefer 2 (externality; redrawn import-cost channel). Show qualitative axes with no invented numbers, or an ILLUSTRATIVE banner that cites the source image footer 'SIMULATION | Invented values for theory; not observed German data.' The redrawn G2 must show partial pass-through (price line rises by less than the full carbon cost) and an upward-shifted domestic supply S'. Word 'partial' as a revised assumption (base 2.1 'avoid assuming 100%'; update 3.2; Member D 12 Oct), not as a measured fact. G4 stays in the appendix, labelled 'one fixed point in time', with a partial high-carbon shift (Q 40 to 30, not to zero). G3, G5 and G6 are appendix only. List which slides depend on the pending lecturer confirmation (2 and 6), with a text fallback.",
+   "Record the source conflict about Member D's graph verdict. His 08:26 12 Oct feedback (G2 wrong, G3 and G4 urgent, G6 doubtful) is softened by his 09:53 message that all graphs are correct within short-run scope. The project brief still logs the G2 and G4 corrections as unresolved, and base 2.1 itself says avoid 100% pass-through, so redraw G2 and ask the lecturer on site. Say this in the notes.",
+   "NX handling: show Dataset B (all partners incl. intra-EU, steel mill products, Mt, rounded, 2017-2024) on its own slide. Never put it on one axis with, or subtract it from, the extra-EU Chapter 72 import series [U24], which has a different universe and years. The balance is 'approximate physical balance from rounded values (about +/-0.1 Mt)', and the ('because imports fell faster') language is arithmetic only. State plainly that the matched extra-EU Chapter 72 exports (Comext DS-045409, reporter DE, partner EXT_EU27_2020, flow 2, product 72, 1999-2025) are not pulled, so no extra-EU NX, no goods-and-services NX and no competitiveness verdict. If the series is pulled, use separate tonnes and EUR panels with the same unit conversions and keep the wording neutral.",
+   "Do not state the 18.3 Mt quota or the 50% out-of-quota duty on a main slide until the U7 wording is confirmed. The update sentence is ambiguous about which quota those parameters describe; the U7 title ('18.3 million tonnes') suggests the new framework. Use only 'vs 2024 safeguard quotas; separate from CBAM' on slides.",
+   "Appendix and notes wording: do not write 'higher-carbon profiles still entered Germany in 2025'. Update section 6 says a customs code does not identify furnace route or footprint, so say 'these profiles still enter; their carbon footprint is unknown'. Member D's 'entirely replaced' reading is not supported (update sections 6 and 8), so keep the partial shift.",
+   "Detailed-notes figures (SMARD electricity 5.92 / 35.70 / 16.77 ct/kWh, EUA 83.60 / 64.76, etc.) carry no S/U IDs. Either tag them transparently as 'Base notes T3 (SMARD / Eionet-EEX), not yet verified at source' on one main slide only, or move them to the appendix. Keep the HSBC, Fastmarkets, DIW and WV Stahl cost figures in the appendix, and flag the inconsistent scrap prices (EUR 305/t HS 720449 versus EUR 382/t HS 7204).",
+   "Do not put national manufacturing employment (7.490 to 7.262 m) or the Thyssenkrupp plan in the cost slide as a policy cost without an explicit 'not attributed to ETS or CBAM' tag. Cap the company cases at 2-3 on the main slide (Thyssenkrupp-VW MoU 22 Oct 2024; Salzgitter SALCOS with the EWE contract 9 Jun 2026; Stegra with Mercedes-Benz as buyer). Add the 30 Sep 2026 Stegra capital warning. Always separate buyer from producer and MoU from contract from delivery.",
+   "The 11 CH2 variables (X, M, NX, BOP, Q, P, GDP, tax, C, I, G) each get one explicit line with source tag. Tax says 'not observable / not pulled; certificate sales begin 1 Feb 2027, first surrender 30 Sep 2027 [U35]'. Dataset F rates are 'one first-estimate vintage (15 Jan 2026), context, not CBAM effects'. Services are 'indirect, no series'.",
+   "Separate real-GVA (2020 = 100), production (2021 = 100) and GVA share on different panels; never on one axis. 2023-25 GVA is provisional. Keep the import series as two panels (kt and EUR m) with the boundary caption (EXT_EU27_2020 fixed composition, Ch. 72 includes scrap, excludes Ch. 73 and ore, direct imports only, not the CBAM base). Do not title any graph 'effect'.",
+   "The CH3 conclusion must restate the team's own verdict in a banner ('can strengthen; net German benefit unmeasured; costs real and conditional') rather than relying on third-party tiles. Label OECD (2005-2012, earlier period) and the EC '~50% below 2005' (EU ETS aggregate, power-led) as published context, not our result. Keep the keep / change / drop structure with explicit drop-or-reconsider triggers. Keep at least 2.5 min for CH3.",
+   "Timing and structure to keep: 11-14 main slides, minutes in 0.5 steps summing to 15.0; CH1 about 4.0-4.5, CH2 about 8.0-8.5, CH3 about 2.5. Flag unresolved items to the lecturer or team: the 20 + 10 min brief versus the 15-minute request; presentation language and template; refresh Stegra, the downstream-extension status, Q4 2026 certificate price and 2026 trade data before 16-18 Nov; and the schedule inconsistency (Member A's final confirm is dated 14/11, described as one week before presenting, while presentations are 16-18/11)."
+  ]
+ },
+ {
+  "scores": [
+   {
+    "draft": "A-rubric-first",
+    "score": 6.5,
+    "fatal_flaws": [
+     "Puts three unconfirmed theory diagrams in the main deck (slides 2, 5, 6), so 3 of 15 minutes depend on the pending lecturer check. The third, Figure 4, still carries Member D's unresolved 'entirely replaced' P-Q question and is never given an explicit before/during/after strip.",
+     "Slide 6 overloads 1.5 minutes: Figure 4 plus a three-row company table with a status ladder, with two badge types. If the lecturer rejects the diagram, half the slide goes with it.",
+     "Several 1.0-minute slides are too dense to follow. Slide 4 has a 12-event two-lane timeline plus a 9-bar CBAM factor chart. Slide 5 has a diagram plus a three-column strip with about 8 numbers. Slide 9 has four visual elements. Slide 10 is an 11 x 5 table at 1.5 minutes. The 'spoken, not read' rule is not met.",
+     "Slide 10 contains a visible drafting artifact in the C row ('household consumption +1.5? NO: +1.4%').",
+     "Slide 5 uses the electricity series (SMARD, base notes, no S/U ID) as a main-slide fact tagged 'BaseNotes-T3'. This breaks the source-tag rule, though the outline offers a fallback.",
+     "The 'not yet pulled' placeholder panel on slide 9 puts the team's to-do in front of the lecturer."
+    ],
+    "best_ideas": [
+     "The CH1 | CH2 | CH3 ribbon on every slide is cheap and shows the lecturer's structure at a glance.",
+     "The variable tick sheet gives each of X, M, NX, BOP, Q, P, GDP, tax, C, I, G one row with mechanism, evidence, evidence label and slide reference. It says 'not yet observable' for tax and 'gap' for extra-EU exports, so no variable is silently missing.",
+     "KEEP | CHANGE | DROP-or-RECONSIDER-IF with explicit triggers is the clearest match to the lecturer's CH3 wording.",
+     "Slides 2 and 6 reuse the existing figure images (fig-01, fig-04) with their 'SIMULATION' footers, so nothing is redrawn that Member D called correct.",
+     "The slide 5 before / during / after strip marks 'after = not yet observable' (certificate sales from Feb 2027).",
+     "The 20-minute expansion map is a practical contingency if the lecturer holds to 20 + 10.",
+     "The appendix keeps spare theory diagrams (A12), a claims-corrected wall (A11) and a one-page quick-answers sheet (A13).",
+     "The worked source-conflict list (a)-(j) with explicit rulings is a model for the final outline.",
+     "The idea of one speaker per chapter is good; it needs adapting to four speakers."
+    ]
+   },
+   {
+    "draft": "B-story-first",
+    "score": 7.5,
+    "fatal_flaws": [
+     "Slide 1 opens with a 'Pressure' card (crude steel 43.3 to 34.1 Mt; production index 108.1 to 92.8) set against a 'Signals' card of company deals. This invites a causal reading and leads with negatives, against the brief's 'positive long-term mechanisms are the main narrative'. The start years (2017, 2018) are chosen windows, disclosed but still open to a cherry-picking challenge.",
+     "Slide 12's 'What the data show' column lists declines (extra-EU imports, crude steel), which do not support the 'conditional way out' verdict. The verdict rests only on the deals column, so the logic from evidence to conclusion is thin.",
+     "Slide 13 packs KEEP, 5 numbered CHANGE items, a watch list and a 'DROP / STOP' column into 1.0 minute. The 'drop' column is redefined as 'stop over-claiming', which blurs the lecturer's keep / change / drop requirement.",
+     "Slide 11 puts two un-IDed base-notes series (SMARD electricity; Eionet/EEX ETS averages, tagged 'DN3') on a main slide, which breaks the [U/S/G/Dataset] tag rule.",
+     "Redrawing G1 without numbers is unnecessary rework: Member D judged G1 correct and fig-01 is already clean and labelled as a simulation.",
+     "Slide 9 has three case cards, each with an opportunity and a limit, plus a dated strip of three more firms, in 1.5 minutes. That is too dense.",
+     "The appendix has no single quick-answers page. The 8 defence questions are scattered across A1, A11 and A13."
+    ],
+    "best_ideas": [
+     "One audience thread, 'burden or way out?', asked on slide 1 and answered on slide 12, is the most memorable arc for classmates, provided the hook is reframed.",
+     "Only two main-deck diagrams (G1, redrawn G2) keep exposure to the pending lecturer confirmation to two slides. Each has an explicit before / during / after strip with real dated facts.",
+     "Slide 10 is built in three reveals (trade; market; identity and tax) with status chips, which is a realistic way to present 11 variables in 1.5 minutes.",
+     "A dedicated 1-minute 'honest ledger' slide (price gap; money and power; people and regions) shows the cost side conditionally and never claims green steel is cheaper.",
+     "Slide 3's two-supplier comparison (EUR 77.24 vs 16.96 per tonne, assumed inputs) makes the 'cleaner supplier pays less' point concrete for the audience.",
+     "Slide 4 uses a 'Not CBAM' lane and a red '47% = steel quota measure' callout.",
+     "Slide 8 shows the Dataset B balance together with an explicit boxed statement of what is not claimed.",
+     "It flags that the 18.3 Mt / 50% out-of-quota wording is ambiguous in the update tab and should be checked against U7.",
+     "It gives a cut order for when the talk runs long.",
+     "It gives a stretch plan if 20 minutes is enforced."
+    ]
+   },
+   {
+    "draft": "C-defence-first",
+    "score": 7,
+    "fatal_flaws": [
+     "Slide 5, the 11-variable map, sits at the start of CH2 (1.5 minutes, about 30 numbers) before any theory has been shown. It is labelled 'Theoretical-illustrative' although most of the right-hand column is observed data, so it is both the hardest slide to follow and mislabelled.",
+     "The CH3 conclusion slide (12) is a ladder of other people's results (Commission aggregate, OECD, UBA scenarios), labelled 'Model-based result'. The team's own answer to the research question is relegated to a bottom strip, and the speaker's first point is 'we do not estimate our own', so the take-away is diffuse and defensive.",
+     "A 'Does not show' footer plus a 'Backup' pointer on every slide, a five-chip legend on slide 1, and four stat tiles on slide 1 add text to a deck that should be spoken, not read. The tone drifts from 'positive mechanisms first' to defensive.",
+     "Slide 3 packs three instruments x four rows, including the steel quota, into 1.0 minute.",
+     "Slide 11 puts a SMARD electricity bar chart (NOTES-3, no S/U ID) on a main slide.",
+     "A 16-slide dense appendix, with several pages on un-IDed notes figures that the outline itself marks as inconsistent (+77%, scrap 305 vs 382, garbled 'US250/t'), is a heavy build for a team whose slide builder leaves early November."
+    ],
+    "best_ideas": [
+     "A one-line 'Does not show: ...' plus 'Backup: A#' footer on the data slides links each claim to its Q&A page.",
+     "The one-page fast-answer sheet (A15) covers the 8 defence questions plus design questions, and A16 holds the spare theory diagrams with their status.",
+     "Two main-deck diagrams only, each with a stated text fallback and an unchanged time budget.",
+     "Slide 6 has an explicit before / during / after strip ending in 'After: not yet observed'.",
+     "It caught inconsistencies in the base notes that the other drafts missed: the +77% eligible-user comparison, the HS 720449 vs 7204 scrap prices and the garbled 'US250/t' aluminium line. It also noted the employment-range mismatch (U28 supports 2023-2025 only).",
+     "The three-instrument separation (ETS, CBAM, steel quota) is useful if compressed.",
+     "The CH3 'Supported / Not shown by any number in this deck / Conditional on' framing is useful if the team's own verdict leads.",
+     "It specifies the Comext flow-2 pull and apparent-consumption build.",
+     "It records cut order if the talk runs long."
+    ]
+   }
+  ],
+  "winner": "B-story-first",
+  "must_fix_in_final": [
+   "Use B's 13-slide skeleton (hook, why price carbon, two tools, timeline, theory, three data slides, firms, variable sheet, cost ledger, verdict, suggestion) with chapter timings CH1 4.5 / CH2 8.0 / CH3 2.5. To fund a 1.5-minute suggestion slide, cut the imports slide to 1.0 minute (move the unit-value inset to one line) and keep every budget in 0.5 steps summing to exactly 15.0.",
+   "Limit the main deck to two theory diagrams: G1 (reuse sources/images/base-doc-fig-01.png as is, with its 'SIMULATION' footer) and a redrawn G2. G2 must show partial pass-through and a domestic supply shift up (Member D, 12 Oct). Do not show the original Figure 2. Move G4 (relabelled 'one fixed point in time', partial high-carbon shift) to the appendix. Keep G3, G5 and G6 as spares with status notes. State that only the two diagram slides depend on the lecturer's confirmation, and give each a text fallback with unchanged timing.",
+   "Give each diagram slide a real-fact before / during / after strip. The 'after' for CBAM payments is 'not yet observable' (certificate sales from 1 Feb 2027, first surrender 30 Sep 2027). Do not claim any after-effect.",
+   "Reframe the slide 1 hook as the question plus stakes: lead with the question, the 19.4% / 26% tiles and the 'descriptive, no causal claim' badge, and keep the positive-mechanism thread. If the decline-versus-deals contrast stays, use consistent labelled windows, say 'same window, not the same cause', and keep it to one line. Answer the question explicitly on the conclusion slide.",
+   "Rebuild the conclusion slide's evidence columns as Supported by mechanisms and dated commitments (U10, U12-U16, U29, U30, S19) / Not shown (causal size, net German gain, cost parity, deliveries, paid-CBAM effects) / Conditional on (clean power and hydrogen, finance, verified data, administration). Declines in imports or crude steel must not be presented as support for 'way out'.",
+   "Make the suggestion slide an explicit three-column KEEP | CHANGE | DROP-or-RECONSIDER-IF (A's format), with at most 5 short CHANGE items and trigger conditions in the third column. Do not recast 'drop' as 'stop over-claiming'. Put the long monitoring list in the appendix.",
+   "Handle the NX gap as a primary action, not a footnote. Member B pulls Comext DS-045409 with the import query's settings and flow=2 (exports) for 1999-2025, with the same unit conversions, by an early internal freeze. Build the Dataset B slide so it works either way. If the series arrives, add extra-EU exports as a separate panel and update the X and NX rows. If not, word the gap as a limitation ('not shown: matched extra-EU Chapter 72 exports'), not as a to-do. Never net Dataset B (all partners, steel mill products, Mt, 2017-2024) against the extra-EU Chapter 72 imports series, and label the X - M strip as derived from rounded values. Make no competitiveness claim.",
+   "Keep main-slide numbers to sourced items. Remove the base-notes figures with no S/U/G/Dataset tag (SMARD electricity, Eionet/EEX ETS averages, hydrogen, capex, premiums) from main slides, or verify them at source and give them an explicit provisional tag. If one 'domestic cost rose' number is needed to justify the redrawn G2 (Member D's data request 3), use the electricity series alone. Build the cost ledger mainly on U9, U12, U13, U16, U19/U20, U28 and Dataset E.",
+   "Cap slide density. Allow at most 1 chart plus 1 small table or tile per slide and roughly 35 words of on-slide text excluding chart labels. Keep speaker points to about 120 words per minute. Specific cuts: timeline = one climate lane plus a 'not CBAM' lane, with the CBAM factor bars moved to the appendix or a one-line caption; the strip under the G2 diagram, 4 numbers maximum; the policy comparison table, at most 5 rows and about 8 words per cell; the company slide, 3 cases only (Thyssenkrupp-VW, Salzgitter-EWE, Stegra with Mercedes and BMW as buyers) with BMW, Volvo-SSAB and Outokumpu in the appendix; the variable sheet, about 12 words per row with one number and three reveals.",
+   "Place the variable sheet after the data, as in A and B, not before the theory as in C. Keep the CH ribbon on every slide and tag variables only on CH2 slides. Show the tick sheet with 'not yet observable' (tax), 'no series' (services) and 'gap' (extra-EU exports). Label the Dataset F 2025 growth rates as one data vintage and context, not policy effects. Remove all editing artifacts such as A's '+1.5? NO'.",
+   "Use one dominant evidence label per slide (Observed data / Policy rule / Model-based result / Theoretical-illustrative / Company announcement), and per-row chips only on the variable sheet. Do not mislabel mixed slides (C's slide 5 and slide 12).",
+   "Carry C's short 'Does not show' line and 'Backup: A#' pointer on the data slides only (manufacturing, imports, NX, variable sheet), not on every slide.",
+   "Keep the appendix to about 12-14 pages ordered by the likely question. Each page gets one question, one table or visual, a source tag and a short caption; put long text in a presenter cheat sheet, not slide bodies. Required pages: a one-page fast-answers sheet (the 8 defence questions from update section 9 plus Why Germany / fixed tariff / non-EU = every origin), a claims-corrected wall (47%, 11,000, 14%, 20.8%, cheaper green steel, 'GDP barely changed'), theory spares with status, NX definitions with the Comext pull spec, CBAM worked example and phase-in table, remaining material profiles, route and cost comparison, domestic cost data, subsidy criteria, jobs, wider sectors and method.",
+   "Keep appendix cost and premium figures out of the main deck until each has an ID and the base-notes inconsistencies are resolved: scrap EUR 305 (HS 720449) vs 382 (HS 7204); the +77% eligible-user vs no-concession mismatch; the garbled 'US250/t' line; Thyssenkrupp 'full hydrogen by 2029' vs the VW MoU's 2027-28; the 7.26-7.49 m employment range vs U28 (2023-2025 only); 18.3 Mt / 50% duty wording, which should be checked against U7 before reuse.",
+   "Resolve source conflicts in favour of the later or more specific source and say so: update section 8 over the 11 Oct chat claims (47%, 11,000, 14%, 5.5 m / 20.8%, Mercedes / BMW / Outokumpu, bluemint); the update 1999-2025 table over Dataset C, whose overlapping values are identical; Member D's 12 Oct G2 feedback over Figure 2; the claim-check partial shift over Member D's 'entirely replaced'; 15 minutes over the 20 + 10 in the course brief; and chap 4.2 over 2.3 for Member B's export addition.",
+   "Settle the schedule and logistics now. The chat's 14/11 final confirm falls 2-4 days before 16-18/11 although described as 'one week before', and Member D leaves in early November. Set an earlier internal freeze for slide content, the redraws and the export pull. Assign speakers with chapter handovers (for four people: CH1; theory and manufacturing and imports; NX, firms, variable sheet and costs; CH3 plus the Q&A lead). Confirm with the lecturer the 15-minute slot, slide language (chat is Thai, sources English) and template, and the confirmation of the two theory diagrams at the on-site class. Keep the expansion plan if 20 minutes is enforced.",
+   "Refresh before presenting: CBAM and ETS status, Q4 2026 certificate price (do not insert an assumed price), Stegra delivery status, downstream-extension status, 2026 trade data (same months of 2025 only) and GVA 2023-2025 provisional values."
+  ]
+ }
+]

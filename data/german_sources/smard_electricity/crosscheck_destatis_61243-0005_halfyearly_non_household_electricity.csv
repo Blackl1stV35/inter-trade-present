@@ -1,0 +1,385 @@
+year,half_year,price_type_code,price_type_en,band_code,band_label,value_ct_kwh,quality_sign
+2019,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,,-
+2019,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,,-
+2019,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",,-
+2019,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",,-
+2019,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",,-
+2019,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",,-
+2019,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",,-
+2019,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",%TOTAL%,Total,,-
+2019,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IA,<20 MWh,,-
+2019,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IB,20-<500 MWh,,-
+2019,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IC,"500-<2,000 MWh",,-
+2019,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-ID,"2,000-<20,000 MWh",,-
+2019,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IE,"20,000-<70,000 MWh",,-
+2019,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IF,"70,000-<150,000 MWh",,-
+2019,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IG,">=150,000 MWh",,-
+2019,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,%TOTAL%,Total,,-
+2019,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,,-
+2019,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,,-
+2019,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",,-
+2019,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",,-
+2019,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",,-
+2019,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",,-
+2019,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",,-
+2019,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",%TOTAL%,Total,,-
+2019,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,12.07,e
+2019,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,8.72,e
+2019,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",7.18,e
+2019,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",6.23,e
+2019,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",5.13,e
+2019,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",4.47,e
+2019,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",3.48,e
+2019,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",%TOTAL%,Total,6.44,e
+2019,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IA,<20 MWh,22.89,e
+2019,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IB,20-<500 MWh,18.63,e
+2019,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IC,"500-<2,000 MWh",16.08,e
+2019,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-ID,"2,000-<20,000 MWh",13.61,e
+2019,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IE,"20,000-<70,000 MWh",10.93,e
+2019,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IF,"70,000-<150,000 MWh",9.25,e
+2019,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IG,">=150,000 MWh",7.68,e
+2019,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,%TOTAL%,Total,13.73,e
+2019,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,27.24,e
+2019,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,22.32,e
+2019,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",19.89,e
+2019,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",17.81,e
+2019,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",14.79,e
+2019,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",12.78,e
+2019,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",11.14,e
+2019,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",%TOTAL%,Total,17.56,e
+2020,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,13.46,e
+2020,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,9.93,e
+2020,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",8.49,e
+2020,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",7.06,e
+2020,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",5.31,e
+2020,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",4.34,e
+2020,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",3.42,e
+2020,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",%TOTAL%,Total,7.25,e
+2020,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IA,<20 MWh,24.55,e
+2020,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IB,20-<500 MWh,20.12,e
+2020,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IC,"500-<2,000 MWh",17.81,e
+2020,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-ID,"2,000-<20,000 MWh",15.09,e
+2020,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IE,"20,000-<70,000 MWh",12.06,e
+2020,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IF,"70,000-<150,000 MWh",10.07,e
+2020,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IG,">=150,000 MWh",6.43,e
+2020,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,%TOTAL%,Total,14.89,e
+2020,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,29.16,e
+2020,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,24.04,e
+2020,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",21.80,e
+2020,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",19.18,e
+2020,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",15.91,e
+2020,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",13.75,e
+2020,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",9.65,e
+2020,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",%TOTAL%,Total,18.75,e
+2020,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,13.69,e
+2020,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,10.15,e
+2020,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",8.85,e
+2020,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",7.31,e
+2020,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",6.02,e
+2020,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",4.90,e
+2020,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",3.89,e
+2020,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",%TOTAL%,Total,7.46,e
+2020,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IA,<20 MWh,24.85,e
+2020,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IB,20-<500 MWh,20.36,e
+2020,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IC,"500-<2,000 MWh",18.18,e
+2020,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-ID,"2,000-<20,000 MWh",15.34,e
+2020,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IE,"20,000-<70,000 MWh",12.71,e
+2020,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IF,"70,000-<150,000 MWh",11.22,e
+2020,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IG,">=150,000 MWh",7.33,e
+2020,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,%TOTAL%,Total,15.08,e
+2020,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,28.84,e
+2020,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,23.78,e
+2020,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",21.81,e
+2020,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",19.04,e
+2020,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",16.28,e
+2020,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",14.75,e
+2020,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",10.44,e
+2020,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",%TOTAL%,Total,18.60,e
+2021,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,14.02,e
+2021,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,10.41,e
+2021,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",9.08,e
+2021,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",7.34,e
+2021,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",6.44,e
+2021,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",5.20,e
+2021,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",5.14,e
+2021,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",%TOTAL%,Total,7.66,e
+2021,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IA,<20 MWh,24.92,e
+2021,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IB,20-<500 MWh,20.43,e
+2021,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IC,"500-<2,000 MWh",18.13,e
+2021,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-ID,"2,000-<20,000 MWh",15.01,e
+2021,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IE,"20,000-<70,000 MWh",12.67,e
+2021,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IF,"70,000-<150,000 MWh",11.49,e
+2021,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IG,">=150,000 MWh",8.82,e
+2021,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,%TOTAL%,Total,14.90,e
+2021,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,29.66,e
+2021,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,24.50,e
+2021,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",22.39,e
+2021,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",19.08,e
+2021,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",16.61,e
+2021,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",15.40,e
+2021,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",12.48,e
+2021,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",%TOTAL%,Total,18.91,e
+2021,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,14.44,e
+2021,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,10.74,e
+2021,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",9.67,e
+2021,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",8.97,e
+2021,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",7.86,e
+2021,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",7.32,e
+2021,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",9.81,e
+2021,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",%TOTAL%,Total,9.55,e
+2021,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IA,<20 MWh,25.44,e
+2021,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IB,20-<500 MWh,20.73,e
+2021,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IC,"500-<2,000 MWh",18.60,e
+2021,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-ID,"2,000-<20,000 MWh",16.42,e
+2021,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IE,"20,000-<70,000 MWh",13.49,e
+2021,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IF,"70,000-<150,000 MWh",13.47,e
+2021,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IG,">=150,000 MWh",13.11,e
+2021,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,%TOTAL%,Total,16.65,e
+2021,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,30.28,e
+2021,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,24.85,e
+2021,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",22.98,e
+2021,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",20.77,e
+2021,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",17.59,e
+2021,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",17.76,e
+2021,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",17.58,e
+2021,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",%TOTAL%,Total,20.97,e
+2022,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,18.09,e
+2022,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,15.80,e
+2022,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",15.12,e
+2022,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",14.40,e
+2022,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",13.91,e
+2022,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",12.15,e
+2022,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",14.99,e
+2022,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",%TOTAL%,Total,14.82,e
+2022,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IA,<20 MWh,26.40,e
+2022,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IB,20-<500 MWh,23.16,e
+2022,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IC,"500-<2,000 MWh",21.32,e
+2022,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-ID,"2,000-<20,000 MWh",19.28,e
+2022,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IE,"20,000-<70,000 MWh",17.68,e
+2022,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IF,"70,000-<150,000 MWh",16.34,e
+2022,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IG,">=150,000 MWh",17.34,e
+2022,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,%TOTAL%,Total,19.83,e
+2022,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,31.42,e
+2022,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,27.74,e
+2022,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",26.16,e
+2022,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",24.15,e
+2022,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",22.56,e
+2022,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",21.17,e
+2022,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",22.62,e
+2022,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",%TOTAL%,Total,24.72,e
+2022,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,22.31,e
+2022,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,18.76,e
+2022,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",17.82,e
+2022,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",17.30,e
+2022,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",17.44,e
+2022,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",17.28,e
+2022,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",19.37,e
+2022,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",%TOTAL%,Total,18.30,e
+2022,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IA,<20 MWh,27.02,e
+2022,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IB,20-<500 MWh,22.42,e
+2022,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IC,"500-<2,000 MWh",20.56,e
+2022,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-ID,"2,000-<20,000 MWh",19.49,e
+2022,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IE,"20,000-<70,000 MWh",19.39,e
+2022,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IF,"70,000-<150,000 MWh",18.86,e
+2022,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IG,">=150,000 MWh",20.70,e
+2022,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,%TOTAL%,Total,20.74,e
+2022,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,32.15,e
+2022,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,26.85,e
+2022,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",25.24,e
+2022,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",24.39,e
+2022,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",24.60,e
+2022,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",24.16,e
+2022,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",26.62,e
+2022,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",%TOTAL%,Total,25.79,e
+2023,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,27.67,e
+2023,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,21.24,e
+2023,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",19.04,e
+2023,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",18.14,e
+2023,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",17.02,e
+2023,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",15.08,e
+2023,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",14.40,e
+2023,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",%TOTAL%,Total,18.20,e
+2023,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IA,<20 MWh,32.47,e
+2023,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IB,20-<500 MWh,24.76,e
+2023,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IC,"500-<2,000 MWh",21.92,e
+2023,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-ID,"2,000-<20,000 MWh",20.55,e
+2023,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IE,"20,000-<70,000 MWh",19.05,e
+2023,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IF,"70,000-<150,000 MWh",16.86,e
+2023,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IG,">=150,000 MWh",15.89,e
+2023,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,%TOTAL%,Total,20.71,e
+2023,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,38.64,e
+2023,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,29.97,e
+2023,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",26.91,e
+2023,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",25.64,e
+2023,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",24.18,e
+2023,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",21.73,e
+2023,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",20.88,e
+2023,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",%TOTAL%,Total,25.84,e
+2023,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,27.98,e
+2023,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,21.26,e
+2023,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",18.90,e
+2023,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",17.81,e
+2023,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",15.73,e
+2023,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",15.35,e
+2023,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",13.79,e
+2023,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",%TOTAL%,Total,17.85,e
+2023,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IA,<20 MWh,32.79,e
+2023,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IB,20-<500 MWh,24.80,e
+2023,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IC,"500-<2,000 MWh",21.75,e
+2023,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-ID,"2,000-<20,000 MWh",20.17,e
+2023,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IE,"20,000-<70,000 MWh",17.76,e
+2023,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IF,"70,000-<150,000 MWh",17.20,e
+2023,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IG,">=150,000 MWh",15.27,e
+2023,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,%TOTAL%,Total,20.35,e
+2023,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,39.03,e
+2023,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,30.00,e
+2023,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",26.71,e
+2023,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",25.18,e
+2023,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",22.63,e
+2023,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",22.14,e
+2023,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",20.14,e
+2023,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",%TOTAL%,Total,25.41,e
+2024,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,27.94,e
+2024,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,23.13,e
+2024,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",19.76,e
+2024,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",17.48,e
+2024,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",14.82,e
+2024,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",12.76,e
+2024,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",11.45,e
+2024,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",%TOTAL%,Total,17.23,e
+2024,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IA,<20 MWh,32.93,e
+2024,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IB,20-<500 MWh,27.23,e
+2024,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IC,"500-<2,000 MWh",23.28,e
+2024,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-ID,"2,000-<20,000 MWh",20.17,e
+2024,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IE,"20,000-<70,000 MWh",16.85,e
+2024,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IF,"70,000-<150,000 MWh",13.94,e
+2024,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IG,">=150,000 MWh",12.12,e
+2024,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,%TOTAL%,Total,19.73,e
+2024,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,39.19,e
+2024,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,32.44,e
+2024,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",27.98,e
+2024,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",24.82,e
+2024,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",21.25,e
+2024,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",18.31,e
+2024,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",16.40,e
+2024,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",%TOTAL%,Total,24.43,e
+2024,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,28.20,e
+2024,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,23.02,e
+2024,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",20.10,e
+2024,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",18.10,e
+2024,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",15.09,e
+2024,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",13.13,e
+2024,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",13.23,e
+2024,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",%TOTAL%,Total,18.00,e
+2024,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IA,<20 MWh,33.26,e
+2024,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IB,20-<500 MWh,27.14,e
+2024,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IC,"500-<2,000 MWh",23.59,e
+2024,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-ID,"2,000-<20,000 MWh",20.76,e
+2024,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IE,"20,000-<70,000 MWh",17.12,e
+2024,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IF,"70,000-<150,000 MWh",14.30,e
+2024,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IG,">=150,000 MWh",13.90,e
+2024,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,%TOTAL%,Total,20.55,e
+2024,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,39.58,e
+2024,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,32.33,e
+2024,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",28.34,e
+2024,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",25.52,e
+2024,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",21.56,e
+2024,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",18.74,e
+2024,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",18.51,e
+2024,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",%TOTAL%,Total,25.38,e
+2025,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,26.65,e
+2025,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,21.18,e
+2025,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",18.28,e
+2025,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",15.98,e
+2025,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",13.46,e
+2025,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",12.86,e
+2025,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",12.05,e
+2025,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",%TOTAL%,Total,16.14,e
+2025,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IA,<20 MWh,32.82,e
+2025,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IB,20-<500 MWh,26.36,e
+2025,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IC,"500-<2,000 MWh",22.81,e
+2025,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-ID,"2,000-<20,000 MWh",19.32,e
+2025,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IE,"20,000-<70,000 MWh",15.84,e
+2025,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IF,"70,000-<150,000 MWh",14.47,e
+2025,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IG,">=150,000 MWh",13.38,e
+2025,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,%TOTAL%,Total,19.33,e
+2025,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,39.06,e
+2025,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,31.41,e
+2025,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",27.45,e
+2025,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",23.78,e
+2025,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",20.02,e
+2025,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",18.78,e
+2025,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",17.52,e
+2025,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",%TOTAL%,Total,23.87,e
+2025,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,26.42,e
+2025,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,21.01,e
+2025,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",18.28,e
+2025,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",16.13,e
+2025,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",13.63,e
+2025,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",12.83,e
+2025,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",11.90,e
+2025,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",%TOTAL%,Total,16.15,e
+2025,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IA,<20 MWh,32.58,e
+2025,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IB,20-<500 MWh,26.18,e
+2025,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IC,"500-<2,000 MWh",22.64,e
+2025,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-ID,"2,000-<20,000 MWh",19.22,e
+2025,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IE,"20,000-<70,000 MWh",15.95,e
+2025,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IF,"70,000-<150,000 MWh",14.40,e
+2025,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IG,">=150,000 MWh",13.07,e
+2025,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,%TOTAL%,Total,19.22,e
+2025,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,38.77,e
+2025,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,31.20,e
+2025,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",27.22,e
+2025,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",23.69,e
+2025,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",20.14,e
+2025,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",18.69,e
+2025,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",17.14,e
+2025,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",%TOTAL%,Total,23.74,e
+2026,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,23.08,p
+2026,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,18.18,p
+2026,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",15.72,p
+2026,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",13.82,p
+2026,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",11.95,p
+2026,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",11.59,p
+2026,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",11.13,p
+2026,HALBJH1,PRE-NETTO-01,"excl. taxes, fees, levies, charges",%TOTAL%,Total,14.16,p
+2026,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IA,<20 MWh,29.57,p
+2026,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IB,20-<500 MWh,23.66,p
+2026,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IC,"500-<2,000 MWh",20.58,p
+2026,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-ID,"2,000-<20,000 MWh",17.42,p
+2026,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IE,"20,000-<70,000 MWh",14.64,p
+2026,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IF,"70,000-<150,000 MWh",13.79,p
+2026,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IG,">=150,000 MWh",12.67,p
+2026,HALBJH1,PRE-NETTO-02,excl. VAT and other deductible taxes,%TOTAL%,Total,17.64,p
+2026,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,35.19,p
+2026,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,28.21,p
+2026,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",24.77,p
+2026,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",21.50,p
+2026,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",18.50,p
+2026,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",17.94,p
+2026,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",16.30,p
+2026,HALBJH1,PRE-BRUTTO,"incl. taxes, fees, levies, charges",%TOTAL%,Total,21.76,p
+2026,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,,...
+2026,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,,...
+2026,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",,...
+2026,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",,...
+2026,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",,...
+2026,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",,...
+2026,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",,...
+2026,HALBJH2,PRE-NETTO-01,"excl. taxes, fees, levies, charges",%TOTAL%,Total,,...
+2026,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IA,<20 MWh,,...
+2026,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IB,20-<500 MWh,,...
+2026,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IC,"500-<2,000 MWh",,...
+2026,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-ID,"2,000-<20,000 MWh",,...
+2026,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IE,"20,000-<70,000 MWh",,...
+2026,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IF,"70,000-<150,000 MWh",,...
+2026,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,NHH-STR-IG,">=150,000 MWh",,...
+2026,HALBJH2,PRE-NETTO-02,excl. VAT and other deductible taxes,%TOTAL%,Total,,...
+2026,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IA,<20 MWh,,...
+2026,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IB,20-<500 MWh,,...
+2026,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IC,"500-<2,000 MWh",,...
+2026,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-ID,"2,000-<20,000 MWh",,...
+2026,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IE,"20,000-<70,000 MWh",,...
+2026,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IF,"70,000-<150,000 MWh",,...
+2026,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",NHH-STR-IG,">=150,000 MWh",,...
+2026,HALBJH2,PRE-BRUTTO,"incl. taxes, fees, levies, charges",%TOTAL%,Total,,...

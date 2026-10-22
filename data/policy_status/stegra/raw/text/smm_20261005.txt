@@ -1,0 +1,8 @@
+SOURCE_URL: https://news.metal.com/newscontent/104143676-stegra-seeks-additional-capital-for-swedish-green-steel-plant
+RETRIEVED: 2026-10-22
+EXTRACTION: tag-stripped text of the saved HTML (article/main block); layout not reproduced
+og:title: Swedish green steel developer Stegra announced on October 1, 2026, tha - Shanghai Metals Market (SMM)
+og:description: Swedish green steel developer Stegra announced on October 1, 2026, that it requires additional funding to complete the construction of its massive low-emissions facility in Boden, northern Sweden.
+ld_datePublished: 2026-10-05T02:47:56.000Z
+----
+Swedish green steel developer Stegra announced on October 1, 2026, that it requires additional funding to complete the construction of its massive low-emissions facility in Boden, northern Sweden. This unexpected capital call follows just months after the company secured a €1.4 billion ($1.6 billion) funding round in June. Once operational, the Stegra plant is engineered to produce several million tonnes of direct reduced iron and green steel annually, replacing coking coal with renewable green hydrogen in the primary smelting process. [SMM Iron Ore]

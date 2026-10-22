@@ -1,0 +1,115 @@
+SOURCE_URL: https://www.canarymedia.com/articles/green-steel/stegra-lands-key-customer-steel-plant
+RETRIEVED: 2026-10-22
+EXTRACTION: tag-stripped text of the saved HTML (longest of article/main/body block); layout not reproduced
+og:title: Stegra lands key customer for green-steel plant amid financial woes
+og:description: The Swedish startup will supply steel to a German industrial firm from its flagship facility in northern Sweden. Stegra is working to raise over $1…
+ld_datePublished: 2026-01-21T03:30:00-05:00
+----
+Stegra lands key customer for green-steel plant amid financial woes
+ The Swedish startup will supply steel to a German industrial firm from its flagship facility in northern Sweden. Stegra is working to raise over $ 1
+ billion for the plant. By 
+Maria Gallucci
+21 January 2026  {
+ navigator.clipboard.writeText('https://www.canarymedia.com/articles/green-steel/stegra-lands-key-customer-steel-plant');
+ copied = true;
+ setTimeout(() => {copied = false}, 2000);  }"
+ class="flex justify-center items-center w-6 h-6 border text-black rounded-full border-black transition-colors hover:text-white hover:bg-black focus:text-white focus:bg-black"  >
+ Link copied to clipboard
+Stegra’s green-steel plant is under construction in Boden, Sweden. (Stegra)
+Stegra’s grand plan to build the 
+first large green-steel mill
+ in the world has recently hit a rough patch. Faced with increasing project costs and construction delays, the Swedish startup has been seeking to raise over $ 1
+ billion in additional financing since last fall to complete the flagship facility near the Arctic Circle.
+Last week, though, 
+Stegra
+ shared some brighter news: The company 
+landed a major new customer
+, marking a step forward for the beleaguered project.
+A subsidiary of the German conglomerate Thyssenkrupp has agreed to buy a certain type of steel from Stegra’s plant in northern Sweden, which is set to start operations next year. The plant will use green hydrogen — made with renewable energy — and clean electricity to produce iron and steel. The sprawling facility is expected to initially produce  2 . 5
+ million metric tons of steel annually and eventually double its production of the metal.
+Stegra, formerly  H 2
+ Green Steel
+, estimates that its process will slash carbon dioxide emissions by 
+up to  95 %
+ compared with traditional coal-based methods, which account for up to  9
+% of global emissions.
+Thyssenkrupp Materials Services said it would buy tonnages in the  ​ “
+high-six-digit range” of  ​ “
+non-prime” steel — metal that doesn’t meet the high-quality standards required for certain uses but that is still strong and durable enough for other applications. Steel mills typically produce a higher ratio of non-prime metal when they’re starting up, which decreases over time, according to Stegra. The deal should help the firm 
+generate cash flow
+ when the plant first opens. “
+A partner for non-prime steel is important for the ramp up of our steel mill,” Stephan Flapper, head of commercial at Stegra, said in a Jan.  12
+ statement.  ​ “
+Together we can drive an even stronger pull for steel products made via the green hydrogen route.”
+The deal is Stegra’s first for non-prime steel, though the startup has already inked agreements for prime steel with automakers such as Mercedes-Benz, Porsche, and Scania, as well as major companies including Cargill, Ikea, and Microsoft. The offtake contracts represent more than half the steel that will be produced during the plant’s first phase.
+Notably, Thyssenkrupp Materials Services won’t count the carbon-emission reductions associated with the green steel toward its own climate targets. Instead, Stegra will separately sell the green credentials, in the form of environmental attribute certificates, to other customers in the prime steel market. Stegra 
+previously struck a deal
+ to sell certificates to Microsoft — which is an investor — to help offset emissions from conventionally made steel that the tech giant is using to build data centers outside Europe.
+The startup’s announcement with the Thyssenkrupp subsidiary didn’t include details about the financial value or other parameters of the multiyear agreement. Stegra didn’t respond to Canary Media’s requests for comment.
+Mesabi Metallics to build a $ 15 B
+ lower-carbon steel mill in Iowa
+Google backs Swedish green-steel project to tackle rising emissions
+Hyundai breaks ground on Louisiana steel mill. Is it green enough?  {
+ if ($event.target.classList.contains('hs-richtext')) {
+ if ($event.target.textContent === '+ more options') {
+ $event.target.remove();
+ open = true;  }  }  }"  >
+ This site is protected by reCAPTCHA and the Google
+Privacy Policy
+ and
+Terms of Service
+ apply.
+This signup form requires necessary cookies.
+Allow marketing cookies to load the newsletter signup form.
+ Update cookie preferences
+Analysts said the lack of specifics makes it difficult to know exactly how meaningful this development is for the Swedish steelmaker as it works to address its financial challenges. “
+This gives a positive signal … that they’re moving in the right direction,” said Anne-Sophie Corbeau, a Paris-based hydrogen analyst at Columbia University’s Center on Global Energy Policy.  ​ “
+But it’s really complicated to quantify how significant this is.”
+The new deal with Thyssenkrupp and the previous one with Microsoft  ​ “
+suggest Stegra has a technically sound product,” Brian Murphy, head of hydrogen and low-carbon gas for S &
+P Global Energy, said by email. He added that, in general, signing long-term offtake deals for clean-hydrogen projects has become  ​ “
+the key unlock” for developers to secure necessary financing.
+Still,  ​ “
+more price information is required to assess the full impact on Stegra’s financial position,” he said.
+Stegra is forging ahead with its multibillion-dollar project even as other European steelmakers 
+put their hydrogen-fueled ambitions on ice .
+Last year, Thyssenkrupp Steel and the industrial giant ArcelorMittal said they were canceling or postponing projects in Europe, citing the economic headwinds and uncertain market conditions facing green steel and hydrogen production. The setbacks come even as the European Union is 
+increasing regulatory pressure
+ on steelmakers inside the bloc and globally to curb  CO 2
+ emissions from industrial facilities. In the United States, meanwhile, 
+plans for two marquee green-steel projects
+ were shelved last year.
+Construction on Stegra’s plant in northern Sweden was  60
+% complete as of late October, and the company 
+continues to share snapshots
+ of ongoing work at its snow-covered site on social media. Stegra’s success, if it comes, could reinvigorate green-steel efforts across the region, particularly if the company can sell its steel at prices that cover the higher costs of making low-carbon metal, Corbeau said. “
+In the end, if the economics work and they manage to sell most of the steel at a premium, that will be a good signal for a lot of the other companies that have been hesitant,” she said. 
+Green steel
+Clean industry
+Hydrogen  {
+ if ($event.target.classList.contains('hs-richtext')) {
+ if ($event.target.textContent === '+ more options') {
+ $event.target.remove();
+ open = true;  }  }  }"  >
+ This site is protected by reCAPTCHA and the Google
+Privacy Policy
+ and
+Terms of Service
+ apply.
+This signup form requires necessary cookies.
+Allow marketing cookies to load the newsletter signup form.
+ Update cookie preferences
+Maria Gallucci
+ is a senior reporter at Canary Media. She covers emerging clean energy technologies and efforts to electrify transportation and decarbonize heavy industry.
+read next
+ Clean energy
+Will a second US city tax billion-dollar firms to fund clean energy?
+ Offshore wind
+Floating wind industry leans into global collaboration amid headwinds
+ Geothermal
+This geothermal startup produced a tiny bit of power from the seafloor
+ Clean aluminum
+A cleaner solution to America’s aluminum crunch is hiding in landfills
+This video requires marketing cookies.
+Update your cookie preferences to watch the video.
+ Update cookie preferences

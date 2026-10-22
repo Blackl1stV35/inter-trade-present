@@ -1,0 +1,114 @@
+SOURCE_URL: https://www.canarymedia.com/articles/green-steel/stegra-funding-complete-mill
+RETRIEVED: 2026-10-22
+EXTRACTION: tag-stripped text of the saved HTML (longest of article/main/body block); layout not reproduced
+og:title: Stegra lands funding to complete world’s first major green-steel mill
+og:description: The company said it secured 1.4 billion euros to rescue its financially troubled steel mill, which will use green hydrogen to make metal in northern…
+ld_datePublished: 2026-04-14T13:45:00-04:00
+----
+Stegra lands funding to complete world’s first major green-steel mill
+ The company said it secured  1 . 4
+ billion euros to rescue its financially troubled steel mill, which will use green hydrogen to make metal in northern Sweden. By 
+Maria Gallucci
+14 April 2026  {
+ navigator.clipboard.writeText('https://www.canarymedia.com/articles/green-steel/stegra-funding-complete-mill');
+ copied = true;
+ setTimeout(() => {copied = false}, 2000);  }"
+ class="flex justify-center items-center w-6 h-6 border text-black rounded-full border-black transition-colors hover:text-white hover:bg-black focus:text-white focus:bg-black"  >
+ Link copied to clipboard
+The construction site of Stegra’s green-steel plant is pictured on June 10, 2025, in Boden, Sweden. (Jonathan Nackstrand/AFP via Getty Images)
+Stegra has secured the financing needed to complete its flagship green-steel mill in northern Sweden.
+The company, formerly  H 2
+ Green Steel, 
+said it landed 1 . 4
+ billion euros ($ 1 . 65
+ billion) in capital from a group of new and existing investors led by Sweden’s prominent Wallenberg family. The funding will enable Stegra to finish building and commissioning its novel facility in Boden, just south of the Arctic Circle.
+The project is a cornerstone of Europe’s broader ambitions to decarbonize its industrial sector and lead the world on lower-emissions technology. Conventional steel mills rely heavily on coal to produce the ubiquitous metal, making them a major source of planet-warming emissions and harmful air pollution.
+Stegra’s first-of-a-kind project will instead rely on green hydrogen, which could slash carbon emissions from steelmaking by 
+up to  95 %
+, compared with traditional coal-based furnaces.
+The sprawling facility will use giant electrolyzers, powered by the region’s ample hydro and wind energy supplies, to split water molecules and produce the clean fuel. That hydrogen will then turn raw iron ore into lumps of iron, which will be melted and made into steel in electric arc furnaces, also powered by renewables.
+Stegra said it expects to initially produce  2 . 5
+ million metric tons of steel annually and eventually double its production of the metal.
+The ambitious undertaking has hit some serious snags since construction began in 
+2022
+. Stegra previously raised some  6 . 5
+ billion euros ($ 7 . 64
+ billion) in loans and equity. But in recent months, faced with rising project costs and delays, the firm had been urgently seeking additional financing to address a growing cash crunch.
+In October, the French hydrogen investor Hy 24
+swooped in
+ to help fund Stegra for an undisclosed amount. That still wasn’t enough to stave off financial troubles for the steelmaker, which has batted away frequent 
+rumors
+ that the company and its marquee steel mill were close to collapsing.
+With the new investment from the Wallenberg-led consortium, Stegra says it will now ramp up construction activities following several slower months during its fundraising period. As of last fall, the plant 
+was  60
+% complete .
+The company says the project’s timeline is now  ​ “
+under review,” though Stegra  CEO
+ Henrik Henriksson said it will take about  18
+ to  24
+ months to start producing steel once the facility is finished, the 
+Sweden Herald reported .
+Mesabi Metallics to build a $ 15 B
+ lower-carbon steel mill in Iowa
+Google backs Swedish green-steel project to tackle rising emissions
+Hyundai breaks ground on Louisiana steel mill. Is it green enough?  {
+ if ($event.target.classList.contains('hs-richtext')) {
+ if ($event.target.textContent === '+ more options') {
+ $event.target.remove();
+ open = true;  }  }  }"  >
+ This site is protected by reCAPTCHA and the Google
+Privacy Policy
+ and
+Terms of Service
+ apply.
+This signup form requires necessary cookies.
+Allow marketing cookies to load the newsletter signup form.
+ Update cookie preferences
+Before its financial woes began last fall, Stegra was 
+planning to complete
+ the steel mill by late 
+2026 . “
+As an industrialist, you get a little sad if you come up to Boden now, because there is a half-finished steel mill that is running at perhaps a quarter of the speed it should be running,” Leif Johansson, an adviser to the investor consortium, said at a press event this week. The funding lifeline should change that.
+The news comes four months after the European Union’s 
+world-first carbon border tax
+ went into effect. The policy makes it more expensive for European companies to import steel from countries that don’t have carbon-pricing systems, like the  EU
+ does, all of which should benefit domestic low-emissions steel producers like Stegra. “
+We are convinced of the competitiveness of Stegra and the commercial attractiveness of green steel in addition to the climate benefits, while remaining clear-eyed about the challenges that lie ahead,” Johansson said in a 
+separate statement .  ​ “
+We also consider the project to be of great importance to Sweden’s position as an industrial nation.”
+Green steel proponents applauded the news of Stegra’s financing round, which is expected to formally close in June after undergoing credit and regulatory approvals. “
+Stegra securing the future of its Boden green steel plant is a welcome development that signals the change towards truly clean steelmaking at scale is happening,” Caroline Ashley, executive director of the nonprofit SteelWatch, said in an emailed statement.
+We’re glad you read this story. If you appreciate our independent, paywall-free reporting, please consider making a 
+tax-deductible contribution
+ in celebration of Canary Media turning  5
+! All donations are currently being matched.
+Green steel
+Clean energy manufacturing
+Climatetech finance
+Europe  {
+ if ($event.target.classList.contains('hs-richtext')) {
+ if ($event.target.textContent === '+ more options') {
+ $event.target.remove();
+ open = true;  }  }  }"  >
+ This site is protected by reCAPTCHA and the Google
+Privacy Policy
+ and
+Terms of Service
+ apply.
+This signup form requires necessary cookies.
+Allow marketing cookies to load the newsletter signup form.
+ Update cookie preferences
+Maria Gallucci
+ is a senior reporter at Canary Media. She covers emerging clean energy technologies and efforts to electrify transportation and decarbonize heavy industry.
+read next
+ Clean energy
+Will a second US city tax billion-dollar firms to fund clean energy?
+ Offshore wind
+Floating wind industry leans into global collaboration amid headwinds
+ Geothermal
+This geothermal startup produced a tiny bit of power from the seafloor
+ Clean aluminum
+A cleaner solution to America’s aluminum crunch is hiding in landfills
+This video requires marketing cookies.
+Update your cookie preferences to watch the video.
+ Update cookie preferences

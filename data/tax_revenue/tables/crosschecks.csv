@@ -1,0 +1,21 @@
+check,our_value,published_or_reference_value,reference_source,result
+EEX Jan-Sep 2023 German EUA revenue,5778097060.0,5778097060.0,"DEHSt Auktionierung Q3 2023 report, Tabelle 2 (source EEX, DEHSt)",exact
+EEX Q3 2023 German EUA revenue (13 auctions),1892192440.0,1892192440.0,"same report, Tabelle 1",exact
+"EEX 2021 German EUA+EUAA revenue, EUR bn",5.31,5.31,"same report, Abbildung 1 label 'Gesamt 2021'",matches at 2 decimals
+"EEX 2022 German EUA+EUAA revenue, EUR bn",6.81,6.81,"same report, Abbildung 1 label 'Gesamt 2022'",matches at 2 decimals
+2021 average price EUR/t,52.5,52.5,UBA press release 01/2025 (7 Jan 2025),exact
+2023 average price EUR/t,83.66,83.66,UBA press release 01/2025,exact
+"2023 volume, million",91.5,92.0,UBA press release 01/2025 ('92 Millionen'),rounded match (91.5 m)
+2024 average price EUR/t,65.0,65.0,UBA press release 01/2025,exact
+"2024 volume, million",85.1,85.0,UBA press release 01/2025,rounded match (85.05 m)
+2024 revenue EUR bn,5.5,5.5,"UBA press release 01/2025; EEA indicator (Germany EUR 5.5 bn, 2024)",rounded match
+"2025 volume, million",73.5,73.5,UBA press release 01/2026 (7 Jan 2026),match
+2025 average price EUR/t,73.86,73.86,"UBA press release 01/2026 ('rund 74 (73,86) Euro')",exact
+2025 revenue EUR bn,5.4,5.4,UBA press release 01/2026,rounded match
+"2025 revenue: EEX auctions vs KTF Ist booking, EUR",5428994590.0,5403354000.0,"KTF Wirtschaftsplan 2027, Tit. 132 02 Ist 2025 = 5 403 354 thousand EUR",NOT equal: KTF is 25.64 m (0.47%) lower; reason not stated in the documents read (KTFG section 4 lets DEHSt costs be deducted; settlement timing possible)
+"KTF Ist 2025 ETS 1 + fuel ETS, EUR m",21391.241,21400.0,"UBA press release 01/2026 ('21,4 Milliarden Euro')",rounded match
+Price x volume = reported revenue (637 German auction rows),0.0,0.0,max absolute difference in EUR across all reported rows,exact; used to derive the 22 empty 2012 cells
+"Eurostat ENV / (taxes + social contributions incl. imputed, S13+S212) vs Eurostat PC_TSCO",0.0,0.0,"max abs difference in percentage points, 30 years",exact; confirms the denominator Eurostat uses
+"Eurostat ENV 2024 vs UBA/Destatis environmental taxes 2024, EUR bn",75.794,76.7,UBA indicator WIRT-04 (Destatis Genesis),"NOT equal: 0.9 bn (1.2%); definitions differ, UBA explicitly includes ETS auction receipts and nEHS"
+UBA share 7.6% of total taxes vs own ratio 76.7 / D2+D5+D91 (S13) 2024,7.62,7.6,UBA indicator WIRT-04,match: UBA denominator is taxes without social contributions
+"Eurostat D29F (taxes on pollution) in year t vs German ETS 1 auction revenue in year t-1, 2017-2021, max abs diff EUR m",1.2,0.0,tables/d29f_vs_ets1_lag_check.csv,within 1.2 m in all five years; inference that national accounts book ETS 1 receipts with a one-year lag (see README)

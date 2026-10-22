@@ -1,0 +1,23 @@
+# EXCERPT of Regulation (EU) 2026/1384 (OJ L, 24.6.2026), source: https://publications.europa.eu/resource/celex/32026R1384 (Accept: application/xhtml+xml)
+L_202601384EN.000101.fmx.xml 
+ Official Journal 
+of the European Union
+ EN
+ L series
+ 2026/1384
+ 24.6.2026
+ REGULATION (EU) 2026/1384 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ of 17 June 2026
+ addressing the negative trade-related effects of global overcapacity on the Union steel market and amending Regulation (EU) 2020/2170
+ THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+ Having regard to the Treaty on the Functioning of the European Union, and in particular Article 207(2) thereof,
+48: Although under Implementing Regulation (EU) 2019/159 the out-of-quota tariff is set at 25 %, taking into account the level of tariffs in the steel sector in other key markets, it is appropriate to raise the out-of-quota duty to 50 %, to minimise the risk of trade diversion. That duty would be in addition to other duties applying to the product categories covered by this Regulation.
+52: The total volume of tariff quotas has been calculated by applying the market share of imports into the Union market in the year 2013 as reference, which was around 13 %, to the overall consumption in the Union steel market in 2024, which is the latest year for which complete data are available. The calculation does not take into account imports which originated in Belarus and the Russian Federation, which are currently subject to import bans. That results in a total annual volume of tariff quotas of 18 345 922 tonnes.
+90: Given the need to ensure that the measures provided for in this Regulation apply from 1 July 2026, this Regulation should enter into force on the day following that of its publication in the Official Journal of the European Union ,
+97: 2. For each product category listed in Annex I, a specific volume of tariff quotas is opened as provided under Annex II on a yearly basis from 1 July of each year to 30 June of the following year (‘yearly period of application’). The total annual volume of tariff quotas is set out in Annex II.
+98: 3. Where a tariff quota is exhausted, or where imports of the product categories do not benefit from a tariff quota, the imports of the product categories listed in Annex I shall be subject to an out-of-quota duty at the rate of 50 % ad valorem as set out in Annex II.
+145: 4. The implementing acts referred to in paragraph 1 of this Article shall be adopted in accordance with the examination procedure referred to in Article 7(2). The first of those implementing acts shall apply from 1 July 2026.
+229: This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union .
+230: It shall apply from 1 July 2026.
+235: Article 4(1) shall apply from 1 October 2026;
+360: The total annual volume of tariff quotas shall be 18 345 922 tonnes.

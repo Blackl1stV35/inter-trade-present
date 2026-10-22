@@ -1,0 +1,22 @@
+year,ets_emissions_kt_co2e,crude_steel_kt,ets_tCO2e_per_t_crude_steel_DERIVED,scope_segment,wv_stahl_specific_co2_crude_steel_t_per_t,wv_stahl_specific_co2_hot_rolled_t_per_t,denominator_source
+2005,30638.641,44524,0.6881,A,,,crude steel = OBC+EF (Yearbook)
+2006,32155.159,47224,0.6809,A,,,crude steel = OBC+EF (Yearbook)
+2007,33057,48550,0.6809,A/B transition,,,crude steel = OBC+EF (Yearbook)
+2008,33819,45832,0.7379,B,,,crude steel = OBC+EF (Yearbook)
+2009,25287,32671,0.774,B,,,crude steel = OBC+EF (Yearbook)
+2010,31794,43830,0.7254,B,,,crude steel = OBC+EF (Yearbook)
+2011,32095,44283,0.7248,B,,,crude steel = OBC+EF (Yearbook)
+2012,31290,42661,0.7335,B,,,crude steel = OBC+EF (Yearbook)
+2013,35650,42644,0.836,C,,,crude steel = OBC+EF (Yearbook)
+2014,36364,42943,0.8468,C,,,crude steel = OBC+EF (Yearbook)
+2015,37125,42676,0.8699,C,,,crude steel = OBC+EF (Yearbook)
+2016,36278,42080,0.8621,C,,,crude steel = OBC+EF (Yearbook)
+2017,37813,43297,0.8733,C,,,crude steel = OBC+EF (Yearbook)
+2018,37921,42435,0.8936,C,,,crude steel = OBC+EF (Yearbook)
+2019,35577,39627,0.8978,C,1.37,1.45,crude steel = OBC+EF (Yearbook)
+2020,31473,35700,0.8816,C,1.38,1.47,"crude steel 35.7 Mt (WSIF 2021, rounded)"
+2021,35426,40241,0.8803,C,1.4,1.48,crude steel = WV Stahl revision table
+2022,33186,36861,0.9003,C,1.41,1.49,crude steel = WV Stahl revision table
+2023,32500,35395,0.9182,C,1.43,1.52,crude steel = WV Stahl revision table
+2024,33149.87,37310,0.8885,C,1.4,1.54,crude steel = WV Stahl revision table
+2025,30000,34267,0.8755,C,1.39,1.47,crude steel = WV Stahl revision table

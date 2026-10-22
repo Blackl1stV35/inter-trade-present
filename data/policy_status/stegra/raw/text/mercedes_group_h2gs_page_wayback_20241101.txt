@@ -1,0 +1,33 @@
+SOURCE_URL: http://web.archive.org/web/20241101195326/https://group.mercedes-benz.com/responsibility/sustainability/climate-environment/h2-green-steel.html
+RETRIEVED: 2026-10-22
+EXTRACTION: tag-stripped text of the saved HTML (article/main block); layout not reproduced
+og:title: Mercedes-Benz and H2 Green Steel secure supply deal | Mercedes-Benz Group
+article:published_time: 2023-06-07
+og:description: Mercedes-Benz signed a supply agreement with Swedish start-up H2 Green Steel (H2GS) over approximately 50.000 tonnes almost CO₂-free steel per year for its European press shops and deepened its partnership through a Memorandum of Understanding with the aim to establish a sustainable steel supply chain in North America. 
+----
+Mercedes-Benz and H2 Green Steel secure supply deal | Mercedes-Benz Group > Responsibility > Sustainability > Climate & Environment
+ Sustainability > Climate & Environment">
+“Green” Steel
+Mercedes-Benz and H2 Green Steel secure supply deal.
+Overview
+Environmental statements of the plants
+Environmental Check
+June 07, 2023 – 
+Mercedes-Benz signed a supply agreement with Swedish start-up H2 Green Steel (H2GS) over approximately 50,000 tonnes almost CO₂-free steel per year for its European press shops and deepened its partnership through a Memorandum of Understanding (MoU) with the aim to establish a sustainable steel supply chain in North America.
+After taking an equity stake in H2GS in 2021, the new supply agreement enables Mercedes-Benz to bring almost CO₂-free steel into series production. The partner plans to start its production during 2025.
+As part of a broader effort to decarbonise the supply chain, Mercedes-Benz and H2GS agreed to aim to establish a supply chain for green steel produced in North America for local Mercedes-Benz manufacturing plants. Extending the strategic partnership with H2GS to North America marks another important milestone in increasingly pursuing the strategy of procuring close to Mercedes-Benz production sites. 
+“With the supply deal of around 50,000 tonnes almost CO₂-free steel from H2 Green Steel for our manufacturing plants in Europe, Mercedes-Benz and H2 Green Steel are accelerating the creation of a decarbonised, regional and resilient steel supply chain. At the same time, we are taking our partnership to the next level with the aim of establishing a sustainable steel supply chain in North America, another important step towards making the auto industry more resilient and sustainable.”
+Almost CO₂ free manufacturing technology
+By using a new, innovate manufacturing process, the production of steel at the H2GS production site is almost CO₂-free. By contrast, steel produced using a classic blast furnace, emits an average of more than two tons of CO₂ per ton. In the new process, the supplier uses hydrogen and electricity from 100% renewable energy sources instead of coking coal in steel production. The hydrogen serves as a reduction gas, which releases and binds the oxygen from the iron ore. Unlike the use of coking coal, this does not produce CO₂, but water vapor. H2GS aims to achieve a footprint of 0.4t CO₂ per ton of steel at start of supply.
+“Together with our strategic partner H2 Green Steel we’ve achieved the next milestone of our local for local strategy in procurement. Based on our initial investment into H2 Green Steel we now have a finalized relevant supply agreement for Europe and are looking at establishing a sustainable steel supply with H2 Green Steel in North America.”
+Decarbonizing the supply chain
+Mercedes-Benz is working with all its suppliers towards a net-carbon neutral[1]Net carbon-neutral means that carbon emissions that are not avoided or reduced at Mercedes-Benz are compensated for by certified offsetting projects. supply chain from 2039 at the latest. To achieve its ambitious climate goals the luxury carmaker is retooling its supply chain to focus on the prevention and reduction of CO₂ emissions rather than off-setting. Already today, the brand with the three-pointed star has introduced low-CO₂ steel, made from scrap, into four series models. This allows CO₂ emissions for the respective steel grades to be cut by more than 60%. Moreover, Mercedes-Benz recently announced to bring aluminium with almost 70% CO₂-reduction compared with the European average into series production as the lightweight material is becoming increasingly important for electric vehicles. At the same time, Mercedes-Benz aims to increase the share of secondary raw materials in its passenger car fleet to an average of 40%. Mercedes-Benz and H2GS agreed to collaborate on levers to increase the scrap content accordingly. 
+“H2 Green Steel exists because pioneering companies in the automotive industry, like Mercedes-Benz, signaled the transition in the steel industry was too slow for them to meet their climate targets. Working side-by-side with Mercedes-Benz, we have a partner with whom we can raise the bar when it comes to supply chain emissions, circularity and social sustainability. They are a very strong player to liaise with for our European operations, but naturally also as we endeavor into the steel value chain in North America”
+Actively pursuing a responsible and sustainable supply chain
+In addition to consequently reducing CO₂ emissions, the company is committed to a responsible steel supply, relying on the application of recognized standards and robust certificates. Mercedes-Benz and H2GS share the same understanding of sustainability and intend to establish highest standards in terms of human rights due diligence along the steel supply chain. Mercedes-Benz is a member of the Responsible Steel Initiativeand is actively involved in the development of a certifiable sustainability standard for the steel industry. The aim is to ensure environmentally compatible and socially acceptable steel production along the entire value chain.
+Climate protection & air quality.
+Further information on sustainability at Mercedes-Benz.
+Climate & environment overview
+Sustainability at Mercedes-Benz.
+At a glance - here you can find our sustainability report, our strategy, news and insights.
+Sustainability overview

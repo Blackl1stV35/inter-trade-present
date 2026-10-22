@@ -1,0 +1,3 @@
+jan2026_first_estimate: Destatis press release no. 017 of 15 Jan 2026 (PD26_017_811, first annual estimate)
+pre_revision / post_revision: Destatis page 'Sommerueberarbeitung 2026 der VGR' (Stand 25 Aug 2026, updated 30 Sep 2026): columns 'Alt' (before) and 'Neu' (after)
+genesis column: GENESIS-Online 81000-0019 / -0023 / -0027 / -0029 / -0001, table lastChange 2026-09-21 (see manifest.json); growth rates marked 'computed' = 100*(chain-linked volume_t / volume_t-1 - 1) from the published volumes, not a published rate.

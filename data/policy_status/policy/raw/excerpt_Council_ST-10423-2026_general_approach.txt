@@ -1,0 +1,60 @@
+# EXCERPT of Council doc 10423/26 (12 June 2026, general approach on 2025/0419(COD)), source: https://data.consilium.europa.eu/doc/document/ST-10423-2026-INIT/en/pdf
+          Council of the
+          European Union
+
+                                              Brussels, 12 June 2026
+                                              (OR. en)
+
+                                              10423/26
+
+       Interinstitutional File:
+          2025/0419 (COD)
+
+                                              ECOFIN 805
+                                              FISC 217
+                                              UD 176
+                                              ENV 706
+                                              CLIMA 317
+                                              CODEC 1146
+
+OUTCOME OF PROCEEDINGS
+
+From:     General Secretariat of the Council
+
+To:       Delegations
+
+Subject:  Draft Regulation of the European Parliament and of the Council amending
+          Regulation (EU) 2023/956 as regards the extension of its scope to
+          downstream goods and anti-circumvention measures
+
+          - General approach
+
+108:        created where the threshold pursuant to Article 2a of Regulation (EU) 2023/956 would
+190:         calculation of the single mass-based threshold.
+207:(10) To ensure that the single mass-based threshold does not exceed 1% of the emissions
+210:        of the threshold should be carried out on the basis of import data covering the downstream
+414:        threshold are to ensure that the number of CBAM certificates on their account in the CBAM
+500:        clearly defined criteria and thresholds, reflecting the risk of carbon leakage associated to
+510:(41a) Regulation [CBAM] already foresees that before 1 January 2028, as well as every two years
+644:        input materials (precursors) listed in Annex VIII should apply from 1 January 2028,
+647:        Regulation (EU) 2023/956, this Regulation should enter into force on the third day
+822:                          the cumulative calculation of the single mass-based threshold.
+1241:              (c) an estimation, based on the value of the threshold referred to in point 1 of
+1571:        `Before 1 January 2028, as well as every two years thereafter, the Commission shall
+1608:                  (v) the application of the single mass-based threshold, including the
+1609:                           possibility of increasing that threshold and of introducing a
+1610:                           supplementary consignment-based threshold;
+1639:This Regulation shall enter into force on the third day following that of its publication in the
+1643:and point 2 of Annex II shall apply from 1 January 2028.
+1777:          thresholds for doors, shutters,
+
+                                                       Article 2
+                                        Entry into force and application
+This Regulation shall enter into force on the third day following that of its publication in the
+Official Journal of the European Union.
+Points 1 and 6 of Annex II, shall apply from 1 January 2026.
+However, Article 1(6), point (a), Article 1(8), points (a), (b) and (c), Article 1(21), (23), and (24),
+and point 2 of Annex II shall apply from 1 January 2028.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels,
+
