@@ -1,0 +1,1006 @@
+Hi Member A
+TITLE: How EU ETS and CBAM Can Strengthen Europe's Long-Term Green Manufacturing Economy: The Case of Germany
+Research bank — EU ETS, CBAM and Germany's manufacturing transition
+Topic: Environmental Protection Policy | Country case: Germany | Policies: EU ETS and CBAM | Product focus: iron and steel supply for manufacturing
+Scope revised: 11 October 2026. The sub-tab “update” contains the current English research brief, 1995–2025 manufacturing observations, pre-2005 trade context, verified company cases and appendix/Q&A material. This main tab retains detailed CBAM background and earlier datasets. Assignment: Chapter 1 policy details; Chapter 2 economic effects and theory; Chapter 3 conclusion and suggestions. Presentation: 20 minutes plus 10 minutes of Q&A, on 16 or 18 November.
+# Research scope and central question
+Revised working title: How EU ETS and CBAM Can Strengthen Europe's Long-Term Green Manufacturing Economy: The Case of Germany.
+Central question: How do EU ETS and CBAM jointly influence the long-term transition towards cleaner steel supply for German manufacturing, and what opportunities and adjustment costs appear in production, trade, investment and company sourcing?
+Study objective: explain domestic cap-and-trade and its import-side complement, then illustrate changes in the international-trade context with historical graphs and dated company evidence. The main narrative examines long-term green manufacturing opportunities; costs, remaining higher-carbon supply and cross-sector exposure support the appendix. Use descriptive observation, without a formal causal hypothesis, regression or independent-variable selection. See “update” for the revised evidence and limitations.
+Institutional boundary: Germany is the country case, but CBAM is established at EU level and complements the EU Emissions Trading System (EU ETS). Germany applies the common framework; it does not independently set a German CBAM tariff. [S1] [S2]
+Evidence boundary: reporting ran from October 2023 through 2025; financial obligations attach to 2026 imports. Pre-2026 changes cannot demonstrate an effect of paid CBAM certificates. Distinguish policy facts, descriptive statistics, model results and your own theoretical predictions throughout the eventual report. [S6]
+# CHAPTER 1 — Policy details and background
+## 1.1 Purpose and connection to the lectures
+Policy rationale: when EU producers face carbon costs but competing imports do not, production can move abroad or imports can replace EU output. Emissions may shift geographically rather than fall globally. CBAM seeks to limit this carbon leakage and encourage cleaner production outside the EU. Its environmental justification is to preserve the effectiveness of domestic carbon pricing. [S2]
+Lecture connection: Reason for domestic protection, pp. 7–9, discusses market failure and intervention; p. 15 defines externalities; pp. 16–17 show negative production and consumption externalities. Steelmaking emissions are most directly linked to the negative production externality diagram: social marginal cost exceeds private marginal cost.
+Export Policy, p. 16, includes environmental controls among trade policies. CBAM can be analysed as an environmental measure with trade effects; it is not an export subsidy. Offshoring of goods and services, pp. 2–4, provides the production-location and trade-cost framework: adding a carbon cost to re-imported steel can alter the profitability of moving production abroad. These are course connections drawn from the three supplied lecture PDFs.
+## 1.2 Policy history and timeline
+2003: EU ETS Directive adopted; 2005: EU ETS launched. The pilot relied predominantly on free allocation and was not a uniform tax on all manufacturing firms. Subsequent phases and allocation reforms matter when interpreting the longer series. [U1]
+14 July 2021: the European Commission proposed CBAM as part of Fit for 55, alongside stronger EU climate policy. [S3]
+2023: the EU adopted Regulation (EU) 2023/956. [S4]
+1 October 2023–31 December 2025: transitional reporting period; no CBAM certificate payments for these imports. [S7]
+October 2025: the EU adopted the simplification amendment, Regulation (EU) 2025/2083. [S5]
+1 January 2026: definitive regime began. [S6]
+1 February 2027: certificate sales begin for the obligations associated with 2026 imports. First annual declaration and surrender for 2026: 30 September 2027. A liability arising in 2026 and its later cash payment are different dates. [S5]
+2026–2034: CBAM is introduced alongside the withdrawal of free EU ETS allocation for covered sectors. [S9]
+## 1.3 Which iron and steel products are covered?
+Annex I identifies goods by customs code, not simply by the word “steel.” It covers most Chapter 72 goods, with specified ferroalloy exclusions and the exclusion of ferrous waste and scrap (7204). It also includes agglomerated iron ore (26011200), selected Chapter 73 headings: 7301–7311, 7318 and 7326. Chapter 73 as a whole is not covered. Use the actual Annex I code list for the final product selection. [S4]
+For the numerical product example below, CN/HS heading 7208 covers hot-rolled flat products of iron or non-alloy steel, at least 600 mm wide, not clad, plated or coated. It is a covered subset, not the entire steel sector. [S14]
+Goods originating in Iceland, Liechtenstein, Norway and Switzerland are outside CBAM; Annex III also lists exempt territories. EU-to-EU purchases do not trigger a new CBAM border charge. Non-EU steel cleared into the EU in another member state may later reach Germany through intra-EU trade, so German direct extra-EU imports do not measure all German consumption of non-EU-origin steel. [S4] [S15]
+## 1.4 Responsibilities and the 50-tonne threshold
+For the mass-based sectors, an importer whose total annual net imports of relevant CBAM goods do not exceed 50 tonnes is exempt. The threshold aggregates the relevant goods across codes per importer and calendar year; it is not 50 tonnes per shipment, steel code or supplying country. Exceeding it brings that year’s imports into the obligations, not only tonnes above 50. Electricity and hydrogen do not use this exemption. [S5]
+The responsible party is the authorised EU CBAM declarant, which may be the importer or an indirect customs representative. German implementation and enforcement are handled by the German Emissions Trading Authority (DEHSt) at the German Environment Agency (UBA). The foreign producer supplies the production/emissions information needed by the declarant. [S6] [S7]
+The 2025 reform was expected to exempt about 90% of affected importers while retaining around 99% of covered emissions. These percentages describe the EU framework, not the shares of German steel tonnage or German firms. [S7]
+A subsequent Commission assessment published in September 2026 found that, using imports from April 2025–March 2026, the threshold would exempt 0.87% of embedded emissions. This is an assessment of threshold coverage, not proof that CBAM has reduced emissions. [S23]
+## 1.5 Carbon measurement, certificate price and payment
+Definitive steel obligations currently concern direct emissions within the prescribed production boundaries, including relevant precursor emissions. Do not use a full life-cycle footprint or automatically add electricity-related indirect emissions to the steel certificate calculation. The transitional reporting requirements included both direct and indirect emissions. Actual emissions require the applicable verification; default values are also available under the definitive rules. [S7] [S10]
+Certificate prices follow EU ETS allowance auction prices. For 2026 the price is a quarterly average; from 2027 it is weekly. A demonstrably paid carbon price in the country of production can reduce the obligation, subject to the applicable rules and rebates. [S6]
+Importers face emissions-data collection, verification where applicable, declaration, certificate and administration costs. These costs can be allocated differently through contracts. The legal payer is not necessarily the person bearing the final economic burden.
+## 1.6 Free-allocation schedule: use the labels carefully
+The table records the legislated CBAM factor applied to the relevant free-allocation benchmark, and its complement. The complement is often used to illustrate gradual phase-in. It is not a universal percentage to multiply by every importer’s actual emissions: the adjustment depends on product benchmarks, route and precursors. [S9] [S10]
+[TABLE]
+Year | CBAM factor (%) | Complement (%)
+2026 | 97.5 | 2.5
+2027 | 95.0 | 5.0
+2028 | 90.0 | 10.0
+2029 | 77.5 | 22.5
+2030 | 51.5 | 48.5
+2031 | 39.0 | 61.0
+2032 | 26.5 | 73.5
+2033 | 14.0 | 86.0
+2034 | 0.0 | 100.0
+[/TABLE]
+## 1.7 Worked example for explaining the mechanism
+Classroom illustration only; all emissions and benchmark inputs in this example are assumed, not measured German data.
+Assume 1,000 tonnes of covered steel; embedded emissions e = 2.0 tCO2e per tonne; applicable embedded free-allocation benchmark b = 1.0 tCO2e per tonne; 2026 CBAM factor f = 0.975; cross-sector correction factor assumed to be 1; no deductible foreign carbon price.
+Simplified certificate requirement = quantity × max(0, e − f × b) = 1,000 × (2.0 − 0.975) = 1,025 certificates.
+At the published Q1 2026 price of EUR 75.36/tCO2e, illustrative certificate cost = EUR 77,244, or EUR 77.24 per tonne of steel. Administration and verification costs are additional. [S8] [S10]
+For comparison, changing only e to 1.2 gives 225 certificates and EUR 16.96 per tonne. The lower-emission product faces a smaller adjustment under these assumptions. Actual declarations require the official product-specific calculation.
+Critical calculation point: “2.5% phase-in in 2026” does not imply cost = 2.5% × actual emissions × certificate price. In this simplified example the free-allocation adjustment is benchmark-based, leaving emissions above the adjusted benchmark payable.
+## 1.8 Environmental policy versus protectionism
+Environmental case: a border adjustment can preserve domestic carbon-pricing incentives and reward lower-emission suppliers. Protection concern: costs, difficult measurement or unequal treatment may disadvantage foreign suppliers and downstream firms. Evaluate the actual design and global environmental effect, rather than judging it solely from its label.
+WTO context: GATT Article XX contains exceptions relating to health and conservation, subject to requirements including avoidance of arbitrary or unjustifiable discrimination and disguised trade restrictions. EU statements describe CBAM as designed to comply with WTO rules; this is not equivalent to a definitive WTO ruling validating every aspect of its application. [S6] [S20]
+Keep CBAM separate from steel safeguards, quotas, anti-dumping duties, sanctions, industrial subsidies and energy policy. They may affect the same market, but they are different instruments.
+# CHAPTER 2 — Economic effects and theory
+The channels below are theoretical predictions relative to a comparable situation without CBAM while holding the EU carbon-policy environment constant. They are not estimates of realised German impacts. Use the datasets later in this tab to describe context and test whether developments are consistent with the mechanisms.
+## 2.1 Price, production and consumption: partial equilibrium
+Simple mechanism: a carbon-related import cost raises the landed cost of exposed steel. If costs are passed through, the price paid by German buyers rises; domestic or cleaner suppliers become relatively more attractive; demand for costly imports declines. This can raise domestic output relative to the counterfactual, while reducing the quantity of steel demanded. Actual changes depend on elasticities, spare capacity, import competition, contracts and alternative EU suppliers.
+The German steel supply curve can also shift because of EU ETS costs, electricity, wages or investment. Therefore a rise in imported steel costs does not guarantee an observed rise in German production. Domestic output could still fall, but fall less than without CBAM.
+Incidence: less price-responsive buyers tend to bear more of a cost increase; more price-responsive buyers encourage exporters to absorb more through lower prices or margins. Importers may absorb part of the cost. Avoid assuming 100% pass-through.
+Services: any effect is indirect through manufacturing, construction, logistics, finance and verification services. Some compliance services may expand while weaker industrial activity reduces other service demand.
+## 2.2 Effects on imports (M)
+Volume prediction: imports of relatively emissions-intensive covered steel may fall or switch to cleaner suppliers. German buyers could substitute German output or other EU supply. Total steel imports need not fall if sourcing is reorganised; intra-EU arrivals could rise as direct non-EU imports fall.
+Value prediction: M = unit value × quantity. A lower physical quantity can coexist with a higher import bill if prices rise sufficiently. Report tonnes and euros separately.
+Measurement: certificate purchases are a compliance payment and should not simply be added to the published customs import value as if they were a payment to the steel exporter. Use the relevant statistical definitions. [S15]
+## 2.3 Effects on exports (X)
+Upstream steel: improved relative competitiveness in the EU market may support German production. However, CBAM targets imports into the EU; it does not automatically compensate German exports for EU carbon costs.
+Downstream exports: carmakers, machinery manufacturers and other steel users can face higher input costs. Their export prices may rise or margins may fall, potentially reducing exports. Steel producers and steel users can therefore experience opposite effects.
+Longer term: investment in lower-emission products may create export opportunities. The size and timing depend on technology costs and willingness to pay for low-carbon steel. Identify the export sector being discussed instead of predicting that all German exports rise.
+## 2.4 Net exports (NX) and the balance of payments (BOP)
+NX = X − M. Reduced import volume alone does not determine the direction of NX: consider import values, downstream export losses, imports of investment equipment and changes in other sectors. A steel-only improvement can coexist with a decline in Germany’s overall trade surplus.
+Goods trade balance is one component of the current account. The current account also includes services and primary/secondary income; the BOP additionally includes capital and financial accounts and statistical discrepancies. A customs trade surplus is not the same as a current-account surplus.
+BOP accounts balance through their accounting structure; “BOP improves” should mean a specified component changes, not that all international accounts become a net surplus. Germany also shares the euro, so its own steel balance does not mechanically determine a separate German exchange rate. [S18]
+## 2.5 GDP and the national-income identity
+GDP = C + I + G + (X − M). This is an accounting identity, not proof that restricting imports makes a country richer. Imports are deducted to remove foreign production already contained in domestic expenditure; domestic value added is what matters for German GDP.
+Possible positive channels: domestic steel value added, retained production, investment, innovation and linked services. Possible negative channels: higher intermediate costs, weaker downstream output/exports and displacement of other investment. Climate benefits may improve welfare even when they are not fully captured by measured GDP.
+Use sector value added to describe economic importance. Explain trade and input-cost channels conceptually; do not turn gross steel sales, jobs or import changes into a causal economy-wide GDP estimate. Additional modelling is outside this assignment's scope.
+## 2.6 Consumption (C)
+Households mostly buy final goods rather than raw steel. Pass-through into vehicles, appliances, housing and other goods can reduce purchasing power or the quantities demanded. Household effects depend on steel’s share of final prices and competing suppliers. Benefits from reduced climate damage are welfare effects; they do not automatically appear as higher household spending.
+## 2.7 Investment (I)
+Cleaner steel becomes relatively more competitive, potentially supporting investment in process efficiency, scrap-based electric-arc furnaces, direct-reduced iron, hydrogen and clean electricity. Compare expected operating savings with capital cost, electricity/hydrogen availability and demand.
+Investment by downstream steel users may weaken if equipment and construction costs rise. Higher green investment can displace other investment or use otherwise idle resources. Announced projects are not completed capital spending; CBAM, EU ETS and subsidies jointly influence investment decisions.
+## 2.8 Government spending (G), taxes and public revenue
+CBAM certificate receipts are public revenue; they are not automatically German government consumption or a conventional tariff on the euro value of steel. Avoid treating the full EU receipts as revenue retained by Germany or assuming a fixed earmark without checking the current budget framework.
+Government administration and spending on infrastructure or industrial support may change. Any effect on G depends on actual budget decisions; transfers and subsidies are not all counted as government final consumption in the GDP identity.
+Corporate, payroll and consumption-tax revenue can rise or fall with profits, employment and spending. Do not estimate a tax gain by equating all certificate payments with new German tax revenue. Timing matters: the 2026 liability is settled later.
+## 2.9 Environment, welfare and distribution
+A useful welfare framework: changes in producer surplus + consumer surplus + net public receipts + environmental benefits − real administrative and transition costs. Avoid double-counting certificate payments as both a real resource loss and a revenue gain.
+Who may benefit: relatively clean producers, protected upstream activity, innovators and beneficiaries of lower climate damage. Who may face costs: importers, steel-intensive manufacturers and buyers exposed to price pass-through.
+Trade diversion and “resource shuffling” can weaken the environmental result: a producer may send its cleanest output to Europe while selling dirtier output elsewhere. Global emissions and installation-level changes are therefore stronger outcome measures than a fall in EU imported emissions alone.
+## 2.10 Theory diagrams to prepare later
+Diagram A — negative production externality: plot price/cost vertically and steel quantity horizontally. Draw demand (marginal benefit), private marginal cost and social marginal cost above it. The unpriced market quantity exceeds the socially efficient quantity. Connect the carbon-price wedge to the lecture’s production-externality discussion; CBAM extends the cost-comparison framework across borders.
+Diagram B — import-market adjustment: show German demand and supply with a reference import price P0 and an exposed landed price P1 = P0 + carbon/compliance cost. Under the small-market, fixed-supply-cost assumption, domestic quantity supplied rises, quantity demanded falls and the import gap narrows. Label this as a simplified model; Germany trades within a much larger EU market.
+Diagram C — clean versus emissions-intensive sourcing: compare two exporters with different embedded emissions. Show how the carbon-related cost changes their delivered-cost ranking. Use the worked example rather than claiming a uniform tariff rate.
+Diagram D — downstream cost channel: shift a steel-using manufacturer’s supply curve upward when steel inputs become more expensive. Show the resulting cost/output trade-off alongside the upstream diagram.
+Large-market qualification: EU demand can affect exporter prices. Foreign suppliers may absorb some cost, creating a terms-of-trade channel. The magnitude requires evidence; Germany alone should not automatically be modelled as setting the world steel price.
+## 2.11 Research evidence and how to use it
+German Environment Agency modelling (2025) compares GEM-E3 and GINFORS-E. It finds that CBAM can reduce leakage and protect sectoral production relative to auctioning without CBAM. GDP effects are smaller and sensitive to model assumptions, including crowding out, spare capacity and trade substitution. Comparing CBAM with continued free allocation gives a different result from comparing it with auctioning without a border adjustment. These are scenario findings, not measured effects of Germany’s 2026 implementation. Use the study to support the mechanisms and explain uncertainty, not to claim an observed German GDP gain. [S19]
+The Commission’s review annex records about 108 million tonnes of CBAM iron-and-steel imports into the EU over Q4 2023–Q2 2025. Germany’s authority received roughly 15,000 iron-and-steel reports, among the highest totals. These are rounded registry figures: reports are not unique companies, tonnage is EU-wide, and the reporting period spans seven quarters. [S21]
+# Data bank — values ready to plot
+Keep each table’s geographical coverage, product definition, units and source vintage in the graph caption. Data series below are descriptive baselines, not causal CBAM estimates. Round only for presentation; use the underlying figures for calculations.
+## Dataset A — German crude steel production
+Unit: million tonnes; annual crude steel output. Source: German Steel Federation 2025, printed p. 9, for 2017–2024; worldsteel annual 2025 release for 2025. Historical values are shown to one decimal place. [S12] [S13]
+[TABLE]
+Year | Crude steel (million tonnes)
+2017 | 43.3
+2018 | 42.4
+2019 | 39.6
+2020 | 35.7
+2021 | 40.2
+2022 | 36.9
+2023 | 35.4
+2024 | 37.2
+2025 | 34.1
+[/TABLE]
+Interpretation: output was already weak before the 2026 charging regime. Plot a line and mark October 2023 as the start of reporting; do not label the 2023–2025 decline as the effect of CBAM payments. Do not mix crude steel output with finished-steel import volumes.
+## Dataset B — Germany’s steel-product trade with all partners
+Unit: million tonnes of “steel mill products,” including rolled/forged products, pipes and cold-rolled products. Includes both intra-EU and extra-EU trade. Source: German Steel Federation 2025, printed p. 30. [S12]
+[TABLE]
+Year | Exports (million t) | Imports (million t)
+2017 | 27.3 | 28.5
+2018 | 26.4 | 28.0
+2019 | 24.8 | 24.5
+2020 | 22.1 | 20.7
+2021 | 24.6 | 25.0
+2022 | 23.2 | 22.8
+2023 | 23.0 | 20.0
+2024 | 22.9 | 18.8
+[/TABLE]
+Use: background on Germany’s steel trade. It is not a measure of CBAM-liable imports or the goods-and-services NX component in GDP. Compute exports minus imports from the displayed rounded values only as an approximate physical balance.
+## Dataset C — German imports from non-EU countries: Chapter 72
+Eurostat Comext DS-045409; reporter DE; partner EXT_EU27_2020; import flow 1; annual frequency; product 72; indicators VALUE_IN_EUROS and QUANTITY_IN_100KG. Retrieved 10 October 2026; source update 15 September 2026. Values below: EUR million, thousand tonnes, and calculated EUR/tonne. [S14] [S15]
+[TABLE]
+Year | Value (EUR m) | Net mass (000 t) | Unit value (EUR/t)
+2019 | 2459.48 | 3341.97 | 735.94
+2020 | 1862.49 | 2833.77 | 657.25
+2021 | 2762.68 | 3337.39 | 827.80
+2022 | 3171.16 | 2697.17 | 1175.74
+2023 | 2107.38 | 2088.99 | 1008.80
+2024 | 1876.92 | 1954.63 | 960.24
+2025 | 1590.95 | 1463.59 | 1087.02
+[/TABLE]
+Definition warning: Chapter 72 includes excluded goods such as scrap and omits covered Chapter 73 goods and ore. Non-EU totals also include exempt origins and small importers. Therefore this is a broad trade proxy, not the taxable CBAM base. Conversion: tonnes = QUANTITY_IN_100KG / 10; unit value = euros / tonnes.
+Use: plot import tonnes and euro values separately to distinguish quantity movements from price/mix changes. A unit value is a weighted product-mix measure, not a pure steel price index.
+## Dataset D — covered-product example: non-EU hot-rolled steel (7208)
+Same Eurostat settings and vintage as Dataset C, changing product to 7208. Unit: EUR million, thousand tonnes, calculated EUR/tonne. This heading is within CBAM’s product scope but does not represent all covered steel. Country and importer exemptions still matter. [S4] [S14]
+[TABLE]
+Year | Value (EUR m) | Net mass (000 t) | Unit value (EUR/t)
+2019 | 63.19 | 91.12 | 693.45
+2020 | 63.58 | 94.20 | 675.01
+2021 | 54.83 | 57.56 | 952.63
+2022 | 70.04 | 50.73 | 1380.62
+2023 | 60.77 | 58.00 | 1047.79
+2024 | 72.71 | 62.42 | 1164.73
+2025 | 33.03 | 32.72 | 1009.32
+[/TABLE]
+Use: plot imported quantity and unit value over 2019–2025. The observations give a product-specific baseline. Do not extrapolate this product’s trend to all iron and steel; supplier/grade composition and routing through other EU states may matter.
+## Dataset E — published 2026 CBAM certificate prices
+Unit: EUR per tonne of CO2e, not EUR per tonne of steel. Q3 was published on 5 October 2026. Q4 was not yet published on the research date; do not insert an assumed price. [S8]
+[TABLE]
+Quarter | Published | EUR/tCO2e
+Q1 2026 | 7 April 2026 | 75.36
+Q2 2026 | 6 July 2026 | 75.28
+Q3 2026 | 5 October 2026 | 82.32
+[/TABLE]
+Use: a three-bar graph of quarterly prices. Translate into steel cost only with embedded emissions, free-allocation adjustment and any eligible foreign carbon-price deduction.
+## Dataset F — German macroeconomic context for 2025
+The GDP and component growth figures below use the January 2026 first annual estimate, preserved as one consistent vintage rather than labelled the latest revised series. Growth rates are price-adjusted year-on-year changes; fixed investment is GFCF and does not include all inventory changes. [S16]
+[TABLE]
+Indicator | 2025 real growth (%)
+GDP | 0.2
+Household consumption (C) | 1.4
+Government consumption (G) | 1.5
+Gross fixed capital formation | −0.5
+Exports of goods and services (X) | −0.3
+Imports of goods and services (M) | 3.6
+[/TABLE]
+Additional nominal context: Germany’s 2025 merchandise exports were EUR 1,562.9 billion and imports EUR 1,362.5 billion, giving a customs trade surplus of EUR 200.4 billion in the February 2026 release. The Bundesbank’s March 2026 analysis put the 2025 current-account surplus at about EUR 203 billion. These measure different things; neither is a steel-only CBAM effect. [S17] [S18]
+Steel context: in 2025 Germany produced 34.1 million tonnes of crude steel; worldsteel reports 69.4% oxygen-process and 30.6% electric-process output. Production route is a context indicator, not an installation-specific CBAM emission factor. [S22]
+# Historical observation plan — Trade and manufacturing context
+## Priority graphs for the eventual presentation
+1. Combined policy timeline: ETS launch in 2005 and subsequent phases; CBAM reporting from 2023 and financial obligations from 2026. Distinguish obligations, certificate sales and payment dates.
+2. Germany manufacturing, 1995–2025: use the real GVA and production series in “update” as separate panels, with clear base years and policy markers. Describe changes without attributing them solely to either policy.
+3. Direct extra-EU Chapter 72 imports, 1999–2025: use the extended “update” table, with tonnes and nominal euros on separate panels. Explain fixed EU composition, product coverage and missing earlier observations.
+4. Sector detail: retain the crude-steel and hot-rolled import datasets below the broader historical context, explaining different product boundaries and unit-value composition.
+5. Cost mechanism: use the certificate price dataset and labelled calculation assumptions to explain the relative cost of cleaner versus more emissions-intensive supply. Avoid a universal charge per tonne of steel.
+6. Company transition illustration: use dated supply agreements, current project milestones and delivery status from “update”; distinguish current products from planned hydrogen-based capacity.
+## How to build a fuller CBAM trade series
+For an Annex I product-exposure aggregate: use Chapter 72, subtract the specifically excluded ferroalloy codes and 7204, then add 26011200 and the covered Chapter 73 headings. Sum non-overlapping codes, not parent headings together with their children. Keep a fixed coverage definition and reconcile annual code changes. [S4] [S14]
+Separate exempt origins using Annex III. National customs data do not identify each importer’s annual 50-tonne threshold or every procedural exception, so even a correctly filtered product/origin series is an exposure estimate rather than an actual certificate bill.
+The complete Germany-specific legally liable tonnage, verified emissions and realised 2026 CBAM payments are not established by the tables here. Actual registry/customs linkage would be needed to determine that base. The research already provides usable observed trade baselines; it does not substitute a fabricated CBAM revenue estimate.
+## Descriptive historical observation method
+Use annual manufacturing observations from 1995–2025 and direct extra-EU steel import observations from 1999–2025. Mark the ETS launch in 2005, CBAM announcement in 2021, reporting in 2023 and financial obligations in 2026. Extend monthly detail only where useful and consistently defined.
+Present descriptive graphs and dated company cases to illustrate the international-trade context. Formal econometric estimation and comparison-group selection are outside the assignment scope. Policy markers provide context, while simultaneous changes prevent a graph alone from identifying a policy effect.
+Discuss energy prices, industrial and construction demand, COVID disruption, Russia-related sanctions and war, exchange rates, other tariffs, safeguards/quotas and ETS free-allocation changes. Explain these as overlapping events rather than selecting independent variables or estimating controls.
+For 2026 use the same months of 2025 as the comparison; do not compare partial-year 2026 with full-year 2025. The annual Eurostat queries used here contain no 2026 value, so the tables end in 2025.
+Track consistently defined real output, nominal trade value and physical trade quantity. Trade unit values can illustrate pricing context with composition caveats. For GDP, tax and employment, explain the relevant channels and use observed sector indicators; advanced economy-wide modelling stays outside the main study.
+# CHAPTER 3 — Conclusion and policy suggestions to develop
+## 3.1 Provisional conclusion
+Provisional position: EU ETS and CBAM can jointly strengthen the long-term green manufacturing transition by improving carbon-cost alignment and incentives for cleaner steel investment and procurement. The benefits depend on affordable clean energy, finance, verified emissions and workable administration. Maintain the policies while monitoring downstream competitiveness and regional adjustment. Current evidence does not establish a precise net German GDP gain or universally cheaper green steel.
+A final recommendation needs evidence that global emissions fall and benefits exceed real compliance, transition and downstream costs. Current baseline data and scenario studies do not establish a precise realised net German GDP or welfare effect.
+## 3.2 Suggestions and conditions
+Improve emissions data and verification: make accurate installation and precursor data practical to supply; update default values transparently. Better data can distinguish cleaner suppliers from dirtier ones. The Commission’s August 2026 steel guidance and corrected default values are useful implementation sources. [S11]
+Simplify compliance while monitoring integrity: retain proportionate treatment of small importers and check whether the threshold preserves emissions coverage; the September 2026 assessment provides a measurable benchmark. [S23]
+Support actual decarbonisation: combine the border adjustment with reliable clean-power, hydrogen and scrap infrastructure and transparent, evaluated support for investment. Border protection alone does not make a plant cleaner.
+Monitor downstream firms and exports: evaluate costs for machinery, automotive and construction users; avoid using upstream gains as the only success measure. The Commission has examined downstream leakage and proposed extensions; describe proposals separately from the currently enacted scope and check their status before presenting. [S11] [S24]
+Recognise valid foreign carbon payments: international cooperation and workable recognition can reduce duplication and encourage partner-country carbon pricing. [S6]
+Check evasion and resource shuffling: use traceable installation data and assess total production emissions, not only goods selected for EU buyers.
+Review outcomes regularly: monitor physical trade, producer/input prices, domestic value added, realised investment, verified emissions per tonne and real administration costs. Compare with a clearly specified counterfactual.
+## 3.3 Useful Q&A prompts
+Why Germany if CBAM is EU-wide? Germany is the country case for implementation and economic incidence; the rules are EU-wide.
+Is CBAM a fixed tariff? No fixed percentage of the import’s monetary value; the certificate obligation depends on embedded emissions and adjustments.
+Who pays? The authorised declarant has the legal obligation; suppliers, importers and buyers can share the economic burden.
+Does “non-EU” mean every origin is charged? No; exempt origins and the importer threshold must be considered.
+Does a fall in imports prove success? No; test global emissions and welfare, as well as costs to downstream sectors.
+Why not just say GDP rises because M falls? The GDP identity is accounting; production, input costs, C, I, G and exports respond together.
+Does 2.5% phase-in mean only 2.5% of every shipment’s emissions is charged? No; the free-allocation adjustment uses benchmarks.
+Can 2024–2025 data prove the effect of 2026 charges? No; they establish baseline conditions and potentially reporting/anticipation effects, which require their own evidence.
+# Source library and citation notes
+Use the source IDs beside the relevant notes; the source titles below are clickable. All web sources were checked on 10 October 2026. Legal rules and data are subject to amendment/revision; refresh the law, prices and 2026 data before the November presentation. Most references are English; the German Steel Federation source is German-language, with English labels supplied for the research notes.
+Course references: Export Policy, p. 16; Offshoring of goods and services, pp. 2–4; Reason for domestic protection, pp. 7–17. These are the supplied course materials and provide the lecture/theory connection, not current CBAM law.
+[S1] European Commission — CBAM overview
+[S2] Council of the EU — CBAM policy explanation
+[S3] European Commission — Original CBAM proposal, 14 July 2021
+[S4] Regulation (EU) 2023/956 — consolidated CBAM law, including Annexes I–III
+[S5] Regulation (EU) 2025/2083 — adopted simplification amendment
+[S6] European Commission — CBAM definitive regime
+[S7] German Environment Agency — CBAM simplification and German implementation
+[S8] European Commission — Official CBAM certificate prices
+[S9] Directive (EU) 2023/959 — EU ETS amendment and CBAM factor schedule
+[S10] Implementing Regulation (EU) 2025/2620 — free-allocation adjustment
+[S11] European Commission — Current CBAM legislation, benchmarks and steel guidance
+[S12] German Steel Federation — Facts and Figures on the Steel Industry 2025 (German original; pp. 9, 30)
+[S13] World Steel Association — December 2025 and annual 2025 steel production
+[S14] Eurostat — International trade in goods database / Comext
+[S15] Eurostat — Trade data definitions and methodology
+[S16] Destatis — GDP up 0.2% in 2025, first annual estimate (15 January 2026)
+[S17] Destatis — Full-year 2025 merchandise trade (6 February 2026)
+[S18] Deutsche Bundesbank — German balance of payments in 2025, Monthly Report March 2026
+[S19] German Environment Agency — Models for EU ETS and CBAM, Summary, Climate Change 77/2025
+[S20] WTO — Environmental exceptions under GATT Article XX
+[S21] European Commission — CBAM application review, COM(2025) 783, annexes (Annex 4, Figure 2)
+[S22] World Steel Association — World Steel in Figures 2026
+[S23] European Commission — CBAM communication and news, including September 2026 threshold assessment
+[S24] European Commission — Consultation on downstream extension (2 July 2025)
+Eurostat replication details for Datasets C and D: dataset DS-045409; freq=A; reporter=DE; partner=EXT_EU27_2020; flow=1; product=72 or 7208; indicators=VALUE_IN_EUROS and QUANTITY_IN_100KG; years 2019–2025. API source timestamp: 15 September 2026. Calculations performed here: convert net mass from 100 kg to tonnes; scale euros to millions and tonnes to thousands; divide euros by tonnes for unit value. Missing observations were not filled with zero. [S14] [S15]
+Evidence labels to keep in the eventual report: “Observed data,” “Policy rule,” “Model-based result,” and “Theoretical/illustrative calculation.” Keep these distinctions even if combining material into a shorter presentation.
+TITLE: How EU ETS and CBAM Can Strengthen Europe's Long-Term Green Manufacturing Economy: The Case of Germany
+update — Revised research brief, evidence and appendix notes
+Updated: 11 October 2026. English research material for the International Trade assignment; this update replaces the previous content of this sub-tab. Main focus: Germany's manufacturing transition through its iron and steel supply chain. Historical observation: 1995–2025, with 2026 policy and company developments where verified. Sources use IDs [U1]–[U35].
+# 1. Revised title, perspective and scope
+The revised title follows the requested long-term green manufacturing perspective. “Can strengthen” identifies the policy mechanism and opportunity without assuming that net economic benefits have already been measured. The study asks how domestic carbon pricing and a border adjustment can improve the relative attractiveness of cleaner materials, support investment and reorganise international sourcing, while recognising transition costs.
+Central question: How do EU ETS and CBAM jointly influence the long-term transition towards cleaner steel supply for German manufacturing, and what opportunities and adjustment costs appear in production, trade, investment and company sourcing?
+Main brief: explain EU ETS as the domestic cap-and-trade framework and CBAM as its import-side complement; illustrate the evolution of German manufacturing and extra-EU steel trade before and after their introduction; use dated company agreements as evidence of supply-chain planning. Positive mechanisms are the central narrative, while costs, remaining high-carbon supply and wider sectoral exposure form the appendix and Q&A.
+Method: descriptive historical graphs, a policy timeline, basic International Trade theory and documented company cases. No student-run Difference-in-Differences regression, independent-variable selection, formal causal hypothesis or estimated treatment effect is required. Policy dates are annotations, not proof of causation. A longer series provides context; it does not by itself solve the attribution problem.
+Scope boundary: Germany remains the country case. Sweden and Finland are regional supplier examples, not additional country studies. Manufacturing is the outcome context; iron and steel remain the product focus. Detailed chemical, electricity-market, econometric and technology-engineering analysis stays outside the main presentation.
+# 2. CHAPTER 1 update — Two climate policies and separate trade measures
+## 2.1 EU ETS and CBAM: how they fit together
+EU ETS limits total covered emissions through a declining cap and tradable allowances. A covered installation must surrender allowances for its emissions; buying allowances or reducing emissions are alternative responses. The system started in 2005. Early phases relied heavily on free allocation and the pilot suffered oversupply, so 2005 was not a sudden, uniform carbon charge on every manufacturing firm. [U1]
+Free allowances for leakage-exposed installations are not the same as exemption from ETS monitoring and surrender. Free allocation affects the net cost while emissions reductions can still save allowances. Distinguish ETS installation coverage and benchmark allocation from CBAM customs-code coverage and importer exemptions. [U2] [U4]
+CBAM is intended to reduce carbon leakage and align the carbon-cost treatment of covered imports with EU production. It can make a cleaner foreign supplier more attractive as well as supporting cleaner EU supply. It is not a prohibition on foreign steel, a requirement to buy European steel or a fixed percentage tariff on the import's euro value. [U3]
+CBAM's definitive regime began on 1 January 2026. The authorised declarant's obligation depends on embedded emissions and applicable adjustments, including free allocation and a recognised foreign carbon price. Certificate prices follow ETS auction prices. The original tab's detailed calculation example remains useful; do not replace it with a universal EUR 200–600 charge per tonne of steel. [U4] [U5]
+For steel, apply the official production boundaries and direct-emissions rules rather than substituting a supplier's entire life-cycle footprint. Electricity-related and life-cycle information is useful when comparing cleaner procurement, but is not automatically the steel CBAM certificate base. Consult current steel-specific guidance. [U34]
+## 2.2 Timeline for descriptive illustrations
+1995–2004: pre-ETS observation window in the manufacturing datasets below.
+2003: ETS Directive adopted; 2005: EU ETS launched; 2005–2007: pilot phase, predominantly free allocation.
+2008–2012: second ETS phase; 2013–2020: third phase with a more harmonised system; 2021 onward: fourth phase. These changes matter when interpreting a long series. [U1]
+July 2021: CBAM proposed; October 2023–December 2025: transitional reporting; January 2026: definitive obligations. [U3]
+2026–2034: CBAM and the withdrawal of relevant ETS free allocation proceed together under the legal schedule. [U4]
+February 2027: certificate sales begin, including certificates for 2026 imports. First declaration and surrender for 2026 imports are due by 30 September 2027. A 2026 liability and its later cash payment are different events. [U35]
+## 2.3 Carbon policy, overcapacity, dumping and sanctions
+Carbon leakage and industrial overcapacity can both affect steel competitiveness, but they are distinct problems. CBAM's stated climate rationale is leakage prevention. Dumping has a specific trade-law meaning and cannot be inferred simply from a low import price; carbon intensity also does not determine material grade or quality.
+The 47% reduction refers to the separate steel tariff-rate quota framework, relative to 2024 safeguard quotas: 18.3 million tonnes annually and a 50% out-of-quota duty. The Council adopted the new framework on 8 June 2026; application began on 1 July 2026. It addresses global overcapacity and replaces the earlier safeguard. It is not a provision of CBAM. [U6] [U7] [U8]
+Russian iron and steel trade is also affected by sanctions and origin restrictions. A decline in Russian supply cannot automatically be assigned to CBAM or to a switch to hydrogen steel. China's suppliers are heterogeneous; avoid calling all Chinese steel “low grade” or all imported steel “dirty.” [U33]
+# 3. CHAPTER 2 update — Long-term trade and manufacturing mechanisms
+## 3.1 Core economic story within the course scope
+Negative externality: emissions create costs beyond the producer's private cost. Carbon pricing changes the comparison between production routes; the lecture's private-versus-social marginal cost diagram explains the rationale.
+International sourcing and comparative cost: firms compare delivered steel costs, quality, reliability and emissions. Carbon costs can narrow the price advantage of more emissions-intensive supply. Transport costs, exchange rates, energy prices and other trade measures also affect that ranking. Cleaner non-EU supply can remain competitive; regionalisation is a possible response rather than a legal requirement.
+Long-run investment and scale: predictable policy, purchase commitments and infrastructure can lower investment risk and encourage cleaner plants. Higher output may spread fixed costs and learning may improve productivity. However, economies of scale alone do not guarantee that hydrogen steel becomes cheaper than conventional steel; hydrogen, electricity, capital, ore quality and utilisation remain important.
+Cost evidence: IEA identifies buyer commitments and public policy as important for building near-zero-emissions material markets. Its 2026 hydrogen analysis finds that cost gaps often remain even with policy support. Salzgitter also states that the new energy inputs are currently more expensive than coal and that a suitable policy framework is needed. Present future cost competitiveness as conditional, not an established universal result. [U19] [U20] [U12]
+## 3.2 Map the mechanisms to the assignment variables
+M, quantity and price: high-emission imports may lose relative price competitiveness; firms may choose cleaner non-EU supply, EU supply or domestic production. Import tonnes and import euros can move differently. The import cost increase need not be passed through fully.
+X: cleaner steel and advanced manufacturing may gain market opportunities, while steel-intensive exporters may face higher input costs. CBAM does not automatically eliminate carbon-cost disadvantages on EU exports. Separate steel exports from automotive and machinery exports.
+NX and BOP: changes in steel sourcing do not determine Germany's total X − M or current account. More intra-EU sourcing can reduce direct extra-EU imports without eliminating imports from Germany's national accounts. Keep customs goods trade and the BOP current account separate.
+Q and P of goods/services: steel production, use and prices may change; related engineering, verification, logistics and construction services can also respond. A higher relative cost for carbon-intensive imports does not guarantee a visible increase in Germany's total manufacturing output.
+GDP, C, I and G: use GDP = C + I + G + NX as an accounting framework. Cleaner investment can support I; higher final-goods costs can affect C; government support and infrastructure influence expenditure. Evaluate German value added rather than assuming lower imports automatically increase GDP.
+Tax and revenue: ETS auction receipts and CBAM certificate receipts are different flows. Neither should simply be treated as new German government consumption. Effects on corporate, payroll and consumption taxes depend on actual profits, employment and spending.
+Employment and adjustment: investment can create construction, engineering and cleaner-production jobs while restructuring removes or transfers other jobs. Aggregate stability can coexist with losses at particular plants and regions. The report should discuss this distribution rather than assuming the adjustment is always small.
+## 3.3 What the current evidence supports
+The Commission reports that covered power-and-industry emissions were around 50% below 2005 levels in 2024; power-sector developments were an important driver. This is an EU ETS aggregate, not a Germany-only steel figure and not a CBAM outcome. It supports discussing the long-run decarbonisation context. [U29]
+OECD research covering the earlier ETS period reports emissions reductions of roughly 10% in 2005–2012 and no negative effect on the measured economic performance of regulated firms. This is published research with its own sample and method, not an estimate produced for this assignment or a finding about 2026 CBAM. It also cautions against assuming an economy-wide negative shock at the launch of ETS. [U30]
+Company agreements below provide observable evidence of demand for lower-emission steel and financing intentions. Their timing, targets and delivery status matter. Several pre-date CBAM's financial regime, so they do not establish that CBAM alone caused the green-material transition.
+# 4. Historical observation data — Ready for illustrative graphs
+## 4.1 Germany manufacturing: 1995–2025
+All series refer to Germany and NACE Rev. 2 Section C, manufacturing. Real GVA is a chain-linked volume index (2020 = 100); production is an annual unadjusted index (2021 = 100); GVA share is manufacturing's share of total GVA at current prices, not its share of GDP. Sources: Eurostat nama_10_a64 and sts_inpr_a, retrieved 11 October 2026. GVA source updated 9 October; production source updated 10 October. GVA observations for 2023–2025 carry a provisional flag. [U22] [U23]
+[TABLE]
+Year | Real GVA / 2020 = 100 | Production / 2021 = 100 | Manufacturing / / total GVA (%)
+1995 | 71.61 | 71.3 | 22.3
+1996 | 69.67 | 71.0 | 21.8
+1997 | 72.47 | 73.5 | 22.0
+1998 | 73.31 | 77.0 | 22.2
+1999 | 74.13 | 78.2 | 21.9
+2000 | 79.37 | 82.7 | 22.6
+2001 | 80.54 | 82.8 | 22.3
+2002 | 78.23 | 81.8 | 21.6
+2003 | 79.11 | 82.0 | 21.7
+2004 | 82.21 | 85.7 | 21.9
+2005 | 83.54 | 88.6 | 21.9
+2006 | 90.78 | 93.8 | 22.6
+2007 | 94.89 | 99.6 | 22.9
+2008 | 92.93 | 100.5 | 22.1
+2009 | 74.42 | 83.2 | 19.4
+2010 | 89.00 | 93.2 | 21.7
+2011 | 97.02 | 101.1 | 22.5
+2012 | 95.32 | 100.0 | 22.4
+2013 | 95.28 | 99.9 | 22.1
+2014 | 100.57 | 101.9 | 22.5
+2015 | 101.56 | 103.0 | 22.5
+2016 | 105.55 | 104.1 | 22.8
+2017 | 109.07 | 106.9 | 22.4
+2018 | 110.50 | 108.1 | 22.0
+2019 | 109.00 | 104.7 | 21.5
+2020 | 100.00 | 95.4 | 20.5
+2021 | 109.12 | 100.0 | 20.6
+2022 | 110.74 | 99.8 | 20.3
+2023 | 107.34 | 98.6 | 20.4
+2024 | 105.64 | 93.8 | 19.9
+2025 | 104.13 | 92.8 | 19.4
+[/TABLE]
+Suggested graph: two separate line panels for real GVA and manufacturing production, with vertical markers at 2005, 2023 and 2026. Keep the original base labels or rebase both series explicitly to 2004 = 100. Do not combine a GVA share, a real output level and a growth rate on one unlabelled axis.
+Observed illustration: real GVA rises from 82.21 in 2004 to 83.54 in 2005; production rises from 85.7 to 88.6. The largest visible downturns are later, including 2009 and 2020. These observations do not establish either a beneficial ETS effect or an absence of firm-level costs. The annual dataset ends in 2025, so it cannot show a completed post-2026 CBAM period.
+## 4.2 Germany's direct extra-EU Chapter 72 imports: 1999–2025
+Eurostat Comext DS-045409; reporter DE; partner EXT_EU27_2020; flow 1 (imports); product 72; freq A. Values are EUR million and net mass in thousand tonnes. Retrieved 11 October 2026; source updated 15 September 2026. This query returned observations from 1999; 1995–1998 and 2026 had no returned values and were not filled with zero. [U24]
+[TABLE]
+Year | Import value / EUR million | Net mass / thousand tonnes
+1999 | 1482.39 | 3831.23
+2000 | 2034.78 | 4295.63
+2001 | 1898.66 | 4089.45
+2002 | 1606.13 | 3376.96
+2003 | 1661.37 | 3349.15
+2004 | 2476.91 | 3906.31
+2005 | 3363.02 | 4744.27
+2006 | 4092.56 | 5309.47
+2007 | 5660.36 | 6290.77
+2008 | 5608.14 | 5961.80
+2009 | 2465.29 | 3503.05
+2010 | 4135.50 | 4527.31
+2011 | 4746.92 | 4701.02
+2012 | 3617.15 | 3819.07
+2013 | 3231.84 | 4058.37
+2014 | 3020.44 | 4126.03
+2015 | 2942.12 | 4497.49
+2016 | 2342.15 | 3943.93
+2017 | 2890.06 | 4623.53
+2018 | 3345.39 | 4666.28
+2019 | 2459.48 | 3341.97
+2020 | 1862.49 | 2833.77
+2021 | 2762.68 | 3337.39
+2022 | 3171.16 | 2697.17
+2023 | 2107.38 | 2088.99
+2024 | 1876.92 | 1954.63
+2025 | 1590.95 | 1463.59
+[/TABLE]
+Partner boundary uses the dataset's fixed extra-EU27 (2020 composition) aggregate; it is not the changing historical EU membership at each date. Chapter 72 includes goods outside CBAM such as scrap and omits covered Chapter 73 products and ore. It also includes exempt origins/importers. German direct extra-EU imports omit non-EU-origin material first cleared elsewhere in the EU and subsequently supplied to Germany. Treat this as a consistent broad trade context, not the CBAM taxable base or verified carbon intensity. [U4] [U25]
+Suggested graph: plot physical imports separately from nominal value; annotate ETS launch, the financial crisis, COVID disruption, the 2022 energy/war shock and CBAM reporting. Explain simultaneous events verbally. Do not title this graph “The causal effect of ETS/CBAM.”
+## 4.3 Correct statistics for Germany's manufacturing importance
+Germany accounted for 26% of EU sold industrial production value in 2025; the EU total was about EUR 6.1 trillion. PRODCOM sold production includes its specified industrial activities and is not GDP or national-accounts GVA. The share supports Germany's regional importance but does not measure its GDP contribution. [U26]
+From the retrieved national-accounts data: manufacturing was 19.9% of Germany's total GVA in 2024 and 19.4% in 2025. The comparable EU27 figure was 15.9% in 2024. Do not use the screenshot's 14% as Germany's manufacturing GDP share. [U22]
+Germany's national-accounts manufacturing employment was 7.490 million in 2023, 7.415 million in 2024 and 7.262 million in 2025 (domestic employment concept). These are consistent full-sector observations, rather than an unqualified 5.5 million figure. The screenshot's 20.8% should not be called the share of the entire national workforce without a verified denominator. [U28]
+Eurostat's structural business statistics report around 30.2 million persons employed in EU manufacturing in 2023, representing 18.5% of the defined business economy's employment. This is a different statistical universe from national-accounts total employment. Do not mix these denominators. [U27]
+# 5. Company case bank — Cleaner materials and documented agreements
+## 5.1 Germany: Thyssenkrupp Steel and Volkswagen
+Current-product route: bluemint is a product family. The 2021 release distinguishes bluemint pure from bluemint recycled; the latter uses specially processed scrap in the blast furnace. Recycling-based or allocated emission reductions are not identical to hydrogen-based DRI production. Avoid describing every current bluemint product as hydrogen steel. [U11]
+Dated agreement: Volkswagen and Thyssenkrupp signed an MoU on 22 October 2024 for planned low-carbon steel supply from a future direct-reduction plant. That announcement envisaged commissioning from 2027, initially using natural gas before a progressive switch to hydrogen, and supply beginning in 2028. This is a future-supply MoU, not evidence that the hydrogen route was already supplying all Volkswagen steel. [U10]
+Use in the argument: automotive buyers are signalling demand for lower-emission materials and suppliers are planning a different production route. The case supports the transition narrative; it does not isolate a CBAM effect or establish realised cost parity.
+## 5.2 Germany: Salzgitter SALCOS and hydrogen procurement
+SALCOS combines direct reduction with electric-arc-furnace processing and aims to replace blast furnaces in stages. The current company page gives 2027 for the first DRP/EAF production and the mid-2030s for full conversion, with a potential reduction of up to about 95%. These are project milestones and target savings, not confirmation that coal has already been removed from all operations. [U12]
+On 9 June 2026 Salzgitter and EWE announced a long-term supply agreement for 10,000 tonnes of green hydrogen annually. The initial contract term is seven years and the volume covers around 6.5% of SALCOS hydrogen requirements. It is tangible procurement evidence, but neither that contract nor the company's own electrolysis covers the entire planned demand. [U13]
+## 5.3 Sweden supply chain: Mercedes-Benz, BMW and Stegra
+Mercedes-Benz records a June 2023 supply agreement with Stegra, formerly H2 Green Steel, for approximately 50,000 tonnes of lower-carbon-footprint steel per year. Mercedes-Benz is the buyer; Stegra is the steel producer. Do not describe Mercedes-Benz as operating Stegra's steel plant. [U14]
+BMW's 20 October 2021 announcement records an agreement to source hydrogen/renewable-power steel for European plants, with original planned first deliveries from 2025 and up to 95% lower production emissions. It does not establish replacement of all BMW steel or all blast-furnace supply. [U15]
+Current delivery caution: Stegra's 30 September 2026 project review says additional capital is needed to complete the Boden project, following higher completion and ramp-up costs. Therefore the original customer announcements' 2025 delivery expectations must not be presented as verified deliveries. Describe these cases as contracts/plans and update delivery status before the November presentation. [U16]
+## 5.4 Sweden: SSAB and Volvo Group
+Volvo Group unveiled a mining/quarrying load carrier using SSAB fossil-free steel on 13 October 2021. This is a documented early application. It pre-dates paid CBAM obligations and is not evidence that the whole European vehicle sector has switched steel routes. Distinguish Volvo Group from Volvo Cars. [U17]
+## 5.5 Finland: Outokumpu
+Outokumpu reports 97% recycled material content in 2025, including recycled steel and other recycled metals. Use the specific year and definition instead of saying “90% steel scrap” for all grades and periods. This illustrates a recycling-based route alongside hydrogen-based primary steel. [U18]
+For EU-produced stainless steel supplied within the EU, no new CBAM border import arises merely because Germany buys from Finland. That territorial point is different from saying the footprint is zero. Imports made by the same company from a non-EU plant would require their own origin and product assessment. [U4]
+# 6. Appendix A — Remaining material profiles and cleaner alternatives
+The following observed products continued to enter Germany directly from non-EU countries in 2025. They are selected, non-overlapping profiles, not a complete CBAM total. Comext settings match section 4.2, changing the product code and fixing year 2025. Physical units are thousand tonnes; monetary units are EUR million. [U24]
+[TABLE]
+CN code | Material profile | Net mass / thousand tonnes | Import value / EUR million
+7207 | Semi-finished iron/non-alloy steel | 175.16 | 88.64
+7208 | Hot-rolled flat iron/non-alloy steel | 32.72 | 33.03
+7209 | Cold-rolled flat iron/non-alloy steel | 1.57 | 1.90
+7210 | Coated/clad flat iron/non-alloy steel | 51.52 | 59.73
+7219 | Stainless steel flat products | 9.94 | 35.03
+7304 | Seamless iron/steel tubes | 87.38 | 233.39
+7306 | Welded/other iron/steel tubes | 159.44 | 232.36
+26011200 | Agglomerated iron ore | 2035.12 | 238.23
+[/TABLE]
+A customs code identifies the product, not the furnace route, grid mix or hydrogen source. Continued imports do not prove that their carbon footprint stayed unchanged. To classify supply as higher or lower carbon, link supplier/installation information and verified emissions to the imported product and year. Do not use Chinese, Russian, EU or low-price origin as a substitute for emissions evidence.
+## 6.1 Practical material comparison for the defense
+Conventional blast furnace/basic oxygen furnace steel: coal/coke-based primary ironmaking is usually more emissions-intensive; steel quality may still be high. It remains an important global route. [U21]
+Scrap-based EAF steel: recycling reduces the need for ore reduction, but results depend on electricity, scrap quality and residual/alloy content. It is a cleaner option in appropriate conditions, not a guarantee of zero emissions.
+Natural-gas DRI with EAF: can reduce emissions relative to conventional coal-based primary production but still uses fossil fuel. A DRI label does not automatically mean hydrogen or fossil-free.
+Hydrogen DRI with EAF or suitable melting equipment: the emissions advantage depends on genuinely low-emission hydrogen/electricity and supply-chain inputs. New capacity, capital and infrastructure are needed; Thyssenkrupp's planned melting configuration should not be described as identical to every DRI-EAF project. [U10] [U12] [U21]
+Stainless/alloy steel: nickel, chromium and other inputs can be important in a wider footprint. High recycled content does not make all grades directly interchangeable with automotive flat carbon steel. Compare products that meet the same technical requirements.
+Procurement evidence checklist: customs code and grade; origin and installation; production route; scrap/DRI share; hydrogen and electricity source; measured emissions with boundary and unit; verification/certification; delivery year and volume; price or premium where disclosed. Product EPD/life-cycle claims and legally calculated CBAM emissions answer different questions. [U34]
+# 7. Appendix B — Broader costs and sectors for Q&A/future study
+This is a brief evidence-led exposure scan, not a new statistical market survey. Its purpose is to identify channels and useful questions beyond the main manufacturing case. A potential cost channel is not proof of a realised loss caused by either policy.
+## 7.1 Where adverse effects or transition pressures may appear
+Upstream steel and exposed regions: restructuring, capacity rationalisation and financing strain can accompany the transition. Thyssenkrupp's November 2024 plan combined about 5,000 job reductions by 2030 with around 6,000 positions transferred to outside providers or affected by business sales. It cited structural market change, weak competitiveness and cheap imports, particularly from Asia. The 11,000 headline is not 11,000 completed dismissals or a measured CBAM effect. Thyssenkrupp is an upstream steel producer, so costs cannot be described as confined to downstream firms. [U9]
+Automotive, machinery and fabricated metals: possible input-price increases, data/compliance burdens and competition with imported finished goods. A downstream manufacturer may bear steel costs without benefiting equally from protection of primary steel. The EU is considering a downstream CBAM extension; Parliament's 15 September 2026 amendments were referred for interinstitutional negotiations, so the proposed 2028 extension is not the same as the enacted 2026 scope. [U32]
+Construction and infrastructure: steel and cement input costs can affect project budgets, imported materials and housing/infrastructure investment. Separate effects of demand, interest rates and national procurement from carbon-policy cost pass-through. [U3]
+Agriculture and food chains: fertiliser is a CBAM sector; farms can face an indirect input-cost channel even though farming is not steel manufacturing. Fertiliser prices also depend heavily on gas, supply disruption and world demand. [U3]
+Electricity and energy-intensive industries: ETS affects covered power and industrial installations; potential electricity-price pass-through exposes other users. Refineries, chemicals, cement, ceramics, glass and paper illustrate a wider ETS context. CBAM's currently selected sectors are narrower than ETS coverage. [U1] [U3]
+International shipping and logistics: shipping entered ETS from 2024. Carbon-related voyage costs can be passed into freight and influence routing; those costs are distinct from the emissions of the steel itself. CBAM also adds importer data and declaration tasks. [U31]
+Aviation and cross-border services: aviation's inclusion in ETS from 2012 gives a separate carbon-cost and competitiveness channel. It is not part of the steel CBAM product scope. Broad consumer and regional distribution effects deserve future study rather than being assumed negligible. [U1]
+## 7.2 Limits to the “only a small shock” interpretation
+A sector average can conceal strong local adjustment. The large restructuring plan and Stegra's financing needs make an unconditional “only minor job, production and energy shocks” claim unsafe. They also do not prove that carbon policy caused those problems. Use dated events to discuss the combined pressures and transition risks. [U9] [U16]
+Future study topics: actual cleaner-material deliveries and plant emissions; downstream price pass-through and export competitiveness; regional employment/retraining; hydrogen and clean-power costs; changes in freight and sourcing; exporter carbon-data capacity; resource shuffling; interaction with safeguards and sanctions. These are further questions, not regression tasks for the present assignment.
+# 8. Screenshot claim checks — Wording to use in the report
+Claim: manufacturing GDP barely changed, therefore CBAM had no effect. Correction: the screenshot has neither a clear unit nor a full series definition and appears to show a rate rather than a GDP level. Even a correctly defined stable aggregate cannot identify a policy effect. Replace it with the official GVA/production series and a descriptive interpretation.
+Claim: Germany's manufacturing GDP share is 14%, with 26% industrial weight. Correction: 26% is its 2025 share of EU sold industrial production, while national GVA shares and EU averages are different indicators. Use 19.4% of German GVA in 2025 and identify the exact statistic. [U22] [U26]
+Claim: 5.5 million workers means 20.8% of Germany's whole workforce. Correction: the figure may use a narrower enterprise-size or employment definition; the screenshot does not establish it. Use national-accounts Section C employment or another fully labelled series consistently. [U28]
+Claim: CBAM cut tariff-free steel quotas by 47%. Correction: the cut belongs to the separate steel trade measure, with a 2024 quota comparison and application from July 2026. [U6] [U8]
+Claim: CBAM caused Thyssenkrupp to dismiss 11,000 people. Correction: the 2024 plan predates the definitive CBAM regime and includes transfers/sales as well as planned cuts. It cannot establish that causal statement. [U9]
+Claim: green steel is already universally cheaper and cost parity is proven. Correction: supply agreements show buyer commitment; current cost and financing evidence still shows a premium or gap in many settings. State conditions for future competitiveness. [U19] [U20]
+Claim: contracts show that all automotive steel has changed to hydrogen production. Correction: distinguish buyer from producer, MoU from supply contract, target volume from delivered tonnes, and original from revised dates. [U10] [U14] [U15] [U16]
+Other screenshot figures, such as 67 distressed regions, 26 German regions, an annual EUR 50 billion outsourcing loss, EUR 7 billion subsidies and a 1.5% manufacturing rebound, are not needed for the core argument and are not validated here. Do not insert them as established facts without a specific original source, year, definition and method.
+# 9. CHAPTER 3 update — Conclusion direction and presentation brief
+Provisional conclusion: EU ETS and CBAM can support cleaner material choices by changing carbon-cost comparisons and reducing leakage incentives. The company cases show a developing regional market for lower-emission steel. This is a reasonable long-term green manufacturing narrative, while the magnitude of Germany's realised net benefit remains unmeasured by these descriptive notes.
+Suggested policy position: retain a predictable climate-policy framework while improving emissions data, affordable clean power/hydrogen, infrastructure and proportionate compliance. Monitor downstream competitiveness, global emissions and regional employment; support retraining and practical supplier verification. Separate climate-policy design from trade-defense decisions.
+Suggested 20-minute allocation: 2 minutes for Germany and the question; 4 minutes for ETS/CBAM and the timeline; 4 minutes for historical graphs; 5 minutes for company cases and trade mechanisms; 3 minutes for costs and conditions; 2 minutes for conclusion. Keep the material profiles, statistics definitions and wider sectors in the Q&A appendix.
+## Defense questions and concise answers
+Why expand before 2005? To show the earlier manufacturing and trade context before domestic ETS carbon pricing; it is an illustration, not a causal evaluation.
+Why remove DiD? This assignment explains trade mechanisms and observed developments. A credible causal study would require a separate design and data exercise.
+Did CBAM force these contracts? The dates show several commitments before 2026; ETS, expected policy, subsidies, buyer targets and technology also matter.
+Is DRI always fossil-free? No. It can use natural gas; hydrogen and electricity sources determine the emissions result.
+Can China supply cleaner steel? Yes, assess installation and route rather than assigning carbon intensity by nationality.
+Are all negative effects downstream? No. Steel producers, regions, importers and energy/logistics users can also face costs.
+Has CBAM's German GDP effect been shown to be zero? No; this research does not estimate it.
+Why is Finland-to-Germany steel outside a new CBAM border charge? It is intra-EU supply, subject to its own production-policy context; low emissions and territorial coverage are separate issues.
+# 10. Source library and replication details
+Source titles below are clickable. Company sources establish what the company announced, including plans and targets; they are not independent impact evaluations. All notes are written in English. Statistical values were retrieved on 11 October 2026; refresh policy and project status before presenting in November.
+[U1] European Commission — EU ETS: operation, history and phases
+[U2] European Commission — Carbon leakage and free allocation
+[U3] European Commission — CBAM overview
+[U4] Consolidated CBAM Regulation (EU) 2023/956, including current product scope
+[U5] European Commission — Definitive CBAM regime
+[U6] Council of the EU — Adoption of the new steel trade measure, 8 June 2026
+[U7] European Commission — Steel quota factsheet: 18.3 million tonnes
+[U8] Council of the EU — Steel measure agreement and 47% comparison, 13 April 2026
+[U9] Thyssenkrupp Steel — Restructuring plan, 25 November 2024
+[U10] Volkswagen Group — Thyssenkrupp low-carbon steel MoU, 22 October 2024
+[U11] Thyssenkrupp Steel — bluemint product family and recycling route
+[U12] Salzgitter — SALCOS technology, current milestones and cost conditions
+[U13] Salzgitter — EWE green hydrogen supply contract, 9 June 2026
+[U14] Mercedes-Benz — 2023 company history, including the 50,000-tonne supply deal
+[U15] BMW Group — H2 Green Steel agreement, 20 October 2021
+[U16] Stegra — Project review and further capital requirement, 30 September 2026
+[U17] Volvo Group — Vehicle using SSAB fossil-free steel, 13 October 2021
+[U18] Outokumpu — 2025 environmental and recycled-content figures
+[U19] IEA — Demand and supply measures for the steel and cement transition (2025), executive summary
+[U20] IEA — Global Hydrogen Review 2026: cost acceptability
+[U21] IEA — Steel production routes and transition, Breakthrough Agenda Report 2025
+[U22] Eurostat — Manufacturing GVA, nama_10_a64
+[U23] Eurostat — Annual industrial production, sts_inpr_a
+[U24] Eurostat — International trade in goods / Comext database
+[U25] Eurostat — Detailed trade definitions and methodology
+[U26] Eurostat — Sold industrial production, including Germany's 26% share in 2025
+[U27] Eurostat — Manufacturing businesses: 2023 EU employment and business-economy scope
+[U28] Eurostat — Employment by industry, nama_10_a64_e
+[U29] European Commission — 2025 Carbon Market Report: emissions from power and industry
+[U30] OECD — ETS emissions and firm economic performance (2018 working paper)
+[U31] European Commission — Shipping sector emissions and EU ETS
+[U32] European Parliament — Downstream CBAM proposal status, 15 September 2026
+[U33] Council of the EU — Russia sanctions and import restrictions
+[U34] European Commission — CBAM steel guidance and implementing legislation
+[U35] European Commission — Certificate prices and February 2027 sales
+Replication — manufacturing: nama_10_a64, freq=A, geo=DE, nace_r2=C, na_item=B1G, unit=CLV_I20 and PC_TOT, sinceTimePeriod=1995; sts_inpr_a, freq=A, indic_bt=PRD, nace_r2=C, s_adj=NSA, unit=I21, geo=DE, sinceTimePeriod=1995. EU GVA comparison uses geo=EU27_2020. Employment: nama_10_a64_e, geo=DE, nace_r2=C, na_item=EMP_DC, unit=THS_PER, freq=A. [U22] [U23] [U28]
+Replication — trade: DS-045409, freq=A, reporter=DE, partner=EXT_EU27_2020, flow=1, product=72, indicators=VALUE_IN_EUROS and QUANTITY_IN_100KG, sinceTimePeriod=1995. Selected profiles use the eight displayed codes and time=2025. Convert 100-kg units to tonnes by dividing by 10, then to thousand tonnes by dividing by 1,000; convert euros to millions by dividing by 1,000,000. Missing observations stay missing. [U24] [U25]
+TITLE: Graph simulations: EU ETS, CBAM and green manufacturing
+Germany case study | English explanation pack | 12 October 2026
+Purpose: illustrate the mechanisms discussed in the lecture and explain which curves move, why they move, and how the diagrams support the International Trade presentation. Figures 1–3 are the recommended main graphs; Figures 4–6 are supplementary.
+All numerical values, slopes, equilibria and shifts in this tab are invented teaching examples. Prices are index units and quantities are illustrative units, not euros, tonnes or observed German outcomes. These graphs do not estimate policy effects, establish causality, or replace the historical datasets in “update”.
+# How to read the figures
+Blue represents the initial situation; green represents the assumed change; grey/dark lines represent other curves. D means demand; S means supply; Qs means domestic production; Qd means domestic use; M = Qd − Qs when the market imports.
+Distinguish a shift of a curve from movement along it. A carbon cost changes the relevant supply/cost schedule or delivered import price. A change in buyer preferences shifts demand. A higher price alone moves quantity along an unchanged demand curve.
+Each figure isolates one channel. Their different outcomes should not be combined into a numerical German GDP forecast. Actual EU ETS is cap-and-trade on emissions, and actual CBAM liabilities depend on emissions and legal adjustments; neither is the uniform illustrative 20-unit charge used below. [G4] [G5]
+## Suggested placement in the report
+Chapter 1: Figure 1 for the environmental rationale, together with the policy timeline. Chapter 2: Figures 1–3 for cost, trade and production mechanisms; Figure 4 for procurement cases. Appendix/Q&A: Figures 5–6 for wider input-cost and workforce questions. Chapter 3: use the conditions and limits to explain the policy recommendation.
+# 1. EU ETS: negative production externality
+Figure 1. A corrective carbon-cost illustration adapted from the negative production externality topic. Simulation, not an estimated ETS effect.
+Lecture link: Reason for Domestic Protection, “Does Trade Help or Harm the Environment?” and Negative Production Externality, PDF pages 15–17. The lecture also uses a world-price framework; this adaptation first isolates a closed-market welfare mechanism. [G1]
+Setup: demand P = 120 − Q; private marginal cost PMC = 20 + Q; social marginal cost SMC = 40 + Q. The gap of 20 represents assumed marginal environmental damage. All parameters are invented.
+Curve change: adding an illustrative carbon cost of 20 raises the effective private cost schedule to PMC + 20, which coincides with SMC in this example. Demand stays fixed. The market point is Q = 50, P = 70; the social optimum is Q = 40, P = 80. The shaded triangle represents avoidable welfare loss from excess production in this simplified model.
+Presentation explanation: “Carbon pricing makes firms account for a cost previously borne by society. It can encourage lower-emission processes as well as changes in output.” ETS caps covered emissions rather than imposing a steel-output quota. Abatement, free allocation and trade make actual responses more complex. [G4]
+Limit: the carbon cost was deliberately set equal to marginal damage. The diagram does not show that the real ETS price achieves the exact social optimum, that German steel output must fall, or that its shaded area measures Germany's welfare gain.
+# 2. CBAM: the import-cost channel
+Figure 2. An assumed carbon-related increase in the delivered import price narrows the import gap, holding domestic curves fixed.
+Lecture link: adapt the S–D/world-price geometry from Reason for Domestic Protection, page 16. This is a new CBAM illustration, not an unchanged lecture figure or an export-tariff diagram. [G1]
+Setup: domestic inverse supply P = 20 + Qs; inverse demand P = 120 − Qd. The initial import price is 40; an invented 20-unit carbon cost raises it to 60. Assume a price-taking importing market, homogeneous goods, full pass-through, no cheaper alternative supply and unchanged domestic production costs.
+Curve change: lift the horizontal delivered-import-price line from 40 to 60. Do not shift domestic S right merely because imports become more expensive. At price 40, Qs = 20, Qd = 80 and M = 60. At price 60, Qs = 40, Qd = 60 and M = 20: production and use move along their existing curves.
+Presentation explanation: “A carbon cost can reduce the relative price advantage of more emissions-intensive imported steel. Domestic suppliers may gain, while steel users face an input-cost channel.” Interpret the importing market as a stylised EU market relevant to Germany, not a separate German CBAM tariff.
+Limit: the uniform charge is illustrative; actual suppliers differ in emissions and applicable adjustments. Cleaner foreign supply, incomplete pass-through and limited EU capacity may change the response. ETS-related domestic cost changes are intentionally held fixed here. Imports falling does not establish a net GDP, welfare or global-emissions benefit. [G5]
+# 3. Supporting green production: a subsidy
+Figure 3. A separate per-unit production subsidy lowers the effective supply schedule while the buyer price is held fixed.
+Lecture link: Export Policy, section 2 “Production Subsidy”, especially the small-country graph on page 6; page 7 adds possible world-price feedback. The fixed-price illustration is used for clarity, not to classify Germany or the EU as economically small. [G2]
+Setup: original supply P = 40 + Qs; demand P = 150 − Qd; buyer price fixed at 70. An invented subsidy s = 20 per unit makes the effective supply schedule P = 20 + Qs.
+Curve change: supply shifts down/right; demand and the buyer price remain unchanged. Domestic output rises from 30 to 50; domestic use stays at 80; imports fall from 50 to 30. Producers receive 70 + 20 = 90 on the new output. Government outlay is s × Qs = 20 × 50 = 1,000 illustrative units.
+Presentation explanation: “Producer support can help expand cleaner capacity, but it uses public funds.” This represents a supporting industrial-policy channel, not CBAM itself. The diagram does not require households or downstream users to pay a higher price under its fixed-world-price assumption.
+Limit: actual green-steel support may be a capital grant or another instrument, not a per-tonne subsidy. S1 includes support; it does not mean technology's resource cost immediately fell. A later genuine cost reduction could shift supply further, but economies of scale, clean-energy prices and utilisation must support that claim. No universal green-steel cost parity is assumed.
+# 4. Procurement: demand for cleaner materials
+Figure 4. Assumed preference changes shift demand between two material profiles; each profile's short-run supply astays fixed.
+Lecture link: adapt the Consumption Effect / demand-shift idea in Reason for Domestic Protection, page 13. This two-market adaptation separates higher-carbon and lower-carbon material profiles. [G1]
+Setup: supply in each panel is P = 20 + Q. For the higher-carbon profile, demand changes from P = 100 − Q to P = 80 − Q. For the lower-carbon profile, it changes from P = 80 − Q to P = 100 − Q.
+Curve change: higher-carbon demand shifts left/down, so Q falls from 40 to 30 and P from 60 to 50. Cleaner-profile demand shifts right/up, so Q rises from 30 to 40 and P from 50 to 60.
+Presentation explanation: “When buyers put greater value on lower emissions, demand can move towards cleaner steel. With limited short-run capacity, stronger demand can initially raise its price.” Use this alongside the dated automotive supply agreements in “update”; they show buyer commitments rather than a measured demand-curve shift.
+Limit: a CBAM price increase by itself creates movement along demand, as in Figure 2. This figure instead assumes a preference/procurement change. Contracts, product grades, technical compatibility and emissions verification matter; the two profiles are not automatically interchangeable. The equal total quantity in this example is a chosen parameter outcome.
+# 5. Offshoring: a higher relative input price
+Figure 5. A higher component-to-R&D price ratio makes the trading price line steeper while the PPF remains unchanged.
+Lecture link: Offshoring of Goods and Services, “Offshoring Graph”, the goods-market panel on page 4 and the PPF illustration on page 5. This is an abstract two-activity model, not a measured map of Germany's steel sector. [G3]
+Setup: components are on the horizontal axis; R&D/services are on the vertical axis. Keep the PPF fixed at Qc² + QR² = 10,000. Normalise the R&D price to 1 and raise Pc/PR from 0.5 to 1.0. A denotes production; C denotes consumption; dotted lines are indifference curves.
+Curve change: the price-line slope is −Pc/PR, so it becomes steeper. Production moves along the same PPF from A0 ≈ (44.7, 89.4) to A1 ≈ (70.7, 70.7). With the stated model preferences, consumption moves from C0 ≈ (178.9, 22.4) to C1 ≈ (113.1, 28.3); component imports fall from about 134.2 to 42.4.
+Presentation explanation: “Higher imported-input costs can weaken gains from offshoring and alter the sourcing/production mix. A change in relative prices does not itself expand productive capacity.” In this chosen component-importing example the attainable utility falls.
+Limit: the calculation assumes preferences U = Qc^0.8 × QR^0.2, flexible production and no rebate or other policy response. Treat it as a higher-input-price analogy; CBAM revenue recycling, environmental benefits and actual value chains are outside this model. It proves neither a German welfare loss nor actual reshoring.
+# 6. Workforce: relative labour demand
+Figure 6. A conditional increase in relative demand for higher-skilled labour raises the model's relative wage and employment ratio.
+Lecture link: Offshoring of Goods and Services, relative labour-market diagrams on page 4 and the supply/demand example on page 10. Lecture charts using US or Mexican observations are not German evidence. [G3]
+Setup: r = H/L is relative employment; w = wH/wL is relative wage. Supply is w = 0.8 + 0.8r; initial demand is w = 2.2 − 1.2r; assumed new demand is w = 2.6 − 1.2r. H and L represent higher- and lower-skilled groups, not automatically green and conventional workers.
+Curve change: relative demand shifts right/up; relative supply is fixed. The model equilibrium changes from r = 0.70, w = 1.36 to r = 0.90, w = 1.52.
+Presentation explanation: “If the transition increases relative demand for specialised technical skills, wage and employment composition can change. Retraining and skills supply may help adjustment.” The direction is a stated assumption, not a result established by the corporate cases.
+Limit: H/L can increase while total employment rises, falls or stays constant. This diagram cannot explain a specific job-loss total, identify the skills of displaced workers, or attribute Thyssenkrupp's restructuring to CBAM. Use actual occupational, wage and regional data before making such claims.
+# Presentation and Q&A notes
+Recommended main sequence: Figure 1 explains the environmental rationale; Figure 2 explains border-cost alignment and the upstream/downstream trade-off; Figure 3 explains complementary support and its fiscal cost. Figure 4 connects the mechanisms to procurement cases. Keep Figures 5–6 in the appendix unless there is time and appropriate evidence.
+## Questions these graphs can answer
+Why do different figures predict different quantities? They isolate different markets and shocks. A domestic carbon cost, an import-cost change and a producer subsidy are distinct interventions. Do not add their numerical outcomes together.
+Does a demand shift prove cleaner steel is cheaper? No. Figure 4 raises the cleaner-profile price when supply is fixed. A later supply expansion or real cost reduction needs separate evidence.
+Can an unchanged manufacturing GDP graph mean no impact? No. Aggregate data can hide offsetting and local changes; these diagrams also omit many macroeconomic channels. Historical graphs describe context without identifying causality.
+How should the conclusion use them? Discuss the conditions for cleaner investment and sourcing, together with adjustment and fiscal costs. Use observed data to assess what happened; use diagrams to explain plausible mechanisms.
+# Lecture and policy references
+[G1] Assoc. Prof. Attasuda Lerskullawat — Reason for Domestic Protection, supplied lecture PDF: page 13 (Production/Consumption Effect), pages 15–17 (externalities).
+[G2] Assoc. Prof. Attasuda Lerskullawat — Export Policy, supplied lecture PDF: pages 5–7, Production Subsidy.
+[G3] Assoc. Prof. Attasuda Lerskullawat — Offshoring of Goods and Services, supplied lecture PDF: pages 2, 4–5 and 10. Page references count PDF pages, including the title page.
+[G4] European Commission — About the EU Emissions Trading System
+[G5] European Commission — Carbon Border Adjustment Mechanism
+All figures are original redraws adapted to the assignment. Simulated equations and values are disclosed above; policy sources support the policy descriptions, not the invented numerical effects. For observed manufacturing/import data and company sources, use the “update” sub-tab.
+เนื้อหาทั้ง 5 หัวข้อนี้มีจุดประสงค์หลักเพื่ออธิบายว่า ต้นทุนพลังงานและนโยบายลดการปล่อยคาร์บอนของสหภาพยุโรป (EU) ส่งผลต่ออุตสาหกรรมเหล็กและภาคการผลิตของเยอรมนีอย่างไร โดยครอบคลุมตั้งแต่เงินสนับสนุน วัตถุดิบทดแทน ต้นทุนการผลิต ข้อมูลการค้า ไปจนถึงผลกระทบต่อตลาดแรงงานและ GDP
+## 1. Criteria for Green Subsidies and Exemptions
+เกณฑ์การได้รับเงินสนับสนุนสีเขียวและข้อยกเว้น
+  - แนวคิดหลัก: เยอรมนีและ EU มีมาตรการสนับสนุนผู้ผลิตที่ลงทุนลดการปล่อยคาร์บอน เช่น การเปลี่ยนจากการผลิตเหล็กแบบเดิมไปสู่การใช้ไฮโดรเจนและพลังงานไฟฟ้า
+  - เงินสนับสนุนไม่ได้ครอบคลุมทุกอย่าง: โครงการส่วนใหญ่มุ่งสนับสนุนโรงงาน เทคโนโลยี และกระบวนการผลิตที่ลดการปล่อยคาร์บอน ไม่ใช่การให้เงินอุดหนุนวัตถุดิบนำเข้าทุกชนิด
+  - ตัวอย่างมาตรการสำคัญ
+  - IPCEI: สนับสนุนโครงการอุตสาหกรรมและเทคโนโลยีเชิงยุทธศาสตร์ เช่น ไฮโดรเจน
+  - Climate Contracts (CCfDs): ช่วยชดเชยต้นทุนส่วนเพิ่มจากการผลิตแบบปล่อยคาร์บอนต่ำ
+  - EU Innovation Fund: สนับสนุนโครงการนวัตกรรมที่ช่วยลดการปล่อยก๊าซเรือนกระจก
+  - CBAM ไม่ได้ยกเว้นภาษีให้เหล็กสีเขียวโดยอัตโนมัติ: เหล็กนำเข้าที่ปล่อยคาร์บอนต่ำอาจมีภาระ CBAM ต่ำกว่า เพราะมีการปล่อยคาร์บอนที่ต้องนำมาคำนวณน้อยกว่า แต่ไม่ได้หมายความว่าจะได้รับการยกเว้นเป็นพิเศษ
+  - ข้อยกเว้น 50 ตัน: ตามข้อมูลในเอกสาร เกณฑ์นี้เป็นข้อยกเว้นตามปริมาณสินค้านำเข้าที่กำหนด ไม่ใช่ข้อยกเว้นเพราะสินค้าเป็นมิตรต่อสิ่งแวดล้อม
+สิ่งที่ต้องเข้าใจ: ต้องแยกให้ออกระหว่าง การสนับสนุนการผลิตเหล็กสีเขียวใน EU กับ การนำเข้าเหล็กสีเขียวจากต่างประเทศ เพราะทั้งสองกรณีไม่ได้รับสิทธิประโยชน์เหมือนกัน
+## 2. Alternative Supply for Automotive and Advanced Manufacturing
+วัตถุดิบทางเลือกสำหรับอุตสาหกรรมรถยนต์และการผลิตขั้นสูง
+  - แนวคิดหลัก: เมื่อเหล็กแบบเดิมมีต้นทุนคาร์บอนสูงขึ้น ผู้ผลิตต้องพิจารณาวัตถุดิบหรือวิธีผลิตอื่นที่ลดการปล่อยคาร์บอนและยังควบคุมต้นทุนได้
+  - เศษเหล็ก (Ferrous Scrap):
+  - เป็นทางเลือกที่มีศักยภาพสูง โดยเฉพาะเมื่อนำไปผลิตเหล็กผ่านเตาหลอมไฟฟ้า หรือ EAF (Electric Arc Furnace)
+  - โดยทั่วไปมีการปล่อยคาร์บอนต่ำกว่าการผลิตเหล็กจากแร่เหล็กด้วยกระบวนการเตาถลุงแบบดั้งเดิม แต่ผลจริงขึ้นอยู่กับไฟฟ้าที่ใช้และกระบวนการผลิต
+  - อะลูมิเนียมคาร์บอนต่ำ (Low-carbon Aluminium):
+  - ใช้ในรถยนต์เพื่อช่วยลดน้ำหนัก เช่น โครงสร้างตัวรถและชิ้นส่วนบางประเภท
+  - ช่วยลดน้ำหนักรถได้ แต่ต้นทุนและความเหมาะสมขึ้นอยู่กับการใช้งานและแหล่งวัตถุดิบ
+  - เหล็กที่ผลิตด้วยไฮโดรเจน (Green/H₂-DRI Steel):
+  - ใช้ไฮโดรเจนในการผลิตเหล็กเพื่อลดการปล่อยคาร์บอน
+  - มีความสำคัญต่อการเปลี่ยนผ่านระยะยาว แต่ยังมีต้นทุนสูงกว่าเหล็กแบบดั้งเดิมในหลายกรณี
+  - วัสดุคอมโพสิต (Composites):
+  - น้ำหนักเบาและเหมาะกับชิ้นส่วนเฉพาะทาง
+  - ยังมีข้อจำกัดด้านราคา การผลิตในปริมาณมาก และการรีไซเคิล
+  - ข้อสรุปเชิงธุรกิจ: การเพิ่มการใช้เศษเหล็กที่มีคุณภาพและเหล็กจาก EAF เป็นแนวทางลดคาร์บอนที่มีศักยภาพด้านต้นทุน ส่วนอะลูมิเนียมและวัสดุคอมโพสิตเหมาะกับการใช้งานเฉพาะประเภท ขณะที่เหล็กไฮโดรเจนเป็นทางเลือกสำคัญในระยะยาว
+สิ่งที่ต้องเข้าใจ: บริษัทไม่ได้เลือกวัตถุดิบจากราคาต่อหนึ่งตันเพียงอย่างเดียว แต่ต้องพิจารณาคุณภาพ ความแข็งแรง การใช้งาน การปล่อยคาร์บอน และต้นทุนรวมด้วย
+## 3. Data on Increased Domestic Production Costs
+ข้อมูลเกี่ยวกับต้นทุนการผลิตภายในประเทศที่เพิ่มขึ้น
+  - แนวคิดหลัก: ผู้ผลิตเหล็กในเยอรมนีเผชิญแรงกดดันจากต้นทุนพลังงาน ต้นทุนคาร์บอน และเงินลงทุนที่จำเป็นต่อการเปลี่ยนไปสู่เทคโนโลยีสีเขียว
+  - ต้นทุนไฟฟ้าเพิ่มขึ้นอย่างมาก: ข้อมูลในเอกสารระบุว่า ราคาค่าไฟฟ้าอุตสาหกรรมของเยอรมนีเพิ่มจาก 5.92 เซนต์ต่อ kWh ในปี 2020 เป็น 35.70 เซนต์ในปี 2022 ก่อนลดลงเหลือ 16.77 เซนต์ในปี 2024
+  - แม้ราคาจะลดลงจากจุดสูงสุด แต่ในปี 2024 ก็ยังสูงกว่าปี 2020 อย่างชัดเจน
+  - การผลิตเหล็กต้องใช้พลังงานจำนวนมาก จึงได้รับผลกระทบจากต้นทุนไฟฟ้าโดยตรง
+  - ต้นทุนไฮโดรเจนสีเขียวสูง: การเปลี่ยนมาใช้ไฮโดรเจนช่วยลดการปล่อยคาร์บอนได้ แต่หากไฮโดรเจนและไฟฟ้ายังมีราคาแพง ต้นทุนการผลิตเหล็กก็อาจสูงกว่ากระบวนการแบบเดิม
+  - ต้นทุนคาร์บอน (EU ETS): ข้อมูลในเอกสารระบุว่าราคาคาร์บอนเฉลี่ยอยู่ที่ประมาณ €83.60 ต่อตัน CO₂e ในปี 2023 และ €64.76 ในปี 2024
+  - ผู้ผลิตที่ปล่อยคาร์บอนสูงจึงเผชิญแรงกดดันด้านต้นทุนมากขึ้น
+  - อย่างไรก็ตาม ผลกระทบจริงขึ้นอยู่กับการปล่อยคาร์บอนของโรงงานและกฎที่ใช้กับผู้ผลิตแต่ละราย
+  - ต้องลงทุนสูงเพื่อเปลี่ยนเทคโนโลยี: การเปลี่ยนไปใช้กระบวนการ DRI-EAF ต้องใช้เงินลงทุนจำนวนมาก ทั้งการสร้างโรงงาน ระบบไฟฟ้า และโครงสร้างพื้นฐานไฮโดรเจน
+  - ปัญหาสำคัญ: บริษัทอาจต้องรับต้นทุนเพิ่มในระยะสั้น ก่อนที่เทคโนโลยีใหม่จะช่วยลดการปล่อยคาร์บอนและเพิ่มประสิทธิภาพได้เต็มที่
+สิ่งที่ต้องเข้าใจ: การเปลี่ยนไปสู่การผลิตสีเขียวมีทั้งต้นทุนการลงทุนเริ่มต้น (CAPEX) และต้นทุนการดำเนินงานต่อเนื่อง (OPEX) หากต้นทุนทั้งสองส่วนสูง บริษัทอาจสูญเสียความสามารถในการแข่งขันเมื่อเทียบกับผู้ผลิตในประเทศที่มีต้นทุนพลังงานต่ำกว่า
+## 4. Long-Term Time-Series and Trade Data
+ข้อมูลอนุกรมเวลาระยะยาวและข้อมูลการค้าระหว่างประเทศ
+  - แนวคิดหลัก: ต้องใช้ข้อมูลหลายปีเพื่อวิเคราะห์ว่าต้นทุนพลังงาน นโยบายคาร์บอน และการเปลี่ยนแปลงของตลาดส่งผลต่อการนำเข้า ส่งออก และการใช้วัตถุดิบของเยอรมนีอย่างไร
+  - แหล่งข้อมูลสำคัญ: ฐานข้อมูล Eurostat Comext รหัสชุดข้อมูล DS-045409 ใช้ศึกษาการค้าสินค้าของ EU และเยอรมนี โดยสามารถดึงข้อมูลย้อนหลังสำหรับช่วงปี 1999–2025 ได้
+  - รหัสสินค้าที่ควรติดตาม
+  - HS 7204: เศษเหล็ก
+  - HS 7207: เหล็กกึ่งสำเร็จรูป
+  - HS 7208: เหล็กแผ่นรีดร้อน
+  - HS 7304 และ 7306: ท่อเหล็ก
+  - CN 26011200: แร่เหล็กชนิดที่ผ่านการทำให้จับตัวเป็นก้อน
+  - การคำนวณราคานำเข้าต่อหน่วย (Import Unit Value):
+ค่านี้ช่วยติดตามว่าราคานำเข้าต่อหนึ่งตันเปลี่ยนแปลงอย่างไรในแต่ละปี แต่ไม่ใช่ราคาตลาดที่แท้จริงเสมอไป เพราะอาจได้รับผลจากคุณภาพสินค้าและส่วนผสมของสินค้าที่นำเข้า
+- การวัดการบริโภคภายในประเทศ: ข้อมูลนำเข้าเพียงอย่างเดียวไม่เพียงพอ เพราะเยอรมนีมีการผลิตและส่งออกเหล็กด้วย จึงควรคำนวณการบริโภคโดยประมาณดังนี้
+  - ต้องใช้ข้อมูลหลายแหล่งร่วมกัน: ควรรวมข้อมูลการค้าจาก Eurostat เข้ากับข้อมูลการผลิตภายในประเทศและดัชนีราคาผู้ผลิต เพื่อแยกให้ออกว่าการเปลี่ยนแปลงเกิดจากปริมาณการใช้จริงหรือจากราคา
+  - ข้อจำกัดสำคัญของเอกสาร: ข้อมูลที่มีอยู่ยังไม่ใช่ชุดข้อมูลรายปีที่สมบูรณ์ตั้งแต่ 1999–2025 สำหรับสินค้าทุกประเภท แต่เป็นข้อมูลอ้างอิงบางส่วนและวิธีการดึงข้อมูลที่แนะนำ
+สิ่งที่ต้องเข้าใจ: หัวข้อนี้เป็นพื้นฐานสำหรับทดสอบว่า หลังจากต้นทุนพลังงานและต้นทุนคาร์บอนเปลี่ยนไป เยอรมนีหันไปใช้เศษเหล็ก เหล็กผลิตในประเทศ หรือวัตถุดิบทางเลือกมากขึ้นจริงหรือไม่ แต่ยังต้องดึงข้อมูลรายปีให้ครบก่อนจึงจะสรุปผลเชิงปริมาณได้
+## 5. Job Market and Macroeconomic GDP Effects
+ผลกระทบต่อตลาดแรงงานและ GDP โดยรวม
+  - แนวคิดหลัก: การเปลี่ยนผ่านของอุตสาหกรรมเหล็กส่งผลต่อการจ้างงานและเศรษฐกิจ แต่ผลกระทบต่อ GDP ของประเทศโดยรวมอาจไม่รุนแรงในทันที เพราะอุตสาหกรรมเหล็กเป็นเพียงส่วนหนึ่งของเศรษฐกิจเยอรมนี
+  - ความสำคัญของภาคการผลิต: ตามข้อมูลในเอกสาร ภาคการผลิตของเยอรมนีมีแรงงานประมาณ 7.26–7.49 ล้านคนในช่วงปี 2015–2025 และสร้างมูลค่าเพิ่มประมาณ 19.4% ของ Gross Value Added (GVA)
+  - กรณี Thyssenkrupp Steel: แผนปรับโครงสร้างองค์กรที่ประกาศในปี 2024 ระบุว่ามีตำแหน่งงานที่ได้รับผลกระทบสูงสุดประมาณ 11,000 ตำแหน่งภายในปี 2030
+  - ประมาณ 5,000 ตำแหน่งเป็นการลดงานโดยตรง
+  - ประมาณ 6,000 ตำแหน่งเกี่ยวข้องกับการจ้างงานภายนอกหรือการขายกิจการ
+  - ดังนั้น 11,000 ตำแหน่งที่ได้รับผลกระทบไม่ได้หมายถึงการเลิกจ้างทันทีทั้งหมด และงานที่ถูกโอนออกไปอาจยังคงอยู่ในระบบเศรษฐกิจเยอรมนี
+  - ปัญหาทักษะแรงงานไม่ตรงกับความต้องการ: อุตสาหกรรมดั้งเดิมบางส่วนอาจต้องการแรงงานลดลง ขณะที่การผลิตสีเขียวต้องการทักษะด้านวิศวกรรมไฟฟ้า ระบบอัตโนมัติ ไฮโดรเจน การบำรุงรักษา และการรีไซเคิลมากขึ้น
+  - การเปลี่ยนผ่านของอุตสาหกรรมรถยนต์มีความสำคัญด้วย: เอกสารระบุว่าการเปลี่ยนผ่านของอุตสาหกรรมยานยนต์อาจมีความเสี่ยงด้านการจ้างงานในวงกว้าง โดยอ้างถึงการคาดการณ์การสูญเสียงานเพิ่มเติมประมาณ 140,000 ตำแหน่ง
+  - ทำไม GDP โดยรวมอาจไม่ได้ลดลงมากในทันที
+  - อุตสาหกรรมเหล็กเป็นเพียงส่วนย่อยของภาคการผลิต จึงมีผลโดยตรงต่อ GDP ในสัดส่วนจำกัด
+  - การปรับโครงสร้างเกิดขึ้นเป็นระยะ ไม่ได้เกิดขึ้นทั้งหมดในปีเดียว
+  - การจ้างงานในภาคบริการ การศึกษา และสุขภาพอาจช่วยชดเชยการลดลงของการจ้างงานในภาคการผลิตบางส่วน
+  - อย่างไรก็ตาม เมืองหรือภูมิภาคที่พึ่งพาโรงงานเหล็กสูงอาจได้รับผลกระทบมากกว่าค่าเฉลี่ยระดับประเทศ
+  - ความเสี่ยงระยะยาว: หากต้นทุนการผลิตสูงต่อเนื่องและบริษัทไม่สามารถแข่งขันได้ อาจกระทบการลงทุน ห่วงโซ่อุปทาน รายได้ของแรงงาน และความสามารถในการแข่งขันของอุตสาหกรรมเยอรมนี
+สิ่งที่ต้องเข้าใจ: ควรแยกผลกระทบระดับบริษัท ระดับภูมิภาค และระดับประเทศออกจากกัน เพราะการลดตำแหน่งงานในบริษัทหนึ่งไม่ได้แปลว่า GDP หรือการจ้างงานของประเทศจะลดลงในสัดส่วนเดียวกัน
+## สรุปความเชื่อมโยงของทั้ง 5 หัวข้อ
+1. Green Subsidies and CBAM
+นโยบายกำหนดแรงจูงใจและต้นทุนของการลดคาร์บอน
+2. Alternative Materials
+บริษัทพิจารณาเปลี่ยนวัตถุดิบและเทคโนโลยีการผลิต
+3. Domestic Production Costs
+ต้นทุนไฟฟ้า ไฮโดรเจน คาร์บอน และการลงทุนมีผลต่อความสามารถในการแข่งขัน
+4. Long-Term Trade Data
+ใช้ข้อมูลหลายปีตรวจสอบการเปลี่ยนแปลงของราคา ปริมาณการค้า และการใช้วัตถุดิบ
+5. Employment and GDP
+ประเมินผลต่อการจ้างงาน ความสามารถในการแข่งขัน และเศรษฐกิจโดยรวม
+ประเด็นหลักที่รายงานต้องการสื่อ: นโยบายลดคาร์บอนสามารถช่วยผลักดันให้เยอรมนีเปลี่ยนไปสู่การผลิตเหล็กที่สะอาดขึ้น แต่การเปลี่ยนผ่านนี้มีต้นทุนสูงและอาจส่งผลต่อความสามารถในการแข่งขัน ดังนั้นจึงต้องใช้ข้อมูลต้นทุน การค้า และตลาดแรงงานร่วมกันเพื่อประเมินว่าผลกระทบเกิดขึ้นจริงมากน้อยเพียงใด โดยเฉพาะในระยะยาว
+1. Criterion of Green Subsidy & Exemption
+Germany and the EU fund green steel mainly through project-specific State-aid approvals, IPCEI hydrogen projects, German Klimaschutzverträge (Carbon Contracts for Difference), and the EU Innovation Fund. These schemes are generally tied to decarbonizing EU/German production assets and verified emissions reductions, not to subsidizing imported DRI, scrap, or hot-rolled steel as such; CBAM, by contrast, prices the embedded emissions of covered imports and has no general “green steel” exemption.[ec.europa][ec.europa][ec.europa][eur-lex.europa]
+## 1. Funding criteria for German DRI/H2 steel
+### IPCEI and project-specific State aid
+The EU approved a German package of up to about €2 billion for Thyssenkrupp Steel Europe’s tkH2Steel project: a direct grant of up to €550 million for a hydrogen-capable direct-reduction plant and two melting units in Duisburg, plus a conditional payment mechanism of up to €1.45 billion to cover the additional cost of using renewable rather than low-carbon hydrogen during the first ten years of operation.[ec.europa][competition-cases.ec.europa]
+The Commission assessed the aid under Article 107(3)(c) TFEU and the 2022 Guidelines on State aid for climate, environmental protection and energy (CEEAG). The relevant conditions include a genuine incentive effect, contribution to an economic activity, proportionality, and limited distortion of competition and trade.[ec.europa][lexxion]
+For Salzgitter’s SALCOS project, Germany received approval for a €1 billion direct grant to build a direct-reduction plant, electric arc furnace, and a 100 MW electrolyser producing roughly 9,000 tonnes of renewable hydrogen annually. The project was selected through Germany’s open call under the hydrogen IPCEI framework, and the aid was justified as supporting renewable hydrogen production and lower-emission steel production.[ec.europa][reforms-investments.ec.europa]
+Typical conditions for these DRI/H2 projects are therefore:
+  - Construction or conversion of EU-based steel production assets, especially DRI plants, EAFs, electrolysers, and related hydrogen infrastructure.[ec.europa][ec.europa]
+  - Replacement of blast-furnace/coal-based ironmaking with hydrogen-based direct reduction.[ec.europa][ec.europa]
+  - Use or phased introduction of renewable hydrogen; Thyssenkrupp’s conditional payment specifically supports renewable rather than low-carbon hydrogen.[ec.europa]
+  - Demonstrated additionality, innovation, financing need, and proportionality under CEEAG.[ec.europa][lexxion]
+  - Compliance with IPCEI selection and reporting rules where the project is part of an IPCEI; IPCEI Hy2Use covers large-scale electrolysers and hydrogen integration into hard-to-abate industrial processes including steel.[competition-policy.ec.europa]
+### Klimaschutzverträge / CCfDs
+Germany’s Klimaschutzverträge are two-way carbon contracts for difference. The Commission approved a €5 billion German scheme under which beneficiaries receive annual support based on the gap between the cost of the low-carbon production route and a conventional reference route, with reference prices including EU ETS allowances and energy inputs. Contracts run for 15 years.[ec.europa]
+The core eligibility and selection conditions are:
+  - The applicant must be subject to the EU ETS.[ec.europa]
+  - Projects must deliver a 60% emissions reduction within three years and 90% by the end of the supported project, compared with an ETS-benchmark reference system.[ec.europa]
+  - Selection is by open competitive bidding, ranked by the lowest requested aid per tonne of CO2 avoided.[ec.europa]
+  - Eligible steel projects include replacing conventional steel production with hydrogen direct reduction.[ec.europa]
+  - Aid is paid annually, rather than as a single upfront capital grant, and is adjusted through the CCfD mechanism.[ec.europa]
+This is the main instrument designed to close the operating-cost gap of green steel, whereas IPCEI/project aid more often supports capital expenditure and early hydrogen uptake.
+## 2. Imported raw materials and intermediates
+The subsidy frameworks are not generally open-ended subsidies for imported inputs. They support the decarbonization of a specific production site, plant, process, or verified output within the EU.
+[TABLE]
+Input or product | Typical subsidy treatment | Practical implication
+Imported iron ore | Can be used by a funded German DRI plant, but the aid is not normally paid as a material-input subsidy. | Funding supports the DRI/H2 process and emissions performance, not the ore itself. [ec.europa][ec.europa]
+Imported DRI | Generally outside the direct scope of German/EU green-steel production aid. | A German steelmaker may import DRI commercially, but it would not normally receive green-steel production aid merely because it uses imported DRI. [eur-lex.europa][ec.europa]
+Scrap | May be used in EAF-based production, but subsidy eligibility depends on the funded project’s approved scope and emissions methodology. | Scrap use can support decarbonization, but it is not automatically a subsidized input. [ec.europa][climate.ec.europa]
+Imported hot-rolled steel | Not a target of these production-decarbonization schemes. | These programs fund EU production transformation, not imports of finished or semi-finished steel. [eur-lex.europa][ec.europa]
+Renewable hydrogen | May be funded where produced and used in the approved EU project; Thyssenkrupp’s mechanism covers the renewable-hydrogen cost premium. | Imported hydrogen is not categorically excluded by CBAM, but Innovation Fund hydrogen auctions concern production and verified output. [ec.europa][ec.europa]
+[/TABLE]
+The key distinction is between:
+  - Production aid: supports construction and operation of a German/EU DRI, EAF, electrolyser, or hydrogen-supply asset.[ec.europa][ec.europa]
+  - Operating aid / CCfD: supports the verified extra cost of the low-carbon route, usually measured against a reference production route and ETS benchmark.[ec.europa]
+  - Import support: generally absent; imported DRI, scrap, or HRC may enter the EU subject to customs and, where applicable, CBAM rules, but they do not receive a green-steel production subsidy merely by being used by a German manufacturer.[eur-lex.europa][taxation-customs.ec.europa]
+## 3. CBAM treatment of green versus carbon-intensive imports
+### Regulation (EU) 2023/956
+CBAM applies to imports into the EU of listed goods from third countries, including goods in the iron and steel sector, as well as cement, aluminium, fertilisers, electricity, and hydrogen.[eur-lex.europa][taxation-customs.ec.europa]
+There is no general exemption for “green” imported steel, DRI, scrap, or hot-rolled coil. Instead, CBAM is emissions-based:
+  - Importers must report embedded emissions for covered goods.
+  - During the definitive regime, they must surrender CBAM certificates corresponding to embedded emissions, subject to adjustments for carbon price paid abroad and free-allocation phase-out rules under the underlying EU ETS framework.[eur-lex.europa][taxation-customs.ec.europa]
+  - Lower-carbon imports therefore face a lower CBAM cost in economic terms, but only because their verified embedded emissions are lower—not because they receive a special “green steel” exemption.[eur-lex.europa][taxation-customs.ec.europa]
+The regulation covers goods listed in Annex I and also processed products resulting from inward processing; iron and steel is expressly within its CN-code scope.[eur-lex.europa][eur-lex.europa]
+### Regulation (EU) 2025/2083: the only broad exemption
+Regulation (EU) 2025/2083 amends CBAM primarily to simplify compliance. It replaces the former €150-per-consignment value threshold with a single mass-based de minimis threshold of 50 tonnes per importer per calendar year, aggregated across iron and steel, aluminium, fertilisers, and cement.[eur-lex.europa][eur-lex.europa][mayerbrown]
+Important provisions:
+  - An importer whose cumulative net mass of covered goods does not exceed 50 tonnes/year is exempt from CBAM obligations, including reporting, declaration, and certificate surrender.[eur-lex.europa][eur-lex.europa]
+  - The threshold is cumulative across the four goods sectors, not separate for each product.[eur-lex.europa][mayerbrown]
+  - If the importer exceeds 50 tonnes in a calendar year, CBAM obligations apply to all covered imports in that year, including the quantities below the threshold.[eur-lex.europa][mayerbrown]
+  - The exemption does not apply to electricity or hydrogen imports.[eur-lex.europa][eur-lex.europa]
+  - The design is intended to preserve coverage of at least 99% of embedded emissions while reducing administrative burdens for small importers.[eur-lex.europa][pwc]
+### No green-steel tariff exemption
+Neither Regulation 2023/956 nor Regulation 2025/2083 creates a tariff exemption, CBAM exemption, or preferential customs treatment specifically for imported green steel, green DRI, recycled scrap, or low-carbon HRC. The only broad new exemption is the 50-tonne de minimis threshold, which is size-based rather than carbon-intensity-based.[eur-lex.europa][eur-lex.europa][mayerbrown]
+A low-carbon importer’s advantage is therefore indirect: if it can document lower embedded emissions under CBAM’s methodology, its eventual certificate liability should be lower than that of a high-carbon competitor. But it must still comply with CBAM if it exceeds the mass threshold.[eur-lex.europa][taxation-customs.ec.europa][eur-lex.europa]
+## Practical reading for German steel strategy
+For a German producer such as Thyssenkrupp or Salzgitter, the strongest public-support route is to decarbonize domestic primary steelmaking through hydrogen DRI, EAF melting, and renewable-hydrogen supply. Thyssenkrupp’s Duisburg project, for example, is designed around a 2.5 million-tonne-per-year hydrogen-capable DRI plant and targets full hydrogen operation by 2029, with BMWK and North Rhine-Westphalia supporting the plant and hydrogen ramp-up.[thyssenkrupp-steel][thyssenkrupp-steel]
+For imported inputs, the commercial question is different: imported DRI or scrap can be part of a lower-carbon supply chain, but it will not normally attract German green-steel capex or CCfD support. If it is a CBAM-covered import, its embedded emissions must be accounted for, with the 50-tonne annual importer threshold as the principal exemption.[ec.europa][eur-lex.europa][eur-lex.europa]
+2. Alternative Supply for Automotive & Advanced Manufacturing
+A complete, continuous 1999–2025 Eurostat Comext unit-value series for every relevant HS line is not publicly summarized in one source, but the available EU trade, IEA, and industry data support a clear conclusion: high-grade ferrous scrap (HS 7204) is the most cost-competitive lower-carbon substitute; low-carbon aluminium is a lightweighting substitute with a modest carbon premium; composites remain niche and generally higher-cost. German automotive and advanced-manufacturing demand is shifting toward scrap-based EAF steel and aluminium mainly through procurement specifications, recycling targets, and vehicle lightweighting—not through a broad tariff exemption.[ec.europa][theicct][uploads.transportenvironment][european-aluminium]
+## Import unit values, 1999–2025
+Eurostat Comext defines import unit value as trade value divided by quantity, so the appropriate calculation is EUR per tonne by HS code, partner, and year. The Comext database provides annual and monthly EU trade data from 1988 onward, making a full 1999–2025 series retrievable through its bulk-download facility.[ec.europa][data.europa]
+The table below uses verified recent EU data points and published market estimates; it should be read as a price-band overview, not a complete annual Comext table.
+[TABLE]
+Material / route | Relevant HS or product basis | Representative EU import / market price | Carbon context
+Carbon-intensive BF-BOF steel | HS 7208 hot-rolled coil and related flat products | EU imports of rolled steel were 20.2 million tonnes in January–August 2025; HS 7208 alone was 7.16 million tonnes, down 9.9% year-on-year. The cited EU surveillance reports provide value and volume by product group, from which EUR/tonne can be calculated. [webgate.ec.europa][webgate.ec.europa][seaisi] | About 2.3 tCO2/t steel for BF-BOF. [reports.weforum]
+Ferrous scrap, general iron/steel | HS 720449 | EU import price: €223/t in 2015; €305/t in 2025; €415/t peak in 2022. [tradedashboard] | Enables scrap-EAF steel at roughly 0.7 tCO2/t, before electricity-mix effects. [reports.weforum]
+Stainless-steel scrap | HS 720421 | EU import price: €1,205/t in 2015; €1,293/t in 2025; €2,052/t peak in 2022. [tradedashboard] | High-value specialty input; not a broad substitute for carbon steel. [tradedashboard]
+Alloy-steel scrap | HS 720429 | EU import price: €351/t in 2015; €533/t in 2025; €737/t peak in 2022. [tradedashboard] | Used where alloy chemistry is required; more expensive than ordinary scrap. [tradedashboard]
+Scrap-EAF steel | Steel product, not a single HS import line | HSBC estimates a green premium of about €96/t for scrap-EAF steel relative to conventional steel under CBAM-demand conditions. [assetmanagement.hsbc.co] | Around 0.7 tCO2/t; below 0.1 tCO2/t with renewable electricity and high-quality scrap. [climatebonds]
+H2-DRI / green primary steel | Steel product, not a single HS import line | Fastmarkets-reported green-steel premium in 2025 was about €100–200/t; DIW estimates €124–223/t in 2026, declining as supply expands. [diw] | Near-zero-emission potential, but currently a clear premium product. [diw]
+Low-carbon aluminium | Aluminium products; no single automotive HS line | European low-carbon differential was about US$0–20/t for most of 2025, then US$15–30/t in early September 2026; this is much smaller than the regional duty-paid premium, which rose about US$250/t between December and April. [alcircle] | Buyers with Scope 3 targets often seek aluminium below about 4 tCO2e/t on Scope 1–2. [alcircle]
+Composites | Multiple HS lines; not directly comparable to steel by tonne | No reliable single EUR/tonne EU import benchmark; value depends heavily on fibre type, resin, geometry, and certification. | Lightweighting benefit can offset mass-related emissions, but supply chains and recycling remain less mature than metals. [marketdataforecast][european-aluminium]
+[/TABLE]
+### What the price comparison implies
+  - Ordinary ferrous scrap is materially cheaper than finished steel: around €305/t imported in 2025 versus primary integrated-steel production costs of roughly €500–600/t crude steel cited by France Stratégie.[tradedashboard][strategie-plan.gouv]
+  - Scrap-EAF steel can command a premium, but it remains far cheaper than green primary steel: HSBC estimates about €96/t for scrap-EAF, versus roughly €100–200/t reported for green steel in 2025.[assetmanagement.hsbc.co][diw]
+  - Low-carbon aluminium’s carbon premium is currently small relative to aluminium’s regional supply premium: the low-carbon differential was about US250/t.[alcircle]
+  - Green steel remains supply-constrained: less than 1% of global steel currently meets industry net-zero thresholds, and the business-to-business green premium remains high at about 40%, according to the World Economic Forum.[reports.weforum]
+## Evidence of substitution by manufacturers
+### Scrap and secondary steel
+There is evidence of a shift toward recycled steel, but it is constrained by availability of clean, high-grade scrap. In the EU automotive sector, post-consumer secondary steel represented only 11.3% of steel in new ICE vehicles and 5.3% in EVs, while one manufacturer reported an average of 25% secondary steel content with plans to reach 50% by 2030.[uploads.transportenvironment]
+This indicates that automakers are moving toward more secondary steel, but the transition is gradual because automotive grades require tight chemistry control, reliable sorting, and sufficient volumes of high-quality scrap. The ICCT likewise finds that some steelmakers can achieve high recycled content through effective scrap sorting and treatment.[theicct]
+### Aluminium lightweighting
+The strongest quantified substitution trend is aluminium. A European Aluminium/Ducker Carlisle study covering all EU and UK car production found that average aluminium content rose from 174 kg per car in 2019 to 205 kg in 2022, an 18% increase, and is projected to reach 237 kg by 2026 and 256 kg by 2030.[european-aluminium]
+The shift is especially pronounced in EVs: European BEVs produced in 2022 contained an average of 283 kg of aluminium, compared with 169 kg in petrol or diesel ICE-only cars; the BEV figure was projected to reach 310 kg by 2026. European Aluminium states that aluminium is used in battery boxes, frames, doors, hoods, suspension parts, and other components, and that lightweighting improves vehicle energy efficiency and lifetime CO2 performance.[european-aluminium][european-aluminium]
+### Composites
+Composites are part of the lightweighting toolkit, but they are not yet a broad-scale substitute for automotive steel. Industry material taxonomies identify aluminium, magnesium, titanium, high-strength steel, composites, and engineered plastics as lightweighting options; metals retain an advantage because their recycling streams are more mature.[marketdataforecast]
+For German advanced manufacturing, composites are most plausible in selected structural, aerodynamic, or high-performance components rather than as a general replacement for high-volume steel body-in-white or chassis applications.
+## Demand-side carbon-cost signals
+  - A 2024 survey by Ramboll, Climate Group, and the IEA found that more than half of buyers were willing to pay up to a 25% premium for near-zero-emission steel and concrete, with European buyers showing higher willingness.[climatebonds]
+  - The European Commission estimates that only 16% of steel buyers and 14% of aluminium buyers are willing to pay a premium for low-carbon products, suggesting a narrower but strategically important premium market.[eur-lex.europa]
+  - The Commission estimates that using 100% low-carbon aluminium would increase the cost of a new EV by about 0.32%, while low-carbon steel and aluminium together could add about €69.27 per vehicle for commercial and light commercial vehicles.[eur-lex.europa]
+  - ACEA has called for both low-carbon steel and low-carbon aluminium to qualify under the proposed EU car CO2 material-credit mechanism, reflecting automakers’ interest in using material decarbonization to manage fleet compliance costs.[acea][acea]
+## Practical supply assessment for Germany
+[TABLE]
+Substitute | Supply availability | Cost position | Best German use case
+High-grade ferrous scrap / scrap-EAF steel | Growing but constrained by quality, sorting, and collection; premium scrap commands higher prices. [climatebonds][tradedashboard] | Most competitive lower-carbon route; scrap-EAF premium estimated around €96/t. [assetmanagement.hsbc.co] | Non-visible structural parts, long products, selected flat-steel applications where chemistry allows.
+Low-carbon aluminium | Imports supply 51% of EU aluminium demand; recycled automotive aluminium recovery is already high. [european-aluminium][marketdataforecast] | Carbon premium is modest, but European regional supply premiums can dominate. [alcircle][european-aluminium] | EV battery enclosures, body panels, closures, crash structures, and lightweight chassis components. [european-aluminium]
+Green/H2-DRI steel | Very limited today; less than 1% of steel meets net-zero thresholds. [reports.weforum] | Premium of roughly €100–200/t in 2025. [diw] | Premium vehicles, OEM decarbonization commitments, and contracts requiring near-zero embodied carbon.
+Composites | Niche supply base; recycling and cost barriers remain. [marketdataforecast] | Usually not a low-cost substitute on a per-tonne basis. | Performance-critical lightweight components, motorsport-derived parts, and selected EV structural applications.
+[/TABLE]
+For a German automotive procurement strategy, the near-term lowest-cost decarbonization lever is increasing verified high-grade scrap use in EAF-based steel, followed by low-carbon aluminium for EV lightweighting. Green H2-DRI steel is strategically important but remains a premium material; composites should be treated as a component-specific engineering solution rather than a mass-market steel substitute.[uploads.transportenvironment][european-aluminium][assetmanagement.hsbc.co][diw]
+3. Data on Increased Domestic Production Cost
+German steel and heavy manufacturing faced a substantial cost squeeze between 2015 and 2025: electricity prices rose sharply after 2021, EU carbon prices moved from near-zero/negative effective exposure in the mid-2010s to roughly €65–84/tCO2e, and DRI-EAF conversion requires both high upfront CAPEX and a persistent hydrogen/electricity OPEX gap. The best-supported benchmarks are from SMARD/Bundesnetzagentur, Agora Energiewende, the European Commission, EEX-based EU ETS reporting, Wirtschaftsvereinigung Stahl (WV Stahl), and DIW.[smard][agora-energiewende][economy-finance.ec.europa][eionet.europa][wvstahl][wvstahl][diw]
+## 1. Electricity and hydrogen costs
+### German industrial electricity
+Germany’s industrial electricity price for companies without network-charge, electricity-tax, concession-fee, or surcharge reductions was:
+[TABLE]
+Year | Price, ct/kWh | Change / context
+2020 | 5.92 | Pre-energy-crisis reference. [smard]
+2021 | 21.77 | Sharp increase begins. [smard]
+2022 | 35.70 | Energy-crisis peak. [smard]
+2023 | 19.63 | Partial correction. [smard]
+2024 | 16.77 | Still far above 2020. [smard]
+Jan 2025 | 17.99 | Renewed upward pressure from procurement prices. [smard]
+Jan–Sep 2025 | About 16 | Agora’s average for industrial consumers without concessions. [agora-energiewende]
+[/TABLE]
+For eligible energy-intensive companies, the modelled price averaged 10.47 ct/kWh in 2024, compared with 5.92 ct/kWh in 2020—an increase of about 77%. In January 2025, the eligible-user price was 11.69 ct/kWh, with SMARD’s index showing it at 165.45 relative to January 2021 = 100.[smard]
+This matters for steel because a DRI-EAF route shifts energy demand from coking coal and blast-furnace gas toward grid electricity, electrolysis electricity, and EAF electricity. WV Stahl explicitly notes that hydrogen-based DRI plants will depend on grid electricity, while electrolysis requires very large additional power volumes.[wvstahl]
+### Hydrogen feedstock costs
+Hydrogen is the central OPEX bottleneck for green DRI. The Clean Hydrogen Observatory reports 2024 European levelised production costs of:
+[TABLE]
+Hydrogen type | Europe, 2024 | Benchmark implication
+Unabated steam methane reforming (SMR) | About €3.3/kg | Cheapest conventional feedstock. [observatory.clean-hydrogen.europa]
+SMR with carbon capture | About €4.1/kg | Lower-carbon but still not renewable. [observatory.clean-hydrogen.europa]
+Electrolysis using grid electricity | €4.1–16.1/kg; average €7.4/kg | Highly electricity-price-sensitive. [observatory.clean-hydrogen.europa]
+Renewable electrolysis, direct renewable connection | €4.3–10.5/kg; average €6.7/kg | Core green-DRI pathway. [observatory.clean-hydrogen.europa]
+[/TABLE]
+For Germany specifically, S&P Global assessed renewable-PPA-backed alkaline-electrolysis hydrogen at €10.04/kg on 10 September 2025, versus €2.62/kg for unabated SMR hydrogen including capex and carbon costs. That is a gap of roughly €7.4/kg, or nearly four times the conventional-hydrogen cost.[spglobal]
+The global comparison is unfavorable for Germany: IEA-based reporting indicates methane-based hydrogen at €1.7–3.9/kg without CCS in global estimates, while ACER reports conventional SMR hydrogen in Europe at just over €2/kg during January–October 2025. Germany’s compliant green hydrogen at about €10/kg is therefore far above both global conventional hydrogen and most European renewable-hydrogen averages.[observatory.clean-hydrogen.europa][spglobal][ieu-monitoring]
+For primary steelmaking, the Clean Hydrogen Observatory estimates a renewable-hydrogen break-even price of about €2.0/kg, far below Germany’s current green-hydrogen cost level.[observatory.clean-hydrogen.europa]
+## 2. EU ETS prices and free allocation
+### EUA price benchmarks
+The EU ETS price path was the major new carbon-cost driver after 2018:
+[TABLE]
+Period | EUA price benchmark | Source / context
+2015–2017 | Low single digits to low teens EUR/tCO2e | Pre-Market Stability Reserve period; carbon costs were generally too low to drive fuel switching. [economy-finance.ec.europa][eionet.europa]
+2021–2023 | Above €50/tCO2e; historic highs | Market Stability Reserve and tighter climate policy. [economy-finance.ec.europa][eionet.europa]
+2022–2023 average | About €80/tCO2e | European Commission estimate. [economy-finance.ec.europa]
+2023 annual average | €83.60/tCO2e | EEX-based Eionet reporting. [eionet.europa]
+2024 annual average | €64.76/tCO2e | EEX-based Eionet reporting. [eionet.europa]
+2025 | About €60–80/tCO2e | European Commission range. [economy-finance.ec.europa]
+[/TABLE]
+For a conventional BF-BOF steelmaker emitting roughly 2 tCO2e per tonne of crude steel, an EUA price of €65–84/t implies a gross carbon exposure of roughly €130–168/t steel if allowances had to be purchased for all emissions. Free allocation reduces but does not eliminate this exposure, especially as allocation tightens.[economy-finance.ec.europa][eionet.europa]
+### Free allocation reduction
+The Commission reports that initial free allocation for 2021–2025 was 2,791.1 million allowances, but actual allocation was 2,619.6 million allowances—a reduction of 171.5 million allowances, or about 6.1%.[eur-lex.europa]
+[TABLE]
+Year | Initial free allocation | Actual free allocation | Reduction
+2021 | 559.6m | 545.7m | 13.9m
+2022 | 558.9m | 542.4m | 16.5m
+2023 | 558.2m | 537.0m | 21.2m
+2024 | 557.5m | 499.7m | 57.8m
+2025 | 556.8m | 494.8m | 62.0m
+Total | 2,791.1m | 2,619.6m | 171.5m
+[/TABLE]
+At a €70/tCO2e carbon price, the Commission values the original 2021–2025 allocation at about €39 billion per year across covered installations. The 171.5 million-allowance reduction therefore represents a meaningful increase in effective carbon cost for exposed industrial users, including steel.[eur-lex.europa]
+From 2026, CBAM is scheduled to progressively replace free allocation in iron and steel, cement, aluminium, fertilisers, and hydrogen. This creates a transition risk: German steelmakers face declining protection against high-carbon imports even as they must finance DRI-EAF conversion.[eur-lex.europa]
+## 3. DRI-EAF conversion CAPEX and OPEX
+### CAPEX benchmarks
+WV Stahl’s 2021 position paper estimated that converting one-third of German primary steel production by 2030 would require about €10 billion of investment, while full conversion of German primary steelmaking would require about €30 billion.[wvstahl]
+DIW’s investment-cost review estimates that a typical 2 million-tonne-per-year DRI-EAF-plus-electrolysis complex requires €1.2–2.0 billion. If seven major European steelmakers converted 30% of their crude-steel output to H2-DRI-EAF, DIW estimates total investment of €12.1–20.2 billion, or an average total capital intensity of €1.7–2.9 billion per company.[diw]
+The German federal/state co-financing decisions provide a real-world benchmark: about €6.9 billion of public support against nearly €12.5 billion of total project costs for DRI-EAF projects intended to produce 11.5 million tonnes of low-emission steel annually and replace about one-third of Germany’s blast-furnace capacity.[osw.waw]
+That implies an average total investment intensity of roughly:
+\frac{€12.5\text{ billion}}{11.5\text{ million tonnes}} \approx €1{,}087\text{ per annual tonne}
+or about €1.09 billion per million tonnes/year of low-emission DRI-EAF capacity.[osw.waw]
+### Specific capital-cost comparison
+WV Stahl’s transformation-path study, citing Agora and partners, compares specific annualized capital costs:
+[TABLE]
+Route | Specific capital cost
+Conventional primary steel | €16/t steel
+H2-DRI route | €79/t steel
+[/TABLE]
+That is nearly five times the capital-cost intensity of the conventional route. For a 2 Mt/year H2-DRI plant, the study estimates full CAPEX grants of €1.2 billion.[wvstahl]
+### OPEX gap
+The OPEX gap is larger than the CAPEX gap because hydrogen, electricity, and natural gas become major cost drivers. WV Stahl’s modeling finds that support needed to close the economic gap for H2-DRI plants starts at about €150/t steel in 2026, when plants mostly use natural gas, and rises to about €242/t steel by the late 2030s as operations shift toward green hydrogen.[wvstahl]
+Across the modeled ramp-up, fully closing the competitiveness gap would require an average annual subsidy of €4.6 billion from 2026 to 2045, including €27.5 billion cumulatively in the first decade to 2035.[wvstahl]
+WV Stahl also estimated that converting one-third of primary production by 2030 with 100% hydrogen would generate cumulative additional operating costs of nearly €6 billion over 2026–2030.[wvstahl]
+### Emissions and cost trade-off
+DRI-EAF can reduce emissions by about 60% using natural gas and up to 95% using low-emission hydrogen, compared with the conventional blast-furnace route. The cost consequence is a shift from coal-based variable costs to electricity- and hydrogen-based variable costs, with DRI-EAF input costs representing more than 90% of total costs versus about 75% for BF-BOF.[osw.waw][wvstahl]
+## Bottom line for German heavy manufacturing
+  - Electricity: German industrial users without concessions paid 35.70 ct/kWh in 2022, falling to 16.77 ct/kWh in 2024, but still nearly triple the 2020 level of 5.92 ct/kWh.[smard]
+  - Hydrogen: German renewable hydrogen was assessed at about €10.04/kg in September 2025, versus €2.62/kg for unabated SMR hydrogen; European renewable hydrogen averaged €6.7/kg in 2024.[observatory.clean-hydrogen.europa][spglobal]
+  - Carbon: EU ETS averaged €83.60/tCO2e in 2023 and €64.76/tCO2e in 2024, while free allocation for 2021–2025 was cut by 171.5 million allowances.[eionet.europa][eur-lex.europa]
+  - Conversion: German DRI-EAF projects imply roughly €1.09 billion per million tonnes/year of capacity, while WV Stahl estimates €10 billion for one-third conversion and €30 billion for full primary-steel conversion.[wvstahl][osw.waw]
+  - Operating-cost gap: WV Stahl models a support need rising from €150/t steel in 2026 to €242/t steel with high green-hydrogen use by the late 2030s.[wvstahl]
+The empirical pattern is therefore not simply higher steel output prices: it is a structural shift from coal-linked costs to electricity-, hydrogen-, and carbon-linked costs, with Germany’s relatively high industrial energy prices making the DRI-EAF transition especially dependent on CCfDs, IPCEI support, and long-term low-carbon power and hydrogen contracts.[smard][wvstahl][observatory.clean-hydrogen.europa][osw.waw]
+4. Long-Term Time-Series & Trade Data
+A fully verified 1999–2025 table for Germany’s extra-EU imports by these HS/CN lines requires downloading the Eurostat Comext bulk files or querying the Comext API; the public search results confirm the dataset and its coverage but do not expose the complete annual series. I can therefore give you a reproducible extraction specification, the correct variables and unit-price formulas, and the verified benchmark observations already available; a complete table should be generated directly from DS-045409 rather than reconstructed from secondary sources.[ec.europa][ec.europa][ec.europa]
+## Data source and extraction design
+Use Eurostat Comext dataset DS-045409, “EU trade since 1988 by HS2-4-6 and CN8.” It provides detailed international trade statistics by reporting country, partner, product code, flow, period, and value/quantity.[ec.europa][ec.europa][data.europa]
+Set the query as follows:
+[TABLE]
+Field | Selection
+Reporting country | Germany (DE)
+Trade flow | Imports (1)
+Partner | World / extra-EU aggregate; retain partner-country detail for supply-chain analysis
+Period | 1999–2025, annual
+Product classification | HS6 or CN8; use CN8 only where needed for 26011200
+Measure | Value in EUR and quantity in kilograms or tonnes
+Derived measure | Unit value = value / quantity = EUR/tonne
+[/TABLE]
+Comext provides annual and monthly files from January 1988 onward, so the requested 1999–2025 window is fully covered.[ec.europa][ec.europa]
+## Product groups to extract
+Use these codes, with care for classification changes over 1999–2025:
+[TABLE]
+Group | HS/CN code | Definition | Carbon-cost relevance
+Ferrous scrap | HS 7204 | Waste and scrap of cast iron; waste and scrap of alloy steel; other waste and scrap of iron or steel | Lower-carbon EAF feedstock
+Semi-finished iron/steel | HS 7207 | Iron/steel ingots, semi-finished products | Upstream high-carbon steel input
+Hot-rolled coil / flat products | HS 7208 | Flat-rolled iron/steel, hot-rolled | Major automotive and machinery input
+Tubes and pipes | HS 7304 | Tubes, pipes and hollow profiles of iron/steel | Machinery, energy, construction input
+Tubes and pipes | HS 7306 | Other tubes, pipes and hollow profiles | Machinery, construction, energy input
+Agglomerated iron ore | CN 26011200 | Agglomerated iron ores and concentrates | Blast-furnace/DRI feedstock
+[/TABLE]
+For a clean long series, retrieve both HS6 and CN8 where available, then reconcile classification revisions using Eurostat’s correspondence tables. Comext’s detailed data are updated monthly or annually depending on the dataset, and the bulk files are designed for import into analytical tools.[ec.europa][ec.europa]
+## Core indicators to calculate
+For each product group and year, calculate:
+\text{Import volume}_{t} = \frac{\text{Quantity}_{t}\ (\text{kg})}{1{,}000}
+in thousand tonnes, and:
+\text{Import value}_{t} = \frac{\text{Value}_{t}\ (\text{EUR})}{1{,}000{,}000}
+in EUR million.
+Then calculate:
+\text{Unit value}_{t} = \frac{\text{Value}_{t}\ (\text{EUR})}{\text{Quantity}_{t}\ (\text{tonnes})}
+in EUR/tonne.
+For domestic consumption, Comext does not directly report German consumption. Construct an apparent-consumption proxy:
+\text{Apparent consumption}_{t}
+=
+\text{Domestic production}_{t}
++
+\text{Extra-EU imports}_{t}
+-
+\text{Extra-EU exports}_{t}
+For production, use Eurostat’s steel production statistics, EUROFER/WV Stahl data, or Destatis production statistics. Comext supplies the import and export components; production must come from a separate source.[ec.europa][destatis]
+## Verified benchmark observations
+These are the strongest currently verifiable anchors from the sources retrieved. They should be used as validation points after extracting the full Comext series.
+[TABLE]
+Product / indicator | Year | Verified observation | Source
+EU ferrous-scrap imports, HS 7204 | 2015 | €1.68 billion; 5.24 million tonnes; implied €321/t | Trade Dashboard, based on Comext-type trade data.
+EU ferrous-scrap imports, HS 7204 | 2022 | Import price peak: €415/t | Trade Dashboard.
+EU ferrous-scrap imports, HS 7204 | 2025 | €1.83 billion; 4.79 million tonnes; implied €382/t | Trade Dashboard.
+EU stainless-scrap imports, HS 720421 | 2015 | €1,205/t | Trade Dashboard.
+EU stainless-scrap imports, HS 720421 | 2022 | €2,052/t peak | Trade Dashboard.
+EU stainless-scrap imports, HS 720421 | 2025 | €1,293/t | Trade Dashboard.
+EU alloy-steel scrap imports, HS 720429 | 2015 | €351/t | Trade Dashboard.
+EU alloy-steel scrap imports, HS 720429 | 2022 | €737/t peak | Trade Dashboard.
+EU alloy-steel scrap imports, HS 720429 | 2025 | €533/t | Trade Dashboard.
+EU rolled-steel imports | Jan–Aug 2025 | 20.2 million tonnes; HS 7208 alone 7.16 million tonnes, down 9.9% year-on-year | SEAISI summary of EU trade data.
+Germany total extra-EU imports | 2025 | €1,361,843.6 million | Destatis. [destatis]
+[/TABLE]
+The scrap series is especially useful for your comparison: ordinary ferrous scrap import unit values rose from about €321/t in 2015 to €382/t in 2025, with a €415/t peak in 2022. This is far below typical finished flat-steel prices and illustrates why scrap remains the most commercially attractive lower-carbon feedstock, subject to grade and chemistry constraints.
+## Shock-period interpretation
+Once the full DS-045409 series is extracted, evaluate these periods using both volume and unit value:
+[TABLE]
+Shock | Expected pattern to test | Analytical interpretation
+2005 EU ETS launch | Small direct effect on import unit values; larger effect on domestic production costs and potentially import substitution | ETS initially had limited carbon-price impact, so import prices should not show a major discontinuity.
+2008–09 GFC | Sharp fall in volumes and values; unit values fall with a lag | Demand collapse affects steel-intensive imports first; check whether 7207/7208 volumes fall more than 7204 scrap volumes.
+2020 COVID-19 | Volume contraction, then 2021 rebound | Automotive shutdowns should be visible in 7208 and 7304/7306 demand.
+2022 energy crisis | Strong unit-value spike, especially in energy-intensive products and scrap | Scrap peaked at €415/t in 2022; steel and tube prices should also rise, but the key test is whether unit values rose more than volumes.
+2023 CBAM reporting phase | No tariff shock, but possible front-loading, origin shifts, and reporting-driven data effects | CBAM’s transitional reporting period began in 2023; it does not itself create a general import exemption or green-steel preference.
+[/TABLE]
+## Important caveat on “domestic consumption”
+Comext is a trade dataset, not a consumption dataset. To show German domestic consumption credibly, combine:
+  - Comext DS-045409: German extra-EU imports and exports by HS/CN code.[ec.europa][ec.europa]
+  - Eurostat steel production data or WV Stahl: German crude steel, rolled-steel, tube, and DRI production.
+  - Destatis producer-price and production indices: to distinguish physical demand changes from price effects. Destatis’s producer-price index covers industrial products sold domestically and is the appropriate official price benchmark for German manufacturing outputs.
+Without adding domestic production and exports, an import-value series alone would overstate or understate consumption depending on inventory cycles, re-exports, and changes in domestic steelmaking.
+## Recommended output table
+For each year and product code, the final dataset should contain:
+[TABLE]
+Column | Definition
+year | 1999–2025
+hs_code | 7204, 7207, 7208, 7304, 7306, 26011200
+product_group | Scrap, semi-finished, HRC, tubes, iron ore
+import_value_eur_m | Extra-EU import value, EUR million
+import_volume_kt | Extra-EU import quantity, thousand tonnes
+import_unit_value_eur_t | EUR/tonne
+export_value_eur_m | Extra-EU export value, EUR million
+export_volume_kt | Extra-EU export quantity, thousand tonnes
+domestic_production_kt | From Eurostat/WV Stahl/Destatis
+apparent_consumption_kt | Production + imports − exports
+import_share_of_consumption_pct | Imports / apparent consumption
+carbon_intensity_tco2_t | Route-specific benchmark, where applicable
+shock_flag | ETS launch, GFC, COVID, energy crisis, CBAM reporting
+[/TABLE]
+This structure will let you isolate whether German manufacturers responded to carbon and energy costs by shifting from high-carbon imported steel toward scrap, domestic EAF production, or lightweight alternatives. The available evidence already points to scrap as the lower-cost lower-carbon input, but the full Comext extraction is needed to quantify Germany-specific import substitution by year and product line.[ec.europa][ec.europa]
+5. Job Market & Macro GDP Effect
+Germany’s manufacturing sector remains a large but gradually shrinking share of total employment and value added: it employed roughly 7.26–7.49 million people over 2015–2025 and generated about 19.4% of gross value added, while the broader industrial sector accounted for 22.8% of GVA in 2025. Thyssenkrupp’s November 2024 plan was a phased restructuring affecting up to 11,000 positions by 2030, but it was not 11,000 immediate dismissals: about 5,000 jobs were to be eliminated and about 6,000 transferred through outsourcing or divestment.[destatis][destatis][thyssenkrupp-steel][reuters]
+## 1. Manufacturing employment and GVA
+For NACE Rev. 2 Section C—manufacturing—the relevant official sources are Eurostat’s national accounts employment dataset nama_10_a64_e and Destatis national accounts and industry statistics. Eurostat’s nama_10_a64_e provides employment by NACE Rev. 2 activity and is the appropriate dataset for constructing a consistent 2015–2025 employment series.[destatis]
+[TABLE]
+Indicator | Germany, manufacturing (NACE C) | Source / interpretation
+Employment level | About 7.26–7.49 million workers across 2015–2025 | Consistent with the sector’s long-run scale; exact annual values should be pulled from nama_10_a64_e. [destatis]
+Share of total GVA | About 19.4% | Manufacturing’s value-added share; broader industry, including construction and energy, was 22.8% in 2025. [destatis][destatis]
+2025 production trend | Manufacturing production fell 0.9% year-on-year | Destatis reports a slight output decline despite a 3.2% increase in industry turnover. [destatis]
+Labour-market context | Unemployment rose only from 3.2% at end-2023 to 3.5% at end-2024 | The European Commission notes that manufacturing job losses were largely offset by public services, education, and health employment. [economy-finance.ec.europa]
+[/TABLE]
+The important distinction is that manufacturing employment has been under structural pressure—especially in energy-intensive and automotive-linked segments—but it has not produced a proportionate collapse in aggregate German employment. The Commission’s country report explicitly attributes this resilience to offsetting employment growth in services and public-sector-linked activities.[economy-finance.ec.europa]
+## 2. Thyssenkrupp restructuring: correct interpretation
+Thyssenkrupp Steel Europe announced its restructuring concept on 25 November 2024. Its own press release stated that around 5,000 jobs would be eliminated by 2030 through production-network adjustments and administrative streamlining, while a further 6,000 jobs would be transferred through outsourcing to external providers or sale of business activities.[thyssenkrupp-steel]
+[TABLE]
+Component | Number | Nature of employment effect
+Direct job reductions | About 5,000 by 2030 | Elimination through production and administration adjustments. [thyssenkrupp-steel]
+Outsourcing / divestment | About 6,000 | Jobs moved off Thyssenkrupp Steel’s own books through external service providers or business sales; not necessarily lost from the German economy. [thyssenkrupp-steel][reuters]
+Total affected positions | About 11,000 | Represents roughly 40% of Thyssenkrupp Steel Europe’s workforce of about 27,000. [reuters]
+Target workforce | About 16,000 | Implied reduction from around 27,000 employees. [english.news]
+Personnel-cost target | About 10% reduction | Company objective over coming years. [reuters][bloomberg]
+[/TABLE]
+The later 2025 update reported an agreement with IG Metall involving no compulsory redundancies, a reduction in weekly hours to 32.5, elimination of holiday bonuses, and an average income reduction of about 8%. The plan was further specified as 1,600 production positions by 2029 and 3,700 additional positions across divisions by 2028, bringing directly affected positions to 5,300, with the remainder connected to business sales.[apps.eurofound.europa]
+Therefore, the accurate formulation is: up to 11,000 positions affected by 2030; about 5,000 direct reductions; about 6,000 transferred through outsourcing or divestment—not 11,000 immediate dismissals.[thyssenkrupp-steel][reuters][apps.eurofound.europa]
+## 3. Skilled engineering and green-manufacturing talent
+Germany’s problem is not simply insufficient total jobs; it is a persistent mismatch between declining demand for some traditional production roles and continuing shortages of skilled technical labour. IW Köln estimates that in 2024, manufacturers of metal products faced a calculated shortage of nearly 18,500 qualified workers, while machinery manufacturing could not fill more than 16,700 positions.[iwkoeln]
+[TABLE]
+Talent area | Evidence | Implication
+Overall skilled-labour shortage | 573,000-person annual-average shortage in 2023, despite weaker economic conditions | Structural shortage persists even during industrial weakness. [iwkoeln]
+Metal products | Nearly 18,500 missing qualified workers in 2024 | Directly relevant to steel processing, fabrication, and supplier industries. [iwkoeln]
+Machinery | More than 16,700 unfilled skilled positions in 2024 | Engineering and mechatronics capacity remains a bottleneck. [iwkoeln]
+Green-transition sectors | Shortages persist in construction, water, waste management, and energy | Green manufacturing and infrastructure face competing demand for technical workers. [economy-finance.ec.europa]
+Automotive transformation | A VDA-commissioned study cited by the Commission projects a further loss of about 140,000 jobs | The automotive transition is a larger employment risk than steel restructuring alone. [economy-finance.ec.europa]
+[/TABLE]
+For green manufacturing, the constraint is likely to be composition rather than headcount: Germany needs fewer workers in some conventional blast-furnace and combustion-related roles, but more in electrical engineering, automation, hydrogen systems, high-voltage infrastructure, industrial data, maintenance, and recycling. The Commission highlights that labour shortages remain acute in sectors central to the green transition, while also noting the need to upskill lower-qualified workers to meet green and digital skill demand.[economy-finance.ec.europa]
+## 4. Why steel restructuring has limited immediate GDP effect
+Localized steel adjustment has only a small immediate effect on aggregate German GDP for four reasons:
+  - Steel is a relatively small direct share of value added. Manufacturing overall is about 19.4% of GVA, and basic iron and steel is only one subsector within it. Even a large company-level restructuring therefore moves a small share of national value added directly.[destatis][destatis]
+  - The employment effect is phased and partly accounting-based. Thyssenkrupp’s 6,000 outsourced or divested positions may leave the company’s payroll without disappearing from Germany’s economy; the 5,000 direct reductions are scheduled through 2030 rather than occurring immediately.[thyssenkrupp-steel][reuters]
+  - Services absorb much of the labour-market adjustment. The European Commission reports that declining manufacturing employment was largely offset by job growth in public services, education, and health; German unemployment rose only modestly from 3.2% to 3.5% between end-2023 and end-2024.[economy-finance.ec.europa]
+  - The macro risk is regional and medium-term, not immediate national GDP. The direct GDP effect is limited in the short run, but Duisburg and other steel-intensive regions can experience concentrated income, procurement, and supplier-chain losses. The larger macro exposure comes from the automotive transition, where the Commission cites a projected further loss of about 140,000 jobs.[economy-finance.ec.europa][apps.eurofound.europa]
+## Bottom line
+Germany’s manufacturing employment base of roughly 7.3–7.5 million workers and 19.4% GVA share means that even a major steel restructuring is unlikely to move national GDP materially in the immediate term. The more consequential issues are regional concentration, the composition of skilled labour demand, and the medium-term competitiveness of energy-intensive manufacturing.[destatis][destatis][economy-finance.ec.europa][iwkoeln]
+For a defensible analytical statement: Thyssenkrupp’s plan affects up to 11,000 positions by 2030, comprising about 5,000 direct reductions and 6,000 outsourcing/divestment transfers; it is not an immediate 11,000-person dismissal program.[thyssenkrupp-steel][reuters][apps.eurofound.europa]
+# Appendix
+## Appendix A. Criteria for Green Subsidies and Exemptions
+This section examines the conditions under which Germany and the European Union provide financial support for green steel production. The main support mechanisms include project-specific state aid, the Important Projects of Common European Interest (IPCEI), Germany’s Carbon Contracts for Difference (CCfDs), and the EU Innovation Fund.
+These programmes mainly support the development of low-carbon production facilities within Europe, such as hydrogen-based direct reduced iron (DRI) plants, electric arc furnaces (EAFs), and renewable hydrogen infrastructure. Funding is generally linked to investment costs, emissions reductions, and the transition from conventional coal-based steelmaking to lower-carbon production methods. Imported raw materials, such as iron ore, direct reduced iron, and steel scrap, do not automatically qualify for these subsidies.
+The EU Carbon Border Adjustment Mechanism (CBAM) follows a different approach. Rather than providing a general exemption for green steel imports, it links the carbon cost of covered imported products to their embedded emissions. Lower-carbon imports may therefore face lower carbon-related costs, but they are not automatically exempt from CBAM requirements.
+This distinction is important when assessing whether Germany’s green steel policies support domestic production or provide financial advantages to imported materials.
+## Appendix B. Alternative Supply for Automotive and Advanced Manufacturing
+This section compares alternative materials that could help German automotive and advanced manufacturing industries reduce emissions while maintaining production efficiency and controlling costs.
+The main alternatives are high-grade ferrous scrap, scrap-based electric arc furnace (EAF) steel, hydrogen-based green steel, low-carbon aluminium, and composite materials. Among these options, high-grade steel scrap is one of the more cost-competitive ways to reduce emissions in steel production. However, its availability and quality remain important constraints, particularly for automotive applications that require precise material properties.
+Low-carbon aluminium is another important alternative, especially in electric vehicles, where it can reduce vehicle weight and improve energy efficiency. Its use has increased in components such as battery enclosures, body panels, doors, and chassis parts. Composite materials may also be suitable for selected lightweight or high-performance components, although their cost and recycling limitations make them less practical as a general replacement for steel.
+Green steel produced using renewable hydrogen has the potential to achieve substantial emissions reductions, but it remains relatively expensive compared with conventional steel. As a result, its adoption is more likely to begin with manufacturers that have specific emissions-reduction targets or are willing to pay a premium for low-carbon materials.
+Overall, high-grade scrap-based steel and low-carbon aluminium appear to be practical near-term options for reducing industrial emissions. Green hydrogen-based steel remains important for the long-term transition, while composites are better suited to specific applications.
+## Appendix C. Data on Increased Domestic Production Costs
+This section examines the main factors contributing to higher production costs in Germany’s steel and heavy manufacturing industries between 2015 and 2025. The analysis focuses on industrial electricity prices, hydrogen costs, carbon prices under the EU Emissions Trading System (EU ETS), and the investment required to transition to lower-carbon steel production.
+Electricity prices increased sharply during the European energy crisis, reaching 35.70 euro cents per kilowatt-hour in 2022, compared with 5.92 euro cents in 2020 for industrial consumers without applicable price reductions. Although electricity prices declined after the peak, they remained significantly above their 2020 level in 2024.
+Hydrogen costs present another major challenge. Renewable hydrogen remains considerably more expensive than conventional hydrogen produced from natural gas. This difference increases operating costs for steelmakers transitioning from traditional blast furnaces to hydrogen-based DRI and EAF production.
+Carbon pricing also affects production costs. The average EU ETS allowance price reached €83.60 per tonne of CO₂ equivalent in 2023 before declining to €64.76 in 2024. At the same time, the gradual reduction of free emissions allowances increases the importance of carbon costs in industrial decision-making.
+In addition to higher operating expenses, the transition requires substantial capital investment. Estimates suggest that converting one-third of Germany’s primary steel production capacity by 2030 could require approximately €10 billion, while a full conversion could require around €30 billion. Additional financial support may therefore be necessary to close the cost gap between conventional steelmaking and low-carbon production.
+These findings indicate that Germany’s production-cost challenge is not limited to short-term energy price increases. It also reflects the structural costs of adopting new technologies, securing low-carbon energy supplies, and meeting increasingly demanding emissions requirements.
+## Appendix D. Long-Term Time-Series and Trade Data
+This section outlines the data required to examine changes in Germany’s steel-related imports, exports, prices, and material supply patterns over the period 1999–2025.
+The main data source is Eurostat Comext, which provides detailed international trade statistics by product, trading partner, trade flow, and year. The analysis focuses on ferrous scrap (HS 7204), semi-finished iron and steel products (HS 7207), hot-rolled steel products (HS 7208), steel tubes and pipes (HS 7304 and HS 7306), and agglomerated iron ore (CN 26011200).
+The key indicators include import and export values, trade volumes, and import unit values measured in euros per tonne. Unit values are calculated by dividing the value of trade by the corresponding quantity. These indicators help identify changes in material prices and import patterns over time.
+The period from 1999 to 2025 covers several important economic events, including the global financial crisis of 2008–2009, the COVID-19 pandemic in 2020, the European energy crisis in 2022, and the introduction of CBAM reporting requirements in 2023. Comparing trade values and volumes across these periods can help identify changes in demand, prices, and sourcing patterns.
+However, import data alone cannot fully measure domestic consumption. A more complete assessment requires domestic production and export data, allowing apparent consumption to be estimated as domestic production plus imports minus exports.
+A complete annual dataset for Germany covering 1999–2025 must be extracted and checked against the relevant Eurostat classifications. The available benchmark observations provide useful reference points, but they should not be treated as a complete annual time series.
+## Appendix E. Job Market and Macroeconomic GDP Effects
+This section examines how changes in Germany’s steel and manufacturing industries may affect employment, economic activity, and national GDP. The analysis considers manufacturing employment, the sector’s contribution to gross value added (GVA), industrial restructuring, and changes in demand for skilled workers.
+German manufacturing employed approximately 7.26–7.49 million people over the 2015–2025 period and accounted for around 19.4% of total GVA. Despite ongoing industrial pressures, the effects on the wider labour market have been partly offset by employment growth in services and other sectors.
+Thyssenkrupp Steel Europe’s restructuring plan illustrates the challenges facing traditional steel producers. The company announced that up to 11,000 positions would be affected by 2030. This figure includes approximately 5,000 planned job reductions and around 6,000 positions expected to be transferred through outsourcing or the sale of business activities. Therefore, the plan should not be interpreted as 11,000 immediate job losses.
+At the same time, Germany faces a mismatch between declining demand for certain traditional manufacturing roles and continued demand for skilled workers in engineering, automation, electrical systems, hydrogen technologies, and other areas related to the green transition.
+The direct short-term effect of steel restructuring on national GDP is likely to be limited because steelmaking represents only one part of the wider manufacturing sector, and employment adjustments are expected to occur gradually. However, the effects may be more significant in steel-dependent regions, where changes in production and employment can affect household income, suppliers, and local economic activity.
+In the longer term, the broader economic impact will depend on whether Germany can maintain the competitiveness of its energy-intensive industries while successfully transitioning to lower-carbon production. The automotive transition, industrial investment requirements, and the availability of skilled labour will also influence the country’s future manufacturing performance and economic growth.
