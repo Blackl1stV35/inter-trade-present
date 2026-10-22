@@ -17,15 +17,16 @@ The GitHub repository `Blackl1stV35/inter-trade-present` is **public** by the ow
 | `sources/docx/inter-trade-present-3-five-topic-data-notes.docx` | Thai summary of the five data topics (subsidies, alternative supply, costs, trade data, jobs/GDP) |
 | `sources/text/*.txt` | Plain-text dumps of the four .docx files (tables inlined) — regenerate with `scripts/extract_docx.py` |
 | `sources/images/` | The six embedded graph-simulation figures from the base workbook, in document order |
+| `notes/decisions.md` | Decisions recorded from the requester (slot, retitle, diagrams, language, template, visibility, merge, free-allocation position, privacy) |
 | `notes/project-brief.md` | Assignment rules, team roles, deadlines, decision log, open items |
 | `outline/final-outline-proposal.pdf` (source: `final-outline-proposal.md`) | **Final proposal** for the 15-minute talk: decisions, corrections found, 13 slides with charts, backup A1–A15, German-source results, open items, source list |
 | `outline/retitle-proposal.md` (and `.pdf`, memo only) | Request to the lecturer to refine the title and scope, with the topics, the 11-variable plan, questions and English and Thai short messages; not sent |
 | `outline/slide-outline-15min.md` | First version of the outline (superseded by the final proposal) |
 | `outline/workflow-run/` | Raw JSON from the run that produced it: three drafts, three judge reports, the synthesis, and the fact-check / audit / red-team reports |
-| `data/` | Live data pulls and status checks of 22 Oct 2026 (Comext, Eurostat, Destatis, WV Stahl, SMARD, DEHSt/UBA, EEX, policy and company status), each folder with a README, tables and raw pages; `agent_reports/` holds each agent's structured result |
+| `data/` | Live data pulls and status checks of 22 Oct 2026 (Comext, Eurostat, Destatis, WV Stahl, SMARD, DEHSt/UBA, EEX, policy and company status), most folders with a README, plus tables and raw pages; `agent_reports/` holds each agent's structured result |
 | `graphs/gnuplot/`, `graphs/out/` | gnuplot scripts and the rendered charts (Fig. 2 redraw, slides 6–8, backup A8); fonts: TH Sarabun New |
 | `graphs/gephi/` | Gephi import files (nodes/edges CSV) for the company-case network, with build steps |
-| `scripts/` | Helpers: .docx text/image extraction, `setup_tools.ps1` (project-local gnuplot + Gephi), `env.ps1`, `save.ps1` (commit + push loop), `build_pdf.py` (Markdown to PDF via Edge), `build_workbook_csv.py` |
+| `scripts/` | Helpers: .docx text/image extraction, `setup_tools.ps1` (project-local gnuplot + Gephi), `env.ps1`, `save.ps1` (commit + push loop), `build_pdf.py` (Markdown to PDF via Edge; the retitle memo uses `--stop-before "## Short message"`), `build_workbook_csv.py` |
 | `tools/` | Git-ignored. Project-local gnuplot 6.0.5 and Gephi 0.11.3 created by `scripts/setup_tools.ps1` |
 
 ## Regenerating the text dumps

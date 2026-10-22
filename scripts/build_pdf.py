@@ -1,6 +1,9 @@
 """Build the proposal PDF from a Markdown file: Markdown -> HTML (TH Sarabun New) -> Microsoft Edge headless -> PDF.
 
 usage: python -I -X utf8 scripts/build_pdf.py outline/final-outline-proposal.md outline/final-outline-proposal.pdf
+       python -I -X utf8 scripts/build_pdf.py outline/retitle-proposal.md outline/retitle-proposal.pdf --stop-before "## Short message"
+The optional --stop-before marker cuts the Markdown at the first line that starts with the marker (and drops the "---" rule above it);
+the retitle memo PDF is built this way so that the short messages and the sender notes stay out of the attachment.
 Run from the repo root. Images use paths relative to the repo root (e.g. graphs/out/fig2_import_cost_redraw.png).
 """
 import os
@@ -87,9 +90,16 @@ def find_edge():
 
 def main():
     src, out_pdf = sys.argv[1], sys.argv[2]
+    stop = sys.argv[sys.argv.index("--stop-before") + 1] if "--stop-before" in sys.argv else None
     root = os.getcwd()
     with open(src, encoding="utf-8") as f:
         text = f.read()
+    if stop:
+        at = text.index("\n" + stop)
+        text = text[:at].rstrip()
+        if text.endswith("---"):
+            text = text[:-3].rstrip()
+        text += "\n"
     text = text.replace("[[A15-WORKBOOK-SOURCES]]", workbook_sources_table(root))
     html_body = markdown.markdown(text, extensions=["tables", "fenced_code", "attr_list", "sane_lists", "md_in_html"])
     base = "file:///" + root.replace("\\", "/") + "/"

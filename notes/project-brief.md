@@ -13,7 +13,7 @@ Compiled 2026-10-22 from the LINE chat and the four Word files in `sources/`. Wh
   - **CH3** — conclusion + suggestion (e.g. do or do not continue this policy in future).
 - Lecture PDFs shared 2026-10-07: Export Policy; Offshoring of goods and services; Reason for domestic protection (the course lecturer; the PDFs are cited in the workbook as [G1] to [G3]).
 
-## Team and roles (LINE handles)
+## Team and roles
 
 | Member | Role in the chat |
 | --- | --- |
@@ -22,7 +22,7 @@ Compiled 2026-10-22 from the LINE chat and the four Word files in `sources/`. Wh
 | Member B | Appendix data (due 16/10, delivered early); drafted the slide structure and asked to add German steel export data (2026-10-22) |
 | Member C | Appendix data (due 16/10) |
 
-Schedule announced 2026-10-12 by Member D: 16/10 Members C and B appendix data; 14/11 Member A main content, final confirm one week before presenting; then Member D slides, appendix, Q&A prep; present 16–18/11.
+Schedule announced 2026-10-12 by Member D: 16/10 Members B and C appendix data; 14/11 Member A main content, final confirm one week before presenting; then Member D slides, appendix, Q&A prep; present 16–18/11.
 
 ## Topic and title history
 

@@ -71,7 +71,7 @@ Services have no usable series and are shown as a data gap. For BOP, GDP, C, I a
 
 Structure and arguments are frozen around 1 November; figures and policy status are updated shortly before the presentation days; the group's final check is on 14 November. A reply by [date, before 1 November] would let us adjust in time.
 
-Attachments: this memo as a PDF, and the two diagrams as images. A longer working outline (29 pages) is available on request.
+Attachments: this memo as a PDF, and the two diagrams as images. A longer working outline is available on request.
 
 ---
 
