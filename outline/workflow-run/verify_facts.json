@@ -1,0 +1,1015 @@
+{
+ "summary": "I opened every source file and checked each number, date, name and tag in the outline. No numeric error was found. Every figure on the 13 main slides and the 14 appendix slides matches the tables, and I recomputed the derived values (the steel balance, the CBAM worked example, shares, phase-in table, minute totals) from the displayed inputs. Defects are confined to wording, tags and internal consistency, plus the facts the sources say must be refreshed before November.\n\nConventions used below. Slide numbers 1-13 are main slides. Slides 101-114 are appendix A1-A14. Slide 0 means the approach, conflict log, dependencies or risks. Evidence abbreviations: RB = sources/text/inter-trade-present-2-revised-research-brief.txt (the update tab, line numbers from that file). BASE = sources/text/inter-trade-present-base.txt (line numbers from that file; its lines 257-491 duplicate RB). CHAT = sources/line-chat/line-inter-trade-chat.txt. BRIEF = notes/project-brief.md. DRAFT = Member B's slide draft. NOTES3 = the Thai five-topic notes. I also opened sources/images/base-doc-fig-01.png and -02.png.\n\nFindings that need action:\n1. Slide 5, BEFORE strip: the 2024 electricity value (16.77 ct/kWh) sits under BEFORE, but reporting began 1 Oct 2023, so 2024 belongs to DURING. The series is also the no-concession one (BASE 752); the same notes give 10.47 ct/kWh for eligible energy-intensive firms in 2024 (BASE 763). Label it \"companies without reductions\" and move 2024.\n2. Slide 9: the visual says BMW is \"appendix only\", but BMW is Row 3's buyer on the same slide and in dropped_from_main. Delete BMW from that sentence.\n3. Section 6(b), the dependencies and the risks use \"G2\" and \"G4\" for Member D's graph numbers, while the tag legend defines [G2] as the Export Policy lecture and [G4] as the EC ETS page. Write \"Fig. 2\" and \"Fig. 4\" there.\n4. A7 explains the post-2005 import rise as \"mostly free allocation and strong demand\". The sources support free allocation only; \"strong demand\" is not in any source.\n5. Slide 10, Tax row: \"ETS and CBAM receipts are not German tax or G\" is stronger than the sources, which say \"not automatically\" (BASE 93, 95; RB 40).\n6. Conflict (e): the Thai notes' \"no complete 1999-2025 series\" is superseded only for the Chapter 72 aggregate. Per-product series (7204, 7207, 7208, 7304, 7306, 26011200) still exist only for 2019-25 (7208) or 2025.\n7. Tag mismatches: slide 3 cites U3 for the certificate-price statement (the source tags it U4/U5); slide 12 cites U12/U20 for the four conditions (the list comes from untagged BASE 209).\n8. Wording: \"power-led\" (slides 2 and 12) is stronger than \"power-sector developments were an important driver\"; \"small\" scenario GDP effects (slide 12) is stronger than \"smaller and sensitive to model assumptions\".\n9. Slide 4: Dataset B ends in 2024, so \"all data end in 2025\" should read \"end by 2025\".\n\nNeeds-refresh items (true at the workbook date; the sources say to refresh before November): Q4 2026 certificate price (only Q1-Q3 published); Stegra status; downstream CBAM extension status (U32); the CBAM/ETS legal timeline and the steel quota text; 2026 trade data; provisional 2023-25 GVA, including the 19.4% headline; Dataset F first-estimate vintage; the August and September 2026 Commission items (S11, S23); the untagged BaseNotes electricity series.\n\nI could not verify from the repository the references to \"Draft A/B/C\" in the approach paragraph. They are process notes, not source claims.",
+ "checked": [
+  {
+   "slide": 0,
+   "claim": "Member B's draft has 16 sub-sections (1.1-1.6, 2.1-2.6, 3.1-3.4) and they map to S1-S13 as stated",
+   "verdict": "supported",
+   "evidence": "DRAFT lines 12-62 list 1.1-1.6, 2.1-2.6, 3.1-3.4 = 16. Mapping 1.1+1.6, 1.2, 1.3+1.4, 1.5, 2.1...3.3+3.4 is consistent with the DRAFT headings."
+  },
+  {
+   "slide": 0,
+   "claim": "Minutes: CH1 S1-S4 = 4.0; CH2 S5-S11 = 8.5; CH3 S12-S13 = 2.5; total 15.0; checkpoints 4.0 / 12.5 / 15.0; 13 slides; all in 0.5 steps",
+   "verdict": "supported",
+   "evidence": "Recomputed: 1+1+1+1=4.0; 1+1+1+1.5+1.5+1.5+1=8.5; 1+1.5=2.5; 4+8.5+2.5=15.0. 13 main slides sit inside the 11-14 limit; 900 s / 13 = 69.2 s per slide (risks line)."
+  },
+  {
+   "slide": 0,
+   "claim": "Theory diagram count: two main diagrams (Fig. 1 on S2, redrawn Fig. 2 on S5), limit is 3",
+   "verdict": "supported",
+   "evidence": "Task constraint is at most 3 theory diagrams in the main deck; outline uses 2. Fig. 3-6 exist in BASE 516-543 and are appendix-only in the outline."
+  },
+  {
+   "slide": 0,
+   "claim": "Figures renamed Fig. 1-6 so they do not collide with source tags [G1]-[G5] (G1 = Reason for Domestic Protection, G2 = Export Policy, G3 = Offshoring, G4 = EC ETS page, G5 = EC CBAM page)",
+   "verdict": "supported",
+   "evidence": "BASE 552-556 define exactly these five tags; BASE 503, 510, 517, 524, 531, 538 already title the graphs 'Figure 1-6'; BRIEF 36-42 and CHAT 287-292 use G1-G6 for graphs, so the collision is real."
+  },
+  {
+   "slide": 0,
+   "claim": "Section 6(b) and the to-do/risk text refer to 'G2 wrong', 'G4 entirely replaced', 'G2 is redrawn' (Member D's graph numbers)",
+   "verdict": "contradicted",
+   "evidence": "The same outline's tag legend defines [G2] = Export Policy lecture and [G4] = EC ETS page (BASE 553, 555), and A11/A14 use [G2] in that sense. Using G2/G4 for graph numbers re-creates the collision the outline says it avoided.",
+   "fix": "Write 'Fig. 2 (import-cost channel)' and 'Fig. 4 (demand for cleaner material)' in 6(b), 6(c), the to-dos and the risks."
+  },
+  {
+   "slide": 0,
+   "claim": "6(a) Chat 11 Oct screenshot claims (14%, 5.5 m / 20.8%, 47% as CBAM, 11,000 dismissals, Mercedes operating a plant, BMW replacing all blast-furnace steel, Outokumpu 90% scrap, bluemint = DRI) lose to update section 8",
+   "verdict": "supported",
+   "evidence": "CHAT 170-190 (11 Oct 14:45) contains each claim; RB 176-183 (section 8) and RB 133-134, 139, 126 correct them. 'Mercedes operating a plant' = CHAT 185; 'BMW replaces all' = CHAT 186; '90%' = CHAT 190."
+  },
+  {
+   "slide": 0,
+   "claim": "6(b) Member D's 08:26 12 Oct feedback is softened by his 09:53 message ('all graphs correct within short-run scope; add before/during/after facts'); the brief still logs G2 and G4 as unresolved",
+   "verdict": "supported",
+   "evidence": "CHAT 277-292 (08:26 feedback); CHAT 305-306 (09:53 'กราฟทุกอันถูกต้อง'); CHAT 311-315 (before/during/after); CHAT 319-320 (10:01 'ไม่ได้เปลี่ยนแปลงอะไร'). BRIEF 39 and 65 log Graph 2 / Graph 4 as unresolved. The decision to redraw is the team's, not recorded in the chat."
+  },
+  {
+   "slide": 0,
+   "claim": "6(b) workbook text supports partial pass-through ('avoid assuming 100% pass-through'; update 3.2)",
+   "verdict": "supported",
+   "evidence": "BASE 69 'Avoid assuming 100% pass-through.'; RB 35 'The import cost increase need not be passed through fully.'"
+  },
+  {
+   "slide": 0,
+   "claim": "6(c) 'entirely replaced' conflicts with update sections 6 and 8",
+   "verdict": "supported",
+   "evidence": "RB 142 'products continued to enter Germany directly from non-EU countries in 2025'; RB 154; RB 182 'distinguish ... target volume from delivered tonnes'. Note Member D only asked to check the graph (CHAT 290 'ต้องเช็คกราฟ P-Q'); he did not assert it."
+  },
+  {
+   "slide": 0,
+   "claim": "6(d) Dataset C (2019-2025) is a subset of the update 4.2 table with identical overlapping values",
+   "verdict": "supported",
+   "evidence": "BASE 144-150 vs RB 109-115: all seven years match on both value and net mass (e.g. 2025 1590.95 / 1463.59; 2019 2459.48 / 3341.97)."
+  },
+  {
+   "slide": 0,
+   "claim": "6(e) The Thai notes' 'no complete 1999-2025 series' is superseded by update 4.2",
+   "verdict": "supported",
+   "evidence": "NOTES3 line 57 says no complete annual 1999-2025 series 'for all product types'. RB 86-116 supplies a 1999-2025 series for Chapter 72 only; per-product series exist only for 7208 (2019-25, BASE 158-164) and 2025 profiles (RB 145-152).",
+   "fix": "Say 'superseded for the Chapter 72 aggregate only; per-product series remain 2019-25 (7208) or 2025'."
+  },
+  {
+   "slide": 0,
+   "claim": "6(f) The notes' '7.26-7.49 m over 2015-2025' is backed only for 2023-2025 [U28]",
+   "verdict": "supported",
+   "evidence": "RB 122: 7.490 m (2023), 7.415 m (2024), 7.262 m (2025). NOTES3 line 62 and BASE 936 state the 2015-2025 range, and BASE 936 itself says 'exact annual values should be pulled from nama_10_a64_e'."
+  },
+  {
+   "slide": 0,
+   "claim": "6(g) Notes' Thyssenkrupp 'full hydrogen by 2029' differs from the dated VW MoU [U10]",
+   "verdict": "supported",
+   "evidence": "BASE 701 'targets full hydrogen operation by 2029'; RB 127 'commissioning from 2027, initially natural gas ... supply beginning in 2028'."
+  },
+  {
+   "slide": 0,
+   "claim": "6(h) Update 2.3 gives '18.3 Mt and 50% out-of-quota duty' ambiguously; keep off main slides until U7 checked",
+   "verdict": "supported",
+   "evidence": "RB 26: 'relative to 2024 safeguard quotas: 18.3 million tonnes annually and a 50% out-of-quota duty' does not say which quota the 18.3 Mt describes; U7 = 'Steel quota factsheet: 18.3 million tonnes' (RB 205)."
+  },
+  {
+   "slide": 0,
+   "claim": "6(i) Thyssenkrupp 2025 follow-up (IG Metall, 5,300 directly affected) is later but secondary; main slides use the 25 Nov 2024 plan [U9]",
+   "verdict": "supported",
+   "evidence": "BASE 952 (apps.eurofound tag, no S/U ID) gives IG Metall deal, 1,600 + 3,700 = 5,300; RB 165 and 207 give the 25 Nov 2024 plan [U9]."
+  },
+  {
+   "slide": 0,
+   "claim": "6(j) Scrap EUR 305/t (HS 720449) vs 382/t (HS 7204), willingness-to-pay 16% vs more than half, '+77%' electricity comparison are unreconciled",
+   "verdict": "supported",
+   "evidence": "BASE 711, 720 (305) vs BASE 884, 894 (382); BASE 735-736 (more than half vs 16%); BASE 763 (10.47 eligible vs 5.92 no-concession; 10.47/5.92 = 1.77) mixes bases."
+  },
+  {
+   "slide": 0,
+   "claim": "6(k) Base-tab dates (10 Oct) are superseded by the update tab (11 Oct)",
+   "verdict": "supported",
+   "evidence": "BASE 229 'checked on 10 October 2026'; BASE 141 'Retrieved 10 October 2026'; RB 3 'Updated: 11 October 2026'; RB 86 'Retrieved 11 October 2026'."
+  },
+  {
+   "slide": 0,
+   "claim": "6(l) Course brief 20+10 minutes versus team request of 15 minutes: 15 used",
+   "verdict": "supported",
+   "evidence": "CHAT 3 and 98 '20 mins presentation + 10 mins Q&A'; BRIEF 7 and 64 note the 15-minute cut. RB 187 and BASE 443 carry a 20-minute allocation."
+  },
+  {
+   "slide": 0,
+   "claim": "6(m) Member B corrected 'chap 2.3' to 'chap 4.2' (22 Oct 00:18); both point to the import-trend position",
+   "verdict": "supported",
+   "evidence": "CHAT 368 ('*เพิ่มในchap2.3*'), CHAT 372-373 (00:18 'chap 4.2 *ไม่ใช่2.3*'); DRAFT line 2 still says 2.3, and DRAFT 38-40 sets 2.3 = steel import trends drawn from section 4.2."
+  },
+  {
+   "slide": 0,
+   "claim": "Tag legend: [U1]-[U35] update-tab; [S1]-[S24] base-tab; BaseNotes 1-5 = BASE 645-1006 (1 subsidy, 2 alternatives/prices, 3 domestic cost, 4 trade-data method, 5 jobs/GDP); BaseNotes carry only inline domain tags",
+   "verdict": "supported",
+   "evidence": "RB 199-233 (U1-U35); BASE 231-254 (S1-S24); BASE 645, 703, 748, 832, 930 are the five note headings; their citations are bare domains such as [ec.europa], [smard]."
+  },
+  {
+   "slide": 0,
+   "claim": "Section 3 gap decision: Dataset B has all-partner steel-mill exports and imports 2017-2024; matched extra-EU Chapter 72 export series not pulled",
+   "verdict": "supported",
+   "evidence": "BASE 126-139 (Dataset B); BRIEF 58 and 66 ('Matched steel export series (Comext DS-045409, flow 2) not yet pulled'); DRAFT lines 1-8."
+  },
+  {
+   "slide": 0,
+   "claim": "Dependencies: lecture confirmation of the theory graphs is pending and to be asked at the on-site class",
+   "verdict": "supported",
+   "evidence": "CHAT 322 'ความถูกต้องของกราฟถามแกไปเลยก็ได้ตอนมี onsite'; BRIEF 44."
+  },
+  {
+   "slide": 0,
+   "claim": "Dependencies: Member D leaves Thailand in early November; chat's 14/11 'final confirm one week before presenting' falls 2-4 days before the 16-18/11 presentations",
+   "verdict": "supported",
+   "evidence": "CHAT 358 'ต้นเดือนหน้าหายจากไทยยาว'; CHAT 337 'ขอคอนเฟรมfinalทุกอย่างก่อน 1 สัปดาพรีเซ้น' with 14/11 (CHAT 337) and present day 16-18/11 (CHAT 342). 16-14 = 2 days, 18-14 = 4 days."
+  },
+  {
+   "slide": 0,
+   "claim": "Dependencies: outline/ folder is empty; README and project-brief refer to outline/slide-outline-15min.md",
+   "verdict": "supported",
+   "evidence": "Directory listing: outline/ contains no files; README.md layout table and BRIEF 59 reference outline/slide-outline-15min.md."
+  },
+  {
+   "slide": 0,
+   "claim": "Dependencies: lecture PDFs not archived; page refs G1 pp.13, 15-17; G2 pp.5-7; G3 pp.2, 4-5, 10; Dataset B is a German-language source",
+   "verdict": "supported",
+   "evidence": "README 'Not in this repo'; BASE 552-554; BASE 242 'German original; pp. 9, 30'."
+  },
+  {
+   "slide": 0,
+   "claim": "20-minute stretch plan adds exactly 5.0 min (S3 +0.5, S5 +0.5, S7 +0.5, S8 +0.5, S9 +1.0, S10 +0.5, S11 +1.0, S13 +0.5)",
+   "verdict": "supported",
+   "evidence": "0.5 x 6 + 1.0 x 2 = 5.0; 15.0 + 5.0 = 20 (CHAT 3)."
+  },
+  {
+   "slide": 0,
+   "claim": "Refresh list: CBAM/ETS status, Q4 2026 certificate price, Stegra status, downstream-extension status, 2026 trade data, GVA 2023-25 provisional",
+   "verdict": "needs_refresh",
+   "evidence": "BRIEF 67; BASE 168 ('Q4 was not yet published'); BASE 229 ('refresh the law, prices and 2026 data'); RB 135, 198; RB 48 (provisional flag). Outline correctly lists them; the steel quota text and Dataset F vintage should be added."
+  },
+  {
+   "slide": 1,
+   "claim": "Manufacturing is 19.4% of German total GVA, 2025 [U22] (not a GDP share)",
+   "verdict": "needs_refresh",
+   "evidence": "RB 121 'manufacturing was 19.9% ... in 2024 and 19.4% in 2025'; RB 81 table 2025 = 19.4; RB 48 'GVA observations for 2023-2025 carry a provisional flag' and 'not its share of GDP'. Value correct; 2025 rests on provisional data.",
+   "fix": "Keep 19.4% but add 'provisional' to the tile and recheck nama_10_a64 in November."
+  },
+  {
+   "slide": 1,
+   "claim": "26% of EU sold industrial production is German, 2025 (production value, PRODCOM, not GDP) [U26]",
+   "verdict": "supported",
+   "evidence": "RB 120 'Germany accounted for 26% of EU sold industrial production value in 2025; ... PRODCOM sold production ... is not GDP or national-accounts GVA.'"
+  },
+  {
+   "slide": 1,
+   "claim": "34.1 Mt German crude steel in 2025 [Dataset A, S13]",
+   "verdict": "supported",
+   "evidence": "BASE 123 '2025 | 34.1'; BASE 112 sources [S12][S13] (2025 from worldsteel = S13); BASE 188 repeats 34.1 Mt."
+  },
+  {
+   "slide": 1,
+   "claim": "CBAM is EU-wide law and Germany applies the common framework [S1][S2]",
+   "verdict": "supported",
+   "evidence": "BASE 10 'CBAM is established at EU level ... Germany applies the common framework; it does not independently set a German CBAM tariff. [S1] [S2]'."
+  },
+  {
+   "slide": 1,
+   "claim": "Central question and 'opportunities and adjustment costs' wording; method 'no regression; policy dates are annotations, not proof'",
+   "verdict": "supported",
+   "evidence": "RB 6 central question; RB 8 'Policy dates are annotations, not proof of causation'; no DiD per CHAT 150 and RB 8."
+  },
+  {
+   "slide": 1,
+   "claim": "Eleven required variables X, M, NX, BOP, Q, P, GDP, tax, C, I, G",
+   "verdict": "supported",
+   "evidence": "CHAT 8 and 103 'X,M , NX, BOP, Q of g/s, P of g/s, GDP, tax, C, I, G, NX' (NX duplicated in chat; 11 distinct); BRIEF 12."
+  },
+  {
+   "slide": 1,
+   "claim": "Data source line references (RB 120-123, RB 4-9, BASE 111-125, BASE 10)",
+   "verdict": "supported",
+   "evidence": "RB 120-123 = 4.3; RB 4-9 = section 1; BASE 111-125 = Dataset A; BASE 10 = institutional boundary."
+  },
+  {
+   "slide": 2,
+   "claim": "Fig. 1 (base-doc-fig-01.png): demand D, PMC, SMC = PMC + 20, market Q = 50, social optimum Q = 40, shaded loss triangle, footer 'SIMULATION | Invented values for theory; not observed German data'",
+   "verdict": "supported",
+   "evidence": "Image viewed: legend 'Demand: D / Private marginal cost: PMC / Social cost: SMC = PMC + 20', 'Market: Q = 50', 'Social optimum: Q = 40', shaded triangle, footer text exactly as quoted. BASE 505-506: D P=120-Q, PMC=20+Q, SMC=40+Q; Q=50 P=70; Q=40 P=80."
+  },
+  {
+   "slide": 2,
+   "claim": "Fig. 1 reused unchanged because Member D judged it correct (12 Oct 08:26)",
+   "verdict": "supported",
+   "evidence": "CHAT 287 'Graph1. negative production externality: correct'; CHAT 306 'กราฟทุกอันถูกต้อง'."
+  },
+  {
+   "slide": 2,
+   "claim": "BEFORE: pre-ETS window 1995-2004; ETS Directive adopted 2003",
+   "verdict": "supported",
+   "evidence": "RB 18 '1995-2004: pre-ETS observation window'; RB 19 '2003: ETS Directive adopted; 2005: EU ETS launched'."
+  },
+  {
+   "slide": 2,
+   "claim": "DURING: 2005 launch; pilot 2005-07 with mostly free allocation and oversupply, not a uniform charge [U1]",
+   "verdict": "supported",
+   "evidence": "RB 12 'Early phases relied heavily on free allocation and the pilot suffered oversupply, so 2005 was not a sudden, uniform carbon charge'; RB 19 '2005-2007: pilot phase, predominantly free allocation'."
+  },
+  {
+   "slide": 2,
+   "claim": "LATEST: covered power + industry emissions about 50% below 2005 in 2024: EU aggregate, power-led, not Germany-steel, not CBAM [U29]",
+   "verdict": "supported",
+   "evidence": "RB 43 'covered power-and-industry emissions were around 50% below 2005 levels in 2024; power-sector developments were an important driver. This is an EU ETS aggregate, not a Germany-only steel figure and not a CBAM outcome.'",
+   "fix": "'Power-led' is slightly stronger than 'an important driver'; say 'with power an important driver'."
+  },
+  {
+   "slide": 2,
+   "claim": "ETS caps covered emissions; it is not a steel-output quota [G4]; real ETS price not claimed equal to damage",
+   "verdict": "supported",
+   "evidence": "BASE 507 'ETS caps covered emissions rather than imposing a steel-output quota ... [G4]'; BASE 508 'does not show that the real ETS price achieves the exact social optimum'."
+  },
+  {
+   "slide": 2,
+   "claim": "S2 depends on lecturer confirmation (pending)",
+   "verdict": "supported",
+   "evidence": "CHAT 322; BRIEF 44; BASE 495 'All numerical values ... invented teaching examples'."
+  },
+  {
+   "slide": 3,
+   "claim": "ETS: declining cap and tradable allowances; installations surrender allowances; free allocation lowers net cost but is not an exemption from monitoring and surrender [U1][U2]",
+   "verdict": "supported",
+   "evidence": "RB 12 'declining cap and tradable allowances. A covered installation must surrender allowances'; RB 13 'Free allowances ... are not the same as exemption from ETS monitoring and surrender. Free allocation affects the net cost' (tags [U2][U4])."
+  },
+  {
+   "slide": 3,
+   "claim": "CBAM: authorised declarant surrenders certificates for embedded emissions, net of free-allocation adjustment and any recognised foreign carbon price; certificate price follows ETS auctions [U3][U5]",
+   "verdict": "supported",
+   "evidence": "RB 15 'The authorised declarant's obligation depends on embedded emissions and applicable adjustments, including free allocation and a recognised foreign carbon price. Certificate prices follow ETS auction prices. [U4] [U5]'. The source tags this sentence U4/U5, not U3.",
+   "fix": "Cite [U4][U5] for this statement; keep [U3] for the leakage rationale and 'not a ban' (RB 14)."
+  },
+  {
+   "slide": 3,
+   "claim": "CBAM is not a ban, not a buy-European requirement and not a fixed percentage of invoice value",
+   "verdict": "supported",
+   "evidence": "RB 14 'It is not a prohibition on foreign steel, a requirement to buy European steel or a fixed percentage tariff on the import's euro value. [U3]'."
+  },
+  {
+   "slide": 3,
+   "claim": "Start row: ETS 2005 (pilot, mostly free allocation); CBAM reporting Oct 2023, definitive 1 Jan 2026",
+   "verdict": "supported",
+   "evidence": "RB 12, 19; RB 21 'October 2023-December 2025: transitional reporting; January 2026: definitive obligations. [U3]'; BASE 21, 23."
+  },
+  {
+   "slide": 3,
+   "claim": "Germany applies the EU rules and sets no German tariff [S1][S2]",
+   "verdict": "supported",
+   "evidence": "BASE 10."
+  },
+  {
+   "slide": 3,
+   "claim": "Coverage by customs code (mostly Chapter 72, scrap excluded) and the 50-tonne importer threshold [S4][S5]",
+   "verdict": "supported",
+   "evidence": "BASE 27 'most Chapter 72 goods ... exclusion of ferrous waste and scrap (7204)'; BASE 31 '50 tonnes ... [S5]'."
+  },
+  {
+   "slide": 3,
+   "claim": "A cleaner supplier faces a smaller bill (assumed example in backup A3)",
+   "verdict": "supported",
+   "evidence": "BASE 54-58 worked example: e = 2.0 gives EUR 77.24/t; e = 1.2 gives EUR 16.96/t; 'all emissions and benchmark inputs ... are assumed'."
+  },
+  {
+   "slide": 4,
+   "claim": "ETS launched 2005; pilot 2005-07; phases 2008-12, 2013-20, 2021 onward [U1]",
+   "verdict": "supported",
+   "evidence": "RB 19-20."
+  },
+  {
+   "slide": 4,
+   "claim": "14 Jul 2021 CBAM proposed [S3]",
+   "verdict": "supported",
+   "evidence": "BASE 19 '14 July 2021: the European Commission proposed CBAM ... [S3]'; S3 = BASE 233."
+  },
+  {
+   "slide": 4,
+   "claim": "1 Oct 2023 reporting starts, no payments [U3][S7]",
+   "verdict": "supported",
+   "evidence": "BASE 21 '1 October 2023-31 December 2025: transitional reporting period; no CBAM certificate payments for these imports. [S7]'; RB 21 [U3]."
+  },
+  {
+   "slide": 4,
+   "claim": "1 Jan 2026 definitive regime [S6]",
+   "verdict": "supported",
+   "evidence": "BASE 23; RB 15."
+  },
+  {
+   "slide": 4,
+   "claim": "1 Feb 2027 certificate sales begin; 30 Sep 2027 first surrender [U35][S5]",
+   "verdict": "supported",
+   "evidence": "RB 23 'February 2027: certificate sales begin ... due by 30 September 2027. A 2026 liability and its later cash payment are different events. [U35]'; BASE 24 [S5]."
+  },
+  {
+   "slide": 4,
+   "claim": "2034 phase-in complete [S9]",
+   "verdict": "supported",
+   "evidence": "BASE 25 '2026-2034 ... [S9]'; BASE 51 '2034 | 0.0 | 100.0'."
+  },
+  {
+   "slide": 4,
+   "claim": "Steel quota framework adopted 8 Jun 2026, applied 1 Jul 2026, 47% below 2024 safeguard quotas; separate from CBAM [U6][U8]",
+   "verdict": "supported",
+   "evidence": "RB 26 'The 47% reduction refers to the separate steel tariff-rate quota framework, relative to 2024 safeguard quotas ... adopted the new framework on 8 June 2026; application began on 1 July 2026 ... not a provision of CBAM.'; RB 179; U6 (RB 204) and U8 (RB 206, 13 April 2026)."
+  },
+  {
+   "slide": 4,
+   "claim": "Russia sanctions are another separate factor [U33]",
+   "verdict": "supported",
+   "evidence": "RB 27 'Russian iron and steel trade is also affected by sanctions and origin restrictions. [U33]'."
+  },
+  {
+   "slide": 4,
+   "claim": "CBAM factor 97.5% (2026) -> 0% (2034), benchmark-based, not a % of each shipment's emissions [S9][S10]",
+   "verdict": "supported",
+   "evidence": "BASE 40 'not a universal percentage to multiply by every importer's actual emissions'; BASE 43 and 51 table; BASE 59 'cost = 2.5% x actual emissions x certificate price' is not implied."
+  },
+  {
+   "slide": 4,
+   "claim": "Data-window bar: manufacturing 1995-2025; extra-EU Ch. 72 imports 1999-2025; 'both end 2025'; 'all our output and trade data end in 2025'",
+   "verdict": "supported",
+   "evidence": "RB 3 and 48 (1995-2025); RB 86 (from 1999; 1995-98 and 2026 no values); BASE 205 'tables end in 2025'. Nuance: Dataset B ends 2024 (BASE 130-137).",
+   "fix": "Say 'end by 2025' or add 'steel trade by weight to 2024'."
+  },
+  {
+   "slide": 4,
+   "claim": "Policy timeline dates (CBAM definitive regime, certificate sales/surrender, steel quota application) are current",
+   "verdict": "needs_refresh",
+   "evidence": "BRIEF 67 lists 'CBAM / ETS status' to refresh before presenting; BASE 229 'Legal rules and data are subject to amendment/revision; refresh the law'; RB 198."
+  },
+  {
+   "slide": 4,
+   "claim": "Seven labelled lane-1 events (limit 8)",
+   "verdict": "supported",
+   "evidence": "Count in the outline: 2005, 14 Jul 2021, 1 Oct 2023, 1 Jan 2026, 1 Feb 2027, 30 Sep 2027, 2034 = 7."
+  },
+  {
+   "slide": 5,
+   "claim": "Original Fig. 2 assumes full pass-through and unchanged domestic costs; Member D flagged it (not full pass-through, domestic cost increased)",
+   "verdict": "supported",
+   "evidence": "BASE 512 'Assume ... full pass-through, no cheaper alternative supply and unchanged domestic production costs'; CHAT 288 'G2. import-cost channel: wrong; not full pass through, domestic production cost changed and it was increased'."
+  },
+  {
+   "slide": 5,
+   "claim": "Carbon import cost raises landed price by less than the full charge (exporters and importers absorb part); domestic supply also shifts up with ETS, energy and capital costs; domestic output ambiguous; total imports need not fall",
+   "verdict": "supported",
+   "evidence": "BASE 67-69 ('Importers may absorb part'; 'EU ETS costs, electricity, wages or investment'; 'Domestic output could still fall, but fall less'); BASE 72 'Total steel imports need not fall if sourcing is reorganised'."
+  },
+  {
+   "slide": 5,
+   "claim": "Electricity (companies without reductions): 5.92 ct/kWh (2020), peak 35.70 (2022), 16.77 (2024) [BaseNotes-3, SMARD]",
+   "verdict": "supported",
+   "evidence": "BASE 752-759: 2020 5.92, 2022 35.70, 2024 16.77, for 'companies without network-charge, electricity-tax, concession-fee, or surcharge reductions'. BASE 763: eligible energy-intensive firms paid 10.47 ct/kWh in 2024. No S/U ID (inline [smard] only).",
+   "fix": "State 'companies without reductions' on the slide (steel is an energy-intensive user) and verify at source."
+  },
+  {
+   "slide": 5,
+   "claim": "2024 electricity value (16.77) shown in the BEFORE panel",
+   "verdict": "contradicted",
+   "evidence": "The outline defines DURING as reporting Oct 2023-Dec 2025; the sources put reporting at 1 Oct 2023-31 Dec 2025 (BASE 21; RB 21), so 2024 is a DURING-window year.",
+   "fix": "Show only 2020 and 2022 under BEFORE; move 2024 to DURING or drop it."
+  },
+  {
+   "slide": 5,
+   "claim": "DURING: extra-EU Ch. 72 imports 2,089 -> 1,464 kt (2023 -> 2025) [U24]",
+   "verdict": "supported",
+   "evidence": "RB 113 '2023 | 2107.38 | 2088.99'; RB 115 '2025 | 1590.95 | 1463.59'."
+  },
+  {
+   "slide": 5,
+   "claim": "AFTER: certificate prices EUR 75.36 / 75.28 / 82.32 per tCO2e, Q1-Q3 2026 [Dataset E]",
+   "verdict": "needs_refresh",
+   "evidence": "BASE 171-173 (Q1 7 Apr 75.36; Q2 6 Jul 75.28; Q3 5 Oct 82.32); BASE 168 'Q4 was not yet published on the research date; do not insert an assumed price'. Values correct; Q4 pending."
+  },
+  {
+   "slide": 5,
+   "claim": "No 2026 trade data; first payments 2027; no after-effect claim [U35]",
+   "verdict": "supported",
+   "evidence": "RB 86 'observations from 1999; 1995-1998 and 2026 had no returned values'; BASE 205 'annual Eurostat queries ... contain no 2026 value'; RB 23."
+  },
+  {
+   "slide": 5,
+   "claim": "Source tags G1 and G5 for the Fig. 2 adaptation",
+   "verdict": "supported",
+   "evidence": "BASE 511 '[G1]'; BASE 515 '[G5]'."
+  },
+  {
+   "slide": 5,
+   "claim": "S5 depends on lecturer confirmation; BaseNotes appears on one main slide only (this one)",
+   "verdict": "supported",
+   "evidence": "CHAT 322; BASE 495. No other main slide cites BaseNotes."
+  },
+  {
+   "slide": 6,
+   "claim": "Panel A real GVA chain-linked volume index 2020 = 100 [U22]; Panel B production annual unadjusted 2021 = 100 [U23]; share is of total GVA, not GDP",
+   "verdict": "supported",
+   "evidence": "RB 48."
+  },
+  {
+   "slide": 6,
+   "claim": "Around 2005 both series rose (GVA 82.21 -> 83.54; production 85.7 -> 88.6)",
+   "verdict": "supported",
+   "evidence": "RB 60-61 and RB 84 'real GVA rises from 82.21 in 2004 to 83.54 in 2005; production rises from 85.7 to 88.6'."
+  },
+  {
+   "slide": 6,
+   "claim": "Deepest falls 2009 (GVA index about 93 to 74) and 2020",
+   "verdict": "supported",
+   "evidence": "RB 64-65 (2008 92.93; 2009 74.42); RB 76 (2020 100.00; production 95.4); RB 84 'largest visible downturns ... 2009 and 2020'."
+  },
+  {
+   "slide": 6,
+   "claim": "Since 2022 production slipped from about 100 to 93",
+   "verdict": "supported",
+   "evidence": "RB 78 '2022 | 110.74 | 99.8'; RB 81 '2025 | 104.13 | 92.8'."
+  },
+  {
+   "slide": 6,
+   "claim": "Manufacturing share of total GVA 22.3% (1995) -> 19.4% (2025); EU27 15.9% (2024)",
+   "verdict": "supported",
+   "evidence": "RB 51 and RB 81; RB 121 'EU27 figure was 15.9% in 2024'."
+  },
+  {
+   "slide": 6,
+   "claim": "2023-25 GVA provisional; data retrieved 11 Oct 2026",
+   "verdict": "needs_refresh",
+   "evidence": "RB 48 'GVA observations for 2023-2025 carry a provisional flag ... retrieved 11 October 2026'. The 2025 values on this slide (104.13, 19.4%) can be revised."
+  },
+  {
+   "slide": 6,
+   "claim": "A stable aggregate cannot prove or rule out a policy effect",
+   "verdict": "supported",
+   "evidence": "RB 176 'Even a correctly defined stable aggregate cannot identify a policy effect.'; RB 84."
+  },
+  {
+   "slide": 7,
+   "claim": "Direct extra-EU Chapter 72 imports peaked at 6,291 kt in 2007",
+   "verdict": "supported",
+   "evidence": "RB 97 '2007 | 5660.36 | 6290.77'; computed maximum of the 1999-2025 series = 6290.77 (2007)."
+  },
+  {
+   "slide": 7,
+   "claim": "Imports fell every year since 2021 to a series low of 1,464 kt in 2025",
+   "verdict": "supported",
+   "evidence": "RB 111-115: 2021 3337.39; 2022 2697.17; 2023 2088.99; 2024 1954.63; 2025 1463.59 (computed minimum of the series). Note 2021 itself rose 503.6 kt over 2020 (RB 110).",
+   "fix": "Phrase as 'lower each year after 2021'."
+  },
+  {
+   "slide": 7,
+   "claim": "Unit value EUR/t 736 (2019), 1,176 (2022), 1,087 (2025) [Dataset C]",
+   "verdict": "supported",
+   "evidence": "BASE 144 '735.94'; BASE 147 '1175.74'; BASE 150 '1087.02'; recomputed 2459.48/3341.97 = 735.94 etc."
+  },
+  {
+   "slide": 7,
+   "claim": "Scope: partner EXT_EU27_2020; Chapter 72 includes scrap, excludes Chapter 73 and ore; not the CBAM base",
+   "verdict": "supported",
+   "evidence": "RB 86, 117; BASE 152 'a broad trade proxy, not the taxable CBAM base'."
+  },
+  {
+   "slide": 7,
+   "claim": "Imports rose after the 2005 launch to the 2007 peak",
+   "verdict": "supported",
+   "evidence": "RB 94-97: 2004 3906.31; 2005 4744.27; 2006 5309.47; 2007 6290.77."
+  },
+  {
+   "slide": 7,
+   "claim": "Event labels 2005 ETS, 2008-09 crisis, 2020 COVID, 2022 energy/war, Oct 2023 CBAM reporting; Russia sanctions and quotas overlap",
+   "verdict": "supported",
+   "evidence": "RB 118; RB 26-27 [U6][U33]; BASE 204."
+  },
+  {
+   "slide": 7,
+   "claim": "During reporting years 2023-25 tonnes fell 2,089 -> 1,464 thousand before any payment",
+   "verdict": "supported",
+   "evidence": "RB 113, 115; payments begin 2027 (RB 23). Reporting ran 1 Oct 2023-31 Dec 2025 (BASE 21), so 2023 is only partly a reporting year."
+  },
+  {
+   "slide": 7,
+   "claim": "Steel cleared in another EU state and then sent to Germany is not counted",
+   "verdict": "supported",
+   "evidence": "RB 117 'German direct extra-EU imports omit non-EU-origin material first cleared elsewhere in the EU'; BASE 29."
+  },
+  {
+   "slide": 8,
+   "claim": "Dataset B: exports 27.3 -> 22.9 Mt and imports 28.5 -> 18.8 Mt, 2017-2024, steel mill products, all partners incl. intra-EU",
+   "verdict": "supported",
+   "evidence": "BASE 127 'Includes both intra-EU and extra-EU trade ... German Steel Federation 2025, printed p. 30'; BASE 130 '2017 | 27.3 | 28.5'; BASE 137 '2024 | 22.9 | 18.8'."
+  },
+  {
+   "slide": 8,
+   "claim": "Derived balance X - M = -1.2, -1.6, +0.3, +1.4, -0.4, +0.4, +3.0, +4.1 Mt",
+   "verdict": "supported",
+   "evidence": "Recomputed from BASE 130-137: 27.3-28.5=-1.2; 26.4-28.0=-1.6; 24.8-24.5=0.3; 22.1-20.7=1.4; 24.6-25.0=-0.4; 23.2-22.8=0.4; 23.0-20.0=3.0; 22.9-18.8=4.1. BASE 139 permits computing it 'from the displayed rounded values only as an approximate physical balance'."
+  },
+  {
+   "slide": 8,
+   "claim": "Balance is 'about +/-0.1 Mt' from rounding",
+   "verdict": "supported",
+   "evidence": "BASE 139 'rounded values'; one-decimal inputs (about +/-0.05 each) give about +/-0.1 on a difference. This is arithmetic inference; the source gives no stated rounding error."
+  },
+  {
+   "slide": 8,
+   "claim": "Imports fell faster than exports; 2021 balance -0.4 (not monotonic)",
+   "verdict": "supported",
+   "evidence": "Computed: exports -4.4 Mt, imports -9.7 Mt (2017 to 2024); 2021 = 24.6-25.0 = -0.4 (BASE 134)."
+  },
+  {
+   "slide": 8,
+   "claim": "Crude steel output 43.3 -> 37.2 Mt (2017 -> 2024) [Dataset A]",
+   "verdict": "supported",
+   "evidence": "BASE 115 '2017 | 43.3'; BASE 122 '2024 | 37.2'."
+  },
+  {
+   "slide": 8,
+   "claim": "Not the CBAM base; not national-accounts NX (goods and services, EUR)",
+   "verdict": "supported",
+   "evidence": "BASE 139 'It is not a measure of CBAM-liable imports or the goods-and-services NX component in GDP.'"
+  },
+  {
+   "slide": 8,
+   "claim": "Matched extra-EU Chapter 72 exports (Comext flow 2, 1999-2025) not in hand; no extra-EU NX can be shown",
+   "verdict": "supported",
+   "evidence": "BRIEF 58 and 66; DRAFT 7 'ยังไม่มีข้อมูลส่งออกเหล็กที่จับคู่กัน'; CHAT 368 (Member B asks for export data)."
+  },
+  {
+   "slide": 8,
+   "claim": "Member B's rationale: imports alone say nothing about competitiveness; NX = X - M",
+   "verdict": "supported",
+   "evidence": "CHAT 368 'Net Export=Export-Import'; DRAFT 7-8 (both flows and market demand must be considered)."
+  },
+  {
+   "slide": 8,
+   "claim": "Goods trade is one part of the current account / goods balance is not the balance of payments",
+   "verdict": "supported",
+   "evidence": "BASE 81 'Goods trade balance is one component of the current account.'"
+  },
+  {
+   "slide": 8,
+   "claim": "Bigger tonnage surplus can come from weak home demand",
+   "verdict": "supported",
+   "evidence": "Framed as a possibility: DRAFT 8 asks to consider 'ความต้องการเหล็กในตลาด'; BASE 80 'A steel-only improvement can coexist with a decline in Germany's overall trade surplus'; BASE 125 'output was already weak'."
+  },
+  {
+   "slide": 9,
+   "claim": "Thyssenkrupp x VW: MoU 22 Oct 2024; DRI plant commissioning from 2027 (gas first, then hydrogen); supply from 2028 [U10]",
+   "verdict": "supported",
+   "evidence": "RB 127; U10 title RB 208 'MoU, 22 October 2024'."
+  },
+  {
+   "slide": 9,
+   "claim": "bluemint is a product family, not all hydrogen steel [U11]",
+   "verdict": "supported",
+   "evidence": "RB 126 'bluemint is a product family ... Avoid describing every current bluemint product as hydrogen steel.'"
+  },
+  {
+   "slide": 9,
+   "claim": "Salzgitter SALCOS: first DRP/EAF production 2027, full conversion mid-2030s [U12]",
+   "verdict": "supported",
+   "evidence": "RB 130 'gives 2027 for the first DRP/EAF production and the mid-2030s for full conversion'."
+  },
+  {
+   "slide": 9,
+   "claim": "EWE hydrogen contract 9 Jun 2026, 10,000 t/yr, 7 years, about 6.5% of SALCOS need [U13]",
+   "verdict": "supported",
+   "evidence": "RB 131."
+  },
+  {
+   "slide": 9,
+   "claim": "Salzgitter says new energy inputs are currently dearer than coal [U12]",
+   "verdict": "supported",
+   "evidence": "RB 33 'Salzgitter also states that the new energy inputs are currently more expensive than coal'."
+  },
+  {
+   "slide": 9,
+   "claim": "Mercedes-Benz (buyer) - Stegra (producer), Jun 2023, about 50,000 t/yr [U14]",
+   "verdict": "supported",
+   "evidence": "RB 133 'June 2023 supply agreement with Stegra ... approximately 50,000 tonnes ... Mercedes-Benz is the buyer; Stegra is the steel producer.'"
+  },
+  {
+   "slide": 9,
+   "claim": "BMW buyer agreement 20 Oct 2021 [U15]",
+   "verdict": "supported",
+   "evidence": "RB 134 'BMW's 20 October 2021 announcement ... original planned first deliveries from 2025 and up to 95% lower production emissions. It does not establish replacement of all BMW steel'."
+  },
+  {
+   "slide": 9,
+   "claim": "Stegra 30 Sep 2026 review: more capital needed, so 2025 delivery expectations are not verified deliveries [U16]",
+   "verdict": "needs_refresh",
+   "evidence": "RB 135 'additional capital is needed to complete the Boden project ... must not be presented as verified deliveries ... update delivery status before the November presentation.'"
+  },
+  {
+   "slide": 9,
+   "claim": "'BMW, Volvo-SSAB and Outokumpu are appendix only'",
+   "verdict": "contradicted",
+   "evidence": "Internal contradiction: the same slide's Row 3 lists BMW (buyer, 20 Oct 2021) [U15], and dropped_from_main says 'BMW survives as a buyer inside the Stegra row'. Sources (RB 134) support BMW on the slide.",
+   "fix": "Change to 'Volvo-SSAB and Outokumpu are appendix only'."
+  },
+  {
+   "slide": 9,
+   "claim": "Most agreements pre-date paid CBAM: direction, not cause",
+   "verdict": "supported",
+   "evidence": "RB 45 'Several pre-date CBAM's financial regime, so they do not establish that CBAM alone caused the green-material transition'; first payments 2027 (RB 23)."
+  },
+  {
+   "slide": 9,
+   "claim": "Salzgitter first plant output 2027; June 2026 contract covers about 6.5% of need (speaker point)",
+   "verdict": "supported",
+   "evidence": "RB 130-131."
+  },
+  {
+   "slide": 10,
+   "claim": "X row: steel exports 27.3 -> 22.9 Mt, 2017-24 [Dataset B]",
+   "verdict": "supported",
+   "evidence": "BASE 130, 137."
+  },
+  {
+   "slide": 10,
+   "claim": "M row: extra-EU Ch. 72 6,291 kt (2007) -> 1,464 kt (2025) [U24]",
+   "verdict": "supported",
+   "evidence": "RB 97, 115."
+  },
+  {
+   "slide": 10,
+   "claim": "NX row: steel balance -1.2 -> +4.1 Mt (2017-24); extra-EU exports gap",
+   "verdict": "supported",
+   "evidence": "Recomputed from BASE 130, 137; BRIEF 66."
+  },
+  {
+   "slide": 10,
+   "claim": "BOP row: 2025 current-account surplus about EUR 203 bn, not a steel effect [S18]",
+   "verdict": "supported",
+   "evidence": "BASE 187 'The Bundesbank's March 2026 analysis put the 2025 current-account surplus at about EUR 203 billion ... neither is a steel-only CBAM effect. [S17] [S18]'."
+  },
+  {
+   "slide": 10,
+   "claim": "Q row: crude steel 43.3 -> 34.1 Mt, 2017-25 [Dataset A]",
+   "verdict": "supported",
+   "evidence": "BASE 115, 123."
+  },
+  {
+   "slide": 10,
+   "claim": "P row: import unit value EUR 736 -> 1,087/t, 2019-25, mix-affected [Dataset C]",
+   "verdict": "supported",
+   "evidence": "BASE 144, 150, 153 'A unit value is a weighted product-mix measure, not a pure steel price index'."
+  },
+  {
+   "slide": 10,
+   "claim": "GDP +0.2%, C +1.4%, I (gross fixed capital formation) -0.5%, G +1.5% real, 2025 [Dataset F]",
+   "verdict": "supported",
+   "evidence": "BASE 180-183 'GDP 0.2; Household consumption (C) 1.4; Government consumption (G) 1.5; Gross fixed capital formation -0.5'; BASE 177 'price-adjusted year-on-year changes'."
+  },
+  {
+   "slide": 10,
+   "claim": "Dataset F is one first-estimate vintage (15 Jan 2026), whole-economy context",
+   "verdict": "needs_refresh",
+   "evidence": "BASE 177 'January 2026 first annual estimate, preserved as one consistent vintage rather than labelled the latest revised series'; S16 = Destatis 15 January 2026 (BASE 246). First estimates are subject to revision."
+  },
+  {
+   "slide": 10,
+   "claim": "Tax row: not yet observable; certificate sales from 1 Feb 2027 [U35]",
+   "verdict": "supported",
+   "evidence": "RB 23."
+  },
+  {
+   "slide": 10,
+   "claim": "Theory cell 'ETS and CBAM receipts are not German tax or G'",
+   "verdict": "unsupported",
+   "evidence": "Sources say 'not automatically': BASE 93 'CBAM certificate receipts are public revenue; they are not automatically German government consumption'; BASE 95 'Do not estimate a tax gain by equating all certificate payments with new German tax revenue'; RB 40 'should [not] simply be treated as new German government consumption'. Nothing says they are never German tax.",
+   "fix": "'Receipts not automatically German tax revenue or G'."
+  },
+  {
+   "slide": 10,
+   "claim": "Other theory cells (GDP = C+I+G+NX identity; pass-through may cut spending; clean-plant investment up, downstream may fall; subsidies not all G; services indirect, no series; goods trade part of current account)",
+   "verdict": "supported",
+   "evidence": "BASE 84, 88, 90-91, 94, 70, 81; RB 38-39."
+  },
+  {
+   "slide": 10,
+   "claim": "Speaker: services respond indirectly via engineering, verification and logistics",
+   "verdict": "supported",
+   "evidence": "RB 38 'related engineering, verification, logistics and construction services can also respond'."
+  },
+  {
+   "slide": 11,
+   "claim": "IEA: cost gaps often remain even with policy support [U20]",
+   "verdict": "supported",
+   "evidence": "RB 33 'Its 2026 hydrogen analysis finds that cost gaps often remain even with policy support'; U20 = IEA Global Hydrogen Review 2026 (RB 218). Published analysis, not a company announcement."
+  },
+  {
+   "slide": 11,
+   "claim": "Stegra needs additional capital to complete Boden (30 Sep 2026); EWE hydrogen covers about 6.5% of SALCOS need",
+   "verdict": "supported",
+   "evidence": "RB 135; RB 131."
+  },
+  {
+   "slide": 11,
+   "claim": "Thyssenkrupp plan 25 Nov 2024: about 5,000 job reductions by 2030 + about 6,000 transferred or sold; not 11,000 dismissals; pre-dates definitive CBAM [U9]",
+   "verdict": "supported",
+   "evidence": "RB 165 'about 5,000 job reductions by 2030 with around 6,000 positions transferred to outside providers or affected by business sales ... not 11,000 completed dismissals'; RB 180 'the 2024 plan predates the definitive CBAM regime'; RB 207 '25 November 2024'."
+  },
+  {
+   "slide": 11,
+   "claim": "Also at work: energy prices, COVID, Russia sanctions, separate steel quota, ETS free-allocation changes [U33][U6]; costs not only downstream",
+   "verdict": "supported",
+   "evidence": "BASE 204 list; RB 165 'costs cannot be described as confined to downstream firms'."
+  },
+  {
+   "slide": 11,
+   "claim": "Banner: we do not say green steel is cheaper",
+   "verdict": "supported",
+   "evidence": "RB 181 'Claim: green steel is already universally cheaper ... Correction: ... a premium or gap in many settings.'"
+  },
+  {
+   "slide": 12,
+   "claim": "Covered ETS emissions about 50% below 2005 in 2024, EU aggregate, power-led [U29]",
+   "verdict": "supported",
+   "evidence": "RB 43 (see slide 2 note on 'power-led')."
+  },
+  {
+   "slide": 12,
+   "claim": "OECD: about 10% emissions cut 2005-12, no measured harm to regulated firms, earlier period [U30]",
+   "verdict": "supported",
+   "evidence": "RB 44 'emissions reductions of roughly 10% in 2005-2012 and no negative effect on the measured economic performance of regulated firms ... not a finding about 2026 CBAM'."
+  },
+  {
+   "slide": 12,
+   "claim": "Scenario studies: small, assumption-sensitive GDP effects [S19] (model-based)",
+   "verdict": "supported",
+   "evidence": "BASE 107 'GDP effects are smaller and sensitive to model assumptions ... scenario findings, not measured effects'. 'Smaller' is comparative (smaller than sectoral/leakage effects).",
+   "fix": "Say 'smaller than sector effects and assumption-sensitive'."
+  },
+  {
+   "slide": 12,
+   "claim": "Dated buyer and producer commitments 2021-2026 [U10][U12][U13][U14][U15][U16]",
+   "verdict": "supported",
+   "evidence": "BMW 20 Oct 2021 (RB 134); Mercedes Jun 2023 (RB 133); VW 22 Oct 2024 (RB 127); EWE 9 Jun 2026 (RB 131); Stegra 30 Sep 2026 (RB 135)."
+  },
+  {
+   "slide": 12,
+   "claim": "Conditional on affordable clean power and hydrogen, finance, verified emissions data, workable administration [U12][U20]",
+   "verdict": "supported",
+   "evidence": "BASE 209 'The benefits depend on affordable clean energy, finance, verified emissions and workable administration' (untagged); U12/U20 support only the cost gap (RB 33).",
+   "fix": "Cite BASE 3.1 or drop the tags."
+  },
+  {
+   "slide": 12,
+   "claim": "Not shown: causal size, net German GDP gain, cost parity, delivered tonnes, paid-CBAM effects, extra-EU NX",
+   "verdict": "supported",
+   "evidence": "RB 185 'magnitude of Germany's realised net benefit remains unmeasured'; BASE 209-210; RB 181; RB 135; RB 23; BRIEF 66."
+  },
+  {
+   "slide": 13,
+   "claim": "Keep ETS + CBAM framework with legislated phase-in to 2034 [S9]; keep climate design separate from trade-defence decisions [U6]",
+   "verdict": "supported",
+   "evidence": "RB 186 'Separate climate-policy design from trade-defense decisions'; BASE 25, 51 [S9]."
+  },
+  {
+   "slide": 13,
+   "claim": "Change 1: emissions data and verification, transparent default values [S11]",
+   "verdict": "supported",
+   "evidence": "BASE 212 'update default values transparently ... [S11]'."
+  },
+  {
+   "slide": 13,
+   "claim": "Change 3: Sep 2026 assessment shows 50-tonne threshold exempts 0.87% of embedded emissions [S23]",
+   "verdict": "supported",
+   "evidence": "BASE 34 'using imports from April 2025-March 2026, the threshold would exempt 0.87% of embedded emissions'; BASE 213 [S23]."
+  },
+  {
+   "slide": 13,
+   "claim": "Change 4: downstream extension still a proposal; Parliament amendments 15 Sep 2026 referred to negotiation [U32][S24]",
+   "verdict": "needs_refresh",
+   "evidence": "RB 166 'Parliament's 15 September 2026 amendments were referred for interinstitutional negotiations, so the proposed 2028 extension is not the same as the enacted 2026 scope. [U32]'; BASE 215 'check their status before presenting'; BRIEF 67."
+  },
+  {
+   "slide": 13,
+   "claim": "Change 5 retraining and regional adjustment support [U9]; change 2 clean power, hydrogen and scrap infrastructure with evaluated support",
+   "verdict": "supported",
+   "evidence": "RB 186 'support retraining'; BASE 214 'reliable clean-power, hydrogen and scrap infrastructure and transparent, evaluated support'; RB 165, 173 [U9]."
+  },
+  {
+   "slide": 13,
+   "claim": "Reconsider triggers: leakage or resource shuffling; downstream and regional losses exceed benefits; no verified fall in emissions per tonne; 'nothing to drop now'",
+   "verdict": "supported",
+   "evidence": "Team-judgement synthesis of BASE 99 (resource shuffling), BASE 209-210 (benefits must exceed compliance, transition and downstream costs), BASE 218 (verified emissions per tonne); BASE 209 'Maintain the policies while monitoring'. Slide footer already labels it team judgement."
+  },
+  {
+   "slide": 13,
+   "claim": "Monitor list: physical trade, input prices, domestic value added, realised investment, verified emissions per tonne, administration cost; refresh points Feb 2027 sales and 30 Sep 2027 surrender",
+   "verdict": "supported",
+   "evidence": "BASE 218; RB 23."
+  },
+  {
+   "slide": 101,
+   "claim": "A1 fast answers (pre-2005 context; no DiD incl. ETS exemptions complicating comparison groups; contracts not forced by CBAM; DRI can use gas; judge installation not nationality; costs not only downstream; GDP effect not estimated; Finland-Germany intra-EU; Germany is implementation case; not a fixed tariff; exempt origins and 50 t; import fall not proof of success; GDP identity; 2.5% phase-in is benchmark-based; 2024-25 data cannot prove 2026 effect; GATT Art. XX not a WTO ruling)",
+   "verdict": "supported",
+   "evidence": "RB 188-196 and BASE 219-227 (defense Q&A) match each answer; ETS-exemption point = CHAT 150; WTO = BASE 62 [S6][S20]; 50-tonne = BASE 31 [S5]."
+  },
+  {
+   "slide": 102,
+   "claim": "A2: 19.4% (2025), 19.9% (2024), EU27 15.9% (2024) [U22]; 26% and EUR 6.1 trillion [U26]; employment 7.490 / 7.415 / 7.262 m [U28]; EU manufacturing about 30.2 m persons, 18.5% of business economy [U27]",
+   "verdict": "supported",
+   "evidence": "RB 120-123 contain every figure; employment series per RB 122."
+  },
+  {
+   "slide": 102,
+   "claim": "A2: 47% belongs to the steel quota framework (2024 safeguard comparison, from 1 Jul 2026); Thyssenkrupp about 5,000 + about 6,000, pre-dates CBAM; green steel not cheaper; contracts distinguish buyer/producer, MoU/contract, target/delivered [U6-U20]",
+   "verdict": "supported",
+   "evidence": "RB 179-182; RB 165."
+  },
+  {
+   "slide": 102,
+   "claim": "A2: Mercedes is buyer not plant operator; BMW agreement does not replace all steel; bluemint is a product family and recycled bluemint is not hydrogen DRI; Outokumpu 97% recycled content in 2025, not '90% scrap'; unvalidated figures (67 regions, 26 regions, EUR 50 bn, EUR 7 bn, 1.5%)",
+   "verdict": "supported",
+   "evidence": "RB 133-134, 126, 139; RB 183."
+  },
+  {
+   "slide": 103,
+   "claim": "A3 worked example: 1,000 t, e = 2.0, b = 1.0, f = 0.975 gives 1,025 certificates; EUR 77,244 = EUR 77.24/t at EUR 75.36; e = 1.2 gives 225 certificates, EUR 16.96/t",
+   "verdict": "supported",
+   "evidence": "BASE 55-58; recomputed 1,000 x 1.025 = 1,025; 1,025 x 75.36 = 77,244; 225 x 75.36/1,000 = 16.956."
+  },
+  {
+   "slide": 103,
+   "claim": "A3 prices: Q1 75.36 (7 Apr), Q2 75.28 (6 Jul), Q3 82.32 (5 Oct); Q4 not published",
+   "verdict": "needs_refresh",
+   "evidence": "BASE 171-173; BASE 168 'Q4 was not yet published'."
+  },
+  {
+   "slide": 103,
+   "claim": "A3 factor/complement table 97.5/2.5, 95/5, 90/10, 77.5/22.5, 51.5/48.5, 39/61, 26.5/73.5, 14/86, 0/100; not a universal EUR 200-600/t",
+   "verdict": "supported",
+   "evidence": "BASE 43-51; RB 15 'do not replace it with a universal EUR 200-600 charge per tonne of steel'."
+  },
+  {
+   "slide": 104,
+   "claim": "A4 coverage, exempt origins, 50-tonne rule, 90%/99%, 0.87%, DEHSt at UBA, direct emissions, registry context (about 108 Mt, about 15,000 reports) [S4][S5][S6][S7][S10][S21][S23][U34]",
+   "verdict": "supported",
+   "evidence": "BASE 27, 29, 31-34, 36; BASE 108 (S21); RB 16 (U34)."
+  },
+  {
+   "slide": 105,
+   "claim": "A5: steel quota agreement 13 Apr 2026, adopted 8 Jun 2026, applied 1 Jul 2026, 47% below 2024 safeguard; 18.3 Mt / 50% held back; Russia sanctions; Member D priority 2 'not required'",
+   "verdict": "supported",
+   "evidence": "RB 26, 204-206; RB 27; CHAT 243 '(ไม่จำเป็น) เรื่องการปรับโควต้า'; BRIEF 54."
+  },
+  {
+   "slide": 106,
+   "claim": "A6: Dataset B full series and balance; crude steel 2017-2025 (43.3, 42.4, 39.6, 35.7, 40.2, 36.9, 35.4, 37.2, 34.1)",
+   "verdict": "supported",
+   "evidence": "BASE 115-123, 130-137; balance recomputed."
+  },
+  {
+   "slide": 106,
+   "claim": "A6: 2025 merchandise exports EUR 1,562.9 bn, imports EUR 1,362.5 bn, surplus EUR 200.4 bn [S17]; current account about EUR 203 bn [S18]; real exports -0.3%, imports +3.6% [Dataset F]",
+   "verdict": "supported",
+   "evidence": "BASE 187; BASE 184-185; 1,562.9 - 1,362.5 = 200.4."
+  },
+  {
+   "slide": 106,
+   "claim": "A6: Comext pull specification (DS-045409, DE, EXT_EU27_2020, flow 2, product 72, annual, VALUE_IN_EUROS and QUANTITY_IN_100KG, 1999-2025; /10, /1,000, /1,000,000; missing stays missing)",
+   "verdict": "supported",
+   "evidence": "RB 86 and RB 235 (same settings with flow 1); flow 2 per BRIEF 58."
+  },
+  {
+   "slide": 107,
+   "claim": "A7 import series 2004, 2005, 2007, 2009, 2018, 2020-2025 (kt and EUR m) and unit values 735.94, 657.25, 827.80, 1,175.74, 1,008.80, 960.24, 1,087.02",
+   "verdict": "supported",
+   "evidence": "RB 94-95, 97, 99, 108, 110-115; BASE 144-150."
+  },
+  {
+   "slide": 107,
+   "claim": "A7 Dataset D (7208): 91.12 kt (2019) -> 32.72 kt (2025); unit value 693.45 -> 1,009.32 with 1,380.62 peak in 2022",
+   "verdict": "supported",
+   "evidence": "BASE 158, 161, 164."
+  },
+  {
+   "slide": 107,
+   "claim": "A7 'Imports rose after the 2005 launch, consistent with mostly free allocation and strong demand'",
+   "verdict": "unsupported",
+   "evidence": "Free allocation is sourced (RB 12, 19). 'Strong demand' is not stated in any source; BASE 899 attributes only 'limited carbon-price impact' to the 2005 launch. Production index did rise 88.6 -> 99.6 over 2005-07 (RB 61-63) but the sources do not link it to imports.",
+   "fix": "Drop 'strong demand' or say 'alongside rising manufacturing output (U23)'."
+  },
+  {
+   "slide": 107,
+   "claim": "A7: 1995-1998 and 2026 returned no values and are not zero-filled; fixed EXT_EU27_2020 composition",
+   "verdict": "supported",
+   "evidence": "RB 86, 117."
+  },
+  {
+   "slide": 108,
+   "claim": "A8: 2025 profile table (7207 175.16/88.64; 7208 32.72/33.03; 7209 1.57/1.90; 7210 51.52/59.73; 7219 9.94/35.03; 7304 87.38/233.39; 7306 159.44/232.36; 26011200 2,035.12/238.23)",
+   "verdict": "supported",
+   "evidence": "RB 145-152, all 8 rows match."
+  },
+  {
+   "slide": 108,
+   "claim": "A8: route descriptions, procurement checklist, 2025 crude steel 69.4% oxygen-process and 30.6% electric-process [S22]",
+   "verdict": "supported",
+   "evidence": "RB 156-161; BASE 188."
+  },
+  {
+   "slide": 109,
+   "claim": "A9: scrap-EAF premium about EUR 96/t (HSBC); green primary premium EUR 100-200/t (2025) and EUR 124-223/t (2026, DIW); WEF under 1% and about 40% premium; secondary steel 11.3% ICE / 5.3% EV; aluminium 174 -> 205 kg; BEV 283 vs ICE 169 kg; low-carbon aluminium USD 0-20/t in 2025; survey more than half pay up to 25% vs Commission 16%",
+   "verdict": "supported",
+   "evidence": "BASE 714-716, 723, 726, 729-730, 735-736. All are BaseNotes-2 secondary estimates with no S/U IDs; the outline flags them as provisional."
+  },
+  {
+   "slide": 109,
+   "claim": "A9: unreconciled scrap EUR 305/t (HS 720449) vs 382/t (HS 7204) and a garbled 'US250/t' line",
+   "verdict": "supported",
+   "evidence": "BASE 711, 720 vs BASE 884, 894; BASE 722 'about US250/t'."
+  },
+  {
+   "slide": 110,
+   "claim": "A10: electricity 5.92 / 21.77 / 35.70 / 19.63 / 16.77 / 17.99 (Jan 2025) / about 16 (Jan-Sep 2025); nearly triple 2020 in 2024",
+   "verdict": "supported",
+   "evidence": "BASE 755-761; 16.77/5.92 = 2.83."
+  },
+  {
+   "slide": 110,
+   "claim": "A10: ETS price 83.60 (2023), 64.76 (2024), about 60-80 (2025); free allocation 2,791.1 m initial, 2,619.6 m actual, cut 171.5 m (about 6.1%)",
+   "verdict": "supported",
+   "evidence": "BASE 785-787, 791; 171.5/2,791.1 = 6.14%."
+  },
+  {
+   "slide": 110,
+   "claim": "A10: hydrogen EUR 10.04/kg (10 Sep 2025) vs EUR 2.62/kg SMR; EUR 6.7/kg European renewable avg 2024; break-even about EUR 2.0/kg; capex EUR 10 bn / 30 bn; DIW EUR 1.2-2.0 bn per 2 Mt/yr; EUR 12.5 bn total, EUR 6.9 bn public, 11.5 Mt/yr; support need EUR 150/t (2026) -> EUR 242/t",
+   "verdict": "supported",
+   "evidence": "BASE 774, 772, 776, 805-807, 820."
+  },
+  {
+   "slide": 111,
+   "claim": "A11: tkH2Steel up to about EUR 2 bn (grant up to EUR 550 m + up to EUR 1.45 bn conditional, 10 years, CEEAG); SALCOS EUR 1 bn grant, 100 MW electrolyser, about 9,000 t H2/yr; Klimaschutzvertraege EUR 5 bn, 15 years, 60% in 3 years / 90% by end",
+   "verdict": "supported",
+   "evidence": "BASE 649-651, 659, 662; 550 m + 1,450 m = 2,000 m."
+  },
+  {
+   "slide": 111,
+   "claim": "A11: CBAM has no green-steel exemption; only broad exemption is the 50-tonne importer threshold; Fig. 3 outside the confirmed title",
+   "verdict": "supported",
+   "evidence": "BASE 698; BASE 31 [S5]; CHAT 289 (G3 'เกินขอบเขต topic title')."
+  },
+  {
+   "slide": 112,
+   "claim": "A12: Thyssenkrupp plan about 40% of about 27,000 workforce; IG Metall 32.5-hour week, about 8% income cut, 1,600 + 3,700 = 5,300; skills shortage 18,500 and 16,700 (2024); about 140,000 automotive jobs; unemployment 3.2% -> 3.5%",
+   "verdict": "supported",
+   "evidence": "BASE 948, 952, 955, 962, 939; 1,600 + 3,700 = 5,300; 11,000/27,000 = 41%."
+  },
+  {
+   "slide": 112,
+   "claim": "A12: shipping in ETS from 2024 [U31]; aviation from 2012; downstream extension not the enacted 2026 scope [U32]; fertiliser channel; Duisburg regional risk",
+   "verdict": "supported",
+   "evidence": "RB 166, 168, 170-171; BASE 970."
+  },
+  {
+   "slide": 113,
+   "claim": "A13 dates: Volvo-SSAB 13 Oct 2021; BMW 20 Oct 2021 (up to 95%, from 2025); Mercedes Jun 2023 (50,000 t/yr); VW MoU 22 Oct 2024 (2027 / 2028); EWE 9 Jun 2026 (10,000 t, 7 years, about 6.5%); Stegra review 30 Sep 2026; Outokumpu 97% in 2025",
+   "verdict": "supported",
+   "evidence": "RB 137, 134, 133, 127, 131, 135, 139."
+  },
+  {
+   "slide": 113,
+   "claim": "A13: Finland-to-Germany steel is intra-EU, no new CBAM border charge, not the same as zero footprint [U4]",
+   "verdict": "supported",
+   "evidence": "RB 140."
+  },
+  {
+   "slide": 114,
+   "claim": "A14: Fig. 4 P = 20 + Q supply; higher-carbon demand 100 - Q -> 80 - Q moves Q 40 -> 30, P 60 -> 50; lower-carbon demand 80 - Q -> 100 - Q moves Q 30 -> 40, P 50 -> 60",
+   "verdict": "supported",
+   "evidence": "BASE 526-527; recomputed intersections (20 + Q = 100 - Q gives Q 40, P 60; = 80 - Q gives Q 30, P 50; = 100 - Q gives Q 40, P 60)."
+  },
+  {
+   "slide": 114,
+   "claim": "A14: Fig. 5 correct (Member D), Fig. 6 doubtful, Fig. 3 outside confirmed title, original Fig. 2 superseded, all workbook values invented",
+   "verdict": "supported",
+   "evidence": "CHAT 291-292, 289; BASE 495."
+  }
+ ]
+}

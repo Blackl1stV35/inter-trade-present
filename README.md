@@ -18,7 +18,8 @@ It is **local only** — the LINE chat export contains student IDs and a private
 | `sources/text/*.txt` | Plain-text dumps of the four .docx files (tables inlined) — regenerate with `scripts/extract_docx.py` |
 | `sources/images/` | The six embedded graph-simulation figures from the base workbook, in document order |
 | `notes/project-brief.md` | Assignment rules, team roles, deadlines, decision log, open items |
-| `outline/slide-outline-15min.md` | Proposed slide outline for a 15-minute talk |
+| `outline/slide-outline-15min.md` | Proposed slide outline for a 15-minute talk (13 main slides + backup A1–A15, open items, risks) |
+| `outline/workflow-run/` | Raw JSON from the run that produced it: three drafts, three judge reports, the synthesis, and the fact-check / audit / red-team reports |
 | `graphs/gephi/` | Gephi import files (nodes/edges CSV) for the company-case network, with build steps |
 | `scripts/` | Helpers: .docx text/image extraction, `setup_tools.ps1` (project-local gnuplot + Gephi), `env.ps1` |
 | `tools/` | Git-ignored. Project-local gnuplot 6.0.5 and Gephi 0.11.3 created by `scripts/setup_tools.ps1` |
