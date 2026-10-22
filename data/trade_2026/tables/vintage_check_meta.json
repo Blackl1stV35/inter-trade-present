@@ -1,6 +1,6 @@
 {
   "url": "https://ec.europa.eu/eurostat/api/comext/dissemination/statistics/1.0/data/DS-045409?format=JSON&lang=EN&freq=A&reporter=DE&partner=EXT_EU27_2020&product=72&flow=1&indicators=VALUE_IN_EUROS&indicators=QUANTITY_IN_100KG&sinceTimePeriod=1999",
-  "retrieved_utc": "2026-10-22T02:40:56Z",
+  "retrieved_utc": "2026-10-22T05:16:47Z",
   "dataset_updated": "2026-10-16T11:00:00+0200",
   "max_abs_diff_value_eur_m": 0.4542,
   "max_abs_diff_mass_kt": 0.2198,
