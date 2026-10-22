@@ -8,13 +8,15 @@ Set-Location $repo
 
 git add -A -- ($Paths -split ',')
 git diff --cached --quiet
-if ($LASTEXITCODE -eq 0) { Write-Host 'Nothing to commit.'; exit 0 }
-
-$file = Join-Path $env:TEMP ('commit-msg-' + [guid]::NewGuid().ToString('N') + '.txt')
-$text = "$Message`n`nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>`n"
-[System.IO.File]::WriteAllText($file, $text, (New-Object System.Text.UTF8Encoding($false)))
-git commit -q -F $file
-Remove-Item $file
+if ($LASTEXITCODE -eq 0) {
+    Write-Host 'Nothing new to commit; will still push any unpushed commits.'
+} else {
+    $file = Join-Path $env:TEMP ('commit-msg-' + [guid]::NewGuid().ToString('N') + '.txt')
+    $text = "$Message`n`nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>`n"
+    [System.IO.File]::WriteAllText($file, $text, (New-Object System.Text.UTF8Encoding($false)))
+    git commit -q -F $file
+    Remove-Item $file
+}
 git log --oneline -1
 
 if ($NoPush) { exit 0 }
