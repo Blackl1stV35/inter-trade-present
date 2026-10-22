@@ -1,12 +1,12 @@
 # Save step of the work loop: stage everything not ignored, commit with the given message, push the current branch.
 #   powershell -ExecutionPolicy Bypass -File scripts\save.ps1 -Message "Add Fig. 2 redraw"
 # Refuses to push unless the GitHub remote is private.
-param([Parameter(Mandatory = $true)][string]$Message, [switch]$NoPush)
+param([Parameter(Mandatory = $true)][string]$Message, [string]$Paths = '.', [switch]$NoPush)   # -Paths 'graphs,notes' (comma separated)
 $ErrorActionPreference = 'Stop'
 $repo = Split-Path $PSScriptRoot -Parent
 Set-Location $repo
 
-git add -A
+git add -A -- ($Paths -split ',')
 git diff --cached --quiet
 if ($LASTEXITCODE -eq 0) { Write-Host 'Nothing to commit.'; exit 0 }
 
@@ -24,6 +24,10 @@ $slug = ($remote -replace '^https://github.com/', '' -replace '\.git$', '')
 $vis = gh repo view $slug --json visibility -q .visibility
 if ($vis -ne 'PRIVATE') { throw "Remote $slug is $vis, not PRIVATE; refusing to push." }
 $branch = git rev-parse --abbrev-ref HEAD
+# git writes progress to stderr even on success; judge by exit code only
+$ErrorActionPreference = 'Continue'
 git push -u origin $branch 2>&1 | Out-Null
-if ($LASTEXITCODE -ne 0) { throw 'git push failed' }
+$code = $LASTEXITCODE
+$ErrorActionPreference = 'Stop'
+if ($code -ne 0) { throw "git push failed (exit $code)" }
 Write-Host "Pushed $branch to $slug ($vis)."
