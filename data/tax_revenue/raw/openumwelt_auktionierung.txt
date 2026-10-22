@@ -1,0 +1,634 @@
+Auktionierung (EU-ETS)
+
+Deutsche Versteigerungen
+von Emissionsberechtigungen
+
+Drittes Quartal 2023
+Impressum
+
+Herausgeber
+Deutsche Emissionshandelsstelle (DEHSt)
+im Umweltbundesamt
+City Campus
+Haus 3, Eingang 3A
+Buchholzweg 8
+13627 Berlin
+Telefon: +49 (0) 30 89 03-50 50
+Telefax: +49 (0) 30 89 03-50 10
+emissionshandel@dehst.de
+Internet: www.dehst.de
+
+Stand: Oktober 2023
+
+Redaktion: Dmitri Lewandrowski und Nadine Pauly (Fachgebiet V 3.3)
+
+Bildnachweis Titelbild: ©sellingpix/fotolia.com
+Inhaltsverzeichnis
+
+Deutsche Versteigerungen von Emissionsberechtigungen ������������������������������������������������������������������������������ 4
+1 Übersicht�������������������������������������������������������������������������������������������������������������������������������������������������� 5
+
+        1.1 Drittes Quartal 2023....................................................................................................................5
+        1.2 Übersicht zum Gesamtjahr 2023...................................................................................................6
+2 Bieterbeteiligung �������������������������������������������������������������������������������������������������������������������������������������� 7
+        2.1 Teilnahme ..................................................................................................................................7
+        2.2 Mengennachfrage .......................................................................................................................8
+3 Versteigerungen und Sekundärmarkt ������������������������������������������������������������������������������������������������������ 10
+        3.1 Handelsvolumen EUA.................................................................................................................10
+        3.2 Handelsvolumen EUAA...............................................................................................................13
+        3.3 Auktionspreise und Preisentwicklung am Sekundärmarkt ............................................................13
+4 Umsetzung der geltenden Regelwerke ����������������������������������������������������������������������������������������������������� 16
+        4.1 Handelsüberwachungsreport der HÜSt .......................................................................................16
+        4.2 Fairer und offener Zugang ..........................................................................................................16
+        4.3 Veröffentlichung der Auktionsergebnisse....................................................................................16
+        4.4 Sonstige Vorkommnisse ............................................................................................................16
+Deutsche Versteigerungen von Emissionsberechtigungen
+
+Die deutschen Auktionen der vierten Handelsperiode werden wöchentlich am Spot-Markt der Europäischen
+Energiebörse EEX (European Energy Exchange) durchgeführt. Die Deutsche Emissionshandelsstelle (DEHSt)
+im Umweltbundesamt ist die zuständige Behörde für die deutschen Versteigerungen. Weitere aktuelle
+Informationen zu den Versteigerungen der vierten Handelsperiode sind auf der EEX Internetseite abrufbar.
+Berichte zu den Auktionsergebnissen der zweiten, dritten und vierten Handelsperiode stehen auf der
+Versteigerungsseite der DEHSt zur Verfügung. Der Auktionskalender für 2023 ist auf der
+Internetseite der EEX abrufbar.
+
+Die folgende Tabelle fasst die Kerndaten der deutschen Versteigerungen an der EEX im Jahr 2023 zusammen:
+
+Versteigerungsprodukt                                   2023  EUAA-Spot-Kontrakte
+                        EUA-Spot-Kontrakte                    der vierten Handelsperiode
+Versteigerungszeitraum  der vierten Handelsperiode
+Versteigerungsmenge                                           18.10.2023
+Gesamtjahr              13.01.2023 bis 15.12.2023
+Versteigerungsmenge     90.609.000 EUA1                       907.000 EUAA
+pro Termin
+                        Januar–Juli:         1.939.500 EUA    907.000 EUAA am 18.10.2023
+Versteigerungsfrequenz  August:                970.000 EUA
+                        September–Dezember:
+Gebotsgröße                                  2.147.000 EUA
+Versteigerungsmodus
+                        Wöchentlich                           Am 18.10.2023
+                        (freitags von 09:00–11:00 Uhr MEZ)    (09:00–11:00 Uhr MEZ)
+
+                        500 EUA/EUAA
+
+                        Einheitspreisverfahren mit einer Bieterrunde und geschlossenem Orderbuch
+
+    1 Die Festlegung der MSR-Kürzung für die Auktionsmengen von September 2023 bis August 2024 wurde durch die Europäische Kommission
+          am 15. Mai 2023 veröffentlicht.
+
+4 Auktionierung (EU-ETS) – Deutsche Versteigerungen von Emissionsberechtigungen – Drittes Quartal 2023
+1 Übersicht
+
+1.1 Drittes Quartal 2023
+
+Zwischen Juli und September wurden an der EEX für Deutschland dreizehn Auktionen von Emissionsberech-
+tigungen (EUA) der vierten Handelsperiode erfolgreich durchgeführt. Entsprechend der Vorgaben aus der
+EU-Auktionsverordnung wurde im August mit knapp einer Million Emissionsberechtigungen (EUA) jeweils
+nur die Hälfte der regulären Auktionsmengen pro Termin versteigert.
+
+Insgesamt wurden rund 22 Millionen EUA im Gesamtwert von über 1,89 Milliarden Euro versteigert.
+Hieraus ergibt sich ein volumengewichteter Durchschnittserlös pro Berechtigung in Höhe von 84,55 Euro
+(minus 1 Prozent gegenüber Vorquartal). Dabei wurde im September der höchste Monatserlös seit Beginn der
+Verkäufe/Versteigerungen im Jahr 2008 erzielt. Die Abweichungen der Auktionspreise von den jeweiligen
+Preisen am Sekundärmarkt schwankten dabei zwischen –0,49 Prozent und +1,12 Prozent (siehe auch Kapitel 3.3).
+
+Insgesamt wurden über die dreizehn EUA-Versteigerungstermine gültige Gebote im Gesamtumfang von rund
+52 Millionen Emissionsberechtigungen in das Handelssystem eingestellt. Damit lag die durchschnittliche
+Überzeichnungsrate im Berichtszeitraum bei 2,30 (siehe auch Kapitel 2.2). Die durchschnittliche Beteiligung
+lag mit 19 Bietern unter dem Niveau des Vorquartals (21). Die durchschnittliche Anzahl der erfolgreichen Bieter
+lag ebenfalls unter dem Vorquartalsniveau (13) bei 12 (siehe auch Kapitel 2.1).
+
+Die folgende Tabelle gibt einen Überblick zu den wichtigsten Versteigerungskennzahlen der einzelnen
+EUA-Auktionen im Berichtszeitraum.
+
+Tabelle 1: Terminübersicht deutscher EUA-Versteigerungen im dritten Quartal 2023
+
+     Datum   Versteigerte   Gebotene        Über-     Bieter     Bieter          Preis         Erlöse
+                Menge        Menge       zeichnung            erfolgreich
+07.07.2023      1.939.500     4.313.500                   21                    84,82 €    164.508.390 €
+14.07.2023      1.939.500     4.466.000         2,22      20             12     85,51 €    165.846.645 €
+21.07.2023      1.939.500     4.051.000         2,30      19             10     89,36 €    173.313.720 €
+28.07.2023      1.939.500     3.760.500         2,09      17             14     87,33 €    169.376.535 €
+                7.758.000                       1,94     *19             14    *86,76 €    673.045.290 €
+       Juli        970.000  16.591.000         *2,14      19           *13      83,33 €
+04.08.2023         970.000    3.664.000         3,78      17             11     84,20 €      80.830.100 €
+11.08.2023         970.000    3.083.000         3,18      15                    86,68 €      81.674.000 €
+18.08.2023         976.500    1.945.500         2,01      20               8    85,50 €      84.079.600 €
+25.08.2023      3.886.500     3.123.500         3,20     *18               9  **84,93 €      83.490.750 €
+                2.147.000                    **3,04       20               6    84,00 €    330.074.450 €
+    August      2.147.000   11.816.000          2,04      20             *9     82,09 €    180.348.000 €
+01.09.2023      2.147.000     4.369.500         2,05      20             17     82,33 €    176.247.230 €
+08.09.2023      2.147.000     4.392.000         2,38      22             17     84,03 €    176.762.510 €
+15.09.2023      2.147.000     5.107.500         2,24      18             15     81,65 €    180.412.410 €
+22.09.2023                    4.805.000         2,10     *20             12    *82,82 €    175.302.550 €
+29.09.2023     10.735.000     4.502.000        *2,16     *19             14   **84,55 €    889.072.700 €
+               22.379.500                    **2,30                    *15               1.892.192.440 €
+  September                 23.176.000                                 *12
+Q3 2023                     51.583.000
+
+                                                                                                        Quelle: EEX, DEHSt
+                                                                                                              * Durchschnitt
+
+                                                                                  ** volumengewichteter Durchschnitt
+
+             Auktionierung (EU-ETS) – Deutsche Versteigerungen von Emissionsberechtigungen – Drittes Quartal 2023 5
+1.2 Übersicht zum Gesamtjahr 2023
+
+In den ersten neun Monaten des laufenden Jahres wurden an der EEX insgesamt knapp 67 Millionen EUA
+im Gesamtwert von rund 5,78 Milliarden Euro für Deutschland versteigert. Hieraus ergibt sich ein
+volumengewichteter Durchschnittserlös pro Berechtigung in Höhe von 86,26 Euro.
+
+Die folgende Tabelle fasst die Versteigerungsergebnisse auf Monatsbasis zusammen
+
+Tabelle 2: Übersicht zum Gesamtjahr 2023
+
+Monat                          Typ  Versteigerte  Gebotene    Überzeich-  Bieter     Bieter    Preis       Erlöse
+                                       Menge       Menge         nung             erfolgreich
+
+Januar                         EUA 5.818.500 12.115.000            *2,08 *22               *18 *81,38 € 473.509.530 €
+
+Februar                        EUA 7.758.000 16.890.500            *2,18 *19               *14 *92,59 € 718.332.615 €
+
+März                           EUA 9.697.500 21.638.500            *2,23 *19               *15 *89,43 € 867.286.215 €
+
+April                          EUA 5.818.500 12.986.000            *2,23 *21               *16 *88,30 € 513.773.550 €
+
+Mai                            EUA 5.818.500 14.379.000            *2,47 *21               *12 *84,05 € 489.064.320 €
+
+Juni                           EUA 9.697.500 20.552.500            *2,12 *21               *12 *84,96 € 823.938.390 €
+
+Juli                           EUA 7.758.000 16.591.000            *2,14 *19               *13 *86,76 € 673.045.290 €
+
+August                         EUA 3.886.500 11.816.000            **3,04 *18              *9 **84,93 € 330.074.450 €
+
+September EUA 10.735.000 23.176.000                                *2,16 *20               *15 *82,82 € 889.072.700 €
+
+Gesamt                              66.988.000 150.144.500         **2,24 *20              *14 **86,26 € 5.778.097.060 €
+
+                                                                                                                                 Quelle: EEX, DEHSt
+                                                                                                                                       * Durchschnitt
+
+                                                                                                           ** volumengewichteter Durchschnitt
+
+In der folgenden Abbildung ist die Entwicklung der deutschen EUA/EUAA-Versteigerungserlöse seit 2021
+dargestellt. Neben den Monatswerten sind auch die kumulierten Gesamterlöse der einzelnen Jahre abgebildet.
+Die deutschen Erlöse in den ersten neun Monaten des Jahres 2023 lagen rund 11 Prozent über dem bisherigen
+Rekordergebnis aus dem Vorjahr (Jan–Sep 2022: 5,20 Milliarden Euro). In Deutschland fließen die Auktions-
+einahmen seit 2012 vollständig in den Klima- und Transformationsfonds (KTF)2.
+
+1.000                                                                         5,78 Mrd. €                                     7.500
+  800                                                                                                      6,81 Mrd. €
+
+                                                                                                                              6.000
+                                                                                                           5,31 Mrd. €
+
+Erlöse in Millionen Euro  600                                                                              4.500                     Erlöse in Millionen Euro
+
+                          400                                                                              3.000
+
+                          200                                                                              1.500
+
+                          0                                                                                0
+
+                               Jan  Feb  Mrz      Apr    Mai  Jun  Jul        Aug Sep Okt Nov Dez
+
+                                         Monatlich 2021       Monatlich 2022               Monatlich 2023
+                                         Gesamt 2021          Gesamt 2022                  Gesamt 2023
+
+                                                                                                           Quelle: EEX, DEHSt
+
+Abbildung 1: Deutsche Versteigerungserlöse (EUA+EUAA) im Zeitraum 2021 bis 2023
+
+2 Bis Juli 2022 – Energie- und Klimafonds (EKF).
+
+6 Auktionierung (EU-ETS) – Deutsche Versteigerungen von Emissionsberechtigungen – Drittes Quartal 2023
+2 Bieterbeteiligung
+
+2.1 Teilnahme
+
+Die Anzahl der Teilnehmer an den deutschen Versteigerungen von EUA lag im dritten Quartal gemittelt über alle
+Termine hinweg bei durchschnittlich rund 19 Bietern. Die Anzahl der erfolgreichen Bieter lag durchschnittlich
+bei rund 12. Die Beteiligung an den einzelnen Auktionen schwankte im Berichtszeitraum zwischen 15 und
+22 Bietern. Die Zahl der erfolgreichen Teilnehmer variierte zwischen 6 und 17. Bei keinem der Auktionstermine
+waren alle teilnehmenden Bieter erfolgreich.
+
+Die folgende Abbildung verdeutlicht die Entwicklung der Teilnahme an den EUA-Versteigerungen im
+zeitlichen Verlauf.
+
+       25
+
+               20
+
+Anzahl Bieter  15
+
+               10
+
+               5            14.07.23  21.07.23  28.07.23  04.08.23  11.08.23  18.08.23  25.08.23    01.09.23  08.09.23  15.09.23  22.09.23  29.09.23
+                  07.07.23
+
+                                      Bieter    Ø Anzahl Bieter               Bieter (erfolgreich)  Ø Anzahl Bieter (erfolgreich)
+
+                                                                                                                                            Quelle: EEX, DEHSt
+
+Abbildung 2: Anzahl teilnehmender und erfolgreicher Bieter je Auktionstermin (EUA)
+
+Bis Ende September 2023 waren 94 Handelsmitglieder der EEX (minus 1 gegenüber dem Vormonat) zur Einstel-
+lung von Geboten bei den Primärmarktauktionen berechtigt. Im September waren insgesamt 21 verschiedene
+Bieter bei den deutschen Primärmarktauktionen erfolgreich, davon 11 Anlagen- oder Luftfahrzeugbetreiber
+(Anteil 52 Prozent)3. Im September 2023 wurden insgesamt rund 52 Prozent der versteigerten Volumina von
+diesen Anlagenbetreibern erworben, der niedrigste Wert seit Juli 2020. Die gleitenden Durchschnittwerte der
+vergangenen 12 Monate bezüglich beider Kenngrößen liegen bei rund 60 bzw. 66 Prozent.
+
+3 Zu den an der EEX zugelassenen Bieterkategorien gehören nach Art. 18 EU-Auktionsverordnung neben Anlagen-/Luftfahrzeugbetreibern u. a. auch Kredit-
+      institute, Finanzdienstleister und wirtschaftliche Zusammenschlüsse.
+
+                      Auktionierung (EU-ETS) – Deutsche Versteigerungen von Emissionsberechtigungen – Drittes Quartal 2023 7
+Die folgende Abbildung verdeutlicht die Entwicklung bzgl. der Anteile von Anlagenbetreibern bei den
+erfolgreichen Bietern sowie am ersteigerten Volumen in den vergangenen 12 Monaten vor dem Ende
+des aktuellen Berichtzeitraums.
+
+     100 %
+
+                         90 %
+
+                         80 %
+
+Anteil Anlagenbetreiber  70 %
+
+                         60 %
+
+                         50 %
+
+                         40 %
+
+                         30 %
+                                   Sep 22 Okt 22 Nov 22 Dez 22 Jan 23 Feb 23 Mrz 23 Apr 23 Mai 23 Jun 23 Jul 23 Aug 23 Sep 23
+
+                               Anteil AB (erfolgreiche Bieter)    Anteil AB (ersteigertes Volumen)
+                               Ø Anteil AB (erfolgreiche Bieter)  Ø Anteil AB (ersteigertes Volumen)
+
+                                                                                                                                                                                                                          Quelle: EEX, DEHSt
+                                                                                                                                                                                                                     AB = Anlagenbetreiber
+
+Abbildung 3: Anteil der Anlagenbetreiber bei den erfolgreichen Bietern und am ersteigerten Volumen in den
+                    vergangenen 12 Monaten (EUA))
+
+2.2 Mengennachfrage
+
+Im Berichtszeitraum schwankten die aggregierten Gebotsmengen je EUA-Versteigerungstermin zwischen
+1,9 und 5,1 Millionen Berechtigungen. Insgesamt wurden im dritten Quartal gültige Gebote im Umfang von
+rund 52 Millionen Berechtigungen abgegeben. Die Angebotsmengen lagen im Juli bei rund 1,9 Millionen
+Berechtigungen je Termin, bei knapp einer Million EUA im August und bei rund 2,1 Millionen EUA im
+September. Die im Berichtszeitraum resultierenden Überzeichnungsraten bewegten sich in einem Bereich
+von 1,94 und 3,78 (2,30 im Durchschnitt).
+
+8 Auktionierung (EU-ETS) – Deutsche Versteigerungen von Emissionsberechtigungen – Drittes Quartal 2023
+Folgende Abbildung fasst die Ergebnisse je EUA-Auktionstermin zusammen.
+
+                             6,0                                                                                                                        4
+
+Volumen in Millionen Tonnen  4,5                                                                                                                        3
+
+                             3,0                                                                                                                        2  Überzeichnungsrate
+
+                             1,5                                                                                                                        1
+
+                             0,0                                                                                                                        0
+
+                                  07.07.23 14.07.23 21.07.23 28.07.23 04.08.23 11.08.23 18.08.23 25.08.23 01.09.23 08.09.23 15.09.23 22.09.23 29.09.23
+
+                                  versteigerte Mengen  gebotene Mengen  Überzeichnungsrate
+
+                                                                                                                                                                                                                          Quelle: EEX, DEHSt
+
+Abbildung 4: Versteigerte und gebotene Menge sowie Überzeichnungsrate je Auktionstermin (EUA)
+
+Damit belief sich die durchschnittliche Gebotsmenge für EUA je Auktionsteilnehmer im dritten Quartal gemittelt
+über alle Termine auf rund 210.000 Berechtigungen. Die durchschnittliche Zuschlagsmenge für EUA lag bei
+rund 140.000 Berechtigungen je erfolgreichen Bieter.
+
+Die Zuschlagserteilung in allen Auktionen erfolgt nach dem EU-weit vorgeschriebenen Einheitspreisverfahren
+mit einer Gebotsrunde (siehe auch folgende Infobox).
+
+Einheitspreisauktion an der EEX                                                                                                                                                                                                               i
+
+Die Versteigerungen an der EEX erfolgen nach dem EU-weit vorgeschriebenen Einheitspreisverfahren mit
+
+einer Bieterrunde und geschlossenem Orderbuch. Dieses einfache und gegenüber Marktmachtmissbrauch
+
+sehr robuste Auktionierungsverfahren kam bereits bei den deutschen Versteigerungen der zweiten
+
+Handelsperiode zur Anwendung. Beim Einheitspreisverfahren zahlen grundsätzlich alle erfolgreichen
+
+Bieter denselben Preis. Der entsprechende Zuschlagpreis wird ermittelt, indem alle zugelassenen Gebote,
+
+beginnend mit dem höchsten Gebot, nach der Höhe des Gebotspreises gereiht werden.
+
+Bei gleichen Gebotspreisen werden die Gebote nach einem Zufallsverfahren sortiert. Vom höchsten
+Preisgebot ausgehend werden die Mengen der Gebote aufsummiert, bis die angebotene Menge
+(z. B. 2,1 Millionen EUA) erreicht wird. Der Gebotspreis, bei dem die Summe der Gebotsmengen die
+angebotene Menge an Berechtigungen erreicht oder überschreitet, legt den Zuschlagpreis fest und
+ist mit diesem identisch.
+
+Bieter erhalten also genau dann einen Zuschlag in Höhe ihrer nachgefragten Menge, wenn ihr Gebotspreis
+mindestens der Höhe des Zuschlagpreises entspricht. Hat ein Bieter genau den Zuschlagpreis geboten,
+entspricht dessen Zuteilung der noch verbleibenden Angebotsmenge. Diese kann in Abhängigkeit von
+der Gebotsstruktur auch unterhalb der durch den Bieter nachgefragten Menge liegen. Haben mehrere
+Handelsteilnehmer genau den Zuschlagpreis geboten, kommt das zuvor genannte Zufallsverfahren
+zur Anwendung.
+
+                                  Auktionierung (EU-ETS) – Deutsche Versteigerungen von Emissionsberechtigungen – Drittes Quartal 2023 9
+3 Versteigerungen und Sekundärmarkt
+
+3.1 Handelsvolumen EUA
+
+Im dritten Quartal 2023 wurden an der EEX für Deutschland insgesamt rund 22 Millionen EUA versteigert. Im
+Berichtszeitraum stand dieser Auktionsmenge ein kumuliertes Handelsvolumen am relevanten Gesamtmarkt
+für Emissionsberechtigungen in Höhe von rund 1,91 Milliarden EUA gegenüber.4 Dies umfasst auch die monat-
+lichen Daten zum OTC-Volumen der London Energy Brokersʼ Association (LEBA), siehe Abbildung 7.5
+
+Das Sekundärmarktvolumen in Höhe von 1,78 Milliarden EUA unterteilte sich in rund 1,58 Milliarden EUA auf
+dem geclearten Markt für Terminkontrakte (Futures) sowie rund 205 Millionen EUA auf dem geclearten Spotmarkt.
+
+Im dritten Quartal 2023 wurden auf dem Primärmarkt insgesamt rund 125 Millionen Berechtigungen (EUA)
+durch die Mitgliedstaaten als Spot-Kontrakte versteigert. Bezogen auf den relevanten Gesamtmarkt für Emis-
+sionsberechtigungen sind damit rund 7 Prozent des gehandelten Volumens auf die Auktionen zurückzuführen
+(siehe auch Tabelle 3).
+
+In der folgenden Abbildung sind die Handelsvolumina getrennt nach verschiedenen Marktsegmenten auf Basis
+von Kalenderwochen (KW) dargestellt.
+
+     200
+
+                             150
+
+Volumen in Millionen Tonnen  100
+
+                             50
+
+                             0                   29. KW 30. KW 31. KW        32. KW 33. KW 34. KW        35. KW 36. KW 37. KW        38. KW 39. KW*
+                                 27. KW* 28. KW      EUA Futures (gecleart)         EUA Spot (gecleart)        EUA Auktionen (Spot)
+
+                                                                                                                                                                              Quelle: ICE, EEX, Nasdaq OMX, Refinitiv Eikon, DEHSt
+                                                                                                                                                      * 27. KW: 03.07.2023–07.07.2023; 39. KW: 25.09.2023–29.09.20323
+
+Abbildung 5: Handelsvolumen am Primär- und Sekundärmarkt im dritten Quartal 2023 (EUA)
+
+       4 Betrachtet werden alle gehandelten Emissionsberechtigungen (EUA) der vierten Handelsperiode am Spot- und Terminmarkt an den Börsen ICE, EEX,
+             Nasdaq OMX. Erfasst sind Geschäfte, die direkt an der Börse abgeschlossen wurden (screen traded) oder als bilaterale Geschäfte zumindest den Clearing-
+             mechanismus der Börse genutzt haben. Die im dritten Quartal 2023 auktionierten EUA Spot-Kontrakte sind ebenfalls berücksichtigt. Soweit Daten
+             verfügbar sind, werden auch OTC-Volumen aus bilateralen Geschäften berücksichtigt, die nicht an regulierten Märkten abgewickelt wurden.
+             Optionsgeschäfte bleiben unberücksichtigt.
+
+       5 Die LEBA ist eine Vereinigung von großen Broker-Firmen, die im Handel mit Energierohstoffen (u. a. auch EUA) tätig sind. In ihren monatlichen Berichten
+             werden auch Volumen von bilateral abgeschlossenen Geschäften (OTC) aufgeführt, die nicht über Clearingstellen der Börsen gelaufen sind („OTC Bilaterally
+             Settled Volume“). Die Daten werden dabei nicht nach Termin-/Spotkontrakten aufgeschlüsselt. Da sie zudem lediglich als monatlich aggregierte Werte
+             verfügbar sind, wurden die Daten nur in Abb. 7, nicht aber in Abb. 5 berücksichtigt.
+
+10 Auktionierung (EU-ETS) – Deutsche Versteigerungen von Emissionsberechtigungen – Drittes Quartal 2023
+Die folgende Abbildung zeigt die Auktionsmengen am Primärmarkt je Kalenderwoche (KW). Neben den
+deutschen Versteigerungen sind in der Abbildung auch die Auktionsmengen anderer EU-Mitgliedstaaten,
+von Norwegen, Island und Liechtenstein sowie für den EU-Innovations-/Modernisierungsfonds und für die
+Recovery and Resilience Facility (RRF) berücksichtigt.
+
+      15
+
+Volumen in Millionen Tonnen  10
+
+                             5
+
+                             0                   29. KW 30. KW  31. KW  32. KW 33. KW 34. KW 35. KW 36. KW  37. KW  38. KW 39. KW*
+                                 27. KW* 28. KW
+
+                                                                        DE  EU 25+  PL
+
+                                                                                                                                                                                                Quelle: ICE, EEX, Refinitiv Eikon, DEHSt
+         DE = Deutschland, PL = Polen, EU25+ = EU Kommission im Auftrag der übrigen Mitgliedstaaten sowie Norwegen, Island und Liechtenstein; EU-Innovations-/Modernisierungsfonds,
+
+                                                                                                                                                                                                  Recovery and Resilience Facility (RRF)
+                                                                                                                                                        *27. KW: 03.07.2023–07.07.2023; 39. KW: 25.09.2023–29.09.2023
+
+Abbildung 6: Versteigerungsvolumen am Primärmarkt im dritten Quartal 2023 (EUA)
+
+                                 Auktionierung (EU-ETS) – Deutsche Versteigerungen von Emissionsberechtigungen – Drittes Quartal 2023 11
+In der folgenden Abbildung ist die Entwicklung der monatlichen EUA-Handelsvolumina am Primär- und
+Sekundärmarkt in den vergangenen 12 Monaten vor dem aktuellen Berichtsmonat abgebildet. Das Gesamt-
+marktvolumen lag in den ersten neun Monaten des Jahres 2023 mit rund 6,43 Milliarden EUA rund 5 Prozent
+unter dem Niveau des Vorjahres (Jan–Sep 2022: 6,76 Milliarden EUA).
+
+                             7.000                                                 –4,9 %
+                             6.000
+
+Volumen in Millionen Tonnen  5.000
+                             4.000
+
+                             3.000
+
+                             2.000
+
+                             1.000
+
+                                   0  Jan–Sep 2022                                         Jan–Sep 2023
+                             1.250
+
+                             1.000
+
+Volumen in Millionen Tonnen  750
+
+                             500
+
+                             250
+
+                             0
+                                  Sep 22 Okt 22 Nov 22 Dez 22 Jan 23 Feb 23 Mrz 23 Apr 23 Mai 23 Jun 23 Jul 23 Aug 23 Sep 23
+
+                                      EUA Futures (gecleart)  EUA Spot (gecleart)          EUA Auktionen (Spot)  LEBA EUA OTC
+
+                                                                                                                                                                      Quelle: ICE, EEX, Nasdaq OMX, Refinitiv Eikon, LEBA, DEHSt
+
+Abbildung 7: Handelsvolumen am Primär- und Sekundärmarkt in den vergangenen 12 Monaten (EUA
+
+12 Auktionierung (EU-ETS) – Deutsche Versteigerungen von Emissionsberechtigungen – Drittes Quartal 2023
+Tabelle 3: Marktanteile der verschiedenen Handelssegmente (EUA)
+
+Marktsegmente                          Sep 2023  Aug 2023        Jan–Sep 2023 Jan–Sep 2022
+
+Primärmarkt    EUA-Auktionen (Spot)     8,3 %     4,4 %           5,8 %                                 5,3 %
+Sekundärmarkt  EUA-Futures (gecleart)  82,8 %    85,3 %          84,3 %                                86,2 %
+               EUA-Spot (gecleart)               10,3 %
+               LEBA EUA OTC             8,9 %                     9,9 %                                 8,4 %
+                                              –         –               –                              < 0,1 %
+
+                                                                 Quelle:ICE, EEX, Nasdaq OMX, Refinitiv Eikon, LEBA, DEHSt
+
+3.2 Handelsvolumen EUAA
+
+Im dritten Quartal 2023 wurden auf dem Sekundärmarkt6 keine Luftverkehrsberechtigungen (EUAA) gehandelt.
+Auf dem Primärmarkt wurden von den am EU-ETS teilnehmenden Staaten im gleichen Zeitraum rund
+1,5 Millionen EUAA versteigert. Weitere Informationen zu den Auktionskalendern für den Luftverkehr sind
+auf der Internetseite der Europäischen Kommission abrufbar.
+
+3.3 Auktionspreise und Preisentwicklung am Sekundärmarkt
+
+Für die Bewertung der in den EUA Spot-Auktionen erzielten Zuschlagspreise werden Referenzpreise des liqui-
+desten Handelsplatzes als geeignete Benchmarks herangezogen. Referenzkontrakt für die Versteigerungen ist
+der an der ICE Endex gehandelte Daily Future oder der EEX EUA Spot Kontrakt. Die Produktspezifikationen sind
+mit dem Spot-Produkt der Auktionen vergleichbar. Als Referenzpreis wird der letzte Handelsabschluss („last
+trade“) unmittelbar vor dem Ende der Gebotsphase herangezogen. Wenn keine Trades kurz vor dem Ende der
+Gebotsphase durchgeführt wurden, wird das höchste Kaufgebot („last best bid“) herangezogen (siehe auch
+folgende Infobox).
+
+Referenzpreise                                                                                                                                            i
+
+Im regulären Börsenhandel (Sekundärhandel) stellen die Teilnehmer ihre Kauf- und Verkaufsgebote
+
+(„Bid“ und „Ask“) in ein laufend aktualisiertes Orderbuch ein. Wie bei den Versteigerungen sind auch
+
+die Kaufgebote im Sekundärhandel durch die gewünschte Kaufmenge und das sogenannte Preislimit
+
+gekennzeichnet. Das Preislimit entspricht dabei dem höchsten Kaufpreis, den ein Käufer für den Erwerb
+
+einer Berechtigung zu entrichten bereit ist. Auch auf Verkäuferseite besteht die Möglichkeit Angebote
+
+mit Preislimits, in diesem Fall also Mindestpreise pro veräußerte Berechtigung, festzulegen.
+
+In dem für jeden Handelsteilnehmer einsehbaren Orderbuch sind sowohl das aktuell höchste Kaufgebot
+(„Best Bid“) sowie das entsprechend niedrigste Verkaufsgebot („Best Ask“) mit den entsprechenden
+Mengennotierungen abgebildet. Überschneiden sich Best Bid und Best Ask, kommt ein verbindlicher
+Handel („Trade“) zwischen den Teilnehmern zustande. Die Notierungen des Handelspreises verdeutlichen
+schließlich, bei welchen Preislimits Angebot und Nachfrage tatsächlich zum Ausgleich kommen.
+
+6 Betrachtet werden alle gehandelten Luftverkehrsberechtigungen (EUAA) am Spot- und Terminmarkt der EEX. Erfasst sind Geschäfte, die direkt an der Börse
+      abgeschlossen wurden (screen traded) oder als bilaterale Geschäfte zumindest den Clearingmechanismus der Börse genutzt haben. Zum Ende 2022 hat
+      die ICE den Handel mit EUAA-Kontrakten eingestellt.
+
+                      Auktionierung (EU-ETS) – Deutsche Versteigerungen von Emissionsberechtigungen – Drittes Quartal 2023 13
+Tabelle 4 zeigt die relativen Abweichungen der Auktions-Zuschlagspreise vom Sekundärmarkt. Die Abweichung
+pro EUA-Versteigerungstermin unmittelbar vor dem Ende der Gebotsphase (11 Uhr MEZ) variierte im Berichts-
+zeitraum zwischen –0,43 Euro (–0,49 Prozent) und +0,95 Euro (+1,12 Prozent).
+
+Für eine Mittelwertbetrachtung wird das arithmetische Mittel der betragsmäßigen Einzelabweichungen im
+Berichtszeitraum berechnet. Diese durchschnittliche Abweichung lag gemittelt über alle Termine bei 0,30 Euro
+bzw. 0,35 Prozent.
+
+Tabelle 4: Versteigerungen und Abweichungen vom Sekundärmarktpreis im dritten Quartal 2023 (EUA)
+
+                                                                Abweichung vom Sekundärmarkt*
+
+Datum       Kontrakt                        Auktionspreis
+
+                                                       84,82 €  Absolut                                  %
+                                                       85,51 €
+07.07.2023  EUA Spot 4. HP                             89,36 €           0,44 €                             0,52 %
+                                                       87,33 €
+14.07.2023  EUA Spot 4. HP                             83,33 €           0,61 €                             0,72 %
+                                                       84,20 €
+21.07.2023  EUA Spot 4. HP                             86,68 €  –0,18 €                                     –0,20 %
+                                                       85,50 €
+28.07.2023  EUA Spot 4. HP                             84,00 €  –0,43 €                                     –0,49 %
+                                                       82,09 €
+04.08.2023  EUA Spot 4. HP                             82,33 €  –0,15 €                                     –0,18 %
+                                                       84,03 €
+11.08.2023  EUA Spot 4. HP                             81,65 €           0,01 €                             0,01 %
+
+18.08.2023  EUA Spot 4. HP                                               0,00 €                             0,00 %
+
+25.08.2023  EUA Spot 4. HP                                               0,95 €                             1,12 %
+
+01.09.2023  EUA Spot 4. HP                                      –0,28 €                                     –0,33 %
+
+08.09.2023  EUA Spot 4. HP                                      –0,25 €                                     –0,30 %
+
+15.09.2023  EUA Spot 4. HP                                               0,07 €                             0,09 %
+
+22.09.2023  EUA Spot 4. HP                                               0,31 €                             0,37 %
+
+29.09.2023  EUA Spot 4. HP                                               0,16 €                             0,20 %
+
+Durchschnittliche betragsmäßige Abweichung                               0,30 €                             0,35 %
+
+                                                                                 Quelle: ICE, EEX, Refinitiv Eikon, DEHSt
+                                                                                                  * best bid ICE Daily Future
+
+14 Auktionierung (EU-ETS) – Deutsche Versteigerungen von Emissionsberechtigungen – Drittes Quartal 2023
+In der folgenden Abbildung wird die Preisentwicklung für Emissionsberechtigungen am Sekundärmarkt im
+Überblick dargestellt. Neben dem Daily Future ist auch die Entwicklung des Futures zur Lieferung im Dezember
+des laufenden bzw. folgenden Jahres abgetragen (sogenannter „Front-December future“).7 Statt der üblichen
+Beschränkung auf Tagesabschlusspreise wird in die vorliegende Betrachtung die Gesamtheit aller abgeschlos-
+senen Geschäfte („Trades“) einbezogen.8 Die Darstellung basiert auf volumengewichteten Tagesdurchschnitts-
+preisen (VWAP).9 Zusätzlich ist in der Abbildung auch die tägliche Handelsspanne des Front-December
+Terminkontraktes dargestellt (senkrechte Preislinie). Der Preis des Front-December Terminkontraktes schwankte
+im dritten Quartal 2023 in einem Intervall zwischen 80,50 Euro und 93,53 Euro.
+
+  95 €
+
+90 €
+
+85 €
+
+80 €
+
+75 €       10.07.23  17.07.23  24.07.23  31.07.23  07.08.23  14.08.23  21.08.23  28.08.23  04.09.23  11.09.23  18.09.23  25.09.23
+ 03.07.23
+
+           ICE EUA Front-December (Handelsspanne, VWAP)                ICE EUA Daily Future (VWAP)   Auktionspreis DE (EUA)
+
+                                                                                                                                                                                                Quelle: ICE, EEX, Refinitiv Eikon, DEHSt
+                                                                                                                                                                                                                            DE = Deutschland
+
+Abbildung 8: Preisentwicklung am Sekundärmarkt der ICE und Auktionszuschlagspreise an der EEX (EUA)
+
+7 Der ICE EUA Dec23 Terminkontrakt läuft am 18.12.2023 aus.
+8 Als Settlementpreise werden die an Börsen festgelegten Tagesabrechnungspreise bezeichnet. In der Regel bilden Settlementpreise lediglich die Handel-
+
+      saktivität unmittelbar vor Handelsschlussschluss ab und sind daher nur bedingt geeignet den Sekundärmarkt vollständig darzustellen.
+9 Die volumengewichteten Tagesdurchschnittspreise (VWAP) für den ICE EUA Front-December Terminkontrakt und den ICE Daily Future basieren auf den Daten
+
+      aus Refinitiv Eikon.
+
+                      Auktionierung (EU-ETS) – Deutsche Versteigerungen von Emissionsberechtigungen – Drittes Quartal 2023 15
+   4 Umsetzung der geltenden Regelwerke
+
+   4.1 Handelsüberwachungsreport der HÜSt
+
+    Um an der EEX ein integres und manipulationsfreies Marktgeschehen zu garantieren, findet eine kontinuierliche
+    Überwachung durch eine in Deutschland gesetzlich vorgeschriebene und unabhängige Handelsüberwachungs-
+    stelle (HÜSt) statt. Die HÜSt berichtet der DEHSt in regelmäßigen internen Berichten über den Stand ihrer Überwa-
+    chungstätigkeit. Für die Versteigerungen im dritten Quartal 2023 kam die HÜSt zu folgendem Ergebnis (Auszug):
+
+            „Die Handelsüberwachungsstelle der EEX konnte im Rahmen ihrer Überwachung für die Versteigerungen
+             von Emissionsberechtigungen im Auftrag des Umweltbundesamtes an der EEX im dritten Quartal 2023
+
+                  keine Auffälligkeiten und insbesondere kein Bieterverhalten feststellen, das auf eine Verzerrung
+                                                       des Zuschlagspreises gerichtet war“
+
+   4.2 Fairer und offener Zugang
+
+    Die Umsetzung der Vorgaben der EU-Auktionsverordnung garantiert einen fairen und offenen Zugang für alle
+    Auktionsteilnehmer der EEX. Die aktuell verfügbaren Zugangsoptionen sind auf der EEX Internetseite (Zugang)
+    abrufbar.
+    Weitere Informationen rund um das Auktionsverfahren erhalten Sie auch bei der EEX Auction Hotline.
+    Sie erreichen die EEX von Montag bis Freitag zwischen 8:00 Uhr und 18:00 Uhr MEZ telefonisch unter
+    +49 341 2156-331 oder per E-Mail unter +49 341 2156-331 oder per E-Mail unter auctions@eex.com.
+
+   4.3 Veröffentlichung der Auktionsergebnisse
+
+    Alle Auktionsergebnisse mit begleitenden Daten wurden im Berichtszeitraum innerhalb eines 15-minütigen
+    Zeitfensters im direkten Anschluss an die jeweilige Auktion auf der EEX Internetseite öffentlich zur
+    Verfügung gestellt.
+
+   4.4 Sonstige Vorkommnisse
+
+    Es sind keine Vorkommnisse im Zusammenhang mit der Umsetzung der geltenden Regelwerke zu berichten.
+    Die aktuell geltenden Vorschriften sind auf der EEX Internetseite (Regelwerke) abrufbar.
+
+16 Auktionierung (EU-ETS) – Deutsche Versteigerungen von Emissionsberechtigungen – Drittes Quartal 2023
+Deutsche Emissionshandelsstelle (DEHSt) im Umweltbundesamt
+                                                                    City Campus
+
+                                                           Haus 3, Eingang 3A
+                                                                Buchholzweg 8
+                                                                   13627 Berlin
+
+                          www.dehst.de | emissionshandel@dehst.de
+

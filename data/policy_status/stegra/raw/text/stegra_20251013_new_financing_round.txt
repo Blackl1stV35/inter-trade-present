@@ -1,0 +1,17 @@
+SOURCE_URL: https://stegra.com/en/news-and-stories/stegra-in-new-financing-round
+RETRIEVED: 2026-10-22
+EXTRACTION: tag-stripped text of the saved HTML (article/main block); layout not reproduced
+og:title: Stegra in new financing round - Stegra
+og:description: Following strong initial commitments from existing investors, Stegra is now in a new financing round for the construction of the world’s first large-scale green-steel plant in Boden, Sweden.
+----
+Following strong initial commitments from existing investors, Stegra is now in a new financing round for the construction of the world’s first large-scale green-steel plant in Boden, Sweden.
+“The strong backing from our founders and lead investors, who are firmly committed to this project, is another testament to Stegra’s strong business case. Stegra has a unique position in the green steel landscape with a strong order book, a competitive cost position, and proven execution capabilities,” says Henrik Henriksson, CEO of Stegra. 
+The proceeds from the round are expected to represent up to approximately 15% of Stegra’s total project funding, comprising a mix of new equity, debt, outsourcing and selected strategic partnerships.  
+In addition to the initial commitments from equity investors, the company is in advanced discussions regarding outsourcing opportunities.
+“We have progressed more than 60% of the project and have clear visibility and a detailed plan for the full runway up to completion, including a timeline extension of three months to accommodate for the additional scope. We will now continue to advance the project with the additional strength that will be provided by this new financing round,” says Henriksson.
+The round aims to fund additional scope related to insourcing of certain infrastructure, cover higher project costs, secure a prudent financial buffer and offset state grants that were not fulfilled despite approval from the EU Commission. 
+The necessary additional scope includes the insourcing of railway investments, and investments in port infrastructure. These mission critical assets were initially intended to be funded by external parties, but are now being designed, built and owned by Stegra, which also enables greater control over the project plan. The round will also fund additional necessary groundwork, and offset generally inflated costs for materials, construction and installation.
+Previous
+Changes to Stegra’s Board of Directors
+Next
+Stegra announces agreement with Microsoft, driving demand for near-zero emission steel

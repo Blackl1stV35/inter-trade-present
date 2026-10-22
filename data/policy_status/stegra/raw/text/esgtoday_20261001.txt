@@ -1,0 +1,24 @@
+SOURCE_URL: https://www.esgtoday.com/stegra-seeks-more-capital-to-build-green-steel-megaplant-on-significantly-higher-than-assumed-costs/
+RETRIEVED: 2026-10-22
+EXTRACTION: tag-stripped text of the saved HTML (article/main block); layout not reproduced
+og:title: Stegra Seeks More Capital (Again) for Green Steel Megaplant on 'Significantly Higher than Assumed' Costs - ESG Today
+article:published_time: 2026-10-01T13:46:44+00:00
+article:modified_time: 2026-10-04T08:44:29+00:00
+og:description: Swedish green iron and steel maker Stegra announced the completion of a 100-day review of its project to build the world’s first large-scale green steel plant in Boden, Sweden, revealing that it will require more capital to complete the project due to “significantly higher than assumed” costs, even after securing a €1.4 billion (USD$1.6 billion) package […]
+ld_datePublished: 2026-10-01T13:46:44+00:00
+----
+Companies/ Environment 
+ Stegra Seeks More Capital (Again) for Green Steel Megaplant on ‘Significantly Higher than Assumed’ Costs
+ Mark Segal
+ October 1, 2026
+ Swedish green iron and steel maker Stegra announced the completion of a 100-day review of its project to build the world’s first large-scale green steel plant in Boden, Sweden, revealing that it will require more capital to complete the project due to “significantly higher than assumed” costs, even after securing a €1.4 billion (USD$1.6 billion) package in June 2026.
+Following the review, the company also announced that it has appointed former SAAB President and CEO Håkan Buskhe as its new CEO, succeeding Henrik Henriksson, who has stepped down after holding the CEO role at Stegra since 2021.
+Founded in 2020, Stegra is building its first large scale low-carbon steel plant in Boden, aimed at producing 5 million tonnes of green steel annually. The company’s process utilizes hydrogen produced using green power to remove the oxygen from iron oxide, avoiding most of the CO2 emissions normally produced, and uses electricity from 100% renewable sources for the energy requirements generated in the manufacturing process.
+Construction of the plant began in 2022, and by early 2024 the company said that it had secured €6.5 billion in funding for the plant. In October 2025, in a significantly tougher environment for clean tech capital, Stegra revealed that it had entered a new financing round in order to secure funds to complete the project.
+The 100-day review was initiated after Stegra closed a €1.4 billion (USD$1.6 billion) financing round in June,  led by Sweden’s Wallenberg family’s foundation’s Wallenberg Investments, alongside a consortium of investors, with the new group holding over 90% of the shares and votes in the company, and appointing former Volvo Group CEO Leif Johansson as the new chair of the board.
+While the company said that the review indicated that the timeline for green steel production remains as expected, and that the business case remains strong, it also revealed that additional capital is required to complete the project, as the estimated costs of completing it are significantly higher than assumed, due to factors including substantial ramp-up costs following the prolonged scaling back of work earlier this year, as well as inflation.
+Johansson said:
+“When we took over, we said that we believed the financing would be sufficient, but that we could not rule out that more would be needed. We now have a complete picture of the project, investment by investment – how far we have come and what it has cost. The financing need is greater than we had hoped, but we have a robust plan to complete the project and have identified greater opportunities for outsourcing and partnerships than we previously thought.
+The company said that it has initiated a dialogue with its largest shareholders, who have “expressed a positive view” on participating in the work to secure the capital required to complete the project, and that “dialogue with shareholders, financiers, partners and other stakeholders continues at high intensity.”
+Johansson added:
+“If anything, our belief in Stegra and in the business opportunities once the steel plant is complete is stronger today than when we came on board in June, and we are now working constructively with all of the company’s stakeholders to find a solution to the financing need.”

@@ -1,0 +1,94 @@
+{
+ "retrieved": "2026-10-22",
+ "query_template": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_taxag?format=JSON&lang=EN&geo=DE&unit=MIO_EUR&sector={sector}&na_item={item}",
+ "results": [
+  {
+   "sector": "S13",
+   "na_item": "D51B",
+   "observations": 0,
+   "first": null,
+   "last": null,
+   "dataset_updated": "2026-10-21T23:00:00+0200"
+  },
+  {
+   "sector": "S13",
+   "na_item": "D51A",
+   "observations": 0,
+   "first": null,
+   "last": null,
+   "dataset_updated": "2026-10-21T23:00:00+0200"
+  },
+  {
+   "sector": "S13",
+   "na_item": "D29C",
+   "observations": 0,
+   "first": null,
+   "last": null,
+   "dataset_updated": "2026-10-21T23:00:00+0200"
+  },
+  {
+   "sector": "S13",
+   "na_item": "D51",
+   "observations": 30,
+   "first": "1995",
+   "last": "2024",
+   "dataset_updated": "2026-10-21T23:00:00+0200"
+  },
+  {
+   "sector": "S13",
+   "na_item": "D51B_C2",
+   "observations": 30,
+   "first": "1995",
+   "last": "2024",
+   "dataset_updated": "2026-10-21T23:00:00+0200"
+  },
+  {
+   "sector": "S13",
+   "na_item": "D51A_C1",
+   "observations": 30,
+   "first": "1995",
+   "last": "2024",
+   "dataset_updated": "2026-10-21T23:00:00+0200"
+  },
+  {
+   "sector": "S13",
+   "na_item": "D611",
+   "observations": 30,
+   "first": "1995",
+   "last": "2024",
+   "dataset_updated": "2026-10-21T23:00:00+0200"
+  },
+  {
+   "sector": "S13",
+   "na_item": "D613",
+   "observations": 30,
+   "first": "1995",
+   "last": "2024",
+   "dataset_updated": "2026-10-21T23:00:00+0200"
+  },
+  {
+   "sector": "S13",
+   "na_item": "D29F",
+   "observations": 30,
+   "first": "1995",
+   "last": "2024",
+   "dataset_updated": "2026-10-21T23:00:00+0200"
+  },
+  {
+   "sector": "S13",
+   "na_item": "D211",
+   "observations": 30,
+   "first": "1995",
+   "last": "2024",
+   "dataset_updated": "2026-10-21T23:00:00+0200"
+  },
+  {
+   "sector": "S13",
+   "na_item": "D214A",
+   "observations": 30,
+   "first": "1995",
+   "last": "2024",
+   "dataset_updated": "2026-10-21T23:00:00+0200"
+  }
+ ]
+}

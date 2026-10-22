@@ -1,0 +1,23 @@
+SOURCE_URL: https://stegra.com/en/news-and-stories/stegra-announces-closing-of-14-billion-financing-round
+RETRIEVED: 2026-10-22
+EXTRACTION: tag-stripped text of the saved HTML (article/main block); layout not reproduced
+og:title: Stegra announces closing of €1.4 billion financing round - Stegra
+og:description: Stegra today announces the closing of its €1.4 billion financing round. The round is led by a Wallenberg Investments-consortium.
+----
+Stegra today announces the closing of its €1.4 billion financing round. The round is led by a Wallenberg Investments-consortium and has strong support from existing investors as well as the original lender group.
+In April, 2026 Stegra announced that the new financing round had been agreed in principle, subject to certain approvals, including customary regulatory approvals. The financing round is now completed. 
+The Wallenberg Investments-led consortium consists of existing investors IMAS and Temasek as well as new investors Bolero and SEB-Stiftelsen. In addition, a large group of Stegra’s existing shareholders continue to invest in the company. These investors include Altor, that will become the second largest shareholder, Hy24 and Just Climate, as well as AMF, AP2, Climate Infrastructure Fund**, Kallskär, Kobe Steel, Lingotto Innovation, Scania, Schaeffler, Security Trading* Stena Metall Finans and Swedbank Robur. Also, a group of Stegra’s second lien lenders, led by AIP Management, have decided to support the project as direct equity investors.
+We are grateful for the support for the work we are doing in bringing near zero emissions steel to the market from both new and existing investors, as well as from lenders. It’s a strong sign of confidence in our business case and the project. 
+Henrik HenrikssonCEO of Stegra
+The financing has also received 100% approval from the Stegra lender group. All banks participating in Stegra's financing package continue to support the project and the company will have access to the undrawn debt facilities established as part of the company's 2024 financing. 
+We are pleased that this transaction is now closed. Together with Bolero, IMAS, SEB-Stiftelsen and Temasek, as well as Altor and other new and existing investors, we will now work closely with the Stegra team to complete and commission the plant in Boden. This large-scale green project represents an important step in Sweden's competitiveness and the EU's security of supply.
+Håkan BuskheHead of Special Investments at Wallenberg Investments and incoming board member of Stegra
+“We close this financing round with a higher equity ratio and a stronger and more resilient financial position for the company. We welcome the increased Swedish ownership through the Wallenberg Investments-led consortium and the continued support from the Swedish National Debt Office and SEK which remain committed to previously agreed facilities and have worked constructively with different stakeholders during the funding process”, says Henriksson.
+Stegra is in the process of ramping up construction activities in Boden. During this period, the project timeline is under review. 
+* the investment company of Antti Herlin’s family
+** managed by Demea Sustainable Investment
+Stegra is also supported with funds from the EU Innovation Fund and the Swedish Energy Agency.
+Previous
+Changes to Stegra’s board of directors and company structure
+Next
+Why clean power alone won't decarbonize datacenters

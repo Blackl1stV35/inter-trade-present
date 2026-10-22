@@ -1,0 +1,18 @@
+SOURCE_URL: https://stegra.com/en/news-and-stories/stegra-and-partners-develop-registry-for-environmental-attribute-certificates
+RETRIEVED: 2026-10-22
+EXTRACTION: tag-stripped text of the saved HTML (article/main block); layout not reproduced
+og:title: Stegra and partners develop registry for environmental attribute certificates - Stegra
+og:description: Stegra is announcing a partnership that will develop a book-and-claim framework for near-zero emission iron and steel environmental attribute certificates.
+----
+Today Stegra is announcing a partnership that will develop a book-and-claim system for near-zero emission iron and steel and the use of environmental attribute certificates (EACs).
+The production of near-zero emission iron and steel doesn’t always occur in the same region where the physical product is needed. Nor will the initial supply meet the growing demand.
+Environmental attribute certificates give customers the opportunity to contribute to growing the market for sustainably produced materials, even when access to the physical product is not yet possible or practical.
+Last year Stegra announced its first agreement for environmental attribute certificates. Today Stegra is announcing a partnership that will develop a book-and-claim product standard for near-zero emission iron and steel environmental attribute certificates. The work is led by Roundtable on Sustainable Biomaterials (RSB). Industry partners are Stegra, Electra and Charm. The work is also supported by the Rocky Mountain Institute (RMI). 
+Together with partners, Stegra will be working to establish the standards of EACs, including issuing, tracking, verifying, and transferring the environmental attributes associated with near-zero emission steel production, regardless of where the material is physically produced and delivered.
+The work will support transparent and consistent emission reduction claims and help buyers and producers with the offtakes needed to build more near-zero iron and steel production.
+For more information on environmental attribute certificates
+in steel, go to EACs for steel.
+Previous
+Meet Betty Callne – Visit coordinator
+Next
+Changes to Stegra’s board of directors and company structure

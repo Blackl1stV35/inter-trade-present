@@ -1,0 +1,20 @@
+[
+ {
+  "file": "raw/ch72_headings_flow1.json",
+  "url": "https://ec.europa.eu/eurostat/api/comext/dissemination/statistics/1.0/data/DS-045409?format=JSON&lang=EN&freq=A&reporter=DE&partner=EXT_EU27_2020&product=72&product=7201&product=7202&product=7203&product=7204&product=7205&product=7206&product=7207&product=7208&product=7209&product=7210&product=7211&product=7212&product=7213&product=7214&product=7215&product=7216&product=7217&product=7218&product=7219&product=7220&product=7221&product=7222&product=7223&product=7224&product=7225&product=7226&product=7227&product=7228&product=7229&product=72CC&product=72II&product=72MM&product=72SS&product=72VV&product=72XX&flow=1&indicators=VALUE_IN_EUROS&indicators=QUANTITY_IN_100KG&sinceTimePeriod=1999",
+  "http_status": 200,
+  "retrieved_utc": "2026-10-22T02:45:47Z",
+  "bytes": 33513,
+  "sha256": "30c5d3a7bcc37b338aa3915d7724c4415e5a8e42e6e99d44e02cfe54f07b3b35",
+  "api_updated": "2026-10-16T11:00:00+0200"
+ },
+ {
+  "file": "raw/ch72_headings_flow2.json",
+  "url": "https://ec.europa.eu/eurostat/api/comext/dissemination/statistics/1.0/data/DS-045409?format=JSON&lang=EN&freq=A&reporter=DE&partner=EXT_EU27_2020&product=72&product=7201&product=7202&product=7203&product=7204&product=7205&product=7206&product=7207&product=7208&product=7209&product=7210&product=7211&product=7212&product=7213&product=7214&product=7215&product=7216&product=7217&product=7218&product=7219&product=7220&product=7221&product=7222&product=7223&product=7224&product=7225&product=7226&product=7227&product=7228&product=7229&product=72CC&product=72II&product=72MM&product=72SS&product=72VV&product=72XX&flow=2&indicators=VALUE_IN_EUROS&indicators=QUANTITY_IN_100KG&sinceTimePeriod=1999",
+  "http_status": 200,
+  "retrieved_utc": "2026-10-22T02:45:50Z",
+  "bytes": 33559,
+  "sha256": "266c264f26744348b1567344fe052285806748ab7aee87aa14f69472f6c92b37",
+  "api_updated": "2026-10-16T11:00:00+0200"
+ }
+]

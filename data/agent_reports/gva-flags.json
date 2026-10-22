@@ -1,0 +1,176 @@
+{
+ "status": "resolved",
+ "summary": "Live Eurostat re-pull on 2026-10-22 (SDMX-CSV cross-checked): all 93 workbook values for table 4.1 (real GVA, production, GVA share, 1995-2025) and the three Section C employment values are unchanged, even though nama_10_a64 was refreshed on 21 Oct (production on 15 Oct). The provisional flag 'p' still sits on 2023, 2024 and 2025 for real GVA, GVA share and Section C employment; the production index has no flags. The 19.4% (2025), 19.9% (2024) and 104.13 (2025) figures are unchanged and still provisional. EU27_2020 share is 15.9% for 2024; no 2025 EU27 aggregate exists (Bulgaria and Latvia have no 2025 value). German sub-industry employment (C24, C28, C29) is available 2015-2024 only, flagged p. Dataset F (15 Jan 2026 first estimate) is superseded: after Destatis' summer revision of 25 Aug 2026, 2025 real growth is GDP 0.2, household and NPISH consumption 1.3, government 1.7, GFCF -0.6, exports -0.9, imports 2.9 (net-export contribution -1.5 pp unchanged). Everything is in data/eurostat_macro/ with README.md, raw/, tidy/ and scripts/.",
+ "key_facts": [
+  {
+   "label": "Germany manufacturing real GVA index 2025 (CLV_I20, 2020=100), flag",
+   "value": "104.13, flag p (provisional); unchanged vs workbook; 2023 107.34 p, 2024 105.64 p. Implied real growth -3.07% (2023), -1.58% (2024), -1.43% (2025)",
+   "as_of": "2026-10-21 (dataset update 11:00 CEST); retrieved 2026-10-22",
+   "source_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nama_10_a64?format=JSON&lang=EN&freq=A&geo=DE&nace_r2=C&na_item=B1G&unit=CLV_I20&sinceTimePeriod=1995",
+   "confidence": "high"
+  },
+  {
+   "label": "Manufacturing share of German total GVA (PC_TOT), 2024 and 2025",
+   "value": "19.9% (2024, p) and 19.4% (2025, p); both unchanged; recomputed 19.93% and 19.42% from CP_MEUR (C 797,190 over total 4,104,359 EUR million in 2025)",
+   "as_of": "2026-10-21; retrieved 2026-10-22",
+   "source_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nama_10_a64?format=JSON&lang=EN&freq=A&geo=DE&nace_r2=C&na_item=B1G&unit=PC_TOT&sinceTimePeriod=1995",
+   "confidence": "high"
+  },
+  {
+   "label": "Provisional flag coverage today",
+   "value": "p on 2023, 2024, 2025 for nama_10_a64 (CLV_I20, PC_TOT, CP_MEUR), nama_10_a64_e Section C (EMP_DC, SAL_DC, SELF_DC), and all nama_10_gdp / namq_10_gdp German items; C24-C30 employment p on 2023-2024 only. sts_inpr_a production index 1995-2025: no flags. Only code seen is p (no e, b, etc.)",
+   "as_of": "2026-10-22",
+   "source_url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/nama_10_a64/A.CLV_I20.C.B1G.DE?startPeriod=1995&format=SDMX-CSV",
+   "confidence": "high"
+  },
+  {
+   "label": "Germany production index Section C 2025 (I21, 2021=100)",
+   "value": "92.8, no flag, unchanged (2024 93.8, 2023 98.6); dataset last update 15 Oct 2026 11:00 (workbook cited 10 Oct)",
+   "as_of": "2026-10-15 (dataset update); retrieved 2026-10-22",
+   "source_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sts_inpr_a?format=JSON&lang=EN&freq=A&indic_bt=PRD&nace_r2=C&s_adj=NSA&unit=I21&geo=DE&sinceTimePeriod=1995",
+   "confidence": "high"
+  },
+  {
+   "label": "EU27_2020 manufacturing share of total GVA (PC_TOT)",
+   "value": "2024: 15.9% (no flag; recomputed 15.93%); 2025: not available because the EU27 aggregate is missing (25 of 27 members have a 2025 value; missing BG, LV)",
+   "as_of": "2026-10-21; retrieved 2026-10-22",
+   "source_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nama_10_a64?format=JSON&lang=EN&freq=A&geo=EU27_2020&geo=DE&nace_r2=C&na_item=B1G&unit=PC_TOT&sinceTimePeriod=1995",
+   "confidence": "high"
+  },
+  {
+   "label": "Germany employment Section C manufacturing (EMP_DC, thousand persons)",
+   "value": "7,490 (2023 p), 7,415 (2024 p), 7,262 (2025 p); unchanged vs workbook [U28]; 7,773 in 2019, 7,512 in 2015 (2025 is -511k or -6.6% vs 2019)",
+   "as_of": "2026-10-21 23:00 CEST dataset update; retrieved 2026-10-22",
+   "source_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nama_10_a64_e?format=JSON&lang=EN&freq=A&geo=DE&nace_r2=C&na_item=EMP_DC&unit=THS_PER&sinceTimePeriod=1995",
+   "confidence": "high"
+  },
+  {
+   "label": "Germany employment by sub-industry, latest year 2024 (EMP_DC, thousand persons, all p; 2025 not yet published)",
+   "value": "C24 basic metals 245 (268 in 2015, 271 in 2019; -8.6% vs 2015, -9.6% vs 2019); C28 machinery 1,164 (1,135 in 2015, 1,210 in 2019; +2.6%, -3.8%); C29 motor vehicles 858 (872 in 2015, 916 in 2019; -1.6%, -6.3%); C25 fabricated metals 844 (905 in 2015)",
+   "as_of": "2026-10-21; retrieved 2026-10-22",
+   "source_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nama_10_a64_e?format=JSON&lang=EN&freq=A&geo=DE&unit=THS_PER&na_item=EMP_DC&nace_r2=C24&nace_r2=C28&nace_r2=C29&sinceTimePeriod=1995",
+   "confidence": "high"
+  },
+  {
+   "label": "Germany 2025 real growth, current vintage (CLV_PCH_PRE, annual)",
+   "value": "GDP 0.2; household+NPISH consumption 1.3 (households only 1.4); government consumption 1.7; GFCF -0.6; exports -0.9; imports 2.9; all flagged p. Net exports contribution -1.5 pp (Destatis). Dataset F first estimate was 0.2 / 1.4 / 1.5 / -0.5 / -0.3 / 3.6",
+   "as_of": "2026-10-21 (nama_10_gdp update 23:00 CEST); Destatis table Stand 25 Aug 2026",
+   "source_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nama_10_gdp?format=JSON&lang=EN&freq=A&geo=DE&unit=CLV_PCH_PRE&na_item=B1GQ&na_item=P31_S14_S15&na_item=P3_S13&na_item=P51G&na_item=P6&na_item=P7&sinceTimePeriod=2015",
+   "confidence": "high"
+  },
+  {
+   "label": "Destatis summer revision 2026 (old May 2026 vs new Aug 2026 vintage, 2025 real growth)",
+   "value": "GDP 0.2 to 0.2; private consumption 1.3 to 1.3; government consumption 1.5 to 1.7; GFCF -0.2 to -0.6; 2024 GDP -0.5 to 0.0; exports and imports described as revised only moderately",
+   "as_of": "2026-08-25 (article), updated 2026-09-30",
+   "source_url": "https://www.destatis.de/DE/Themen/Wirtschaft/Volkswirtschaftliche-Gesamtrechnungen-Inlandsprodukt/sommerueberarbeitung-2026.html",
+   "confidence": "high"
+  },
+  {
+   "label": "Destatis nominal use of GDP 2025 (EUR billion)",
+   "value": "GDP 4,529.710; private consumption 2,449.116; government 1,012.805; GFCF 915.092; inventories 52.376; exports 1,815.983; imports 1,715.662; net exports 100.321 (2024: 156.738). Shares of GDP: C 54.1%, G 22.4%, GFCF 20.2%, NX 2.2%",
+   "as_of": "Stand 25 Aug 2026; retrieved 2026-10-22",
+   "source_url": "https://www.destatis.de/DE/Themen/Wirtschaft/Volkswirtschaftliche-Gesamtrechnungen-Inlandsprodukt/Tabellen/inlandsprodukt-verwendung-bip.html",
+   "confidence": "high"
+  },
+  {
+   "label": "Dataset F origin (first estimate for 2025)",
+   "value": "Destatis press release 017 of 15 Jan 2026: GDP 0.2, household+NPISH consumption 1.4, government 1.5, GFCF -0.5, exports -0.3, imports 3.6; manufacturing real GVA then shown as -4.3 (2024) and -1.3 (2025) before the summer revision",
+   "as_of": "2026-01-15",
+   "source_url": "https://www.destatis.de/EN/Press/2026/01/PE26_017_811.html",
+   "confidence": "high"
+  },
+  {
+   "label": "Why 2025 stays provisional and how manufacturing GVA is now extrapolated",
+   "value": "Summer revision 2026 integrated 2024 structural statistics; 2025 has none yet. Manufacturing real GVA is now extrapolated with the price-adjusted turnover index instead of the production index. Destatis says results count as final only after about four years. Inference: next structural benchmark of 2025 is the August 2027 summer revision",
+   "as_of": "2026-09-30 (article update); retrieved 2026-10-22",
+   "source_url": "https://www.destatis.de/DE/Themen/Wirtschaft/Volkswirtschaftliche-Gesamtrechnungen-Inlandsprodukt/sommerueberarbeitung-2026.html",
+   "confidence": "medium"
+  },
+  {
+   "label": "Germany quarterly context 2026 (NSA, year on year)",
+   "value": "GDP +0.8% (2026-Q1), +1.0% (2026-Q2); exports +0.5%, +3.7%; imports +1.6%, +2.5%; all p; matches Destatis release of 25 Aug 2026. Not a CBAM-effect indicator",
+   "as_of": "2026-10-20 (namq_10_gdp update 23:00 CEST)",
+   "source_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/namq_10_gdp?format=JSON&lang=EN&freq=Q&geo=DE&s_adj=NSA&unit=CLV_PCH_SM&sinceTimePeriod=2025-Q1",
+   "confidence": "high"
+  }
+ ],
+ "files_written": [
+  "D:/Workspace/inter-trade-present/data/eurostat_macro/README.md",
+  "D:/Workspace/inter-trade-present/data/eurostat_macro/retrieval_utc.txt",
+  "D:/Workspace/inter-trade-present/data/eurostat_macro/scripts/jsonstat_tidy.py",
+  "D:/Workspace/inter-trade-present/data/eurostat_macro/scripts/compare_workbook.py",
+  "D:/Workspace/inter-trade-present/data/eurostat_macro/scripts/macro_checks.py",
+  "D:/Workspace/inter-trade-present/data/eurostat_macro/scripts/destatis_extract.py",
+  "D:/Workspace/inter-trade-present/data/eurostat_macro/scripts/crosscheck_sdmx.py",
+  "D:/Workspace/inter-trade-present/data/eurostat_macro/scripts/flag_audit.py",
+  "D:/Workspace/inter-trade-present/data/eurostat_macro/tidy/revision_check_vs_workbook.csv",
+  "D:/Workspace/inter-trade-present/data/eurostat_macro/tidy/de_manufacturing_1995_2025_live.csv",
+  "D:/Workspace/inter-trade-present/data/eurostat_macro/tidy/workbook_table_4_1.csv",
+  "D:/Workspace/inter-trade-present/data/eurostat_macro/tidy/provisional_flag_audit.csv",
+  "D:/Workspace/inter-trade-present/data/eurostat_macro/tidy/eu27_vs_de_mfg_share.csv",
+  "D:/Workspace/inter-trade-present/data/eurostat_macro/tidy/emp_sub_industries_2015_2025.csv",
+  "D:/Workspace/inter-trade-present/data/eurostat_macro/tidy/emp_sub_industries_changes.csv",
+  "D:/Workspace/inter-trade-present/data/eurostat_macro/tidy/emp_de_subind_tidy.csv",
+  "D:/Workspace/inter-trade-present/data/eurostat_macro/tidy/datasetF_vs_current_vintage.csv",
+  "D:/Workspace/inter-trade-present/data/eurostat_macro/tidy/destatis_summer_revision_2026_old_vs_new.csv",
+  "D:/Workspace/inter-trade-present/data/eurostat_macro/tidy/destatis_use_of_gdp_2023_2025.csv",
+  "D:/Workspace/inter-trade-present/data/eurostat_macro/tidy/nama_10_gdp_DE_tidy.csv",
+  "D:/Workspace/inter-trade-present/data/eurostat_macro/tidy/nama_10_gdp_pct_from_levels_check.csv",
+  "D:/Workspace/inter-trade-present/data/eurostat_macro/tidy/namq_10_gdp_DE_tidy.csv",
+  "D:/Workspace/inter-trade-present/data/eurostat_macro/tidy/gva_de_c_tidy.csv",
+  "D:/Workspace/inter-trade-present/data/eurostat_macro/tidy/prod_de_c_tidy.csv",
+  "D:/Workspace/inter-trade-present/data/eurostat_macro/tidy/emp_de_c_tidy.csv",
+  "D:/Workspace/inter-trade-present/data/eurostat_macro/tidy/gva_share_eu27_de_tidy.csv",
+  "D:/Workspace/inter-trade-present/data/eurostat_macro/tidy/gva_levels_eu27_de_tidy.csv",
+  "D:/Workspace/inter-trade-present/data/eurostat_macro/tidy/gva_clv_eu27_c_tidy.csv",
+  "D:/Workspace/inter-trade-present/data/eurostat_macro/tidy/mfg_share_allgeo_2024_2025_tidy.csv",
+  "D:/Workspace/inter-trade-present/data/eurostat_macro/raw/ (22 Eurostat JSON and SDMX-CSV responses, 5 saved Destatis HTML pages, eurostat_toc_extract_2026-10-22.txt)"
+ ],
+ "discrepancies_vs_workbook": [
+  "Update tab 4.1 table (real GVA, production, GVA share, 1995-2025): 0 of 93 values differ from the live Eurostat pull; the three employment values in [U28] (7,490 / 7,415 / 7,262 thousand) are also unchanged. No revision (year, old, new) to report.",
+  "Dataset update stamps differ from the workbook text: nama_10_a64 now 21 Oct 2026 (workbook: 9 Oct), sts_inpr_a now 15 Oct 2026 (workbook: 10 Oct). Values did not change in these cells.",
+  "Dataset F, government consumption 2025: workbook 1.5 (Jan 2026 first estimate), current 1.7 (Eurostat P3_S13, Destatis Aug 2026).",
+  "Dataset F, gross fixed capital formation 2025: workbook -0.5, current -0.6 (May 2026 vintage was -0.2).",
+  "Dataset F, exports of goods and services 2025: workbook -0.3, current -0.9 (Eurostat; Destatis chain index gives -0.95).",
+  "Dataset F, imports of goods and services 2025: workbook 3.6, current 2.9.",
+  "Dataset F, household consumption 2025: workbook 1.4 is the households-and-NPISH concept; the like-for-like current value is 1.3 (households only P31_S14 is 1.4, which would be a misleading match).",
+  "Dataset F, GDP 2025 0.2: unchanged. Net-export contribution to GDP growth -1.5 pp: unchanged.",
+  "Dataset F is still described in the workbook and outline as the January 2026 first estimate; that vintage is superseded by the Destatis summer revision of 25 Aug 2026 (2024 GDP growth changed from -0.5 to 0.0; 2023 from -0.9 to -1.0).",
+  "Outline S1 labels only the 2025 share (19.4%) as provisional; the 2024 share (19.9%) and the 2024 employment value also carry the provisional flag p. The EU27 15.9% (2024) is unflagged, while the German numerator is provisional.",
+  "Workbook footnote 'GVA 2023-2025 provisional' remains correct for GVA, but the same flag also applies to Section C employment 2023-25 and to sub-industry employment 2023-24; the production index has no flag, which the workbook text does not state."
+ ],
+ "outline_changes": [
+  {
+   "slide": "S1",
+   "change": "Keep the three tile values (19.9% 2024, 19.4% 2025, EU27 15.9% 2024; none changed). Change the wording so BOTH German values read 'provisional' (Eurostat flag p, rechecked 22 Oct 2026): 'Manufacturing 19.9% of German GVA in 2024 (provisional) vs EU27 15.9%; 19.4% in 2025 (provisional)'. Add to the tile definition: EU27 2025 is not published yet (Bulgaria and Latvia missing), so the like-for-like comparison stays at 2024. Keep 'value added, not GDP'. Refresh the retrieval date to 22 Oct 2026 and re-pull about 14 Nov."
+  },
+  {
+   "slide": "S6",
+   "change": "All plotted values unchanged: real GVA (2020=100) 71.61 in 1995 to 104.13 in 2025; production (2021=100) 71.3 to 92.8; share 22.3% to 19.4%. Replace the footnote 'GVA 2023-25 provisional' with 'GVA index and share 2023-25 provisional (Eurostat flag p, checked 22 Oct 2026); the production index is not flagged'. Draw the GVA 2023-25 points hollow or dashed, not the production line. Add to the footnote: since Destatis' Aug 2026 summer revision real manufacturing GVA is extrapolated with the deflated turnover index, so the two panels are different indicators and can diverge (2024: GVA -1.6%, production -4.9%). Do not quote older January 2026 manufacturing growth rates (-4.3% for 2024 was before the revision). EU27 tile stays at 2024 (15.9%); no EU27 2025. Optional speaker line: manufacturing real GVA in 2025 is about 4.5% below 2019 and about 6.0% below its 2022 level (104.13 vs 109.00 and 110.74)."
+  },
+  {
+   "slide": "S10",
+   "change": "Replace the Dataset F figures with the current vintage (Eurostat nama_10_gdp 21 Oct 2026; Destatis table 25 Aug 2026; all 2025 values still flagged provisional): GDP +0.2 (unchanged); C +1.3 real (households and NPISH; was +1.4); I (gross fixed capital formation) -0.6 (was -0.5); G +1.7 (was +1.5); NX row: exports -0.9 and imports +2.9 real (was -0.3 and +3.6), with the net-export contribution to GDP growth -1.5 pp (unchanged) and nominal net exports of goods and services EUR 100.3 bn in 2025 vs EUR 156.7 bn in 2024 (Destatis). Optional nominal GDP shares 2025: C 54.1%, G 22.4%, GFCF 20.2%, NX 2.2%. Rewrite the footer from 'Dataset F is one first-estimate vintage (15 Jan 2026)' to 'Growth rates: Destatis/Eurostat vintage of 21 Oct 2026, provisional, after the 2026 summer revision; whole-economy context, not CBAM effects'. Add a one-line backup note that the January first estimate differed (G 1.5, I -0.5, X -0.3, M 3.6, C 1.4)."
+  },
+  {
+   "slide": "A12",
+   "change": "Add a small employment panel (Eurostat nama_10_a64_e, Germany, persons incl. self-employed, thousand): Section C 7,512 (2015), 7,773 (2019), 7,262 (2025 p), i.e. -511k or -6.6% since 2019 while total economy employment is +1.3%; sub-industries latest 2024 (p, 2025 not yet published): C24 basic metals 245 (268 in 2015, -8.6%; -9.6% vs 2019), C28 machinery 1,164 (1,135 in 2015, +2.6%; -3.8% vs 2019), C29 motor vehicles 858 (872 in 2015, -1.6%; -6.3% vs 2019), C25 fabricated metals 844 (905 in 2015). Shares of Section C in 2024: C24 3.3%, C28 15.7%, C29 11.6%. Caveats on the page: C24 includes non-ferrous metals and casting, not only steel; these are sector aggregates, not CBAM effects; they sit beside the Thyssenkrupp plan [U9] (about 5,000 cuts plus about 6,000 transfers) without attributing it. This closes the 'partly met' status of Member D request 5 for national-accounts employment; the structural-business-statistics universe [U27] remains separate."
+  },
+  {
+   "slide": "Open items list (item 7 and item 5)",
+   "change": "Item 7: mark 'GVA 2023-25 provisional flag' as checked on 22 Oct 2026: still provisional for 2023-2025 (also employment), values unchanged; plan a final re-pull about 10-14 Nov, since Destatis' first Q3 GDP estimate is likely at the end of October (date unconfirmed) and the structural benchmark of 2025 is not expected before the August 2027 summer revision (inference). Item 5: employment by sub-industry (C24/C28/C29) now pulled to 2024; 2025 detail not yet published."
+  }
+ ],
+ "caveats": [
+  "All 2023-2025 German values are provisional and Eurostat tables update whenever Germany transmits; re-pull before the freeze (around 10-14 Nov).",
+  "EU27_2020 2025 manufacturing share does not exist yet (25 of 27 members report; BG, LV missing). No estimate was made. Metadata says Eurostat may impute internally, but no imputed figure is published.",
+  "German sub-industry employment (C24, C28, C29) ends in 2024 and is flagged p; C24 basic metals includes non-ferrous metals and casting, so it is not a steel-only job count.",
+  "Destatis' publication list labels the August 2026 spreadsheet for 2025 'endgueltige Ergebnisse', but Destatis' own revision text says results are final only after about four years and Eurostat flags 2025 as provisional; the Eurostat flag was treated as operative. The August 2027 benchmark date is an inference, not a stated date.",
+  "Destatis does not print exports and imports annual growth in the revision article; Eurostat values (-0.9, +2.9) were verified against the Destatis chain index (exports -0.95 from the rounded index, imports +2.86), and net-export contribution -1.5 pp matches.",
+  "Two Destatis summaries (revision text, release timing t+30 and t+55) were read from saved HTML; the Q3 2026 flash date was not confirmed from an official calendar, and the detailed Q3 release (about t+55) should come after the 16-18 Nov talks.",
+  "The workbook table (pulled 11 Oct) already contains the post-summer-revision manufacturing values; the January 2026 first-estimate manufacturing figures (e.g. -4.3% for 2024) are stale and must not be reused.",
+  "Real manufacturing GVA is now extrapolated from the deflated turnover index while the production index measures physical output, so the S6 panels can diverge for methodological reasons.",
+  "All figures are descriptive statistics, not estimates of an ETS or CBAM effect; 2026 quarterly data are outside the policy-payment period (first CBAM certificate payments 2027).",
+  "The Eurostat ESMS page consulted for revision policy was last updated 28 Jan 2025 and was used only for general policy wording."
+ ]
+}

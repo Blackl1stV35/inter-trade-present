@@ -1,0 +1,240 @@
+flow,period,heading,description,mass_start_kt,mass_end_kt,change_kt,share_of_ch72_change_pct,ch72_start_kt,ch72_end_kt,ch72_change_kt
+import,2004-2007,7204,Ferrous waste and scrap; remelting scrap ingots of iron or steel (excl,701.220,622.142,-79.078,-3.3,3906.312,6290.766,2384.454
+import,2004-2007,7227,"Bars and rods of alloy steel other than stainless, hot-rolled, in irre",42.860,24.267,-18.593,-0.8,3906.312,6290.766,2384.454
+import,2004-2007,7218,Stainless steel in ingots or other primary forms (excl. remelting scra,27.713,13.728,-13.985,-0.6,3906.312,6290.766,2384.454
+import,2004-2007,7226,"Flat-rolled products of alloy steel other than stainless, of a width o",27.417,19.316,-8.101,-0.3,3906.312,6290.766,2384.454
+import,2004-2007,7220,"Flat-rolled products of stainless steel, of a width of < 600 mm, hot-r",21.555,15.129,-6.426,-0.3,3906.312,6290.766,2384.454
+import,2004-2007,7217,"Wire of iron or non-alloy steel, in coils (excl. bars and rods)",157.258,151.655,-5.603,-0.2,3906.312,6290.766,2384.454
+import,2004-2007,7205,"Granules and powders of pig iron, spiegeleisen, iron or steel (excl. g",53.427,49.296,-4.131,-0.2,3906.312,6290.766,2384.454
+import,2004-2007,7206,Iron and non-alloy steel in ingots or other primary forms (excl. remel,3.373,7.124,3.751,0.2,3906.312,6290.766,2384.454
+import,2004-2007,7221,"Bars and rods of stainless steel, hot-rolled, in irregularly wound coi",5.093,9.998,4.905,0.2,3906.312,6290.766,2384.454
+import,2004-2007,7223,"Wire of stainless steel, in coils (excl. bars and rods)",10.034,15.192,5.158,0.2,3906.312,6290.766,2384.454
+import,2004-2007,7225,"Flat-rolled products of alloy steel other than stainless, of a width o",63.299,69.254,5.955,0.2,3906.312,6290.766,2384.454
+import,2004-2007,7211,"Flat-rolled products of iron or non-alloy steel, of a width of < 600 m",160.564,167.199,6.636,0.3,3906.312,6290.766,2384.454
+import,2004-2007,7212,"Flat-rolled products of iron or non-alloy steel, of a width of < 600 m",24.746,31.514,6.768,0.3,3906.312,6290.766,2384.454
+import,2004-2007,7229,"Wire of alloy steel other than stainless, in coils (excl. bars and rod",4.098,15.159,11.060,0.5,3906.312,6290.766,2384.454
+import,2004-2007,7216,"Angles, shapes and sections of iron or non-alloy steel, n.e.s.",125.156,145.233,20.078,0.8,3906.312,6290.766,2384.454
+import,2004-2007,7222,"Other bars and rods of stainless steel; angles, shapes and sections of",27.961,48.630,20.669,0.9,3906.312,6290.766,2384.454
+import,2004-2007,7203,Ferrous products obtained by direct reduction of iron ore and other sp,100.331,123.553,23.223,1.0,3906.312,6290.766,2384.454
+import,2004-2007,7202,Ferro-alloys,783.579,836.830,53.251,2.2,3906.312,6290.766,2384.454
+import,2004-2007,7224,"Steel, alloy, other than stainless, in ingots or other primary forms, ",30.377,91.283,60.906,2.6,3906.312,6290.766,2384.454
+import,2004-2007,7210,"Flat-rolled products of iron or non-alloy steel, of a width >= 600 mm,",85.572,161.292,75.720,3.2,3906.312,6290.766,2384.454
+import,2004-2007,7214,"Bars and rods, of iron or non-alloy steel, not further worked than for",286.412,387.339,100.927,4.2,3906.312,6290.766,2384.454
+import,2004-2007,7209,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 ",36.937,139.483,102.546,4.3,3906.312,6290.766,2384.454
+import,2004-2007,7213,"Bars and rods of iron or non-alloy steel, hot-rolled, in irregularly w",195.743,331.631,135.888,5.7,3906.312,6290.766,2384.454
+import,2004-2007,7219,"Flat-rolled products of stainless steel, of a width of >= 600 mm, hot-",23.158,159.526,136.368,5.7,3906.312,6290.766,2384.454
+import,2004-2007,7201,"Pig iron and spiegeleisen, in pigs, blocks or other primary forms",96.659,298.274,201.615,8.5,3906.312,6290.766,2384.454
+import,2004-2007,7228,"Other bars and rods of alloy steel other than stainless, angles, shape",143.464,392.701,249.237,10.5,3906.312,6290.766,2384.454
+import,2004-2007,7208,"Flat-rolled products of iron or non-alloy steel, of a width >= 600 mm,",310.107,572.242,262.135,11.0,3906.312,6290.766,2384.454
+import,2004-2007,7215,"Bars and rods, of iron or non-alloy steel, cold-formed or cold-finishe",78.015,342.550,264.534,11.1,3906.312,6290.766,2384.454
+import,2004-2007,7207,Semi-finished products of iron or non-alloy steel,280.183,1049.225,769.041,32.3,3906.312,6290.766,2384.454
+import,2017-2025,7203,Ferrous products obtained by direct reduction of iron ore and other sp,1015.625,28.127,-987.499,31.3,4623.534,1463.589,-3159.945
+import,2017-2025,7204,Ferrous waste and scrap; remelting scrap ingots of iron or steel (excl,705.552,393.921,-311.631,9.9,4623.534,1463.589,-3159.945
+import,2017-2025,7207,Semi-finished products of iron or non-alloy steel,403.206,175.158,-228.048,7.2,4623.534,1463.589,-3159.945
+import,2017-2025,7214,"Bars and rods, of iron or non-alloy steel, not further worked than for",309.774,88.801,-220.973,7.0,4623.534,1463.589,-3159.945
+import,2017-2025,7228,"Other bars and rods of alloy steel other than stainless, angles, shape",282.522,99.478,-183.044,5.8,4623.534,1463.589,-3159.945
+import,2017-2025,7208,"Flat-rolled products of iron or non-alloy steel, of a width >= 600 mm,",213.096,32.723,-180.373,5.7,4623.534,1463.589,-3159.945
+import,2017-2025,7213,"Bars and rods of iron or non-alloy steel, hot-rolled, in irregularly w",290.889,119.800,-171.090,5.4,4623.534,1463.589,-3159.945
+import,2017-2025,72XX,special code,122.736,0.009,-122.727,3.9,4623.534,1463.589,-3159.945
+import,2017-2025,7217,"Wire of iron or non-alloy steel, in coils (excl. bars and rods)",149.491,50.140,-99.351,3.1,4623.534,1463.589,-3159.945
+import,2017-2025,7209,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 ",93.142,1.568,-91.574,2.9,4623.534,1463.589,-3159.945
+import,2017-2025,7215,"Bars and rods, of iron or non-alloy steel, cold-formed or cold-finishe",101.716,19.355,-82.361,2.6,4623.534,1463.589,-3159.945
+import,2017-2025,7216,"Angles, shapes and sections of iron or non-alloy steel, n.e.s.",122.643,41.006,-81.636,2.6,4623.534,1463.589,-3159.945
+import,2017-2025,7201,"Pig iron and spiegeleisen, in pigs, blocks or other primary forms",91.968,25.687,-66.281,2.1,4623.534,1463.589,-3159.945
+import,2017-2025,7202,Ferro-alloys,168.140,105.686,-62.454,2.0,4623.534,1463.589,-3159.945
+import,2017-2025,7211,"Flat-rolled products of iron or non-alloy steel, of a width of < 600 m",54.934,4.568,-50.366,1.6,4623.534,1463.589,-3159.945
+import,2017-2025,7210,"Flat-rolled products of iron or non-alloy steel, of a width >= 600 mm,",94.548,51.521,-43.027,1.4,4623.534,1463.589,-3159.945
+import,2017-2025,7227,"Bars and rods of alloy steel other than stainless, hot-rolled, in irre",77.463,37.196,-40.267,1.3,4623.534,1463.589,-3159.945
+import,2017-2025,7219,"Flat-rolled products of stainless steel, of a width of >= 600 mm, hot-",49.280,9.943,-39.337,1.2,4623.534,1463.589,-3159.945
+import,2017-2025,7224,"Steel, alloy, other than stainless, in ingots or other primary forms, ",44.887,13.061,-31.826,1.0,4623.534,1463.589,-3159.945
+import,2017-2025,7205,"Granules and powders of pig iron, spiegeleisen, iron or steel (excl. g",47.435,18.618,-28.817,0.9,4623.534,1463.589,-3159.945
+import,2017-2025,7212,"Flat-rolled products of iron or non-alloy steel, of a width of < 600 m",27.400,13.292,-14.108,0.4,4623.534,1463.589,-3159.945
+import,2017-2025,7206,Iron and non-alloy steel in ingots or other primary forms (excl. remel,9.675,0.119,-9.556,0.3,4623.534,1463.589,-3159.945
+import,2017-2025,7218,Stainless steel in ingots or other primary forms (excl. remelting scra,8.676,2.556,-6.120,0.2,4623.534,1463.589,-3159.945
+import,2017-2025,7220,"Flat-rolled products of stainless steel, of a width of < 600 mm, hot-r",14.140,9.263,-4.877,0.2,4623.534,1463.589,-3159.945
+import,2017-2025,7226,"Flat-rolled products of alloy steel other than stainless, of a width o",11.405,6.690,-4.715,0.1,4623.534,1463.589,-3159.945
+import,2017-2025,7221,"Bars and rods of stainless steel, hot-rolled, in irregularly wound coi",11.719,7.350,-4.369,0.1,4623.534,1463.589,-3159.945
+import,2017-2025,7223,"Wire of stainless steel, in coils (excl. bars and rods)",13.660,13.400,-0.260,0.0,4623.534,1463.589,-3159.945
+import,2017-2025,7225,"Flat-rolled products of alloy steel other than stainless, of a width o",21.455,21.582,0.127,-0.0,4623.534,1463.589,-3159.945
+import,2017-2025,7222,"Other bars and rods of stainless steel; angles, shapes and sections of",48.511,50.702,2.192,-0.1,4623.534,1463.589,-3159.945
+import,2017-2025,7229,"Wire of alloy steel other than stainless, in coils (excl. bars and rod",17.844,22.269,4.425,-0.1,4623.534,1463.589,-3159.945
+import,2021-2025,7203,Ferrous products obtained by direct reduction of iron ore and other sp,695.546,28.127,-667.419,35.6,3337.390,1463.589,-1873.801
+import,2021-2025,7207,Semi-finished products of iron or non-alloy steel,370.973,175.158,-195.815,10.5,3337.390,1463.589,-1873.801
+import,2021-2025,7204,Ferrous waste and scrap; remelting scrap ingots of iron or steel (excl,573.964,393.921,-180.043,9.6,3337.390,1463.589,-1873.801
+import,2021-2025,7214,"Bars and rods, of iron or non-alloy steel, not further worked than for",226.830,88.801,-138.028,7.4,3337.390,1463.589,-1873.801
+import,2021-2025,7228,"Other bars and rods of alloy steel other than stainless, angles, shape",215.763,99.478,-116.285,6.2,3337.390,1463.589,-1873.801
+import,2021-2025,7213,"Bars and rods of iron or non-alloy steel, hot-rolled, in irregularly w",221.750,119.800,-101.950,5.4,3337.390,1463.589,-1873.801
+import,2021-2025,7215,"Bars and rods, of iron or non-alloy steel, cold-formed or cold-finishe",97.212,19.355,-77.857,4.2,3337.390,1463.589,-1873.801
+import,2021-2025,72XX,special code,69.830,0.009,-69.821,3.7,3337.390,1463.589,-1873.801
+import,2021-2025,7229,"Wire of alloy steel other than stainless, in coils (excl. bars and rod",74.715,22.269,-52.446,2.8,3337.390,1463.589,-1873.801
+import,2021-2025,7216,"Angles, shapes and sections of iron or non-alloy steel, n.e.s.",86.440,41.006,-45.433,2.4,3337.390,1463.589,-1873.801
+import,2021-2025,7201,"Pig iron and spiegeleisen, in pigs, blocks or other primary forms",70.327,25.687,-44.641,2.4,3337.390,1463.589,-1873.801
+import,2021-2025,7217,"Wire of iron or non-alloy steel, in coils (excl. bars and rods)",85.202,50.140,-35.062,1.9,3337.390,1463.589,-1873.801
+import,2021-2025,7211,"Flat-rolled products of iron or non-alloy steel, of a width of < 600 m",39.229,4.568,-34.661,1.8,3337.390,1463.589,-1873.801
+import,2021-2025,7208,"Flat-rolled products of iron or non-alloy steel, of a width >= 600 mm,",57.560,32.723,-24.837,1.3,3337.390,1463.589,-1873.801
+import,2021-2025,7227,"Bars and rods of alloy steel other than stainless, hot-rolled, in irre",60.440,37.196,-23.244,1.2,3337.390,1463.589,-1873.801
+import,2021-2025,7212,"Flat-rolled products of iron or non-alloy steel, of a width of < 600 m",34.338,13.292,-21.046,1.1,3337.390,1463.589,-1873.801
+import,2021-2025,7202,Ferro-alloys,122.672,105.686,-16.985,0.9,3337.390,1463.589,-1873.801
+import,2021-2025,7209,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 ",17.797,1.568,-16.229,0.9,3337.390,1463.589,-1873.801
+import,2021-2025,7219,"Flat-rolled products of stainless steel, of a width of >= 600 mm, hot-",18.905,9.943,-8.962,0.5,3337.390,1463.589,-1873.801
+import,2021-2025,7223,"Wire of stainless steel, in coils (excl. bars and rods)",21.651,13.400,-8.251,0.4,3337.390,1463.589,-1873.801
+import,2021-2025,7205,"Granules and powders of pig iron, spiegeleisen, iron or steel (excl. g",26.433,18.618,-7.815,0.4,3337.390,1463.589,-1873.801
+import,2021-2025,7221,"Bars and rods of stainless steel, hot-rolled, in irregularly wound coi",12.235,7.350,-4.885,0.3,3337.390,1463.589,-1873.801
+import,2021-2025,7226,"Flat-rolled products of alloy steel other than stainless, of a width o",11.509,6.690,-4.819,0.3,3337.390,1463.589,-1873.801
+import,2021-2025,7218,Stainless steel in ingots or other primary forms (excl. remelting scra,5.519,2.556,-2.963,0.2,3337.390,1463.589,-1873.801
+import,2021-2025,7220,"Flat-rolled products of stainless steel, of a width of < 600 mm, hot-r",11.932,9.263,-2.669,0.1,3337.390,1463.589,-1873.801
+import,2021-2025,7206,Iron and non-alloy steel in ingots or other primary forms (excl. remel,0.329,0.119,-0.210,0.0,3337.390,1463.589,-1873.801
+import,2021-2025,7222,"Other bars and rods of stainless steel; angles, shapes and sections of",50.683,50.702,0.020,-0.0,3337.390,1463.589,-1873.801
+import,2021-2025,7224,"Steel, alloy, other than stainless, in ingots or other primary forms, ",9.483,13.061,3.578,-0.2,3337.390,1463.589,-1873.801
+import,2021-2025,7225,"Flat-rolled products of alloy steel other than stainless, of a width o",9.467,21.582,12.115,-0.6,3337.390,1463.589,-1873.801
+import,2021-2025,7210,"Flat-rolled products of iron or non-alloy steel, of a width >= 600 mm,",38.659,51.521,12.862,-0.7,3337.390,1463.589,-1873.801
+import,2019-2025,7203,Ferrous products obtained by direct reduction of iron ore and other sp,718.906,28.127,-690.779,36.8,3341.970,1463.589,-1878.382
+import,2019-2025,7214,"Bars and rods, of iron or non-alloy steel, not further worked than for",269.211,88.801,-180.410,9.6,3341.970,1463.589,-1878.382
+import,2019-2025,7228,"Other bars and rods of alloy steel other than stainless, angles, shape",230.190,99.478,-130.712,7.0,3341.970,1463.589,-1878.382
+import,2019-2025,72XX,special code,97.609,0.009,-97.600,5.2,3341.970,1463.589,-1878.382
+import,2019-2025,7217,"Wire of iron or non-alloy steel, in coils (excl. bars and rods)",141.269,50.140,-91.129,4.9,3341.970,1463.589,-1878.382
+import,2019-2025,7204,Ferrous waste and scrap; remelting scrap ingots of iron or steel (excl,481.250,393.921,-87.330,4.6,3341.970,1463.589,-1878.382
+import,2019-2025,7213,"Bars and rods of iron or non-alloy steel, hot-rolled, in irregularly w",204.423,119.800,-84.624,4.5,3341.970,1463.589,-1878.382
+import,2019-2025,7201,"Pig iron and spiegeleisen, in pigs, blocks or other primary forms",99.828,25.687,-74.141,3.9,3341.970,1463.589,-1878.382
+import,2019-2025,7215,"Bars and rods, of iron or non-alloy steel, cold-formed or cold-finishe",82.930,19.355,-63.575,3.4,3341.970,1463.589,-1878.382
+import,2019-2025,7216,"Angles, shapes and sections of iron or non-alloy steel, n.e.s.",104.488,41.006,-63.482,3.4,3341.970,1463.589,-1878.382
+import,2019-2025,7208,"Flat-rolled products of iron or non-alloy steel, of a width >= 600 mm,",91.122,32.723,-58.399,3.1,3341.970,1463.589,-1878.382
+import,2019-2025,7202,Ferro-alloys,162.566,105.686,-56.880,3.0,3341.970,1463.589,-1878.382
+import,2019-2025,7211,"Flat-rolled products of iron or non-alloy steel, of a width of < 600 m",46.912,4.568,-42.344,2.3,3341.970,1463.589,-1878.382
+import,2019-2025,7205,"Granules and powders of pig iron, spiegeleisen, iron or steel (excl. g",56.258,18.618,-37.640,2.0,3341.970,1463.589,-1878.382
+import,2019-2025,7210,"Flat-rolled products of iron or non-alloy steel, of a width >= 600 mm,",85.343,51.521,-33.823,1.8,3341.970,1463.589,-1878.382
+import,2019-2025,7227,"Bars and rods of alloy steel other than stainless, hot-rolled, in irre",68.112,37.196,-30.915,1.6,3341.970,1463.589,-1878.382
+import,2019-2025,7219,"Flat-rolled products of stainless steel, of a width of >= 600 mm, hot-",38.703,9.943,-28.761,1.5,3341.970,1463.589,-1878.382
+import,2019-2025,7209,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 ",26.624,1.568,-25.056,1.3,3341.970,1463.589,-1878.382
+import,2019-2025,7212,"Flat-rolled products of iron or non-alloy steel, of a width of < 600 m",30.775,13.292,-17.484,0.9,3341.970,1463.589,-1878.382
+import,2019-2025,7221,"Bars and rods of stainless steel, hot-rolled, in irregularly wound coi",13.975,7.350,-6.625,0.4,3341.970,1463.589,-1878.382
+import,2019-2025,7224,"Steel, alloy, other than stainless, in ingots or other primary forms, ",19.021,13.061,-5.960,0.3,3341.970,1463.589,-1878.382
+import,2019-2025,7226,"Flat-rolled products of alloy steel other than stainless, of a width o",10.919,6.690,-4.229,0.2,3341.970,1463.589,-1878.382
+import,2019-2025,7220,"Flat-rolled products of stainless steel, of a width of < 600 mm, hot-r",12.572,9.263,-3.309,0.2,3341.970,1463.589,-1878.382
+import,2019-2025,7206,Iron and non-alloy steel in ingots or other primary forms (excl. remel,3.362,0.119,-3.243,0.2,3341.970,1463.589,-1878.382
+import,2019-2025,7218,Stainless steel in ingots or other primary forms (excl. remelting scra,5.710,2.556,-3.153,0.2,3341.970,1463.589,-1878.382
+import,2019-2025,7223,"Wire of stainless steel, in coils (excl. bars and rods)",16.379,13.400,-2.979,0.2,3341.970,1463.589,-1878.382
+import,2019-2025,7229,"Wire of alloy steel other than stainless, in coils (excl. bars and rod",21.741,22.269,0.528,-0.0,3341.970,1463.589,-1878.382
+import,2019-2025,7222,"Other bars and rods of stainless steel; angles, shapes and sections of",49.783,50.702,0.919,-0.0,3341.970,1463.589,-1878.382
+import,2019-2025,7225,"Flat-rolled products of alloy steel other than stainless, of a width o",10.992,21.582,10.590,-0.6,3341.970,1463.589,-1878.382
+import,2019-2025,7207,Semi-finished products of iron or non-alloy steel,140.996,175.158,34.162,-1.8,3341.970,1463.589,-1878.382
+export,2004-2007,7225,"Flat-rolled products of alloy steel other than stainless, of a width o",811.425,526.460,-284.965,31.5,8097.727,7193.944,-903.783
+export,2004-2007,7213,"Bars and rods of iron or non-alloy steel, hot-rolled, in irregularly w",828.294,562.704,-265.590,29.4,8097.727,7193.944,-903.783
+export,2004-2007,7209,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 ",405.353,172.041,-233.312,25.8,8097.727,7193.944,-903.783
+export,2004-2007,7207,Semi-finished products of iron or non-alloy steel,436.810,257.756,-179.055,19.8,8097.727,7193.944,-903.783
+export,2004-2007,7219,"Flat-rolled products of stainless steel, of a width of >= 600 mm, hot-",374.073,266.174,-107.899,11.9,8097.727,7193.944,-903.783
+export,2004-2007,7204,Ferrous waste and scrap; remelting scrap ingots of iron or steel (excl,870.734,765.475,-105.259,11.6,8097.727,7193.944,-903.783
+export,2004-2007,7210,"Flat-rolled products of iron or non-alloy steel, of a width >= 600 mm,",1228.985,1179.208,-49.778,5.5,8097.727,7193.944,-903.783
+export,2004-2007,7216,"Angles, shapes and sections of iron or non-alloy steel, n.e.s.",587.325,539.619,-47.706,5.3,8097.727,7193.944,-903.783
+export,2004-2007,7227,"Bars and rods of alloy steel other than stainless, hot-rolled, in irre",92.678,59.315,-33.364,3.7,8097.727,7193.944,-903.783
+export,2004-2007,7214,"Bars and rods, of iron or non-alloy steel, not further worked than for",285.744,264.180,-21.565,2.4,8097.727,7193.944,-903.783
+export,2004-2007,7205,"Granules and powders of pig iron, spiegeleisen, iron or steel (excl. g",19.576,0.368,-19.208,2.1,8097.727,7193.944,-903.783
+export,2004-2007,7215,"Bars and rods, of iron or non-alloy steel, cold-formed or cold-finishe",72.812,61.870,-10.943,1.2,8097.727,7193.944,-903.783
+export,2004-2007,7220,"Flat-rolled products of stainless steel, of a width of < 600 mm, hot-r",62.358,56.043,-6.314,0.7,8097.727,7193.944,-903.783
+export,2004-2007,7217,"Wire of iron or non-alloy steel, in coils (excl. bars and rods)",81.203,77.682,-3.521,0.4,8097.727,7193.944,-903.783
+export,2004-2007,7221,"Bars and rods of stainless steel, hot-rolled, in irregularly wound coi",3.351,1.783,-1.568,0.2,8097.727,7193.944,-903.783
+export,2004-2007,7211,"Flat-rolled products of iron or non-alloy steel, of a width of < 600 m",278.380,277.507,-0.873,0.1,8097.727,7193.944,-903.783
+export,2004-2007,7202,Ferro-alloys,28.989,28.202,-0.788,0.1,8097.727,7193.944,-903.783
+export,2004-2007,7218,Stainless steel in ingots or other primary forms (excl. remelting scra,2.056,1.683,-0.373,0.0,8097.727,7193.944,-903.783
+export,2004-2007,7223,"Wire of stainless steel, in coils (excl. bars and rods)",5.798,5.759,-0.039,0.0,8097.727,7193.944,-903.783
+export,2004-2007,7203,Ferrous products obtained by direct reduction of iron ore and other sp,0.021,0.054,0.033,-0.0,8097.727,7193.944,-903.783
+export,2004-2007,7229,"Wire of alloy steel other than stainless, in coils (excl. bars and rod",9.765,9.812,0.048,-0.0,8097.727,7193.944,-903.783
+export,2004-2007,7206,Iron and non-alloy steel in ingots or other primary forms (excl. remel,1.748,4.500,2.752,-0.3,8097.727,7193.944,-903.783
+export,2004-2007,7224,"Steel, alloy, other than stainless, in ingots or other primary forms, ",21.424,29.311,7.888,-0.9,8097.727,7193.944,-903.783
+export,2004-2007,7201,"Pig iron and spiegeleisen, in pigs, blocks or other primary forms",10.614,23.515,12.900,-1.4,8097.727,7193.944,-903.783
+export,2004-2007,7222,"Other bars and rods of stainless steel; angles, shapes and sections of",34.618,51.608,16.990,-1.9,8097.727,7193.944,-903.783
+export,2004-2007,7212,"Flat-rolled products of iron or non-alloy steel, of a width of < 600 m",128.725,156.996,28.271,-3.1,8097.727,7193.944,-903.783
+export,2004-2007,7226,"Flat-rolled products of alloy steel other than stainless, of a width o",164.114,199.052,34.938,-3.9,8097.727,7193.944,-903.783
+export,2004-2007,7228,"Other bars and rods of alloy steel other than stainless, angles, shape",149.264,188.122,38.858,-4.3,8097.727,7193.944,-903.783
+export,2004-2007,72XX,special code,0.000,145.609,145.609,-16.1,8097.727,7193.944,-903.783
+export,2004-2007,7208,"Flat-rolled products of iron or non-alloy steel, of a width >= 600 mm,",1101.488,1281.538,180.050,-19.9,8097.727,7193.944,-903.783
+export,2017-2025,7225,"Flat-rolled products of alloy steel other than stainless, of a width o",1145.308,403.172,-742.136,29.3,7217.115,4681.188,-2535.927
+export,2017-2025,7208,"Flat-rolled products of iron or non-alloy steel, of a width >= 600 mm,",649.900,310.153,-339.747,13.4,7217.115,4681.188,-2535.927
+export,2017-2025,7213,"Bars and rods of iron or non-alloy steel, hot-rolled, in irregularly w",584.688,301.311,-283.378,11.2,7217.115,4681.188,-2535.927
+export,2017-2025,7226,"Flat-rolled products of alloy steel other than stainless, of a width o",294.221,126.102,-168.119,6.6,7217.115,4681.188,-2535.927
+export,2017-2025,7228,"Other bars and rods of alloy steel other than stainless, angles, shape",313.703,157.334,-156.369,6.2,7217.115,4681.188,-2535.927
+export,2017-2025,7210,"Flat-rolled products of iron or non-alloy steel, of a width >= 600 mm,",936.410,805.183,-131.228,5.2,7217.115,4681.188,-2535.927
+export,2017-2025,7216,"Angles, shapes and sections of iron or non-alloy steel, n.e.s.",471.061,350.253,-120.808,4.8,7217.115,4681.188,-2535.927
+export,2017-2025,7207,Semi-finished products of iron or non-alloy steel,209.349,97.003,-112.346,4.4,7217.115,4681.188,-2535.927
+export,2017-2025,7214,"Bars and rods, of iron or non-alloy steel, not further worked than for",222.593,118.640,-103.953,4.1,7217.115,4681.188,-2535.927
+export,2017-2025,7211,"Flat-rolled products of iron or non-alloy steel, of a width of < 600 m",198.250,106.095,-92.156,3.6,7217.115,4681.188,-2535.927
+export,2017-2025,7209,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 ",171.546,92.907,-78.639,3.1,7217.115,4681.188,-2535.927
+export,2017-2025,7212,"Flat-rolled products of iron or non-alloy steel, of a width of < 600 m",136.814,70.407,-66.408,2.6,7217.115,4681.188,-2535.927
+export,2017-2025,7217,"Wire of iron or non-alloy steel, in coils (excl. bars and rods)",97.661,52.482,-45.179,1.8,7217.115,4681.188,-2535.927
+export,2017-2025,7215,"Bars and rods, of iron or non-alloy steel, cold-formed or cold-finishe",74.527,33.932,-40.595,1.6,7217.115,4681.188,-2535.927
+export,2017-2025,7219,"Flat-rolled products of stainless steel, of a width of >= 600 mm, hot-",66.019,43.518,-22.501,0.9,7217.115,4681.188,-2535.927
+export,2017-2025,7202,Ferro-alloys,31.354,9.561,-21.793,0.9,7217.115,4681.188,-2535.927
+export,2017-2025,7201,"Pig iron and spiegeleisen, in pigs, blocks or other primary forms",88.963,70.660,-18.303,0.7,7217.115,4681.188,-2535.927
+export,2017-2025,7224,"Steel, alloy, other than stainless, in ingots or other primary forms, ",51.800,38.219,-13.581,0.5,7217.115,4681.188,-2535.927
+export,2017-2025,7220,"Flat-rolled products of stainless steel, of a width of < 600 mm, hot-r",44.558,33.836,-10.722,0.4,7217.115,4681.188,-2535.927
+export,2017-2025,7222,"Other bars and rods of stainless steel; angles, shapes and sections of",68.910,60.841,-8.069,0.3,7217.115,4681.188,-2535.927
+export,2017-2025,72XX,special code,7.042,0.058,-6.984,0.3,7217.115,4681.188,-2535.927
+export,2017-2025,7221,"Bars and rods of stainless steel, hot-rolled, in irregularly wound coi",3.088,1.437,-1.651,0.1,7217.115,4681.188,-2535.927
+export,2017-2025,7205,"Granules and powders of pig iron, spiegeleisen, iron or steel (excl. g",27.359,25.822,-1.538,0.1,7217.115,4681.188,-2535.927
+export,2017-2025,7218,Stainless steel in ingots or other primary forms (excl. remelting scra,3.090,3.148,0.058,-0.0,7217.115,4681.188,-2535.927
+export,2017-2025,7203,Ferrous products obtained by direct reduction of iron ore and other sp,0.001,0.106,0.105,-0.0,7217.115,4681.188,-2535.927
+export,2017-2025,7206,Iron and non-alloy steel in ingots or other primary forms (excl. remel,2.987,3.398,0.410,-0.0,7217.115,4681.188,-2535.927
+export,2017-2025,7223,"Wire of stainless steel, in coils (excl. bars and rods)",7.837,10.352,2.515,-0.1,7217.115,4681.188,-2535.927
+export,2017-2025,7229,"Wire of alloy steel other than stainless, in coils (excl. bars and rod",27.142,30.683,3.541,-0.1,7217.115,4681.188,-2535.927
+export,2017-2025,7227,"Bars and rods of alloy steel other than stainless, hot-rolled, in irre",86.400,93.744,7.344,-0.3,7217.115,4681.188,-2535.927
+export,2017-2025,7204,Ferrous waste and scrap; remelting scrap ingots of iron or steel (excl,1194.531,1230.832,36.302,-1.4,7217.115,4681.188,-2535.927
+export,2021-2025,7213,"Bars and rods of iron or non-alloy steel, hot-rolled, in irregularly w",463.738,301.311,-162.427,16.1,5689.501,4681.188,-1008.313
+export,2021-2025,7225,"Flat-rolled products of alloy steel other than stainless, of a width o",562.470,403.172,-159.299,15.8,5689.501,4681.188,-1008.313
+export,2021-2025,7228,"Other bars and rods of alloy steel other than stainless, angles, shape",282.081,157.334,-124.747,12.4,5689.501,4681.188,-1008.313
+export,2021-2025,7216,"Angles, shapes and sections of iron or non-alloy steel, n.e.s.",430.006,350.253,-79.754,7.9,5689.501,4681.188,-1008.313
+export,2021-2025,7226,"Flat-rolled products of alloy steel other than stainless, of a width o",201.836,126.102,-75.734,7.5,5689.501,4681.188,-1008.313
+export,2021-2025,7211,"Flat-rolled products of iron or non-alloy steel, of a width of < 600 m",177.383,106.095,-71.289,7.1,5689.501,4681.188,-1008.313
+export,2021-2025,7208,"Flat-rolled products of iron or non-alloy steel, of a width >= 600 mm,",370.307,310.153,-60.154,6.0,5689.501,4681.188,-1008.313
+export,2021-2025,7214,"Bars and rods, of iron or non-alloy steel, not further worked than for",163.946,118.640,-45.306,4.5,5689.501,4681.188,-1008.313
+export,2021-2025,7204,Ferrous waste and scrap; remelting scrap ingots of iron or steel (excl,1275.419,1230.832,-44.586,4.4,5689.501,4681.188,-1008.313
+export,2021-2025,7227,"Bars and rods of alloy steel other than stainless, hot-rolled, in irre",134.978,93.744,-41.234,4.1,5689.501,4681.188,-1008.313
+export,2021-2025,7212,"Flat-rolled products of iron or non-alloy steel, of a width of < 600 m",110.546,70.407,-40.139,4.0,5689.501,4681.188,-1008.313
+export,2021-2025,7201,"Pig iron and spiegeleisen, in pigs, blocks or other primary forms",100.412,70.660,-29.752,3.0,5689.501,4681.188,-1008.313
+export,2021-2025,7207,Semi-finished products of iron or non-alloy steel,123.962,97.003,-26.959,2.7,5689.501,4681.188,-1008.313
+export,2021-2025,7215,"Bars and rods, of iron or non-alloy steel, cold-formed or cold-finishe",58.872,33.932,-24.939,2.5,5689.501,4681.188,-1008.313
+export,2021-2025,7219,"Flat-rolled products of stainless steel, of a width of >= 600 mm, hot-",62.754,43.518,-19.235,1.9,5689.501,4681.188,-1008.313
+export,2021-2025,7217,"Wire of iron or non-alloy steel, in coils (excl. bars and rods)",68.447,52.482,-15.965,1.6,5689.501,4681.188,-1008.313
+export,2021-2025,7224,"Steel, alloy, other than stainless, in ingots or other primary forms, ",53.975,38.219,-15.756,1.6,5689.501,4681.188,-1008.313
+export,2021-2025,7202,Ferro-alloys,17.953,9.561,-8.392,0.8,5689.501,4681.188,-1008.313
+export,2021-2025,7220,"Flat-rolled products of stainless steel, of a width of < 600 mm, hot-r",41.848,33.836,-8.012,0.8,5689.501,4681.188,-1008.313
+export,2021-2025,7222,"Other bars and rods of stainless steel; angles, shapes and sections of",64.950,60.841,-4.109,0.4,5689.501,4681.188,-1008.313
+export,2021-2025,7205,"Granules and powders of pig iron, spiegeleisen, iron or steel (excl. g",28.195,25.822,-2.373,0.2,5689.501,4681.188,-1008.313
+export,2021-2025,7206,Iron and non-alloy steel in ingots or other primary forms (excl. remel,4.847,3.398,-1.449,0.1,5689.501,4681.188,-1008.313
+export,2021-2025,7218,Stainless steel in ingots or other primary forms (excl. remelting scra,4.544,3.148,-1.396,0.1,5689.501,4681.188,-1008.313
+export,2021-2025,7221,"Bars and rods of stainless steel, hot-rolled, in irregularly wound coi",2.444,1.437,-1.008,0.1,5689.501,4681.188,-1008.313
+export,2021-2025,72XX,special code,0.510,0.058,-0.451,0.0,5689.501,4681.188,-1008.313
+export,2021-2025,7203,Ferrous products obtained by direct reduction of iron ore and other sp,0.150,0.106,-0.044,0.0,5689.501,4681.188,-1008.313
+export,2021-2025,7229,"Wire of alloy steel other than stainless, in coils (excl. bars and rod",29.550,30.683,1.133,-0.1,5689.501,4681.188,-1008.313
+export,2021-2025,7223,"Wire of stainless steel, in coils (excl. bars and rods)",8.845,10.352,1.507,-0.1,5689.501,4681.188,-1008.313
+export,2021-2025,7210,"Flat-rolled products of iron or non-alloy steel, of a width >= 600 mm,",786.668,805.183,18.515,-1.8,5689.501,4681.188,-1008.313
+export,2021-2025,7209,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 ",57.865,92.907,35.042,-3.5,5689.501,4681.188,-1008.313
+export,2019-2025,7225,"Flat-rolled products of alloy steel other than stainless, of a width o",898.952,403.172,-495.780,29.6,6356.387,4681.188,-1675.199
+export,2019-2025,7213,"Bars and rods of iron or non-alloy steel, hot-rolled, in irregularly w",523.280,301.311,-221.969,13.3,6356.387,4681.188,-1675.199
+export,2019-2025,7208,"Flat-rolled products of iron or non-alloy steel, of a width >= 600 mm,",531.700,310.153,-221.547,13.2,6356.387,4681.188,-1675.199
+export,2019-2025,7204,Ferrous waste and scrap; remelting scrap ingots of iron or steel (excl,1394.100,1230.832,-163.268,9.7,6356.387,4681.188,-1675.199
+export,2019-2025,7207,Semi-finished products of iron or non-alloy steel,226.728,97.003,-129.725,7.7,6356.387,4681.188,-1675.199
+export,2019-2025,7228,"Other bars and rods of alloy steel other than stainless, angles, shape",268.371,157.334,-111.036,6.6,6356.387,4681.188,-1675.199
+export,2019-2025,7226,"Flat-rolled products of alloy steel other than stainless, of a width o",199.172,126.102,-73.070,4.4,6356.387,4681.188,-1675.199
+export,2019-2025,7211,"Flat-rolled products of iron or non-alloy steel, of a width of < 600 m",149.182,106.095,-43.088,2.6,6356.387,4681.188,-1675.199
+export,2019-2025,7210,"Flat-rolled products of iron or non-alloy steel, of a width >= 600 mm,",844.379,805.183,-39.197,2.3,6356.387,4681.188,-1675.199
+export,2019-2025,7216,"Angles, shapes and sections of iron or non-alloy steel, n.e.s.",382.867,350.253,-32.614,1.9,6356.387,4681.188,-1675.199
+export,2019-2025,7214,"Bars and rods, of iron or non-alloy steel, not further worked than for",151.136,118.640,-32.496,1.9,6356.387,4681.188,-1675.199
+export,2019-2025,7212,"Flat-rolled products of iron or non-alloy steel, of a width of < 600 m",102.021,70.407,-31.614,1.9,6356.387,4681.188,-1675.199
+export,2019-2025,7217,"Wire of iron or non-alloy steel, in coils (excl. bars and rods)",75.570,52.482,-23.088,1.4,6356.387,4681.188,-1675.199
+export,2019-2025,7219,"Flat-rolled products of stainless steel, of a width of >= 600 mm, hot-",64.063,43.518,-20.544,1.2,6356.387,4681.188,-1675.199
+export,2019-2025,7215,"Bars and rods, of iron or non-alloy steel, cold-formed or cold-finishe",51.725,33.932,-17.793,1.1,6356.387,4681.188,-1675.199
+export,2019-2025,7202,Ferro-alloys,24.804,9.561,-15.243,0.9,6356.387,4681.188,-1675.199
+export,2019-2025,7209,"Flat-rolled products of iron or non-alloy steel, of a width of >= 600 ",105.996,92.907,-13.089,0.8,6356.387,4681.188,-1675.199
+export,2019-2025,7222,"Other bars and rods of stainless steel; angles, shapes and sections of",69.545,60.841,-8.705,0.5,6356.387,4681.188,-1675.199
+export,2019-2025,7220,"Flat-rolled products of stainless steel, of a width of < 600 mm, hot-r",41.471,33.836,-7.635,0.5,6356.387,4681.188,-1675.199
+export,2019-2025,72XX,special code,6.470,0.058,-6.411,0.4,6356.387,4681.188,-1675.199
+export,2019-2025,7201,"Pig iron and spiegeleisen, in pigs, blocks or other primary forms",73.664,70.660,-3.004,0.2,6356.387,4681.188,-1675.199
+export,2019-2025,7206,Iron and non-alloy steel in ingots or other primary forms (excl. remel,4.355,3.398,-0.958,0.1,6356.387,4681.188,-1675.199
+export,2019-2025,7205,"Granules and powders of pig iron, spiegeleisen, iron or steel (excl. g",26.624,25.822,-0.803,0.0,6356.387,4681.188,-1675.199
+export,2019-2025,7221,"Bars and rods of stainless steel, hot-rolled, in irregularly wound coi",1.900,1.437,-0.463,0.0,6356.387,4681.188,-1675.199
+export,2019-2025,7229,"Wire of alloy steel other than stainless, in coils (excl. bars and rod",30.750,30.683,-0.067,0.0,6356.387,4681.188,-1675.199
+export,2019-2025,7203,Ferrous products obtained by direct reduction of iron ore and other sp,0.001,0.106,0.105,-0.0,6356.387,4681.188,-1675.199
+export,2019-2025,7218,Stainless steel in ingots or other primary forms (excl. remelting scra,2.945,3.148,0.204,-0.0,6356.387,4681.188,-1675.199
+export,2019-2025,7223,"Wire of stainless steel, in coils (excl. bars and rods)",8.097,10.352,2.256,-0.1,6356.387,4681.188,-1675.199
+export,2019-2025,7224,"Steel, alloy, other than stainless, in ingots or other primary forms, ",33.549,38.219,4.670,-0.3,6356.387,4681.188,-1675.199
+export,2019-2025,7227,"Bars and rods of alloy steel other than stainless, hot-rolled, in irre",62.971,93.744,30.773,-1.8,6356.387,4681.188,-1675.199

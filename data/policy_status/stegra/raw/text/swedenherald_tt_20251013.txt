@@ -1,0 +1,27 @@
+SOURCE_URL: https://swedenherald.com/article/stegra-secures-additional-funding-for-boden-steel-plant-construction
+RETRIEVED: 2026-10-22
+EXTRACTION: tag-stripped text of the saved HTML (article/main block); layout not reproduced
+og:title: Stegra Raises 10 Billion Kronor for Steel Plant Construction | Sweden Herald
+article:published_time: 2025-10-13T06:19:53.000Z
+article:modified_time: 2025-10-13T13:00:29.540Z
+og:description: The steel company Stegra is bringing in more capital for the construction of the factory in Boden, among other things to have the means for investments in 
+ld_datePublished: 2025-10-13T06:19:53.000Z
+----
+Photo: Pontus Lundahl/TT
+RedditXLinkedInFacebookEmail
+The steel company Stegra is bringing in more capital for the construction of the factory in Boden, among other things to have the means for investments in the harbor and railway. The production start is being postponed by about three months. And then it is precisely at the end of 2026, at the beginning of 2027, says CEO Henrik Henriksson.
+According to the Stegra CEO, the new funds amount to 15 percent, or around ten billion kronor, of the total cost, which currently stands at around 6.5 billion euro, approximately 70 billion kronor. The new financing consists of a mix of new equity from the larger owners and more loans. Henrik Henriksson hopes that this will be settled over the next two months.
+We have completed 60 percent of the entire project to date and we are completing approximately 1 percent per week. Now we can look ahead to the project and see what cost level we will have, but also what risks and opportunities we have, he says.
+However, according to sources for the Financial Times, the situation is reportedly much more serious. At a board meeting last week, the issue of insolvency was on the agenda, meaning that the company is said to have had difficulty paying its debts. Major shareholder and chairman Harald Mix writes in a response to Dagens industri that the steel company's situation is strong, and that his company Kallskär is investing new funds.
+Increased costs
+Stegra, whose business idea is to manufacture more or less fossil-free steel, has been affected by increased costs, including general inflation, higher costs for electrical installations, but also as a result of the company now owning infrastructure such as railways and the part of the port in Luleå that is necessary. Additionally, the company was denied a government investment via Industrikivet.
+Production start is now set for around the turn of the year 2026/2027.
+And then it will probably take up to 12-18 months before we have certified all products and we can run the entire plant at full capacity, says Henrik Henriksson.
+Questioned supplier
+The great need for electricity is secured, according to Henriksson. The iron ore, which will be used for steel production, is purchased from Canada, and the questioned Brazilian mining company Vale, which is blacklisted by several major investors, such as the Norwegian oil fund.
+They have a history that many mining companies have, regardless of where in the world you come from. Our assessment regarding Vale is that they have done a very solid job regarding their sustainability position and they have very high ambitions and goals as well, says Henriksson about the criticism.
+The idea is that Stegra will eventually have more Swedish iron ore. Previously, LKAB said no, but trial deliveries will begin next autumn.
+Loading related articles...
+TagsLuleåLKABFinancial Times
+AuthorT
+By TT News Agency. English edition by Sweden Herald, adapted for our readers

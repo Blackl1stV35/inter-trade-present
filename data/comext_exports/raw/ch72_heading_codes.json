@@ -1,0 +1,42 @@
+{
+"source": "CXT_NC v11.0 codelist (https://ec.europa.eu/eurostat/api/comext/dissemination/sdmx/2.1/codelist/ESTAT/CXT_NC/latest), 4-character codes starting 72",
+"headings": {
+"7201": "Pig iron and spiegeleisen, in pigs, blocks or other primary forms",
+"7202": "Ferro-alloys",
+"7203": "Ferrous products obtained by direct reduction of iron ore and other spongy ferrous products, in lumps, pellets or similar forms; iron having a minimum purity by weight of 99,94%, in lumps, pellets or similar forms",
+"7204": "Ferrous waste and scrap; remelting scrap ingots of iron or steel (excl. slag, scale and other waste from the production of iron or steel; radioactive waste and scrap; fragments of pigs, blocks or other primary forms of pig iron or spiegeleisen)",
+"7205": "Granules and powders of pig iron, spiegeleisen, iron or steel (excl. granules and powders of ferro-alloys, turnings and filings of iron or steel, radioactive iron powders \"isotopes\" and certain low-calibre, substandard balls for ballbearings)",
+"7206": "Iron and non-alloy steel in ingots or other primary forms (excl. remelting scrap ingots, products obtained by continuous casting and iron of heading 7203)",
+"7207": "Semi-finished products of iron or non-alloy steel",
+"7208": "Flat-rolled products of iron or non-alloy steel, of a width >= 600 mm, hot-rolled, not clad, plated or coated",
+"7209": "Flat-rolled products of iron or non-alloy steel, of a width of >= 600 mm, cold-rolled \"cold-reduced\", not clad, plated or coated",
+"7210": "Flat-rolled products of iron or non-alloy steel, of a width >= 600 mm, hot-rolled or cold-rolled \"cold-reduced\", clad, plated or coated",
+"7211": "Flat-rolled products of iron or non-alloy steel, of a width of &lt; 600 mm, hot-rolled or cold-rolled \"cold-reduced\", not clad, plated or coated",
+"7212": "Flat-rolled products of iron or non-alloy steel, of a width of &lt; 600 mm, hot-rolled or cold-rolled \"cold-reduced\", clad, plated or coated",
+"7213": "Bars and rods of iron or non-alloy steel, hot-rolled, in irregularly wound coils",
+"7214": "Bars and rods, of iron or non-alloy steel, not further worked than forged, hot-rolled, hot-drawn or hot-extruded, but incl. those twisted after rolling (excl. in irregularly wound coils)",
+"7215": "Bars and rods, of iron or non-alloy steel, cold-formed or cold-finished, whether or not further worked, or hot-formed and further worked, n.e.s.",
+"7216": "Angles, shapes and sections of iron or non-alloy steel, n.e.s.",
+"7217": "Wire of iron or non-alloy steel, in coils (excl. bars and rods)",
+"7218": "Stainless steel in ingots or other primary forms (excl. remelting scrap ingots and products obtained by continuous casting); semi-finished products of stainless steel",
+"7219": "Flat-rolled products of stainless steel, of a width of >= 600 mm, hot-rolled or cold-rolled \"cold-reduced\"",
+"7220": "Flat-rolled products of stainless steel, of a width of &lt; 600 mm, hot-rolled or cold-rolled \"cold-reduced\"",
+"7221": "Bars and rods of stainless steel, hot-rolled, in irregularly wound coils",
+"7222": "Other bars and rods of stainless steel; angles, shapes and sections of stainless steel, n.e.s.",
+"7223": "Wire of stainless steel, in coils (excl. bars and rods)",
+"7224": "Steel, alloy, other than stainless, in ingots or other primary forms, semi-finished products of alloy steel other than stainless (excl. waste and scrap in ingot form, and products obtained by continuous casting)",
+"7225": "Flat-rolled products of alloy steel other than stainless, of a width of >= 600 mm, hot-rolled or cold-rolled \"cold-reduced\"",
+"7226": "Flat-rolled products of alloy steel other than stainless, of a width of &lt; 600 mm, hot-rolled or cold-rolled \"cold-reduced\"",
+"7227": "Bars and rods of alloy steel other than stainless, hot-rolled, in irregularly wound coils",
+"7228": "Other bars and rods of alloy steel other than stainless, angles, shapes and sections of alloy steel other than stainless, n.e.s.; hollow drill bars and rods, of alloy or non-alloy steel",
+"7229": "Wire of alloy steel other than stainless, in coils (excl. bars and rods)"
+},
+"non_numeric_4char_72_codes": [
+"72CC",
+"72II",
+"72MM",
+"72SS",
+"72VV",
+"72XX"
+]
+}

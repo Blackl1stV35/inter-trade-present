@@ -1,0 +1,27 @@
+SECONDARY SOURCES LOG (retrieved 2026-10-22)
+These pages were read through WebFetch / WebSearch, which return a model-written summary of the page, not the page itself. Treat every line below as UNVERIFIED context. Each item is also listed in ../source_log.csv with the prefix S. Nothing here is used as the only support for a number that should go on a slide.
+
+S1  Mayer Brown, "EU's CBAM Downstream Extension and Anti-Circumvention Amendments: the Road to Trilogue", dated 7 Oct 2026
+    https://www.mayerbrown.com/en/insights/publications/2026/10/eus-cbam-downstream-extension-and-anti-circumvention-amendments-the-road-to-trilogue
+    Statements as returned by the tool:
+    - Commission proposal 17 Dec 2025, CELEX 52025PC0989, about 180 downstream product types.
+    - Council general approach 12 Jun 2026 (ST-10423-2026), about 200 product types; Council narrowed "abusive practices" to operators, importers or authorised CBAM declarants.
+    - Parliament plenary 15 Sep 2026 (TA-10-2026-0276); "457" downstream product types in the text but "about 453" in a comparison table (internally inconsistent); single mass-based threshold for aluminium products lowered from 50 t to 5 t net mass.
+    - Technical meetings began 28 Sep 2026; first political trilogue scheduled 20 Oct 2026 (Strasbourg); second and final trilogue provisionally 30 Nov 2026; aim: political agreement before end 2026.
+    - Article 27a: Commission proposal = temporary removal of goods; Council = temporary exemption triggered by a sustained price rise above 50% over at least six months; Parliament deletes it and redirects CBAM revenue instead.
+    Checks: the 15 Sep vote date and file number agree with OEIL (primary). Vote counts are not in this article. A web-search summary of other sources quoted '264' votes in favour; OEIL says 464, so the '264' is a typo in that other source.
+
+S2  cbamguide.com, "Downstream expansion" page, last updated 13 Oct 2026 (status as of 12 Oct)
+    https://cbamguide.com/learn/downstream-expansion/
+    - No trilogue agreement announced as of 12 Oct 2026; first formal trilogue 20 Oct reported from the law-firm note, "no institution has confirmed it".
+    - 464 / 50 / 159 on 15 Sep 2026 (matches OEIL).
+    - Council: general approach states no total; the site counts the Commission table plus 202 added eight-digit CN codes minus three medical-device entries ("just over 300" entries/codes).
+    - 1 Jan 2028 is the target date in all three positions.
+
+S3  cbamguide.com, news item 12 Oct 2026 "EU ministers debate the ETS review ..."
+    https://cbamguide.com/news/2026-10-12-environment-council-ets-review-cbam-phase-in-carbon-price/
+    - 12 Oct 2026 Environment Council: policy debate, no vote, nothing decided, law unchanged.
+    - Proposed CBAM factor table identical to COM(2026) 616 text (checked against the primary text: see ../cbam_factor_schedule.csv).
+    - "Q4 at EUR 84.76" is the site's own running average of EEX auctions 1-12 Oct 2026; NOT an official CBAM price (official Q4 price due 4 Jan 2027).
+
+Other search hits consulted but not relied on: decarbonpro.com (22 Sep 2026: Parliament position covers 457 products; 1 Jan 2028 'earliest plausible date'), eurometal.net / gmk.center / steelorbis.com trade-press items on the steel measure and Q3 CBAM price, HSF Kramer / A&O Shearman / Clear Blue Markets / Sylvera notes on the ETS review (all consistent with the primary COM(2026) 616 text for the 2038 CBAM-sector extension and the 15% reintroduction).

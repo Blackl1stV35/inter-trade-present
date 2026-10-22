@@ -1,0 +1,170 @@
+{
+ "status": "resolved",
+ "summary": "All four tasks were answered from primary documents opened on 2026-10-22. (1) Downstream CBAM extension is still a proposal. The Commission proposed it on 17 Dec 2025 (180 downstream products, start 1 Jan 2028). The Council reached its general approach on 12 Jun 2026 (it also keeps 1 Jan 2028). Parliament adopted its position on 15 Sep 2026 (464-50-159) and sent the file back to committee for negotiations. The official record shows nothing after 15 Sep. The trilogue dates (first political trilogue 20 Oct, next provisionally 30 Nov, aim of agreement by end-2026) come only from a 7 Oct law-firm note, and I found no report of what happened on 20 Oct. (2) The U7 ambiguity is resolved: Regulation (EU) 2026/1384 sets a duty-free quota of 18,345,922 t a year (18.3 Mt) and an out-of-quota duty of 50% ad valorem (the safeguard's was 25%). The quota is about 47% below the 2024 safeguard quotas (Commission comparison). Council adoption was 8 Jun 2026, signature 17 Jun, Official Journal 24 Jun, and it applies from 1 Jul 2026. So 18.3 Mt and 50% describe the NEW regime, not the 2024 base. (3) All CBAM items are confirmed in the Official Journal text of Regulation (EU) 2025/2083 and the Commission Q&A of 15 Oct 2026, with no change since 11 Oct: 1 Jan 2026 start, 50 t threshold, certificate sales from 1 Feb 2027, first declaration and surrender by 30 Sep 2027. The Commission notice of 30 Sep 2026 confirms that the threshold would exempt 0.87% of embedded emissions (1 Apr 2025 - 31 Mar 2026), below the 1% limit. (4) The main new legal item is the Commission's ETS-review proposal of 17 Jul 2026 (COM(2026) 616). It would stretch the CBAM-sector free-allocation phase-out from 2034 to 2038, with a CBAM factor of 15% in 2034-2037. It is a proposal only. Ministers debated it on 12 Oct without a decision, and the Irish Presidency targets a general approach in December. The workbook does not mention it, and it affects S4 and S13. The melt-and-pour evidence rule for steel imports also started on 1 Oct 2026. The Council press pages, EUR-Lex HTML and the European Parliament document server returned 403 or a bot-challenge page. I did not bypass these. I took the dates from the Legislative Observatory, the Official Journal via the Publications Office, and Council PDFs instead.",
+ "key_facts": [
+  {
+   "label": "Steel measure: total annual duty-free quota (Regulation (EU) 2026/1384)",
+   "value": "18,345,922 tonnes per quota year (1 Jul - 30 Jun), 18.3 Mt rounded; 30 product categories; basis = 2013 import share (~13%) x 2024 EU consumption, excl. Russia/Belarus",
+   "as_of": "2026-06-24",
+   "source_url": "https://publications.europa.eu/resource/celex/32026R1384",
+   "confidence": "high"
+  },
+  {
+   "label": "Steel measure: out-of-quota duty",
+   "value": "50% ad valorem, in addition to other duties; the safeguard (Implementing Reg. 2019/159) had 25%",
+   "as_of": "2026-06-24",
+   "source_url": "https://publications.europa.eu/resource/celex/32026R1384",
+   "confidence": "high"
+  },
+  {
+   "label": "Steel measure: comparison base for the 47%",
+   "value": "About 47% below 2024 safeguard quota volumes ('2024 steel quotas' / '2024 reference system'); Commission comparison, not written in the regulation; 2024 total not stated in any source opened (implied about 34.6 Mt is arithmetic only)",
+   "as_of": "2026-06-30",
+   "source_url": "https://trade.ec.europa.eu/access-to-markets/en/news/new-eu-safeguards-steel-imports-third-countries",
+   "confidence": "high"
+  },
+  {
+   "label": "Steel measure: adoption and application dates",
+   "value": "Parliament position 19 May 2026; Council adoption 8 Jun 2026; signed 17 Jun 2026; OJ 24 Jun 2026; applies 1 Jul 2026; melt-and-pour evidence (Art 4(1)) from 1 Oct 2026; product-scope review due 30 Jun 2027",
+   "as_of": "2026-06-24",
+   "source_url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0726(COD)",
+   "confidence": "high"
+  },
+  {
+   "label": "Downstream CBAM: Commission proposal",
+   "value": "COM(2025) 989 of 17 Dec 2025 (file 2025/0419(COD)); 180 downstream steel/aluminium-intensive products (avg 79% metal content, 94% industrial); application 1 Jan 2028",
+   "as_of": "2025-12-17",
+   "source_url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_25_3088/IP_25_3088_EN.pdf",
+   "confidence": "high"
+  },
+  {
+   "label": "Downstream CBAM: Council general approach",
+   "value": "Reached at ECOFIN on 12 Jun 2026 (doc 10423/26); keeps 1 Jan 2028 start; adds CN codes to the Commission list; annual review of further downstream products from 2028",
+   "as_of": "2026-06-12",
+   "source_url": "https://data.consilium.europa.eu/doc/document/ST-10423-2026-INIT/en/pdf",
+   "confidence": "high"
+  },
+  {
+   "label": "Downstream CBAM: European Parliament position",
+   "value": "Plenary 15 Sep 2026: 464 for, 50 against, 159 abstentions; referred back to ENVI for interinstitutional negotiations; OEIL shows no later event as of 22 Oct 2026",
+   "as_of": "2026-09-15",
+   "source_url": "https://oeil.europarl.europa.eu/oeil/en/document-summary?id=1914940",
+   "confidence": "high"
+  },
+  {
+   "label": "Downstream CBAM: trilogue schedule",
+   "value": "Technical trilogues from 28 Sep; first political trilogue scheduled 20 Oct 2026 (outcome not found); second provisionally 30 Nov 2026; aim: agreement before end 2026. Not law.",
+   "as_of": "2026-10-07",
+   "source_url": "https://www.mayerbrown.com/en/insights/publications/2026/10/eus-cbam-downstream-extension-and-anti-circumvention-amendments-the-road-to-trilogue",
+   "confidence": "medium"
+  },
+  {
+   "label": "CBAM definitive regime start",
+   "value": "1 January 2026 (transitional phase Oct 2023 - Dec 2025); unchanged in Commission Q&A updated 15 Oct 2026",
+   "as_of": "2026-10-15",
+   "source_url": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en",
+   "confidence": "high"
+  },
+  {
+   "label": "CBAM 50-tonne single mass-based threshold",
+   "value": "50 t net mass per importer per calendar year, aggregated across all CN codes of iron and steel, aluminium, fertilisers, cement; above it, all imports of that year are in scope; electricity and hydrogen excluded from the exemption (Reg 2025/2083, Art 2a, Annex VII)",
+   "as_of": "2025-10-17",
+   "source_url": "https://publications.europa.eu/resource/celex/32025R2083",
+   "confidence": "high"
+  },
+  {
+   "label": "CBAM certificate sales start and first declaration",
+   "value": "Certificate sales on the common central platform from 1 Feb 2027 (Art 20(1)); first declaration and surrender by 30 Sep 2027 for 2026 imports (Art 6(1), Art 22(1))",
+   "as_of": "2026-10-15",
+   "source_url": "https://publications.europa.eu/resource/celex/32025R2083",
+   "confidence": "high"
+  },
+  {
+   "label": "Commission threshold assessment",
+   "value": "Notice of 30 Sep 2026: for imports 1 Apr 2025 - 31 Mar 2026 the 50 t threshold would exempt 0.87% of embedded emissions, below the 1% limit; legal text sets 30 April as the assessment date; delegated act only if methodology value deviates by more than 15 t (notice silent)",
+   "as_of": "2026-09-30",
+   "source_url": "https://taxation-customs.ec.europa.eu/news/cbam-de-minimis-threshold-assessment-2026-09-30_en",
+   "confidence": "high"
+  },
+  {
+   "label": "ETS review: CBAM factor proposal (not law)",
+   "value": "COM(2026) 616 of 17 Jul 2026: CBAM factor 97.5, 95, 91.5, 81, 59, 48, 37.5, 27 (2026-2033), 15% for 2034-2037, 0% from 2038. Current law (Directive 2023/959): 97.5, 95, 90, 77.5, 51.5, 39, 26.5, 14, then none from 2034 (workbook table matches current law)",
+   "as_of": "2026-07-17",
+   "source_url": "https://publications.europa.eu/resource/cellar/757bd24a-8413-11f1-bf5e-01aa75ed71a1.0001.03/DOC_1",
+   "confidence": "high"
+  },
+  {
+   "label": "ETS review: status since 11 Oct",
+   "value": "Environment Council policy debate 12 Oct 2026, no vote or decision; Irish Presidency aims for general approach at December Environment Council; leaders target completion Q1 2027; EP indicative first-reading plenary 14 Dec 2026 (OEIL forecast)",
+   "as_of": "2026-10-12",
+   "source_url": "https://data.consilium.europa.eu/doc/document/ST-13435-2026-INIT/en/pdf",
+   "confidence": "medium"
+  },
+  {
+   "label": "CBAM certificate prices published (cross-check)",
+   "value": "Q1 2026 EUR 75.36 (7 Apr); Q2 EUR 75.28 (6 Jul); Q3 EUR 82.32 (5 Oct); Q4 due 4 Jan 2027; a website's Q4 estimate (EUR 84.76) is not official",
+   "as_of": "2026-10-05",
+   "source_url": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/price-cbam-certificates_en",
+   "confidence": "high"
+  }
+ ],
+ "files_written": [
+  "D:/Workspace/inter-trade-present/data/policy_status/policy/README.md",
+  "D:/Workspace/inter-trade-present/data/policy_status/policy/policy_status_items.csv",
+  "D:/Workspace/inter-trade-present/data/policy_status/policy/steel_measure_parameters.csv",
+  "D:/Workspace/inter-trade-present/data/policy_status/policy/cbam_factor_schedule.csv",
+  "D:/Workspace/inter-trade-present/data/policy_status/policy/downstream_cbam_timeline.csv",
+  "D:/Workspace/inter-trade-present/data/policy_status/policy/legal_changes_jul_oct_2026.csv",
+  "D:/Workspace/inter-trade-present/data/policy_status/policy/source_log.csv",
+  "D:/Workspace/inter-trade-present/data/policy_status/policy/raw/ (saved pages, document texts and excerpts, secondary_sources_log.txt, sha256_of_downloaded_originals.txt)"
+ ],
+ "discrepancies_vs_workbook": [
+  "U7 wording ('relative to 2024 safeguard quotas: 18.3 million tonnes annually and a 50% out-of-quota duty') reads as if 18.3 Mt and 50% describe the 2024 base. They are the NEW regime: new total quota 18,345,922 t and new out-of-quota duty 50% (old duty 25%). The 47% is the cut in quota volume against the 2024 safeguard quotas. RESOLVED.",
+  "Workbook gives the Council adoption date (8 Jun 2026) correctly, but the act is formally Regulation (EU) 2026/1384 'of 17 June 2026', published in the OJ on 24 Jun 2026. Add the number and the signature/OJ dates. One Commission web page labels it '2026/1284', which is a typo.",
+  "The workbook (S9 and the 2026-2034 phase-in framing) does not mention the Commission's ETS-review proposal of 17 Jul 2026 (COM(2026) 616) that would extend the CBAM-sector phase-out to 2038 (15% factor in 2034-2037). The workbook table is correct for current law (checked against Directive (EU) 2023/959), but '2034' is no longer uncontested. Council debated it on 12 Oct 2026, with no decision.",
+  "Workbook's downstream status (Parliament amendments of 15 Sep 2026 referred to negotiation; proposed 2028 start) is correct. It omits the Council general approach of 12 Jun 2026 and the vote (464-50-159). Parliament amendments are described as 'referred for interinstitutional negotiations': OEIL calls the file 'Awaiting Parliament's position in 1st reading' after the partial vote. Do not call it adopted.",
+  "The 0.87% threshold assessment is confirmed, but the workbook wording 'exempts' should be 'would exempt'. It describes today's scope only (not downstream goods). The legal date for the assessment is 30 April (Art 2a(3)); the Commission published it on 30 Sep 2026. The notice does not say whether a delegated act to change the threshold will follow.",
+  "Product counts for the downstream file differ across sources (Council 'about 200' vs '200 added' vs 'just over 300'; Parliament 457 vs about 453). Only the Commission figure of 180 is verified from a primary document. UNRESOLVED; the workbook gives no counts, so nothing to correct, but none should be added.",
+  "One search summary printed '264' votes for the Parliament position; the Legislative Observatory and two other sources say 464. 464 is used."
+ ],
+ "outline_changes": [
+  {
+   "slide": "S4",
+   "change": "Lane 2 label: replace 'steel quota framework adopted 8 Jun 2026, applied 1 Jul 2026, 47% below 2024 safeguard quotas' with 'Separate steel trade measure (not CBAM), Reg (EU) 2026/1384: Council adoption 8 Jun 2026, applies 1 Jul 2026; duty-free quota 18.3 Mt a year, about 47% below 2024 safeguard quotas; out-of-quota duty 50% (was 25%)'. Optional tick at 1 Oct 2026 (melt-and-pour evidence starts). Lane 1: keep 1 Jan 2026, 1 Feb 2027 and 30 Sep 2027 unchanged (re-verified 22 Oct, no change since 11 Oct). On the CBAM-factor step chart write '97.5 -> 0% by 2034 (current law)' and add a dashed ghost line or footnote 'Commission proposal 17 Jul 2026, not law: 15% in 2034-37, 0% from 2038; Council debate 12 Oct, no decision'. Add tags: OJ 2026/1384, COM(2026) 616, Directive 2023/959. Do not add a downstream-extension marker as an event; if shown, draw it dashed as 'proposed 1 Jan 2028'."
+  },
+  {
+   "slide": "S13 (CHANGE item 3)",
+   "change": "Replace '(3) monitor downstream users before any extension - still a proposal, Parliament amendments of 15 Sep 2026 referred to negotiation' with '(3) Monitor downstream users before any extension. Proposal only: Commission 17 Dec 2025 (about 180 downstream products, from 1 Jan 2028); Council general approach 12 Jun 2026; Parliament position 15 Sep 2026 (464-50-159); negotiations under way, agreement targeted by end-2026, not law.' Do not print Council or Parliament product totals and do not report any outcome of the 20 Oct trilogue (none found; 30 Nov is after the 16-18 Nov slots). Keep tags U32, S24 and add Council doc 10423/26 and OEIL 2025/0419(COD). Refresh again about 14 Nov."
+  },
+  {
+   "slide": "S13 (KEEP threshold line)",
+   "change": "Keep the line, but reword to 'the 50-tonne threshold would exempt 0.87% of embedded emissions (Commission assessment of 30 Sep 2026, imports Apr 2025 - Mar 2026; limit 1%), so coverage is preserved under today's scope'. Keep tag S23. Do not say the threshold is settled for good: the notice is silent on a delegated act, and the assessment will be repeated with downstream goods if the extension passes. Also edit KEEP bullet 1: 'legislated phase-in to 2034' becomes 'phase-in to 2034 under current law (a 17 Jul 2026 Commission proposal would stretch it to 2038; undecided)', and soften 'predictable' accordingly."
+  },
+  {
+   "slide": "A4",
+   "change": "Add a threshold box with the exact rule: 50 t net mass per importer per calendar year, summed across all CN codes of iron and steel, aluminium, fertilisers and cement; above 50 t every import of that year is in scope; electricity and hydrogen get no exemption. Add: authorised declarant buys certificates from the national authority of the Member State of establishment on the central platform from 1 Feb 2027; first declaration and surrender 30 Sep 2027; from 2027 quarterly purchases of at least 50% of embedded emissions since 1 Jan. Add the 30 Sep 2026 Commission assessment (0.87%, below 1%; legally due 30 April; delegated act only if methodology value deviates by more than 15 t). Add a 'proposal only' line: Parliament reportedly wants 5 t for aluminium products (secondary source, mark unverified). Tags: OJ 2025/2083, Commission Q&A 15 Oct 2026, Commission notice 30 Sep 2026."
+  },
+  {
+   "slide": "A5",
+   "change": "Replace the U7 sentence with: 'Reg (EU) 2026/1384: duty-free quota 18,345,922 t a year (18.3 Mt) over 30 product categories; out-of-quota duty 50% ad valorem (safeguard 25%); about 47% below the 2024 safeguard quotas (Commission comparison; old total not stated in sources). Council adoption 8 Jun 2026, signed 17 Jun, OJ 24 Jun, applies 1 Jul 2026; melt-and-pour evidence from 1 Oct 2026; Iceland, Liechtenstein and Norway excluded; scope review due 30 Jun 2027. Not part of CBAM.' Keep the answer 'Is the 47% cut part of CBAM? No.' Remove 'ambiguous wording / source tag U7' from the unreconciled list in the outline; replace U6/U7/U8 with OJ 2026/1384 and Commission IP/25/2293. Sanctions and dumping lines unchanged."
+  },
+  {
+   "slide": "S3, S11, A3 (knock-on)",
+   "change": "S3 footer and S11 footer 'free-allocation changes': name the 17 Jul 2026 ETS-review proposal as the live item ('proposal, not law'). A3: add a column 'Commission proposal 17 Jul 2026 (not law)' to the phase-in table using cbam_factor_schedule.csv (91.5, 81, 59, 48, 37.5, 27, 15, 15 for 2028-2034 and 15 for 2035-37, 0 from 2038) and note the workbook column equals current law. A15 source list: add OJ 2026/1384, OJ 2025/2083, Directive 2023/959, COM(2025) 989, COM(2026) 616, Council 10423/26 and 13435/26, OEIL 2025/0419(COD), 2025/0726(COD), 2026/0212(COD)."
+  },
+  {
+   "slide": "Open items list (outline item 7)",
+   "change": "Mark 'steel quota text' and 'CBAM and ETS status' as refreshed on 2026-10-22 and 'downstream-extension status' as refreshed with the caveats above. Add re-check items for about 14 Nov: outcome of the 20 Oct trilogue, any December Council position on the ETS review, and the Q4 CBAM price (due 4 Jan 2027, so not available before the talk)."
+  }
+ ],
+ "caveats": [
+  "Council press releases (8 Jun and 12 Oct 2026), EUR-Lex HTML pages and the European Parliament document server returned HTTP 403 or a bot-challenge page. They were not bypassed. The 8 Jun Council adoption date comes from the Legislative Observatory; the Parliament adopted text T10-0276/2026 was not read.",
+  "The trilogue schedule (20 Oct, 30 Nov) and the 'aim for agreement by end-2026' come from one law-firm note dated 7 Oct 2026 and a consultancy page; no report of the 20 Oct meeting was found as of 22 Oct. The official record (OEIL) shows nothing after 15 Sep.",
+  "Council and Parliament product totals for the downstream file are unresolved (sources disagree). Parliament's 5-tonne aluminium threshold and a 1 Jan 2028 start in the Parliament text are secondary only.",
+  "The outcome of the 12 Oct Environment Council ('policy debate, no decision') is described from the Council Presidency paper (purpose) and one secondary summary of the blocked Council page; medium confidence.",
+  "The 2024 safeguard quota total is not stated in any source opened. The implied value of about 34.6 Mt is arithmetic from the rounded 47% and must not be quoted as a sourced figure.",
+  "The WebFetch/WebSearch tools return model-written summaries; these were used only for discovery and are logged in raw/secondary_sources_log.txt. Every number in the tables was checked against a primary page or document saved in raw/, except where marked secondary.",
+  "Large PDFs and texts were moved out of the data folder to keep it small; raw/excerpt_*.txt hold the passages relied on and raw/sha256_of_downloaded_originals.txt holds the hashes for re-download comparison.",
+  "The sibling folder data/policy_status/cbam_price belongs to another run and was not touched; the quarterly prices here are only a cross-check against the Commission page."
+ ]
+}

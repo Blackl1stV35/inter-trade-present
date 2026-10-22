@@ -1,0 +1,179 @@
+{
+ "status": "resolved",
+ "summary": "Outcome series found and saved in D:/Workspace/inter-trade-present/data/steel_route/. (1) Route: Germany crude steel by oxygen/electric route 1999-2025 (kt, shares) from worldsteel yearbooks 2009/2018/2019-20, World Steel in Figures 2021 and WV Stahl revision tables 2021-2025; electric-arc share is flat: 29.2% (1999), 30.5% (2025, WV Stahl revision; 30.6% worldsteel), range 27.7% (2023) to 34.7% (2009); 2020 kt missing (only 35.7 Mt and 32.3% published). (2) ETS: DEHSt/UBA verified emissions of 'Eisen und Stahl' for every year 2005-2025, in three installation scopes that must not be compared across breaks (A 2005-07, B 2008-12, C 2013-25); scope C: 35.65 Mt (2013) -> 37.9 (2018) -> 35.6 (2019) -> 30.0 (2025). (3) Derived CO2 per tonne of crude steel (scope C): 0.84 (2013) -> 0.88 (2025), range 0.84-0.92, no fall; independent WV Stahl specific CO2 (incl. purchased power): 1.59 (1990), 1.37 (2019), 1.39 (2025). Absolute ETS emissions fell 15.7% 2019-2025 only because crude steel fell 13.5%. Route level (DEHSt, direct): blast-furnace route about 1.05-1.08 t CO2e per t oxygen steel vs electric-arc about 0.09. Free allocation context 2019-2024 and EU27 comparison (electric share 45.8%) included. Live DEHSt server and the EEA ETS datastore were down on 2026-10-22, so DEHSt reports came from Internet Archive copies of the official PDFs and the EEA installation-level file was not used. All numbers were asserted against the cited page text.",
+ "key_facts": [
+  {
+   "label": "Germany electric-arc share of crude steel, 2025",
+   "value": "30.5% (10,453 of 34,267 kt; WV Stahl revision Aug 2026); worldsteel and WV Stahl preliminary release show 30.6% / 30.64%; oxygen route 23,814 kt",
+   "as_of": "2026-08-10",
+   "source_url": "https://www.wvstahl.de/wp-content/uploads/20260810_Rohstahlerzeugung_Deutschland_Revision_2025.pdf",
+   "confidence": "high"
+  },
+  {
+   "label": "Germany electric-arc share of crude steel, 1999",
+   "value": "29.2% (12,267 kt electric of 42,062 kt; oxygen 29,795 kt); 2000: 28.7%; 2005: 30.7%; 2008: 31.9%",
+   "as_of": "2009",
+   "source_url": "https://worldsteel.org/wp-content/uploads/Steel-Statistical-Yearbook-2009.pdf",
+   "confidence": "high"
+  },
+  {
+   "label": "Range of German electric-arc share 1999-2025",
+   "value": "27.7% (2023) to 34.7% (2009, recession cut of blast-furnace output); 2010-2025 values 27.7-32.3%; no trend; 2017: 30.0%, 2024: 29.0-29.1%",
+   "as_of": "2026-10-22",
+   "source_url": "https://worldsteel.org/wp-content/uploads/Steel-Statistical-Yearbook-2018.pdf",
+   "confidence": "high"
+  },
+  {
+   "label": "EU27 vs Germany route mix 2025",
+   "value": "EU27 oxygen 54.2% / electric 45.8% (126.0 Mt); Germany 69.4% / 30.6% (34.1 Mt); Italy 90.1% electric, Spain 71.7%, France 36.4%",
+   "as_of": "2026-08-31",
+   "source_url": "https://worldsteel.org/wp-content/uploads/World-Steel-in-Figures-2026.pdf",
+   "confidence": "high"
+  },
+  {
+   "label": "ETS-verified emissions, German iron and steel installations, 2025",
+   "value": "30.0 Mt CO2e, 115 installations (0.1 Mt precision); 2024: 33.1; 2023: 32.5; 2022: 33.2; 2021: 35.4; 2020: 31.5",
+   "as_of": "2026-09-24",
+   "source_url": "https://www.umweltbundesamt.de/system/files/medien/384/bilder/dateien/6_Tab_Emi-Anlagen-nach-Branchen_2026-09-24.pdf",
+   "confidence": "high"
+  },
+  {
+   "label": "ETS-verified emissions 2024 (kt) and free allocation",
+   "value": "33,149.87 kt; free allocation 46,003 k EUA = 138.8% of emissions nominal, 94.2% adjusted for forwarded process gases (2023 adjusted 96.2%)",
+   "as_of": "2025-05-02",
+   "source_url": "https://www.dehst.de/SharedDocs/downloads/DE/publikationen/VET-Bericht-2024.pdf?__blob=publicationFile&v=5",
+   "confidence": "high"
+  },
+  {
+   "label": "ETS-verified emissions 2013 and 2018-2019 (scope C)",
+   "value": "2013: 35,650 kt (first published 35,741); 2018: 37,921 kt; 2019: 35,577 kt",
+   "as_of": "2020-05-04",
+   "source_url": "https://www.dehst.de/SharedDocs/downloads/DE/publikationen/VET-Bericht-2019.pdf?__blob=publicationFile&v=4",
+   "confidence": "high"
+  },
+  {
+   "label": "ETS-verified emissions 2005-2012 (different scopes A and B)",
+   "value": "2005: 30.64 Mt; 2006: 32.16; 2007: 33.06; 2008: 33.82; 2009: 25.29; 2010: 31.79; 2011: 32.10; 2012: 31.29 Mt; not comparable with 2013+ (scope widened by about 80 plants in 2013)",
+   "as_of": "2014-05-02",
+   "source_url": "https://www.dehst.de/SharedDocs/downloads/DE/publikationen/VET-Bericht-2006.pdf?__blob=publicationFile&v=6",
+   "confidence": "medium"
+  },
+  {
+   "label": "DEHSt consistent-scope statements on iron and steel emissions vs 2005",
+   "value": "about +2% in 2017 vs 2005 (VET 2017 p.31); -9% in 2019 vs 2005 (VET 2019 p.46); DEHSt 2015: no clear trend to lower emission intensity derivable (VET 2014 p.28)",
+   "as_of": "2020-05-04",
+   "source_url": "https://www.dehst.de/SharedDocs/downloads/DE/publikationen/VET-Bericht-2019.pdf?__blob=publicationFile&v=4",
+   "confidence": "high"
+  },
+  {
+   "label": "Derived ETS CO2e per tonne of crude steel (scope C)",
+   "value": "0.836 (2013), 0.870 (2015), 0.894 (2018), 0.898 (2019), 0.882 (2020), 0.900 (2022), 0.918 (2023), 0.888 (2024), 0.876 (2025): +4.7% 2013-2025, -2.5% 2019-2025, no sustained fall",
+   "as_of": "2026-10-22",
+   "source_url": "https://www.umweltbundesamt.de/system/files/medien/384/bilder/dateien/6_Tab_Emi-Anlagen-nach-Branchen_2026-09-24.pdf",
+   "confidence": "medium"
+  },
+  {
+   "label": "WV Stahl specific CO2 per tonne crude steel (incl. purchased power, excl. coke ovens)",
+   "value": "1.59 (1990); 1.37 (2019); 1.38 (2020); 1.40 (2021); 1.41 (2022); 1.43 (2023); 1.40 (2024); 1.39 (2025): -12.6% vs 1990, +1.5% vs 2019; hot-rolled 1.75 -> 1.47",
+   "as_of": "2026-10-08",
+   "source_url": "https://www.wvstahl.de/wp-content/uploads/20261008_WV-Stahl_Daten-und-Fakten-2026_RZ_Web.pdf",
+   "confidence": "high"
+  },
+  {
+   "label": "Direct ETS emissions per tonne by route (DEHSt route emissions / WV Stahl and worldsteel output)",
+   "value": "Blast-furnace route incl. coke ovens and sinter 1.05-1.08 t CO2e per t oxygen steel (2018-2022); electric-arc route 0.086-0.088 t per t electric steel (2019-2022, direct only, power not included)",
+   "as_of": "2023-05-02",
+   "source_url": "https://www.dehst.de/SharedDocs/downloads/DE/publikationen/VET-Bericht-2022.pdf?__blob=publicationFile&v=4",
+   "confidence": "medium"
+  },
+  {
+   "label": "Process-gas emissions outside the ETS iron-and-steel row",
+   "value": "Forwarded gases released at energy installations: 21.4 Mt (2013), 21.8 Mt (2014), 19.5 Mt (2019), 16.8 Mt (2020); WV Stahl 2026 brochure: steel 46 Mt of 144 Mt industry CO2 in 2025 vs 30.0 Mt in the ETS row",
+   "as_of": "2021-05-03",
+   "source_url": "https://www.dehst.de/SharedDocs/downloads/DE/publikationen/VET-Bericht-2020.pdf?__blob=publicationFile&v=4",
+   "confidence": "high"
+  },
+  {
+   "label": "Crude steel 2024 and 2025 revised vs workbook",
+   "value": "2024: 37,310 kt (revision Jul 2025) vs workbook 37.2 Mt; 2025: 34,267 kt (revision Aug 2026; preliminary 34,090 kt) vs workbook 34.1 Mt",
+   "as_of": "2026-08-10",
+   "source_url": "https://www.wvstahl.de/wp-content/uploads/20260810_Rohstahlerzeugung_Deutschland_Revision_2025.pdf",
+   "confidence": "high"
+  },
+  {
+   "label": "UBA statement on 2025 ETS industry emissions",
+   "value": "Industrial ETS installations -5.5% in 2025 to about 97 Mt; clear decreases in iron and steel, mainly production-driven; ramp-up of direct reduction not yet fast enough",
+   "as_of": "2026-07-07",
+   "source_url": "https://www.umweltbundesamt.de/presse/pressemitteilungen/europaeischer-emissionshandel-deutsche-emissionen",
+   "confidence": "high"
+  },
+  {
+   "label": "worldsteel global average intensities (2024 activity data)",
+   "value": "BF-BOF 2.66, DRI-EAF 1.66, scrap-EAF 0.71 tCO2e per t crude steel; global average 2.18 (CO2 only: 2.34 / 1.47 / 0.69 / 1.92); global averages, boundary not stated on the page",
+   "as_of": "2026-08-31",
+   "source_url": "https://worldsteel.org/wp-content/uploads/World-Steel-in-Figures-2026.pdf",
+   "confidence": "medium"
+  }
+ ],
+ "files_written": [
+  "D:/Workspace/inter-trade-present/data/steel_route/README.md",
+  "D:/Workspace/inter-trade-present/data/steel_route/crude_steel_by_route_germany_1999_2025.csv",
+  "D:/Workspace/inter-trade-present/data/steel_route/ets_emissions_german_iron_steel_2005_2025.csv",
+  "D:/Workspace/inter-trade-present/data/steel_route/ets_co2_per_tonne_crude_steel_derived_2005_2025.csv",
+  "D:/Workspace/inter-trade-present/data/steel_route/ets_route_emissions_and_per_tonne_2018_2022.csv",
+  "D:/Workspace/inter-trade-present/data/steel_route/process_gas_forwarded_to_energy_installations.csv",
+  "D:/Workspace/inter-trade-present/data/steel_route/wv_stahl_specific_co2_per_tonne.csv",
+  "D:/Workspace/inter-trade-present/data/steel_route/free_allocation_context_german_iron_steel_2019_2024.csv",
+  "D:/Workspace/inter-trade-present/data/steel_route/eu27_route_share_2025_context.csv",
+  "D:/Workspace/inter-trade-present/data/steel_route/dehst_uba_statements_paraphrased.csv",
+  "D:/Workspace/inter-trade-present/data/steel_route/chart_data_cleaner_steel_indicators.csv",
+  "D:/Workspace/inter-trade-present/data/steel_route/chart_proposal_cleaner_steel.png",
+  "D:/Workspace/inter-trade-present/data/steel_route/sources_manifest.csv",
+  "D:/Workspace/inter-trade-present/data/steel_route/scripts/build_tables.py",
+  "D:/Workspace/inter-trade-present/data/steel_route/scripts/make_chart.py",
+  "D:/Workspace/inter-trade-present/data/steel_route/raw/evidence/ (46 small PDFs of cited pages and 2 text extracts)",
+  "D:/Workspace/inter-trade-present/data/steel_route/raw/uba_6_tab_2026-09-24.pdf (+ .png, .txt)",
+  "D:/Workspace/inter-trade-present/data/steel_route/raw/uba_pm_17_2026_extract.txt",
+  "D:/Workspace/inter-trade-present/data/steel_route/raw/wvstahl/ (five WV Stahl annual route tables 2021-2025, press-release table text, WV Stahl Konjunktur page)"
+ ],
+ "discrepancies_vs_workbook": [
+  "Dataset A 2024: workbook 37.2 Mt (WV Stahl brochures / Destatis); WV Stahl crude-steel table, revision July 2025, gives 37,310 kt (37.3 Mt): +0.11 Mt (+0.3%). Both vintages are official; the brochure value is the earlier one.",
+  "Dataset A 2025: workbook 34.1 Mt (worldsteel; WV Stahl preliminary 34,090 kt; also printed in WV Stahl brochure of 2026-10-08); WV Stahl revision of August 2026 gives 34,267 kt (34.3 Mt): +0.18 Mt (+0.5%). Route split in the workbook, 69.4% oxygen / 30.6% electric, is confirmed on the Germany row of worldsteel World Steel in Figures 2026 p.10 (and 69.36/30.64 in the WV Stahl preliminary release); the revision table gives 69.5 / 30.5.",
+  "Dataset A 2017-2023 (43.3, 42.4, 39.6, 35.7, 40.2, 36.9, 35.4 Mt) agree with the worldsteel yearbook and WV Stahl revision tables after rounding (43,297; 42,435; 39,627; 35.7; 40,241; 36,861; 35,395 kt): no discrepancy.",
+  "Source citation: workbook S12 cites the WV Stahl brochure 2025 (printed p.9, chart 2011-2024). A newer edition (Daten und Fakten 2026, published 2026-10-08, printed p.9, chart 2012-2025 including 34.1 Mt in 2025) is available and should replace it for 2025.",
+  "Coincidence to keep apart: the workbook figure 69.4% is Germany's oxygen share (correct); the world-average BOF share in the same worldsteel publication is also 69.4% (WSIF 2026 PDF p.4, and 'total of above countries' on p.10).",
+  "Outline S12 'covered ETS emissions about 50% below 2005 in 2024 [U29]' is an EU aggregate (power-led). German iron and steel installations are not comparable that way: DEHSt consistent-scope text says about +2% in 2017 and -9% in 2019 vs 2005; scope-C emissions 2025 (30.0 Mt) are 16% below 2019 only because crude steel is 13.5% lower.",
+  "Outline S10 Q row and S8 tile stop at crude steel 2024 (37.2 Mt); data now exist for 2025 (34.1 Mt preliminary, 34.3 Mt revised)."
+ ],
+ "outline_changes": [
+  {
+   "slide": "S10 (Q row)",
+   "change": "Replace the 'What we can show' cell of row Q with: 'Crude steel 43.3 to 34.1 Mt (2017-25); electric-arc share flat near 30% [Dataset A; worldsteel; A8]'. Keep 'Theory expects' (imports and domestic output both ambiguous) and the Observed chip; add footer words 'production-side indicator, no effect claimed, see A8'. Reason: electric share 30.0% (2017) vs 30.6% (2025, worldsteel; 30.5% WV Stahl revision) is flat; 2025 crude steel 34.1 Mt is available (34.3 Mt revised Aug 2026, footnote only if asked)."
+  },
+  {
+   "slide": "S12 (NOT SHOWN list)",
+   "change": "Delete the bold item 'a measured outcome such as EAF or route share over time' from NOT SHOWN and replace by: 'cleaner steel per tonne: measured and not yet visible (electric-arc share 29.2% in 1999, 30.5-30.6% in 2025; ETS-reported CO2 per tonne of crude steel 0.84 in 2013, 0.88 in 2025; WV Stahl specific CO2 1.37 in 2019, 1.39 in 2025); no policy effect identifiable [A8]' with chip 'Observed, descriptive'. In CONSISTENT WITH, change the U29 qualifier to 'EU aggregate, power sector an important driver, not German steel (German iron-and-steel ETS emissions fell 16% 2019-25 while crude steel fell 14%)'. In CONDITIONAL ON add 'new low-carbon plants running (first output 2027 or later, S9)'. Verdict banner stays 'can strengthen, conditional'; the measured per-tonne outcome has not moved yet and the new plants have not started."
+  },
+  {
+   "slide": "S13 (monitor strip)",
+   "change": "Name the baseline for 'verified emissions per tonne': 2025 = 0.88 t CO2e per t crude steel (ETS-reported, 2013 scope, derived) and 1.39 t per t incl. purchased power (WV Stahl); RECONSIDER IF third bullet can now read 'no verified fall in emissions per tonne from the 2025 baseline'."
+  },
+  {
+   "slide": "A8",
+   "change": "Add a block 'Outcome check: has German steel become cleaner?' with chart_proposal_cleaner_steel.png (data: chart_data_cleaner_steel_indicators.csv). Panel 1: electric-arc share of crude steel, %, 1999-2025 (y-axis 0-60; label 2009 recession artefact; EU27 2025 = 45.8%, Italy 90.1%, Spain 71.7%). Panel 2: t CO2 per t crude steel 2013-2025: ETS-reported iron and steel installations / crude steel (0.84 to 0.92) and WV Stahl specific CO2 (1.37 to 1.43 for 2019-25), different boundaries, compare trends only. Text lines: route 69.5/30.5 in 2025; direct ETS CO2 about 1.05-1.08 t per t oxygen steel vs about 0.09 t per t electric steel (2019-22); worldsteel global averages 2024: BF-BOF 2.66, DRI-EAF 1.66, scrap-EAF 0.71 tCO2e per t. Honest caveat line: shows production-side indicators only; cannot show a policy effect, plant-level change, steel consumed in Germany (trade) or CBAM-covered embedded emissions; ETS row excludes 17-22 Mt of process-gas emissions released at power plants; scope breaks in 2008 and 2013; low output raises the ratio (utilisation under 70% in 2025)."
+  },
+  {
+   "slide": "Open items (outline text, item 4 and related)",
+   "change": "Rewrite item 4: 'Outcome variable: pulled on 2026-10-22 (data/steel_route). Electric-arc share 1999-2025, DEHSt/UBA ETS emissions of German iron and steel 2005-2025 (three scopes), derived CO2 per tonne 2013-25 and WV Stahl specific CO2 1990/2019-25 are in the repo; result: no fall per tonne yet, absolute fall follows output; chart goes to A8, S10 Q row and S12 reworded. Still open: EEA/EUTL installation file (endpoint down), DEHSt VET 2025 PDF (server in maintenance), route-level emissions after 2022, 2020 kt split.' In item 7 add 'WV Stahl route table revisions (mid-year) and DEHSt VET 2025'. In 'Main risks' change 'Questions the deck cannot yet answer with data: evidence that German steel became cleaner' to 'answer: not visible per tonne to 2025'. A15 source list: add WV Stahl Daten und Fakten 2026, WV Stahl annual route tables 2021-25, worldsteel Steel Statistical Yearbooks 2009/2018/2019-20 and World Steel in Figures 2021/2026, DEHSt VET reports 2006-2024 (archived copies), UBA sector table 2026-09-24."
+  }
+ ],
+ "caveats": [
+  "Scope breaks in the DEHSt sector row: first period 2005-2006 (2007 transitional), second period 2008-2012, third period 2013-2025 (about 80 extra mostly processing plants). Levels are comparable only inside a segment; the derived ratio jump 0.73 (2012) to 0.84 (2013) is the scope change. DEHSt publishes a scope-adjusted series only as an unlabelled chart, with the text statements +2% (2005-2017) and -9% (2005-2019).",
+  "The ETS iron-and-steel row excludes process-gas emissions released at power plants (16.8-21.8 Mt in the years read: 2013, 2014, 2019, 2020), contains coke ovens, sintering and rolling plants, covers direct emissions only (no purchased electricity). The WV Stahl series has a different boundary (incl. purchased power, excl. coke ovens); only trends should be compared.",
+  "Utilisation effect: blast-furnace emissions are largely fixed, so the per-tonne ratio rises when output falls (2023: 0.92). Route share is only a proxy (scrap supply, product mix, plant closures; 2009 peak is a recession artefact) and is not hydrogen-based direct reduction, which has not started in Germany.",
+  "Precision and vintages: 2023 and 2025 ETS values only to 0.1 Mt; 2007 derived from the 2008 report comparison set; 2020 crude steel only to 0.1 Mt and 2020 route kt missing; DEHSt restates 0.1-0.4 Mt between reports; crude steel 2024 and 2025 have two official vintages; WSIF 2018 edition gave a 2017 estimate (28.8% electric) later replaced by 30.0%.",
+  "Access: dehst.de returned a maintenance page and the EEA ETS datastore failed (HTTP 400/503) on 2026-10-22. DEHSt VET reports 2006, 2008-2024 were taken from Internet Archive copies of the official PDFs (timestamps in sources_manifest.csv); no 2007 or 2025 VET report was reachable, so 2025 rests on the UBA table of 2026-09-24 (DEHSt data, Stand 05/2026). The EEA installation-level file would allow a scope-consistent series and should be retried.",
+  "Descriptive only: nothing here identifies an effect of the ETS or CBAM; CBAM payments start in 2027; trade (imports, exports, consumption) is not netted out. Free-allocation ratios are inflated by allowances passed on for forwarded process gases (nominal 128-144%, adjusted 83.5-108%); no 2025 allocation figure obtained.",
+  "Derived values (ETS emissions per tonne, route emissions per tonne, shares from kt) are my arithmetic on published figures and are labelled DERIVED in the files; the 2020 route output used for route emissions per tonne is derived from 35.7 Mt times the published 67.7/32.3 split."
+ ]
+}

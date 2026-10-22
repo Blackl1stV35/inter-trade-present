@@ -1,0 +1,145 @@
+Emissionssituation 2024 im Europäischen Emissionshandel 1
+
+        sonstige                              Raffinerien
+mineralverarbeitende                      21,8 Mio. t CO2-Äq
+
+        Industrie
+   6,6 Mio. t CO2-Äq
+
+    Industrie-          Zementklinker                  chemische Industrie           Papier und Zellstoff
+   und Baukalk        14,5 Mio. t CO2-Äq                13,3 Mio. t CO2-Äq             4,0 Mio. t CO2-Äq
+5,9 Mio. t CO2-Äq
+                                                                      Sonstige        Nichteisenmetalle
+                                                                 6,9 Mio. t CO2-Äq     2,5 Mio. t CO2-Äq
+
+                                           Eisen und Stahl                                  sonstige
+                                          33,1 Mio. t CO2-Äq                        Verbrennungsanlagen
+
+                                                                                       0,5 Mio. t CO2-Äq
+
+Abbildung 6: Anteile der einzelnen Branchen an den Emissionen des Industriesektors im Jahr 2024 sowie
+                     absolute Emissionen
+
+Die Emissionen der 838 Anlagen der energieintensiven Industrie in Deutschland lagen 2024 bei 102 Millionen
+Tonnen CO2-Äq. Abbildung 6 zeigt die Anteile der einzelnen Industriebranchen an den Gesamtemissionen
+des Industriesektors und deren absoluten Emissionen. Die Eisen- und Stahlindustrie hat wie in den Vorjahren
+mit etwa 32 Prozent den größten Anteil an den Industrieemissionen, gefolgt von den Raffinerien (21 Prozent),
+der Zementklinkerherstellung (14 Prozent) und der chemischen Industrie (13 Prozent).
+
+Die verbleibenden Industrieemissionen verteilen sich auf vier weitere Branchen und Teilbranchen: Industrie-
+und Baukalk (6 Prozent), die sonstige mineralverarbeitende Industrie (6 Prozent) – die zum Beispiel die
+Glas- und Keramikherstellung umfasst – die Papier- und Zellstoffindustrie (4 Prozent) sowie die Nichteisen-
+metallindustrie (2 Prozent). Sonstige Verbrennungsanlagen, die keiner der vorgenannten Branchen zugeordnet
+werden können, verursachen nur etwa ein halbes Prozent der Industrieemissionen in Deutschland.
+
+16
+Emissionssituation 2024 im Europäischen Emissionshandel 1
+
+Die Emissionen der vom EU-ETS 1 erfassten energieintensiven Industrie in Deutschland lagen mit einem
+leichten Plus von gut 1 Prozent und 102 Millionen Tonnen CO2-Äq ungefähr auf dem Niveau des Vorjahres.
+Damit weisen die Jahre 2023 und 2024 das niedrigste Emissionsniveau seit 2013 auf, dem Beginn der dritten
+Handelsperiode und der Einführung des aktuell im Bericht ausgewiesenen Anwendungsbereichs des EU-ETS 1.
+Allerdings sind die Entwicklungen im Jahr 2024 auf Ebene der Branchen gegenüber dem Vorjahr 2023
+sehr heterogen (vergleiche Abbildung 7). Während 2023 alle Branchen rückläufige Emissionen verzeichneten,
+nahmen die Emissionen 2024 vor allem in der Nichteisenmetallindustrie (15 Prozent) und der chemischen
+Industrie (9) stark zu. Leichte Anstiege der Emissionen zwischen 1,5 bis knapp 3 Prozent konnten bei
+den Raffinerien, der Eisen- und Stahlindustrie, Industrie- und Baukalk und der Papier- und Zellstoff-
+industrie verzeichnet werden. Einzig bei der Zementklinkerherstellung ist ein Rückgang um 10 Prozent
+zu verzeichnen.
+In allen genannten Branchen spielen Änderungen der Produktion die zentrale Rolle für die Emissionsentwick-
+lung. So lag zum Beispiel der Rückgang bei der Zementklinkerproduktion bei knapp 9 Prozent.19 Auch bei
+Industrie- und Baukalk (Produktionsanstieg um 3 Prozent) und Papier und Zellstoff (Produktionsanstieg
+um fünf Prozent bei Verpackungen, Rückgänge um 0,6 Prozent beziehungsweise 1 Prozent bei Hygiene- und
+grafischen Papieren) sind die Entwicklungen von Emissionen und Produktion sehr konsistent. Eine Ausnahme
+bilden die Raffinerien: hier stiegen die Emissionen wie oben erwähnt nur leicht (2,4 Prozent), obwohl die
+Bruttoraffinerieerzeugung um etwa neun Prozent zunahm20. Ursächlich hierfür könnten neben Änderungen
+im Produktmix auch Umstellungen bei den Hauptbrennstoffen in den für die Stromerzeugung der Tätigkeit
+zugerechneten Kraftwerken sein, die die CO2-Effizienz der Produktion gesteigert haben.
+Bei der Eisen- und Stahlindustrie lag die Rohstahlerzeugung in der für die Emissionen stark dominanten
+Hochofenroute (Qxygenstahl) 2024 um etwas mehr als 3 Prozent über der Vorjahreserzeugung und damit
+in derselben Größenordnung wie die oben genannten Emissionsentwicklung. Die in Bezug auf die direkten
+Emissionen nachrangige Produktion im Elektrolichtbogenofen („Elektrostahl“) erhöhte sich um 10,2 Prozent
+und holte damit den Rückgang in dieser Route im Vorjahr (gegenüber 2022) wieder auf.21
+In allen genannten Branchen, mit Ausnahme der Eisen- und Stahlindustrie, kam es bereits 2023 zu großen
+Emissionsrückgängen gegenüber dem Vorjahr, die ebenfalls überwiegend im Zusammenhang mit Produktions-
+rückgängen standen. Damit setzt sich 2024 bei Zement der starke Rückgang des Vorjahres fort, wohingegen
+die oben genannten Steigerungen in der chemischen Industrie und bei den Nichteisenmetallen primär als
+Aufholeffekt bezeichnet werden können.
+Wie aus Abbildung 7 ebenfalls ersichtlich wird, sind in allen betrachteten Branchen außer der Eisen- und
+Stahlindustrie auch gegenüber dem Jahr 2020 signifikante Emissionsrückgänge zu beobachten. Dabei ist zu
+erwähnen, dass die Emissionen in der Eisen- und Stahlindustrie 2020 auf einem deutlich niedrigeren Niveau
+als in den Vorjahren lagen. Auch hier ist jeweils von Produktionsänderungen als zentralem Einflussfaktor für
+die Emissionsentwicklung auszugehen.
+
+19 DEHSt 2025b
+20 BAfA 2025
+21 WV Stahl 2025
+
+ 18
+Emissionssituation 2024 im Europäischen Emissionshandel 1
+
+Tabelle 3:  Bereinigte Ausstattungsgrade (unter Berücksichtigung von Kuppelgasen und
+            Wärmeimporten)
+
+Sektor      Branche       Zahl der  Zuteilungs-   VET 2024    Abweichung   Ausstat-   bereinigte   berei-    berei-
+                          Anlagen      menge     [kt CO2-Äq]   Zuteilung    tungs-   Zuteilungs-   nigter    nigter
+                                        2024                   2024 von      grad                 Ausstat-  Ausstat-
+                                                               VET 2024     2024*       menge      tungs-    tungs-
+                                    [1.000 EUA]               [kt CO2-Äq]              2024**       grad      grad
+                                                                                     [1.000 EUA]  2024**    2023**
+
+              Energie-    878 10.263,53 170.604,65 –160.341,12 6,0 %                 27.093 15,9 % 15,0 %
+Energie anlagen           878 10.263,53 170.604,65 –160.341,12 6,0 %                 27.093 15,9 % 15,0 %
+
+            Raffinerien   22 15.072,02 21.816,41 –6.744,38 69,1 %                    15.072 69,1 % 73,7 %
+
+            Eisen und     115 46.002,99 33.149,87 12.853,12 138,8 %                  31.228 94,2 % 96,2 %
+            Stahl
+
+            Nichteisen-   38 2.364,87 2.471,75                –106,88 95,7 %         2.365 95,7 % 110,3 %
+            metalle
+
+            Industrie-    37 4.281,88 5.912,99 –1.631,10 72,4%                       4.282 72,4 % 80,9 %
+            und
+            Baukalk
+
+            Zement-       35 16.299,40 14.513,67              1.785,73 112,3%        16.299 112,3 % 107,1 %
+            klinker
+
+              sonstige    217 5.326,70 6.557,65 –1.230,95 81,2 %                     5.327 81,2 % 85,0 %
+Industrie mineralver-
+
+              arbeitende
+              Industrie
+
+            Papier und    130 4.595,88 3.982,37               613,51 115,4 %         3.609 90,6 % 102,6 %
+            Zellstoff
+
+            Chemische     194 13.879,55 13.262,11             617,44 104,7 %         12.812 96,6 % 122,5 %
+            Industrie
+
+            sonstige      50        533,76       474,58       59,18 112,5 %          534 112,5 % 125,3 %
+            Verbren-
+            nungs-
+            anlagen
+
+                          838 108.357,05 102.141,38           6.215,67 106,1 %       91.528 89,6 % 95,4 %
+
+Gesamt                    1.716 118.620,58 272.746,03 –154.125,45 43,5 % 118.621 43,5 % 43,0 %
+
+                                                                                                                                                                  Stand: 02.05.2025
+                                     * ohne Berücksichtigung möglicher Verrechnungen bei der Weiterleitung von Kuppelgasen und bei Wärmeimporten
+                                    ** unter Berücksichtigung möglicher Verrechnungen bei der Weiterleitung von Kuppelgasen und bei Wärmeimporten
+
+Der mittlere bereinigte Ausstattungsgrad über alle deutschen Anlagen blieb gegenüber dem Vorjahr mit einem
+leichten Plus von 0,5 Prozentpunkten und 43,5 Prozent auf dem Niveau des Vorjahres.
+
+Bei den Energieanlagen ist der bereinigte Ausstattungsgrad ebenfalls fast unverändert (Steigerung von
+15 Prozent auf 15,9 Prozent, da hier die stark gesunkenen Emissionen den Effekt verminderter kostenloser
+Zuteilung auf Basis der Produktionsmengen der Vorjahre sogar überkompensieren (vergleiche Tabelle 3).26
+
+26 Ungenauigkeit bei bereinigten Ausstattungsgraden: Da die 2025 gemeldete Emissionen zum Zeitpunkt der Erstellung dieses Berichts noch nicht geprüft
+      sind, sind kleine Abweichungen in den Ausstattungsgraden nicht interpretierbar.
+
+ 22
+

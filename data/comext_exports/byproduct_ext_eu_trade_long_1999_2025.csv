@@ -1,0 +1,325 @@
+product,description,flow,year,value_eur,quantity_100kg,value_eur_million,net_mass_thousand_t,unit_value_eur_per_t,value_status,quantity_status
+7204,7204 ferrous waste and scrap,import,1999,95027203.00,5041884.00,95.027203,504.188400,188.48,value,quantity
+7204,7204 ferrous waste and scrap,import,2000,209968654.00,6507721.00,209.968654,650.772100,322.65,value,quantity
+7204,7204 ferrous waste and scrap,import,2001,131865549.00,5445922.00,131.865549,544.592200,242.14,value,quantity
+7204,7204 ferrous waste and scrap,import,2002,107296878.00,4679653.00,107.296878,467.965300,229.28,value,quantity
+7204,7204 ferrous waste and scrap,import,2003,103381158.00,4127009.00,103.381158,412.700900,250.50,value,quantity
+7204,7204 ferrous waste and scrap,import,2004,225118430.00,7012199.00,225.118430,701.219900,321.04,value,quantity
+7204,7204 ferrous waste and scrap,import,2005,238496819.00,7571192.00,238.496819,757.119200,315.01,value,quantity
+7204,7204 ferrous waste and scrap,import,2006,335194018.00,7439899.00,335.194018,743.989900,450.54,value,quantity
+7204,7204 ferrous waste and scrap,import,2007,340180807.00,6221419.00,340.180807,622.141900,546.79,value,quantity
+7204,7204 ferrous waste and scrap,import,2008,282688746.00,5279973.00,282.688746,527.997300,535.40,value,quantity
+7204,7204 ferrous waste and scrap,import,2009,178622770.00,5469869.00,178.622770,546.986900,326.56,value,quantity
+7204,7204 ferrous waste and scrap,import,2010,371780913.00,6540782.48,371.780913,654.078248,568.40,value,quantity
+7204,7204 ferrous waste and scrap,import,2011,398241034.00,7277136.25,398.241034,727.713625,547.25,value,quantity
+7204,7204 ferrous waste and scrap,import,2012,403659555.00,7730516.28,403.659555,773.051628,522.16,value,quantity
+7204,7204 ferrous waste and scrap,import,2013,287638161.00,7139859.97,287.638161,713.985997,402.86,value,quantity
+7204,7204 ferrous waste and scrap,import,2014,258789620.00,6595919.52,258.789620,659.591952,392.35,value,quantity
+7204,7204 ferrous waste and scrap,import,2015,213250530.00,6565890.47,213.250530,656.589047,324.79,value,quantity
+7204,7204 ferrous waste and scrap,import,2016,177645778.00,6518868.82,177.645778,651.886882,272.51,value,quantity
+7204,7204 ferrous waste and scrap,import,2017,230216861.00,7055517.38,230.216861,705.551738,326.29,value,quantity
+7204,7204 ferrous waste and scrap,import,2018,230656111.00,6004494.82,230.656111,600.449482,384.14,value,quantity
+7204,7204 ferrous waste and scrap,import,2019,173088639.00,4812502.86,173.088639,481.250286,359.66,value,quantity
+7204,7204 ferrous waste and scrap,import,2020,170606241.00,5349361.15,170.606241,534.936115,318.93,value,quantity
+7204,7204 ferrous waste and scrap,import,2021,295972106.00,5739641.57,295.972106,573.964157,515.66,value,quantity
+7204,7204 ferrous waste and scrap,import,2022,280235471.00,4496836.97,280.235471,449.683697,623.18,value,quantity
+7204,7204 ferrous waste and scrap,import,2023,184316374.00,3350838.52,184.316374,335.083852,550.06,value,quantity
+7204,7204 ferrous waste and scrap,import,2024,234038321.00,4337569.41,234.038321,433.756941,539.56,value,quantity
+7204,7204 ferrous waste and scrap,import,2025,178162023.00,3939207.81,178.162023,393.920781,452.28,value,quantity
+7204,7204 ferrous waste and scrap,export,1999,72477533.00,8857867.00,72.477533,885.786700,81.82,value,quantity
+7204,7204 ferrous waste and scrap,export,2000,115316721.00,10856530.00,115.316721,1085.653000,106.22,value,quantity
+7204,7204 ferrous waste and scrap,export,2001,91507067.00,9041777.00,91.507067,904.177700,101.20,value,quantity
+7204,7204 ferrous waste and scrap,export,2002,115240573.00,9362136.00,115.240573,936.213600,123.09,value,quantity
+7204,7204 ferrous waste and scrap,export,2003,116381027.00,8630350.00,116.381027,863.035000,134.85,value,quantity
+7204,7204 ferrous waste and scrap,export,2004,176726307.00,8707337.00,176.726307,870.733700,202.96,value,quantity
+7204,7204 ferrous waste and scrap,export,2005,169527904.00,7452843.00,169.527904,745.284300,227.47,value,quantity
+7204,7204 ferrous waste and scrap,export,2006,241237908.00,8237693.00,241.237908,823.769300,292.85,value,quantity
+7204,7204 ferrous waste and scrap,export,2007,456826534.00,7654751.00,456.826534,765.475100,596.79,value,quantity
+7204,7204 ferrous waste and scrap,export,2008,554811699.00,11490370.00,554.811699,1149.037000,482.85,value,quantity
+7204,7204 ferrous waste and scrap,export,2009,412325971.00,14248070.00,412.325971,1424.807000,289.39,value,quantity
+7204,7204 ferrous waste and scrap,export,2010,621336613.00,19239139.51,621.336613,1923.913951,322.95,value,quantity
+7204,7204 ferrous waste and scrap,export,2011,693219888.00,18326101.73,693.219888,1832.610173,378.27,value,quantity
+7204,7204 ferrous waste and scrap,export,2012,707431480.00,18533949.76,707.431480,1853.394976,381.69,value,quantity
+7204,7204 ferrous waste and scrap,export,2013,404073636.00,12577313.17,404.073636,1257.731317,321.27,value,quantity
+7204,7204 ferrous waste and scrap,export,2014,405487372.00,13502646.68,405.487372,1350.264668,300.30,value,quantity
+7204,7204 ferrous waste and scrap,export,2015,234065139.00,8294582.43,234.065139,829.458243,282.19,value,quantity
+7204,7204 ferrous waste and scrap,export,2016,250144750.00,10900082.59,250.144750,1090.008259,229.49,value,quantity
+7204,7204 ferrous waste and scrap,export,2017,337286417.00,11945307.57,337.286417,1194.530757,282.36,value,quantity
+7204,7204 ferrous waste and scrap,export,2018,426987238.00,13984312.20,426.987238,1398.431220,305.33,value,quantity
+7204,7204 ferrous waste and scrap,export,2019,440604446.00,13941004.23,440.604446,1394.100423,316.05,value,quantity
+7204,7204 ferrous waste and scrap,export,2020,360982919.00,12282910.48,360.982919,1228.291048,293.89,value,quantity
+7204,7204 ferrous waste and scrap,export,2021,544182929.00,12754188.42,544.182929,1275.418842,426.67,value,quantity
+7204,7204 ferrous waste and scrap,export,2022,643372320.00,13232237.08,643.372320,1323.223708,486.22,value,quantity
+7204,7204 ferrous waste and scrap,export,2023,627579112.00,14431577.06,627.579112,1443.157706,434.87,value,quantity
+7204,7204 ferrous waste and scrap,export,2024,477132122.00,11135844.69,477.132122,1113.584469,428.47,value,quantity
+7204,7204 ferrous waste and scrap,export,2025,462881161.00,12308323.53,462.881161,1230.832353,376.07,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,import,1999,31515938.00,1610268.00,31.515938,161.026800,195.72,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,import,2000,74510409.00,2895613.00,74.510409,289.561300,257.32,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,import,2001,82661274.00,3154181.00,82.661274,315.418100,262.07,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,import,2002,29108793.00,1028848.00,29.108793,102.884800,282.93,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,import,2003,43362863.00,1496515.00,43.362863,149.651500,289.76,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,import,2004,112533560.00,2801834.00,112.533560,280.183400,401.64,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,import,2005,469546710.00,9939624.00,469.546710,993.962400,472.40,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,import,2006,378705802.00,8221925.00,378.705802,822.192500,460.60,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,import,2007,486933186.00,10492246.00,486.933186,1049.224600,464.09,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,import,2008,663465710.00,11040261.00,663.465710,1104.026100,600.95,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,import,2009,176074075.00,3966394.00,176.074075,396.639400,443.91,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,import,2010,179814439.00,4053248.49,179.814439,405.324849,443.63,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,import,2011,153278293.00,2903006.22,153.278293,290.300622,528.00,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,import,2012,49005227.00,863046.68,49.005227,86.304668,567.82,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,import,2013,84487282.00,1745872.44,84.487282,174.587244,483.93,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,import,2014,144864890.00,3063943.52,144.864890,306.394352,472.81,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,import,2015,202893554.00,5090455.61,202.893554,509.045561,398.58,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,import,2016,63636885.00,1779763.69,63.636885,177.976369,357.56,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,import,2017,172143303.00,4032059.37,172.143303,403.205937,426.94,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,import,2018,292186078.00,6308208.55,292.186078,630.820855,463.18,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,import,2019,68870239.00,1409964.45,68.870239,140.996445,488.45,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,import,2020,9866174.00,118743.69,9.866174,11.874369,830.88,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,import,2021,239195739.00,3709728.53,239.195739,370.972853,644.78,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,import,2022,127303512.00,1764555.58,127.303512,176.455558,721.45,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,import,2023,88178501.00,1204845.69,88.178501,120.484569,731.87,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,import,2024,76568880.00,1243363.27,76.568880,124.336327,615.82,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,import,2025,88635684.00,1751583.06,88.635684,175.158306,506.03,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,export,1999,126980747.00,6300278.00,126.980747,630.027800,201.55,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,export,2000,141613401.00,5659757.00,141.613401,565.975700,250.21,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,export,2001,124291403.00,4863685.00,124.291403,486.368500,255.55,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,export,2002,175313690.00,7481060.00,175.313690,748.106000,234.34,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,export,2003,232327978.00,9168872.00,232.327978,916.887200,253.39,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,export,2004,121541322.00,4368104.00,121.541322,436.810400,278.25,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,export,2005,127652003.00,3544706.00,127.652003,354.470600,360.12,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,export,2006,110310229.00,2474040.00,110.310229,247.404000,445.87,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,export,2007,117332928.00,2577557.00,117.332928,257.755700,455.21,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,export,2008,153749238.00,2655032.00,153.749238,265.503200,579.09,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,export,2009,102378059.00,3073025.00,102.378059,307.302500,333.15,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,export,2010,45996538.00,962113.01,45.996538,96.211301,478.08,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,export,2011,100117314.00,1765346.75,100.117314,176.534675,567.13,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,export,2012,114703727.00,2365800.77,114.703727,236.580077,484.84,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,export,2013,58728866.00,1184322.84,58.728866,118.432284,495.89,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,export,2014,83672615.00,1750810.39,83.672615,175.081039,477.91,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,export,2015,45439170.00,896061.42,45.439170,89.606142,507.10,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,export,2016,49997957.00,1349660.08,49.997957,134.966008,370.45,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,export,2017,86628256.00,2093487.03,86.628256,209.348703,413.80,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,export,2018,65872499.00,1134358.83,65.872499,113.435883,580.70,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,export,2019,105169585.00,2267275.86,105.169585,226.727586,463.86,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,export,2020,45477046.00,1110570.47,45.477046,111.057047,409.49,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,export,2021,88917852.00,1239621.03,88.917852,123.962103,717.30,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,export,2022,119441252.00,1324151.74,119.441252,132.415174,902.02,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,export,2023,52887720.00,722466.92,52.887720,72.246692,732.04,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,export,2024,82570402.00,1247945.34,82.570402,124.794534,661.65,value,quantity
+7207,7207 semi-finished products of iron/non-alloy steel,export,2025,60402170.00,970026.95,60.402170,97.002695,622.69,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",import,1999,167182932.00,7335862.00,167.182932,733.586200,227.90,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",import,2000,180187063.00,5623912.00,180.187063,562.391200,320.39,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",import,2001,140226632.00,4373876.00,140.226632,437.387600,320.60,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",import,2002,116639834.00,3794408.00,116.639834,379.440800,307.40,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",import,2003,123184215.00,3721080.00,123.184215,372.108000,331.04,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",import,2004,135184923.00,3101074.00,135.184923,310.107400,435.93,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",import,2005,256112059.00,4663572.00,256.112059,466.357200,549.18,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",import,2006,278296088.00,5531594.00,278.296088,553.159400,503.10,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",import,2007,341839338.00,5722420.00,341.839338,572.242000,597.37,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",import,2008,411248670.00,5781155.00,411.248670,578.115500,711.36,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",import,2009,173811381.00,3373408.00,173.811381,337.340800,515.24,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",import,2010,248814176.00,4502361.73,248.814176,450.236173,552.63,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",import,2011,318744687.00,4871991.85,318.744687,487.199185,654.24,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",import,2012,198039181.00,3182880.36,198.039181,318.288036,622.20,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",import,2013,178022519.00,3306953.42,178.022519,330.695342,538.33,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",import,2014,139852411.00,2684812.05,139.852411,268.481205,520.90,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",import,2015,134220949.00,2630847.61,134.220949,263.084761,510.18,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",import,2016,100568429.00,2331807.21,100.568429,233.180721,431.29,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",import,2017,122696953.00,2130955.56,122.696953,213.095556,575.78,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",import,2018,95232288.00,1567838.22,95.232288,156.783822,607.41,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",import,2019,63187848.00,911216.40,63.187848,91.121640,693.45,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",import,2020,63584566.00,941979.15,63.584566,94.197915,675.01,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",import,2021,54832888.00,575597.37,54.832888,57.559737,952.63,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",import,2022,70036846.00,507286.87,70.036846,50.728687,1380.62,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",import,2023,60767322.00,579958.44,60.767322,57.995844,1047.79,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",import,2024,72706666.00,624237.96,72.706666,62.423796,1164.73,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",import,2025,33027970.00,327229.65,33.027970,32.722965,1009.32,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",export,1999,253975308.00,7072379.00,253.975308,707.237900,359.11,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",export,2000,346079996.00,8988080.00,346.079996,898.808000,385.04,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",export,2001,470271339.00,11196257.00,470.271339,1119.625700,420.03,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",export,2002,335045665.00,9110335.00,335.045665,911.033500,367.76,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",export,2003,357338469.00,9045155.00,357.338469,904.515500,395.06,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",export,2004,469697889.00,11014882.00,469.697889,1101.488200,426.42,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",export,2005,844702749.00,12769199.00,844.702749,1276.919900,661.52,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",export,2006,895973656.00,12627519.00,895.973656,1262.751900,709.54,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",export,2007,1013153745.00,12815383.00,1013.153745,1281.538300,790.58,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",export,2008,1057246348.00,11944280.00,1057.246348,1194.428000,885.15,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",export,2009,614863483.00,8222225.00,614.863483,822.222500,747.81,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",export,2010,537144221.00,8211899.09,537.144221,821.189909,654.10,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",export,2011,618178439.00,7702571.33,618.178439,770.257133,802.56,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",export,2012,798371530.00,11634266.57,798.371530,1163.426657,686.22,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",export,2013,465522967.00,7983973.85,465.522967,798.397385,583.07,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",export,2014,403303944.00,6725695.48,403.303944,672.569548,599.65,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",export,2015,442898503.00,7150949.16,442.898503,715.094916,619.36,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",export,2016,271181204.00,5013386.98,271.181204,501.338698,540.91,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",export,2017,350923313.00,6498999.59,350.923313,649.899959,539.97,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",export,2018,352118321.00,5560088.82,352.118321,556.008882,633.30,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",export,2019,317681526.00,5316995.46,317.681526,531.699546,597.48,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",export,2020,321624332.00,5269308.61,321.624332,526.930861,610.37,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",export,2021,323513008.00,3703066.30,323.513008,370.306630,873.64,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",export,2022,396943052.00,3623428.85,396.943052,362.342885,1095.49,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",export,2023,361376984.00,3807180.51,361.376984,380.718051,949.20,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",export,2024,331548447.00,3693228.46,331.548447,369.322846,897.72,value,quantity
+7208,"7208 flat-rolled iron/non-alloy steel, hot-rolled, width >= 600 mm",export,2025,255674441.00,3101529.78,255.674441,310.152978,824.35,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",import,1999,72045447.00,572056.00,72.045447,57.205600,1259.41,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",import,2000,81076305.00,480800.00,81.076305,48.080000,1686.28,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",import,2001,90224238.00,750172.00,90.224238,75.017200,1202.71,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",import,2002,65030723.00,660960.00,65.030723,66.096000,983.88,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",import,2003,56131427.00,642032.00,56.131427,64.203200,874.28,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",import,2004,82684835.00,859706.00,82.684835,85.970600,961.78,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",import,2005,115326899.00,1145861.00,115.326899,114.586100,1006.46,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",import,2006,128100784.00,982683.00,128.100784,98.268300,1303.58,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",import,2007,186039981.00,920686.00,186.039981,92.068600,2020.67,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",import,2008,196260828.00,801970.00,196.260828,80.197000,2447.23,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",import,2009,145390919.00,423754.00,145.390919,42.375400,3431.02,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",import,2010,115921532.00,579293.00,115.921532,57.929300,2001.09,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",import,2011,183041277.00,719173.44,183.041277,71.917344,2545.16,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",import,2012,166496623.00,672614.15,166.496623,67.261415,2475.37,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",import,2013,160868829.00,566593.32,160.868829,56.659332,2839.23,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",import,2014,182532698.00,713247.55,182.532698,71.324755,2559.18,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",import,2015,174421134.00,711771.93,174.421134,71.177193,2450.52,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",import,2016,156261221.00,763208.17,156.261221,76.320817,2047.43,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",import,2017,158025078.00,756928.51,158.025078,75.692851,2087.71,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",import,2018,182142966.00,759647.42,182.142966,75.964742,2397.73,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",import,2019,174350989.00,756953.14,174.350989,75.695314,2303.33,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",import,2020,148328627.00,750393.49,148.328627,75.039349,1976.68,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",import,2021,166234395.00,921067.64,166.234395,92.106764,1804.80,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",import,2022,237149863.00,781283.84,237.149863,78.128384,3035.39,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",import,2023,241261605.00,767448.25,241.261605,76.744825,3143.69,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",import,2024,281649113.00,1192539.67,281.649113,119.253967,2361.76,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",import,2025,233297069.00,873688.38,233.297069,87.368838,2670.25,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",export,1999,437335054.00,3747072.00,437.335054,374.707200,1167.14,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",export,2000,549124384.00,5045981.00,549.124384,504.598100,1088.24,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",export,2001,688888507.00,5486784.00,688.888507,548.678400,1255.54,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",export,2002,727132476.00,5281270.00,727.132476,528.127000,1376.81,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",export,2003,626453076.00,4926583.00,626.453076,492.658300,1271.58,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",export,2004,845247653.00,6099763.00,845.247653,609.976300,1385.71,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",export,2005,1402783305.00,7708089.00,1402.783305,770.808900,1819.88,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",export,2006,1604228262.00,7929549.00,1604.228262,792.954900,2023.10,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",export,2007,1609257805.00,7046831.00,1609.257805,704.683100,2283.66,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",export,2008,2005631725.00,8339308.00,2005.631725,833.930800,2405.03,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",export,2009,1472544220.00,5342087.00,1472.544220,534.208700,2756.50,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",export,2010,1217299966.00,6069320.15,1217.299966,606.932015,2005.66,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",export,2011,1371532852.00,6346260.44,1371.532852,634.626044,2161.17,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",export,2012,1670051644.00,7460424.70,1670.051644,746.042470,2238.55,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",export,2013,1450887122.00,6600922.61,1450.887122,660.092261,2198.01,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",export,2014,1368777286.00,6315600.20,1368.777286,631.560020,2167.30,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",export,2015,997156567.00,4025655.09,997.156567,402.565509,2477.00,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",export,2016,803521454.00,3359895.12,803.521454,335.989512,2391.51,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",export,2017,861278662.00,3908174.29,861.278662,390.817429,2203.79,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",export,2018,912095782.00,4339148.44,912.095782,433.914844,2102.02,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",export,2019,905137968.00,3973912.35,905.137968,397.391235,2277.70,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",export,2020,663627926.00,2692775.68,663.627926,269.277568,2464.48,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",export,2021,698149593.00,2738315.03,698.149593,273.831503,2549.56,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",export,2022,1046445075.00,3333876.41,1046.445075,333.387641,3138.82,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",export,2023,1024628787.00,2416444.36,1024.628787,241.644436,4240.23,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",export,2024,804718101.00,1653318.49,804.718101,165.331849,4867.29,value,quantity
+7304,"7304 seamless tubes, pipes and hollow profiles of iron/steel",export,2025,717122850.00,1653810.39,717.122850,165.381039,4336.19,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",import,1999,192138859.00,3117059.00,192.138859,311.705900,616.41,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",import,2000,220978435.00,3235977.00,220.978435,323.597700,682.88,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",import,2001,210703593.00,2949530.00,210.703593,294.953000,714.36,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",import,2002,182340991.00,2818473.00,182.340991,281.847300,646.95,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",import,2003,180342334.00,2614595.00,180.342334,261.459500,689.75,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",import,2004,261293063.00,3454302.00,261.293063,345.430200,756.43,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",import,2005,267256981.00,2899800.00,267.256981,289.980000,921.64,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",import,2006,311367266.00,3714527.00,311.367266,371.452700,838.24,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",import,2007,383851768.00,4074766.00,383.851768,407.476600,942.02,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",import,2008,408441757.00,4182541.00,408.441757,418.254100,976.54,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",import,2009,222476671.00,2195605.00,222.476671,219.560500,1013.28,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",import,2010,273227603.00,2810072.31,273.227603,281.007231,972.32,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",import,2011,343010472.00,3030973.62,343.010472,303.097362,1131.68,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",import,2012,310699594.00,2806532.48,310.699594,280.653248,1107.06,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",import,2013,313664207.00,2844758.21,313.664207,284.475821,1102.60,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",import,2014,314380553.00,2761368.42,314.380553,276.136842,1138.50,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",import,2015,336062673.00,2942524.28,336.062673,294.252428,1142.09,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",import,2016,334930652.00,3255648.08,334.930652,325.564808,1028.77,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",import,2017,379287764.00,3228380.77,379.287764,322.838077,1174.85,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",import,2018,395261500.00,3281563.54,395.261500,328.156354,1204.49,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",import,2019,322541140.00,2504768.36,322.541140,250.476836,1287.71,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",import,2020,248933651.00,2051106.68,248.933651,205.110668,1213.66,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",import,2021,339179524.00,2306090.82,339.179524,230.609082,1470.80,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",import,2022,442069452.00,2105567.56,442.069452,210.556756,2099.53,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",import,2023,360915205.00,1926431.50,360.915205,192.643150,1873.49,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",import,2024,277153266.00,1621930.89,277.153266,162.193089,1708.79,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",import,2025,232372236.00,1594438.54,232.372236,159.443854,1457.39,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",export,1999,157816424.00,1194036.00,157.816424,119.403600,1321.71,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",export,2000,207814162.00,1399736.00,207.814162,139.973600,1484.67,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",export,2001,235036440.00,1741307.00,235.036440,174.130700,1349.77,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",export,2002,251676521.00,1846401.00,251.676521,184.640100,1363.07,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",export,2003,238849873.00,1644950.00,238.849873,164.495000,1452.02,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",export,2004,259816572.00,1476619.00,259.816572,147.661900,1759.54,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",export,2005,316723612.00,1502413.00,316.723612,150.241300,2108.10,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",export,2006,429814065.00,2361925.00,429.814065,236.192500,1819.76,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",export,2007,554669486.00,1954957.00,554.669486,195.495700,2837.25,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",export,2008,524911155.00,1716397.00,524.911155,171.639700,3058.22,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",export,2009,422610103.00,1715301.00,422.610103,171.530100,2463.77,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",export,2010,313496533.00,1350459.21,313.496533,135.045921,2321.41,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",export,2011,472301507.00,2026592.90,472.301507,202.659290,2330.52,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",export,2012,519134779.00,2270333.50,519.134779,227.033350,2286.60,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",export,2013,500787750.00,1959992.85,500.787750,195.999285,2555.05,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",export,2014,479868905.00,2286764.66,479.868905,228.676466,2098.46,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",export,2015,418712461.00,1970644.43,418.712461,197.064443,2124.75,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",export,2016,419428859.00,2063974.86,419.428859,206.397486,2032.14,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",export,2017,521815334.00,2517179.97,521.815334,251.717997,2073.02,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",export,2018,506516644.00,2325015.46,506.516644,232.501546,2178.55,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",export,2019,490194378.00,2115745.21,490.194378,211.574521,2316.89,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",export,2020,370121157.00,1505518.63,370.121157,150.551863,2458.43,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",export,2021,482386228.00,1826897.02,482.386228,182.689702,2640.47,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",export,2022,563703518.00,1826521.50,563.703518,182.652150,3086.21,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",export,2023,546415679.00,1680215.52,546.415679,168.021552,3252.06,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",export,2024,505074875.00,1656974.02,505.074875,165.697402,3048.18,value,quantity
+7306,"7306 other tubes, pipes and hollow profiles of iron/steel (welded, riveted etc.)",export,2025,439307536.00,1400087.64,439.307536,140.008764,3137.71,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),import,1999,112295169.00,29584910.00,112.295169,2958.491000,37.96,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),import,2000,139001196.00,33511733.00,139.001196,3351.173300,41.48,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),import,2001,99073446.00,20595825.00,99.073446,2059.582500,48.10,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),import,2002,87394583.00,20127299.00,87.394583,2012.729900,43.42,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),import,2003,96062475.00,26221157.00,96.062475,2622.115700,36.64,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),import,2004,129992945.00,28879234.00,129.992945,2887.923400,45.01,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),import,2005,99025120.00,16836089.00,99.025120,1683.608900,58.82,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),import,2006,171223547.00,25304799.00,171.223547,2530.479900,67.66,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),import,2007,169095375.00,24349953.00,169.095375,2434.995300,69.44,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),import,2008,275175062.00,25846114.00,275.175062,2584.611400,106.47,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),import,2009,167327374.00,20299014.00,167.327374,2029.901400,82.43,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),import,2010,329157100.00,31533761.02,329.157100,3153.376102,104.38,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),import,2011,421065517.00,29478575.40,421.065517,2947.857540,142.84,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),import,2012,407220101.00,30810825.38,407.220101,3081.082538,132.17,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),import,2013,512229668.00,42658729.15,512.229668,4265.872915,120.08,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),import,2014,542573285.00,49618813.27,542.573285,4961.881327,109.35,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),import,2015,418706456.00,56785845.82,418.706456,5678.584582,73.73,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),import,2016,388311863.00,57792006.30,388.311863,5779.200630,67.19,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),import,2017,608725211.00,63886791.40,608.725211,6388.679140,95.28,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),import,2018,674614873.00,71657148.05,674.614873,7165.714805,94.14,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),import,2019,657183573.00,58998016.90,657.183573,5899.801690,111.39,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),import,2020,614242358.00,54768704.58,614.242358,5476.870458,112.15,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),import,2021,1196423571.00,67951759.94,1196.423571,6795.175994,176.07,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),import,2022,786898863.00,44704735.56,786.898863,4470.473556,176.02,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),import,2023,613798490.00,41036081.28,613.798490,4103.608128,149.58,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),import,2024,692226945.00,49020317.70,692.226945,4902.031770,141.21,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),import,2025,238227269.00,20351172.37,238.227269,2035.117237,117.06,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),export,1999,,,,,,missing_value,missing_quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),export,2000,,,,,,missing_value,missing_quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),export,2001,,,,,,missing_value,missing_quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),export,2002,,,,,,missing_value,missing_quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),export,2003,,,,,,missing_value,missing_quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),export,2004,,,,,,missing_value,missing_quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),export,2005,,,,,,missing_value,missing_quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),export,2006,,,,,,missing_value,missing_quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),export,2007,,,,,,missing_value,missing_quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),export,2008,93871.00,41934.00,0.093871,4.193400,22.39,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),export,2009,,,,,,missing_value,missing_quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),export,2010,,,,,,missing_value,missing_quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),export,2011,,,,,,missing_value,missing_quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),export,2012,,,,,,missing_value,missing_quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),export,2013,,,,,,missing_value,missing_quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),export,2014,,,,,,missing_value,missing_quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),export,2015,,,,,,missing_value,missing_quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),export,2016,4000.00,16.00,0.004000,0.001600,2500.00,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),export,2017,,,,,,missing_value,missing_quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),export,2018,,,,,,missing_value,missing_quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),export,2019,,,,,,missing_value,missing_quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),export,2020,,,,,,missing_value,missing_quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),export,2021,,,,,,missing_value,missing_quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),export,2022,,,,,,missing_value,missing_quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),export,2023,2697.00,50.88,0.002697,0.005088,530.07,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),export,2024,635.00,38.06,0.000635,0.003806,166.84,value,quantity
+26011200,26011200 agglomerated iron ores and concentrates (CN8),export,2025,869.00,28.01,0.000869,0.002801,310.25,value,quantity

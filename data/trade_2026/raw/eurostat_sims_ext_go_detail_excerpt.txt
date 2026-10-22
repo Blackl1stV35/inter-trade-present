@@ -1,0 +1,44 @@
+URL: https://ec.europa.eu/eurostat/cache/metadata/en/ext_go_detail_sims.htm
+RETRIEVED_UTC: 2026-10-22T02:43:15Z
+FULL_PAGE_SHA256: 4316c274962dff22af93d5b570610470dc5a05864f1a7f31d26c34efc5fea6b9
+(Excerpt of sections 2.1-2.3, 14.1, 17.1-17.2, 7.2; text extracted from HTML, order preserved)
+
+2.1. Metadata last certified
+6 October 2025
+2.2. Metadata last posted
+6 October 2025
+2.3. Metadata last update
+6 October 2025
+
+14.1. Timeliness
+Member States shall provide Eurostat with monthly detailed data within 40 calendar days after the reference month for extra-EU trade (*) and within 70 calendar days after the reference month for intra-EU trade.
+First results (including estimates) on Euro area and EU trade balances are published on line around 46 days after the reference month in the Euro-indicators news release on international trade in goods.
+The latest supplied detailed data (new reference periods and revisions) are published at the date of the monthly news release.
+(*) Data on trade with UK result from the aggregation of figures collected via Intra-EU statistics (trade with UK (in respect of Northern Ireland)) and via customs declarations (trade with UK (excluding Northern Ireland)). Intra-EU statistics data are generally available with a 1-month time lag. This means that data on trade with UK might be available later than data on trade with the other non-EU countries.
+
+17.1. Data revision - policy
+To further specify the general Eurostat revision policy , the following revision policy has been established for international trade in goods (ITG) detailed data (ITGS.DET):
+Whenever revised data become available, previously published data and estimations are revised accordingly. Importantly: whenever monthly results already transmitted to Eurostat are subject to revision at national level, EU legislation requires that revised results are transmitted to Eurostat within the month following their availability. EU aggregates, country data and all other breakdowns are re-computed accordingly.
+Data are considered final by October of the following reference year.
+17.2. Data revision - practice
+Reported errors and late data submissions result in corrections of the disseminated data. These are routine revisions of data that are not yet final (monthly data are generally considered final in October following the reference year). In many instances however, national practices allow corrections of the disseminated data for historical series, as well. (See (1) below for more information)
+Reported errors are corrected in the disseminated data as soon as the correct data have been validated. Corrections are carried out in connection with the regular scheduled data dissemination. Data are only published once they are deemed to be sufficiently complete for all data providers. (See (1))
+Whenever new data are provided and validated, the already disseminated data are updated, for all breakdowns. EU and euro area aggregates are re-computed. Revised monthly data are automatically reflected in yearly time series. Domain and temporal consistencies are therefore ensured. (See (2))
+Revisions are documented and communicated monthly, measuring the revision both in terms of the value change and the percentage change. To distinguish among regular/routine revisions, significant revisions and major revisions, Eurostat and Member States have agreed on thresholds to define different levels of revision. Thresholds have been defined for both changes between subsequent data publication and between when the data were first published and the most recently available data. With each monthly release, Eurostat provides, for each reporting country, two reports:
+report on revisions between subsequent data deliveries
+report on revisions between first and last data deliveries
+(See (3) below for more information).
+(1) Causes for revisions
+ITGS. DET data are revised frequently, mainly as a consequence of late statistical declarations from companies reporting their intra-EU trade statistics. Whenever late declarations become available, previous estimations are revised accordingly. Errors and omissions are other reasons for revisions, and they can impact both intra-EU and extra-EU trade data. ITG data are therefore revised through routine and unscheduled revisions.
+(2) Scope of the updates made
+Whenever monthly results already transmitted to Eurostat are subject to revision at national level, EU legislation requires that revised results are transmitted to Eurostat within the month following their availability. EU aggregates, country data and all other breakdowns are re-computed accordingly.
+(3) Revision schedule and communication of revisions
+Eurostat publishes revised data at the same time as the data for the new month available. The monthly release calendar of the Euro-indicator ‘International trade in goods’ is publicly available . At the same time, Eurostat publishes reports (as listed above) showing the revisions that were applied to the monthly EU and euro area aggregates as well as to EU countries’ data.
+Data are considered final by October of the following reference year. However, the month of release of the final data varies from country to country. For each reporting country, Eurostat publishes information on the timing of scheduled revisions and the release of the final data in its annual quality report.
+
+7.2. Confidentiality - data treatment
+Principle of passive confidentiality — The National Statistical Authority has to take appropriate measures only if requested to do so by companies which feel that their interests would be harmed by publication of the data. This principle is recommended by the United Nations in its IMTS 2010 publication and set out in the EU legislation for detailed statistics on intra- and extra-EU trade. It has the great advantage of limiting the loss of information for users and thus making the data more useful.
+Criteria for granting confidentiality — The choice of the criteria to be met by the company is left to the National Statistical Authority. The most common criteria are the following:
+the number of companies on the market is limited, e.g. fewer than three companies contribute to a single data cell; or
+the company is in a dominant position on the market (by representing, for instance, at least 75 % of the total trade) or is at least an important stakeholder for a specific data cell.
+Data elements possibly hidden – In detailed data, confidentiality can apply to the product code and/or the partner country. Information about a product or partner may be considered commercially sensitive by the provider of the statistical information for the trade value, the quantity or the unit value (value/quantity) which can be considered a proxy for the price. When confidentiality is granted, data are hidden at the detailed level, which means that the trade is not allocated to the real product code and/or the real partner. It is nevertheless included in the total trade of the reporting country (EU Member State or EFTA country) and even, wherever possible, allocated to the real chapter (i.e. to the real HS2 code). This minimum level of provision is set out in the EU legislation: Member States shall transmit data declared confidential to Eurostat so that they may be published at least at chapter level of the CN provided confidentiality is thereby ensured.

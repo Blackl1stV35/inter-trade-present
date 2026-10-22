@@ -1,0 +1,39 @@
+SOURCE_URL: https://www.svt.se/nyheter/lokalt/norrbotten/stegra-byter-vd-buskhe-tar-over
+RETRIEVED: 2026-10-22
+EXTRACTION: tag-stripped text of the saved HTML (article/main block); layout not reproduced
+og:title: Stegra bekräftar investeringsbehov – och byter vd
+article:published_time: 2026-09-30T10:08:09+02:00
+article:modified_time: 2026-09-30T16:49:09+02:00
+og:description: Ståltillverkaren Stegra behöver mer finansiering för att färdigställa stålverket i Boden. Samtidigt har styrelsen utsett den tidigare Saabchefen Håkan Buskhe till ny vd.
+ld_datePublished: 2026-09-30T10:08:09+02:00
+----
+Javascript är avstängt
+Javascript måste vara påslaget för att kunna spela video
+Läs mer om webbläsarstöd
+Ståltillverkaren Stegra behöver mer finansiering för att färdigställa stålverket i Boden. Samtidigt har styrelsen utsett den tidigare Saabchefen Håkan Buskhe till ny vd. Foto: Fredrik Sandberg/TTStegra bekräftar investeringsbehov – och byter vd
+Uppdaterad 30 september 2026Publicerad 30 september 2026
+Ståltillverkaren Stegra behöver mer finansiering för att färdigställa stålverket i Boden. Samtidigt har styrelsen utsett den tidigare Saabchefen Håkan Buskhe till ny vd.
+Beskeden kommer efter att Stegras nya styrelse gjort en fördjupad genomgång av bolaget och projektet under sina första 100 dagar.
+– När vi tillträdde sa vi att vi trodde att finansieringen skulle räcka, men att vi inte kunde utesluta att det skulle behövas mer. Nu har vi en samlad bild av projektet, investering för investering, hur långt vi har kommit och vad det har kostat, säger Stegras styrelseordförande Leif Johansson i ett pressmeddelande.
+Grönt stål
+1,4 miljarder euro – Stegras räddningspaket i hamn
+Stegra trappar upp i Boden – men långt ifrån full fart
+Bekräftar ökat finansieringsbehov
+Under tisdagen rapporterade Affärsvärlden uppgifter om att stålbolaget behöver ytterligare 10 miljarder för att färdigställa satsningen. 
+Stegra kommenterar inte någon summa i pressmeddelandet, men bekräftar att finansieringsbehovet har ökat.
+– Finansieringsbehovet är större än vi hade hoppats, men vi har en robust plan för att färdigställa projektet och identifierat större möjligheter för outsourcing och samarbetspartners än vi tidigare trott, säger Leif Johansson.
+Håkan Buskhe tar över som vd
+Håkan Buskhe tar över rollen som vd från den 1 november och ser med tillförsikt fram mot arbetet att färdigställa stålverket. 
+– Jag är beredd att göra det som krävs för att vi ska lyckas. Jag ser fram emot att arbeta tillsammans med de många kompetenta medarbetarna i Stegra, och att vara mycket på plats i Boden, skriver han i en kommentar till SVT. 
+Tidigare vd:n blir rådgivare
+Den tidigare vd:n Henrik Henriksson får fortsätta som rådgivare.
+”Henrik Henriksson fortsätter som rådgivare till bolaget, där hans kunskap om och erfarenhet från projektet är nödvändiga för att säkerställa genomförandet av projektet”, skriver Stegra.
+Grönt stål
+Stegra
+Stålindustri
+Industri
+Boden
+Relaterat
+1 min
+1,4 miljarder euro – Stegras räddningspaket i hamn
+24 juni 2026

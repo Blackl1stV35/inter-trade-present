@@ -1,0 +1,142 @@
+{
+ "status": "resolved",
+ "summary": "Checked live on 2026-10-22. Stegra's own 30 Sep 2026 100-day-review release (the workbook's [U16]) confirms more capital is needed to complete Boden. It gives no amount. It also says the timeline for green steel production \"remains as expected\" (no date) and that \"commitments to suppliers and customers remain\". No steel delivery or trial volume to Mercedes-Benz, BMW or anyone else is reported in any source I could open. The Stegra newsroom, swept for Apr 2025 to 16 Oct 2026 (44 items), has no first-hydrogen, first-iron, first-steel or delivery announcement, and Stegra's Jan 2026 thyssenkrupp release expects first deliveries from 2027. No new start date is published. The last specific company statement was around the turn of 2026/27 (Oct 2025, via TT), the timeline has been \"under review\" since 14 Apr 2026, and on 18 Jun 2026 Stegra declined to give a date. A customer schedule update promised for autumn is not public. No contract change has been reported, and no 2025-26 Mercedes-Benz or BMW statement about Stegra could be found. The EUR 1.4 bn round closed 24 Jun 2026, but the new gap (press: at least SEK 10 bn, unconfirmed) is unfunded. The new CEO starts 1 Nov and Kinnevik wrote Stegra down to zero on 15 Oct. Safest S9 Row 3 Limit line: \"Limit: Stegra's own 30 Sep 2026 review says more capital is needed to finish the Boden plant, the 2025 start dates in the BMW (2021) and Mercedes-Benz (2023) announcements have passed, no new start date is published and no delivery to either buyer is confirmed, so these are contracts and plans, not delivered tonnes.\" Slide-length version: \"Limit: Stegra says more capital is needed to finish Boden; the 2025 start dates have passed and no delivery to Mercedes-Benz or BMW is confirmed.\"",
+ "key_facts": [
+  {
+   "label": "Stegra 30 Sep 2026 review: more capital needed",
+   "value": "Additional capital is required to complete the Boden project; estimated completion costs are 'significantly higher than assumed in June', mainly substantial ramp-up costs after the prolonged scaling back of work earlier in 2026, plus inflation. No amount stated by Stegra.",
+   "as_of": "2026-09-30",
+   "source_url": "https://stegra.com/en/news-and-stories/stegra-implements-changes-following-100-day-review-under-new-owners--hkan-buskhe-appointed-ceo",
+   "confidence": "high"
+  },
+  {
+   "label": "Stegra 30 Sep 2026: timeline and customers",
+   "value": "Review 'shows that the timeline for green steel production remains as expected' (no calendar date); 'Work in Boden continues, and commitments to suppliers and customers remain' (generic; Mercedes-Benz and BMW not named).",
+   "as_of": "2026-09-30",
+   "source_url": "https://stegra.com/en/news-and-stories/stegra-implements-changes-following-100-day-review-under-new-owners--hkan-buskhe-appointed-ceo",
+   "confidence": "high"
+  },
+  {
+   "label": "New CEO",
+   "value": "Hakan Buskhe becomes CEO on 1 Nov 2026; Henrik Henriksson steps down and stays as adviser. On 6 Oct 2026 the Chief Project Officer role was removed and Area Directors for Green Steel, Green Iron and Balance of Plant were appointed.",
+   "as_of": "2026-10-06",
+   "source_url": "https://stegra.com/en/news-and-stories/stegra-implements-changes-to-project-organization",
+   "confidence": "high"
+  },
+  {
+   "label": "Size of new funding gap",
+   "value": "Not disclosed by Stegra. Press (Affarsvarlden via SVT, Tech.eu, GMK): at least SEK 10 bn (Tech.eu: around EUR 880m); Stegra declined to comment. Do not use as fact.",
+   "as_of": "2026-09-30",
+   "source_url": "https://www.svt.se/nyheter/lokalt/norrbotten/stegra-byter-vd-buskhe-tar-over",
+   "confidence": "low"
+  },
+  {
+   "label": "EUR 1.4 bn round",
+   "value": "Agreed in principle 14 Apr 2026 (timeline 'under review'); closed 24 Jun 2026, Wallenberg Investments-led, lenders 100% approval, 'project timeline is under review'.",
+   "as_of": "2026-06-24",
+   "source_url": "https://stegra.com/en/news-and-stories/stegra-announces-closing-of-14-billion-financing-round",
+   "confidence": "high"
+  },
+  {
+   "label": "Last specific start-date statement",
+   "value": "Production start postponed about three months to around the turn of 2026/2027 (CEO, 13 Oct 2025, reported by TT); Stegra's own release says 'a timeline extension of three months'. Since 14 Apr 2026 'under review'; on 18 Jun 2026 the press chief declined to give a date and said a plan would go to customers and closest stakeholders 'in the autumn'.",
+   "as_of": "2026-06-18",
+   "source_url": "https://www.tv4.se/artikel/tt-260618-stegraproduktion1-c34b91a5/oklart-nar-stegra-startar-komplex-ovning",
+   "confidence": "medium"
+  },
+  {
+   "label": "Deliveries to anyone",
+   "value": "None reported or confirmed (no trial volumes either). Newsroom sweep of 44 items shows no first hydrogen/iron/steel or delivery announcement; Stegra's 12 Jan 2026 thyssenkrupp release says first deliveries are expected to start in 2027. Absence of announcement is not proof of none.",
+   "as_of": "2026-10-22",
+   "source_url": "https://stegra.com/en/news-and-stories/thyssenkrupp-materials-services-and-stegra-agree-on-significant-multi-year-non-prime-steel-supply",
+   "confidence": "medium"
+  },
+  {
+   "label": "Construction state",
+   "value": "All 37 electrolyzer modules installed and moving to pre-commissioning/commissioning (2 Apr 2026); DRI tower about 120 m of 145 m (SVT, 11 Jun 2026); plant not complete per 30 Sep 2026 statement.",
+   "as_of": "2026-06-11",
+   "source_url": "https://stegra.com/en/news-and-stories/final-electrolyzer-module-installed-at-stegras-green-hydrogen-plant",
+   "confidence": "high"
+  },
+  {
+   "label": "Mercedes-Benz agreement",
+   "value": "7 Jun 2023: binding agreement (Stegra wording) for about 50,000 t/yr of green steel for European production; Mercedes-Benz wording 'almost CO2-free', 'The partner plans to start its production during 2025'; equity stake since 2021. No 2025-26 Mercedes statement found; live Mercedes page returns Not found.",
+   "as_of": "2023-06-07",
+   "source_url": "http://web.archive.org/web/20241101195326/https://group.mercedes-benz.com/responsibility/sustainability/climate-environment/h2-green-steel.html",
+   "confidence": "high"
+  },
+  {
+   "label": "BMW agreement",
+   "value": "20 Oct 2021 BMW press release: from 2025 BMW plans to source steel with up to 95% less CO2, first deliveries for Neue Klasse from 2025; final binding contract signed Aug 2022 (Stegra site 18 Aug, Cision 19 Aug 2022). Tonnage not disclosed. No 2025-26 BMW statement on Stegra found.",
+   "as_of": "2022-08-19",
+   "source_url": "https://www.press.bmwgroup.com/global/article/detail/T0350612EN/harnessing-wind-and-hydroelectric-power-from-the-arctic-circle-bmw-group-plans-to-source-steel",
+   "confidence": "high"
+  },
+  {
+   "label": "Investor signal",
+   "value": "Kinnevik (Q3 report, 15 Oct 2026) values Stegra at zero and will not take part in the current capital round (press report of an investor, not a Stegra statement).",
+   "as_of": "2026-10-15",
+   "source_url": "https://metal-supply.se/article/view/1251494/kinnevik_nollar_vardet_pa_stegra_avstar_kapitalrunda",
+   "confidence": "medium"
+  },
+  {
+   "label": "Stale company web copy",
+   "value": "Stegra's undated About-us page still says 'on track to produce green steel by 2026', which conflicts with its own Oct 2025 release and press reporting; do not cite for timing.",
+   "as_of": "2026-10-22",
+   "source_url": "https://stegra.com/en/about-us",
+   "confidence": "low"
+  }
+ ],
+ "files_written": [
+  "D:/Workspace/inter-trade-present/data/policy_status/stegra/README.md",
+  "D:/Workspace/inter-trade-present/data/policy_status/stegra/timeline_facts.csv",
+  "D:/Workspace/inter-trade-present/data/policy_status/stegra/customer_agreements.csv",
+  "D:/Workspace/inter-trade-present/data/policy_status/stegra/status_questions.csv",
+  "D:/Workspace/inter-trade-present/data/policy_status/stegra/stegra_newsroom_index.csv",
+  "D:/Workspace/inter-trade-present/data/policy_status/stegra/sources.csv",
+  "D:/Workspace/inter-trade-present/data/policy_status/stegra/raw/html (14 saved primary pages: Stegra releases, BMW PressClub, Wayback copy of the Mercedes-Benz page)",
+  "D:/Workspace/inter-trade-present/data/policy_status/stegra/raw/text (38 tag-stripped text extracts of every page relied on)"
+ ],
+ "discrepancies_vs_workbook": [
+  "Workbook [U16] (lines 135, 173): date 30 Sep 2026 and substance (more capital needed; higher completion and ramp-up costs) are CONFIRMED. The citation is incomplete. The release is titled 'Stegra implements changes following 100-day review under new owners - Hakan Buskhe appointed CEO', not 'Project review and further capital requirement'. It also says the production timeline 'remains as expected', the business case 'remains strong' and 'commitments to suppliers and customers remain'. The workbook conveys only the negative half.",
+  "Workbook [U15] (line 134): '20 October 2021 ... first deliveries from 2025' is CONFIRMED against BMW's own press release (from 2025 on; first deliveries for Neue Klasse from 2025; up to 95% lower CO2). Incomplete: a final binding contract was signed in Aug 2022 (Stegra site 18 Aug 2022; Cision 19 Aug 2022 12:30 CET). Tonnage is not disclosed.",
+  "Workbook [U14] (line 133): 'June 2023, about 50,000 t per year' is CONFIRMED (7 Jun 2023). Wording difference: Mercedes-Benz calls it 'almost CO2-free' steel and Stegra calls it a binding agreement; the workbook's 'lower-carbon-footprint steel' is safe but vaguer. Mercedes-Benz also stated that the partner planned to start production during 2025.",
+  "Not in the workbook: no replacement start date is published (last specific: around the turn of 2026/27 per CEO Oct 2025; 'under review' since 14 Apr 2026; 'as expected' without a date on 30 Sep 2026). A customer schedule update was promised for autumn 2026 and is not public. The extra capital is not secured (CEO change 1 Nov; Kinnevik not participating).",
+  "Press imprecision to avoid copying: Tech.eu says Stegra 'secured' EUR 1.4 bn in April; Stegra says agreed in principle on 14 Apr and closed on 24 Jun 2026. Mining Metal News (15 Apr) repeats stale items (continuous operations by late 2026; electrolysis cells missing) that conflict with Stegra's own releases."
+ ],
+ "outline_changes": [
+  {
+   "slide": "S9",
+   "change": "Row 3 Limit line: replace 'limit: 30 Sep 2026 review says more capital needed, 2025 delivery expectations are not verified deliveries [U16]' with 'Limit: Stegra says more capital is needed to finish Boden; the 2025 start dates have passed and no delivery to Mercedes-Benz or BMW is confirmed [U16]' (full one-sentence version in the summary and README). Change the BMW label to 'BMW (buyer; announced 20 Oct 2021, final contract Aug 2022)'. Keep the Mercedes-Benz date as 7 Jun 2023. Keep 'plans, not delivered tonnes' in the message. Footer 'Does not show: delivered tonnes, cost parity -> A13' stays. Do not write 'delayed to 2027', 'contracts cancelled', or any SEK figure for the gap."
+  },
+  {
+   "slide": "S9 (source label)",
+   "change": "Rename [U16] to its exact title 'Stegra implements changes following 100-day review under new owners - Hakan Buskhe appointed CEO' (30 Sep 2026) and use the stegra.com URL in A15. Optionally add the same release's 'remains as expected' and 'commitments to customers remain' lines to the speaker note so the slide is not one-sided."
+  },
+  {
+   "slide": "S11",
+   "change": "Card 'Capital and delivery': change 'Stegra needs additional capital (30 Sep 2026) [U16]' to 'Stegra: more capital needed to finish Boden (30 Sep 2026, amount not published); no start date published; new CEO from 1 Nov 2026 [U16]'. Keep the EWE 6.5% line [U13]. Do not state the press figure (at least SEK 10 bn) on the slide. The banner 'we do not say green steel is cheaper' is unchanged."
+  },
+  {
+   "slide": "A13",
+   "change": "Add to the company-case fine print: (1) Mercedes-Benz, binding agreement 7 Jun 2023, about 50,000 t/yr for European press shops, Mercedes says 'almost CO2-free', planned production start during 2025, equity stake since 2021, North America is only an MoU, Mercedes-Benz is a buyer and does not operate the plant. (2) BMW, agreement announced 20 Oct 2021 (from 2025, first deliveries for Neue Klasse from 2025, up to 95% less CO2, scrap take-back), final contract Aug 2022, tonnage not disclosed, not 'all BMW steel'. (3) Status on 22 Oct 2026: plant not complete, no production start announced, no delivery reported, no published new start date, customer schedule update promised for autumn but not public, Stegra says customer commitments remain (generic), no Mercedes-Benz or BMW statement found. (4) Stegra's 2026 sales news concerns thyssenkrupp non-prime steel (first deliveries expected 2027) and Google certificates (no physical steel), which are not delivery evidence. Q&A answer: 'No delivery is confirmed; Stegra says commitments remain; the start date is unpublished.'"
+  },
+  {
+   "slide": "S12 (optional, not requested)",
+   "change": "[U16] is currently listed under CONSISTENT WITH 'dated commitments'. It is a limitation, so consider moving it to NOT SHOWN (delivered tonnes) or CONDITIONAL ON (finance, delivery)."
+  },
+  {
+   "slide": "Outline 'Open items' item 7 and 'Main risks'",
+   "change": "Mark 'Stegra status' as checked on 2026-10-22 and keep it as a refresh item. Re-check triggers: new CEO starts 1 Nov 2026; any financing announcement; the customer schedule update promised for autumn; any Mercedes-Benz or BMW statement. Sources to watch: stegra.com/en/news-and-stories, news.cision.com/stegra, SVT Norrbotten."
+  }
+ ],
+ "caveats": [
+  "Point-in-time check (2026-10-22); the Limit line can go stale before 16-18 Nov. Re-check the Stegra newsroom, Cision and SVT after 1 Nov and after any financing or customer announcement.",
+  "'No delivery reported' rests on absence of evidence in public sources; unannounced samples cannot be excluded. Use 'not confirmed', never 'none delivered'.",
+  "Could not obtain any current Mercedes-Benz or BMW statement: Mercedes-Benz group pages return Not found (live) or Access Denied (curl/WebFetch); Business Wire returned 403; the BMW Group Report 2025 PDF download failed, so it was not searched for 'Stegra'. The Mercedes-Benz 2023 text comes from a Wayback copy dated 2024-11-01.",
+  "Reuters, Bloomberg and FT were not accessible; Dagens Industri and Affarsvarlden are paywalled. Their content (the SEK 10 bn figure, the Oct 2025 FT insolvency item) is known only as relayed by SVT, Tech.eu, GMK and TT and is not used as fact.",
+  "Contract terms with Mercedes-Benz and BMW are not public, so whether delays trigger termination or renegotiation clauses is unknown; only Stegra's generic 'commitments remain' statement exists.",
+  "Search summaries mentioned a personal-blog claim that Porsche and Scania left and a Bloomberg item of 13 May 2026 on unlocking EUR 1.5 bn of debt. Neither was opened and neither is used.",
+  "Stegra's undated About-us page still says 'on track to produce green steel by 2026'; this stale copy conflicts with dated releases and was not used."
+ ]
+}

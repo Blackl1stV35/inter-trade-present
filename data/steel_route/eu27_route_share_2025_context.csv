@@ -1,0 +1,20 @@
+country,crude_steel_Mt_2025,oxygen_pct,electric_pct,note
+Austria,7.6,93.6,6.4,
+Belgium,7.2,74.0,26.0,
+Bulgaria,0.5,,100.0,"dash in source; left blank, not zero-filled"
+Czechia,2.5,96.3,3.7,
+Finland,3.7,64.4,35.6,
+France,9.9,63.6,36.4,
+Germany,34.1,69.4,30.6,
+Greece,1.3,,100.0,"dash in source; left blank, not zero-filled"
+Italy,20.7,9.9,90.1,
+Luxembourg,1.8,,100.0,"dash in source; left blank, not zero-filled"
+Netherlands,6.5,100.0,,"dash in source; left blank, not zero-filled"
+Poland,7.2,45.0,55.0,
+Portugal,2.1,,100.0,"dash in source; left blank, not zero-filled"
+Romania,0.8,4.1,95.9,
+Slovakia,3.6,90.0,10.0,
+Slovenia,0.6,,100.0,"dash in source; left blank, not zero-filled"
+Spain,11.8,28.3,71.7,
+Sweden,4.0,66.9,33.1,
+European Union (27),126.0,54.2,45.8,

@@ -1,0 +1,308 @@
+          Council of the
+          European Union
+
+                                     Brussels, 25 September 2026
+                                     (OR. en)
+
+Interinstitutional Files:            13435/26
+    2026/0210 (COD)
+    2026/0212 (COD)                  LIMITE
+
+                                     CLIMA 466
+                                     ENV 1104
+                                     ENER 585
+                                     TRANS 567
+                                     IND 556
+                                     COMPET 1097
+                                     MI 910
+                                     ECOFIN 1200
+                                     CODEC 1712
+
+NOTE      General Secretariat of the Council
+From:
+To:       Permanent Representatives Committee/Council
+Subject:
+          Proposal for a Directive of the European Parliament and of the Council
+          amending Directive 2003/87/EC and Decision (EU) 2015/1814 as regards
+          driving competitiveness and cost-effective decarbonisation
+
+          and
+
+          Proposal for a Regulation of the European Parliament and of the Council
+          amending Regulation (EU) 2015/757 and Regulation (EU) 2023/1805 to
+          simplify and streamline monitoring, reporting and verification and to align
+          with revisions of the EU Emissions Trading System
+
+          - Policy debate
+
+In view of the Council (Environment) on 12 October 2026, a background paper from the Presidency
+with questions to Ministers on the proposals is contained in the Annex.
+
+The Committee of Permanent Representatives is invited to take note of the background note and to
+forward it to the Council.
+
+13435/26                                                                               1
+
+                           TREE.1.A  LIMITE                       EN
+                                                                        ANNEX
+
+                      EU Emissions Trading System Review
+
+                                    - Policy debate -
+          - Presidency background paper with questions for Ministers -
+
+I. BACKGROUND
+
+The EU Emissions Trading System (ETS) was launched in 2005 and has remained a global standard
+setter, with 41 similar systems in place covering 26% of global emissions. The Directive has seen
+multiple revisions since its adoption to ensure alignment with the EU's overall climate ambition.
+
+On 17 July 2026, the European Commission submitted the above-mentioned legislative proposals as
+part of the EU ETS 1 Revision. The revision aims to modernise the ETS 1 system in view of the
+EU's 2040 climate goals set out in the EU Climate Law while increasing investments in
+decarbonisation of industry, ensuring its long-term competitiveness.
+
+On 24 April 2026, the Presidents of the European Parliament, Council and Commission signed a
+Joint Declaration committing to achieve the `One Europe, One Market Roadmap'. Within this,
+Leaders committed to a successful completion of the EU ETS 1 revision by Q1 2027. To facilitate
+this, the Irish Presidency is aiming to achieve a General Approach at the December Environment
+Council.
+
+II. STATE OF PLAY, OVERVIEW OF KEY ELEMENTS OF PROPOSALS
+
+Since the publication of the Commission's proposals, the Presidency has organised Working Party
+meetings and in addition some informal videoconferences with the participation of experts from
+capitals. At the start of the process, the Presidency divided the proposals into thematic blocks to
+facilitate focused discussions given their broad nature.
+
+Member States are making progress on some elements of the review already and the Presidency is
+aiming to issue a first compromise text on those less contentious aspects after the Environment
+Council on 12 October 2026.
+
+13435/26                                                                2
+ANNEX
+          TREE.1.A  LIMITE                                              EN
+However, the Presidency has identified three key areas where views diverge widely and where
+Ministerial guidance would be particularly beneficial at this time. A summary of the proposed
+changes within these key areas are provided below along with guiding questions.
+
+a. Overall trajectory of ambition
+
+     i) Linear Reduction Factor
+
+The Commission has proposed to slow the annual reduction of the overall cap on allowances
+(Linear Reduction Factor) and to continue to issue allowances into the 2040s. The Commission has
+stated it is designed to be aligned with the EU-wide 2040 target including with the use of
+international carbon credits. The proposal updates the Linear Reduction Factor from 4.4% to 3.7%
+for 2031-2035, with the introduction of a slower decrease in a second period 1.7% from 2036-2040
+depending on the availability of international carbon credits. If insufficient credits are available, this
+will be automatically readjusted to 2.7%. The Commission will publish a report assessing the
+availability of such credits by 31 January 2033.
+
+    ii) International Credits
+
+Up to 260Mt of international carbon credits may be purchased to contribute to EU ETS emissions
+reductions targets from 2036-2040. These will be funded by the auctioning of up to 260 million
+allowances, purchased and managed by a centralised purchasing facility. The proposal requires such
+credits to be high quality, high integrity and cost-effective, with the full details of the credits
+available upon the adoption by the Commission of a separate legislative proposal.
+
+   iii) Domestic Permanent Carbon Removals
+
+In line with the EU-wide 2040 target, the proposal intends to incorporate domestic carbon removals
+into the EU ETS. As with international credits, there would be centralised purchasing, with the
+intention to auction 250 million allowances from 2031 to 2040 to generate revenue for the
+purchasing of an equivalent amount of domestic permanent removal units (from domestic
+permanent biogenic emissions capture with carbon storage (BioCCS) and Direct Air Carbon
+Capture and Storage (DACCS) technologies certified under the EU Carbon Removal Certification
+Framework). A review clause is in place for December 2034 to examine, amongst other things,
+nature-based removals.
+
+13435/26                    3
+ANNEX
+          TREE.1.A  LIMITE  EN
+    iv) Free Allocation Extension and Carbon Border Adjustment Mechanism (CBAM)
+
+For sectors considered at risk of carbon leakage, the Commission proposal extends free allocation
+from 2030 to 2040. Free allocation from 2031 would be conditional on investment in
+decarbonisation in the EU.
+
+The proposal further aims to reduce carbon leakage risk by slowing down CBAM phase-in from
+2034 to 2038. For CBAM sectors, the CBAM factor (the rate at which free allocation is reduced) is
+amended.
+
+b. Distribution and use of funds
+
+A significant number of allowances under the EU ETS are auctioned, generating revenues which
+are used both directly by Member States and indirectly through reinvestment into EU funds such as
+the Innovation Fund and the Modernisation Fund. The Innovation Fund supports the demonstration
+and early commercialisation of innovative low-carbon technologies, while the Modernisation Fund
+supports the modernisation of energy systems and improvements in energy efficiency for lower-
+income Member States.
+
+     i) Use of Member State auction revenues
+
+The Commission proposes to introduce the principle that more national revenues should flow back to
+ETS1 sectors and amend how Member States use auction revenues to tackle climate change with the
+introduction of priority spending categories. Member States would be required to allocate at least
+50% of ETS revenues to support decarbonisation in ETS1 sectors, in particular, in areas of industrial
+decarbonisation, clean energy, electricity grids, waste decarbonisation, low-carbon transport and
+research and innovation. The remaining 50% continues to be used for climate purposes more broadly.
+
+The proposal would prohibit spending which risks fossil-fuel lock-in in power generation. It also
+strengthens visibility and reporting obligations, requiring Member States to make the use of ETS
+funding more visible through common communication requirements and the use of standardised EU
+branding.
+
+13435/26                    4
+ANNEX
+          TREE.1.A  LIMITE  EN
+     ii) Industrial Decarbonisation Bank (IDB) and Investment Booster (IB)
+
+The purpose of the IDB is to scale up and deploy decarbonisation technologies for industry through
+supporting capital investment costs (including electrification, grid connection, energy storage and
+flexibility costs) and operational costs resulting in emission reduction or removals.
+During the first phase (2028-2030), 400 million allowances will be reserved to the IB from unused
+allowances of Phase 4. During the second phase (2031-2040), the IDB funding (400 million
+allowances from phase 5) will be administered primarily through competitive bidding.
+
+The IB (2028-2030) aims to fast-track investments with a `first in, first served' system , providing a
+fixed carbon premium for a period of maximum 10 years (paid in the form of allowances) to make
+industrial decarbonisation investments bankable.
+
+Projects in all Member States may be eligible for the IDB. 100 million allowances will be
+ringfenced specifically for lower GDP Member States (<75% of the Union average between 2022-
+2024). After 18 months, this reserve reduces to 60 million allowances.
+
+    iii) Innovation Fund
+
+The proposal extends the Innovation Fund beyond 2030 and allocates 50 million allowances until
+the end of 2030, and 200 million allowances from 2031 to 2040. The Fund may provide support in
+different forms, including grants, competitive budding, and contributions through instruments such
+as InvestEU. The Commission proposes to increase transparency in open calls for proposals, with
+screening criteria including: need for broad sectoral and geographical coverage, SME participation,
+and synergies with other support instruments.
+
+    iv) Modernisation Fund
+
+The aim of the Fund is to support energy system modernisation, efficiency and industrial
+decarbonisation in lower-income Member States. The Commission proposes to redistribute 2% of
+the cap to lower-income Member States, with a further 0.5% of the cap that beneficiary Member
+States can use to support industrial decarbonisation in their country through the IDB instrument,
+while making it more targeted:
+
+    - 95% minimum spending on priority investments;
+
+    - No fossil-fuel lock-in;
+
+13435/26                    5
+ANNEX
+          TREE.1.A  LIMITE  EN
+    - Eligibility updated to 12 Member States based on a GDP market of <75% of the EU average
+         (2022-2024 data); and
+
+    - Strengthened application of rule of law conditionality and strengthened transparency in use of
+         funds.
+
+In addition, the proposal retains the redistribution of 10% of auction volume as part of the
+redistribution efforts to enhance solidarity and foresees that lower-income Member States use their
+share through the Modernisation Fund.
+
+c. Sectoral scope
+
+     i) Aviation
+
+Aviation was first brought within the scope of the EU ETS in 2012. Under the system, aircraft
+operators are required to monitor, report and verify their carbon dioxide emissions and surrender
+allowances corresponding to those emissions. The aviation ETS currently applies to all airlines on
+flights within the European Economic Area (EEA), as well as flights between the EEA and
+Switzerland and the United Kingdom, while the EU ETS also implements the International Civil
+Aviation Organization's Carbon Offsetting and Reduction Scheme for International Aviation
+(CORSIA) on relevant international routes.
+
+In addition to implementing CORSIA, the proposal retains the current aviation ETS scope (flights
+within the EEA; flights between the EEA, CH and the UK) for 2027 and introducing an expansion
+from 2029 to 2032. Under this approach, from 2029 the ETS would apply to flights departing the
+EEA and arriving at certain third-country destinations located within 5,000 kilometres of Frankfurt,
+as well as all private jet flights contributing from 2028. An additional 110 million allowances from
+the extended scope are introduced to support the EU ETS' Sustainable Aviation Fuel (SAF) Support
+Mechanism [for all departing flights from the EEA from the same date in 2029]. Member States
+may also top-up this mechanism. It also amends the eligibility criteria under which aircraft
+operators can qualify for supports, by introducing restrictions in relation to where the SAF is
+produced. The proposal also removes the current distinction between commercial and non-
+commercial aircraft operators for ETS coverage purposes, thus bringing more business aviation
+operators within the scope of the system.
+
+13435/26                    6
+ANNEX
+          TREE.1.A  LIMITE  EN
+     ii) Maritime
+
+The Commission proposal revises the current treatment of offshore vessels, moving to an `activity'
+rather than `vessel' based approach for operations and voyages serving EU waters and worksites,
+and also seeks to expand the scope to small vessels of certain ship types between 400 and 5,000
+gross tonnage. MRV requirements would apply from 2029, with ETS then applying from 2031 with
+the resulting cap increase generating allowances to be attributed to SMAP support.
+
+The Commission proposes that the additional revenue be used for measures supporting
+decarbonisation investments in the maritime sector, top-up of the SMAP mechanism, and
+administrative expenses for implementation of the EU ETS.
+
+Existing maritime derogations are extended from 2030 until the end of 2035 for small islands,
+outermost regions, transnational public service contracts or obligations, and ice-class vessels, with a
+new derogation in the surrendering obligations for large container vessels involved in transshipment
+activity also proposed as a complementary measure to further tackle the risk of evasion and enhance
+a greater level-playing field relative to neighbouring non-EU ports.
+
+    iii) Waste
+
+The current Directive required that the Commission consider the inclusion of municipal waste
+incineration in EU ETS from 2028 (with potential opt-out to 2030). The Commission now proposes
+fully including municipal waste incineration activities with a capacity exceeding 3 tonnes per hour,
+through a gradual phase-in from 1 January 2031 reaching 100% of verified emissions coverage by
+2034 and onwards. Co-incineration of waste and non-municipal non-hazardous waste incineration
+was already covered under the "combustion of fuels" activity. Hazardous waste (and chemical
+recycling) remains excluded. Monitoring, reporting and verification will be extended to landfill
+emissions in parallel, while the upcoming Circular Economy Act plans to strengthen complementary
+landfill policies. Derogations are permitted until 2035 for outermost regions, as well as for Member
+States meeting at least two of three conditions. Dedicated support is provided for local authorities'
+waste management measures through the priority use of national ETS revenues, and for (co-
+)incineration installations through the different ETS Funds.
+
+The inclusion of municipal waste incineration downstream is interconnected with the provisions in
+the proposal incentivising the upstream capture of carbon for utilisation.
+
+13435/26                    7
+ANNEX
+          TREE.1.A  LIMITE  EN
+III. QUESTIONS FOR THE DEBATE
+
+The European Parliament, Council and Commission have collectively committed, through the One
+Europe, One Market Roadmap, to an ambitious deadline for the successful conclusion of the
+revision. In this context, Ministers are invited to assess progress and give guidance on the way
+forward recognising the impact changes may have on the overall balance of the proposal. The
+following questions may aid interventions:
+
+   1. The proposal updates the ambition of the EU ETS by amending the trajectory for
+          reduction in allowances, and introducing the use of international carbon credits and
+          domestic permanent carbon removals. Do you view the structure of the ambition as the
+          right one to achieve our agreed 2040 target?
+
+   2. The proposal places an increased emphasis on targeted funding to support the continued
+          decarbonisation of ETS 1 industrial sectors, while also addressing broader climate,
+          energy and social needs and ensuring continued solidarity among Member States. Does
+          the proposed funding framework and extension of free allocation (including for CBAM
+          sectors) strike the right balance in supporting industrial decarbonisation and
+          competitiveness, addressing the broader challenges, and providing sufficient flexibility
+          for Member States? Which elements should be potentially adjusted to improve this
+          balance?
+
+   3. The proposal expands the scope of the ETS 1 with regards to the aviation, maritime and
+          waste sectors, with the stated aim of incentivisation and increased support for
+          decarbonising these sectors. Do you have any priority issues with regards to the scope
+          changes?
+
+13435/26                    8
+ANNEX
+          TREE.1.A  LIMITE  EN
+

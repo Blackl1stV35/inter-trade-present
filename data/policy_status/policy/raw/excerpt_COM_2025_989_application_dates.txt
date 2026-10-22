@@ -1,0 +1,28 @@
+# EXCERPT of COM(2025) 989 final (Commission proposal of 17.12.2025), source: https://publications.europa.eu/resource/cellar/a837cf93-db4d-11f0-8da2-01aa75ed71a1.0001.03/DOC_1
+1_EN_ACT_part1_v9.docx 
+ EUROPEAN COMMISSION
+ Brussels, 17.12.2025
+ COM(2025) 989 final
+ 2025/0419(COD)
+ Proposal for a
+ REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+ amending Regulation (EU) 2023/956 as regards the extension of its scope to downstream goods and anti-circumvention measures
+ (Text with EEA relevance)
+ {SEC(2025) 989 final} - {SWD(2025) 987 final} - {SWD(2025) 988 final} - {SWD(2025) 989 final}
+ EXPLANATORY MEMORANDUM 
+ 1. CONTEXT OF THE PROPOSAL 
+138: Article 2 contains provisions on the entry into force and application of the proposed measures. To allow for the timely submission of the first CBAM declarations by 30 September 2027, the changes to the method used to calculate the emission factor for imported electricity and to the conditions for applying actual embedded emissions in imported electricity will apply to imports of electricity that occurred as of 1 January 2026. The changes requiring implementation in the CBAM registry or a launch at the start of the calendar year, including the extension of scope to downstream products, will apply on 1 January 2028. 
+226: (53) For the determination of embedded emissions of electricity, to allow for the submission of the first CBAM declarations by 30 September 2027 on the basis of this Regulation, the changes to the method used to calculate the emission factor for imported electricity and to the conditions for applying actual embedded emissions in imported electricity should apply to imports of electricity that occurred as of 1 January 2026. To provide sufficient predictability, the extension of the scope of Annex I to Regulation (EU) 2023/956 and to input materials (precursors) listed in Annex VIII should apply from 1 January 2028 , 
+267: ‘2a. Embedded emissions in input materials (precursors) listed in Annex VIII shall be considered in the determination of embedded emissions in goods.’; 
+350: ‘Before 1 January 2028, as well as every two years thereafter, the Commission shall present a report to the European Parliament and to the Council on the application of this Regulation and functioning of the CBAM. This report may, where appropriate, be accompanied by a legislative proposal or implementing or delegated acts adopted pursuant to this Regulation. The report shall contain at least the following: 
+375: (24) a new Annex VIII is added as set out in Annex III to this Regulation . 
+378: This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union . 
+380: However, Article 1(6), point (a), Article 1(8), points (a), (b) and (c), Article 1(21), (23), and (24), and point 2 of Annex II shall apply from 1 January 2028. 
+1484: The impact of extended number of CBAM goods (180 additional CN) – extended with downstream prodcuts will results in around 7500new importers. The the Risk management, Circumvention monitoring which was analysed, assessed, and included in Project charter and now will be extnedended to cover addtional goods and related features. The key objective of the Risk management component is supporting detection of the irregularities and limiting the risk of fraud. 
+ Article 2 
+ Entry into force and application 
+ This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union . 
+ Points 1 and 6 of Annex II, shall apply from 1 January 2026. 
+ However, Article 1(6), point (a), Article 1(8), points (a), (b) and (c), Article 1(21), (23), and (24), and point 2 of Annex II shall apply from 1 January 2028. 
+ This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+ Done at Brussels, 

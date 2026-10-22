@@ -437,5 +437,32 @@ log("other-table mismatches:", len(bad))
 for r in bad:
     log("   ", r)
 
+# --- Dataset B (German Steel Federation, steel mill products, all partners) vs Comext Chapter 72 WORLD -----
+dsB = {}
+i = next(k for k, l in enumerate(base) if l.startswith("## Dataset B"))
+for l in base[i:i + 14]:
+    m = re.match(r"^(\d{4}) \| ([\d.]+) \| ([\d.]+)$", l.strip())
+    if m:
+        dsB[int(m.group(1))] = (float(m.group(2)), float(m.group(3)))
+log("Dataset B rows parsed:", len(dsB), min(dsB), max(dsB))
+rows = []
+for y in range(2017, 2026):
+    xe, me, bv, xk, mk, bk, xu, mu = BAL[y]
+    sh, t1, t2 = MAT[y]
+    wx, wm = t2["world"][1], t1["world"][1]
+    bx, bm = dsB.get(y, (None, None))
+    rows.append([y, fmt(xk, 1), fmt(mk, 1), fmt(bk, 1), fmt(xe, 1), fmt(me, 1), fmt(bv, 1),
+                 fmt(None if wx is None else wx / 1000.0, 3), fmt(None if wm is None else wm / 1000.0, 3),
+                 fmt(None if (wx is None or wm is None) else (wx - wm) / 1000.0, 3),
+                 fmt(bx, 1), fmt(bm, 1), fmt(None if bx is None else bx - bm, 1),
+                 fmt(sh["imports"][1], 2), fmt(sh["exports"][1], 2), fmt(sh["imports"][0], 2), fmt(sh["exports"][0], 2)])
+write_csv("slide_table_2017_2025.csv",
+          ["year", "extra_eu_ch72_exports_kt", "extra_eu_ch72_imports_kt", "extra_eu_ch72_balance_kt",
+           "extra_eu_ch72_exports_eur_m", "extra_eu_ch72_imports_eur_m", "extra_eu_ch72_balance_eur_m",
+           "comext_ch72_world_exports_mt", "comext_ch72_world_imports_mt", "comext_ch72_world_balance_mt",
+           "datasetB_steel_mill_products_exports_mt", "datasetB_imports_mt", "datasetB_balance_mt_rounded_inputs",
+           "extra_eu_share_of_ch72_world_imports_mass_pct", "extra_eu_share_of_ch72_world_exports_mass_pct",
+           "extra_eu_share_of_ch72_world_imports_value_pct", "extra_eu_share_of_ch72_world_exports_value_pct"], rows)
+
 with open(os.path.join(HERE, "run_log.txt"), "w", encoding="utf-8") as f:
     f.write("\n".join(LOG) + "\n")

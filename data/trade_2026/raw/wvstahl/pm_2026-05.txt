@@ -1,0 +1,16 @@
+URL: https://www.wvstahl.de/pressemitteilungen/rohstahlerzeugung-im-mai-2026-fuenftes-plus-in-folge-aber-noch-keine-entwarnung/
+RETRIEVED_UTC: 2026-10-22T02:46:11Z
+PUBLISHED: 2026-06-19T10:37:22+02:00
+PDF: ['https://www.wvstahl.de/wp-content/uploads/20260619_PM_Stahlproduktion_Deutschland_Mai26.pdf']
+TITLE: Rohstahlerzeugung im Mai 2026: Fünftes Plus in Folge – aber noch keine Entwarnung
+DATELINE: Berlin, 19. Juni 2026 | Die Rohstahlproduktion in Deutschlan
+(Statistics table only; press-release prose omitted)
+
+Stahlproduktion in Deutschland im Mai 2026 in 1.000 t* Veränderung zum Vorjahresmonat* in 1.000 t** Veränderung zum Vorjahreszeitraum**
+Rohstahl gesamt 3.202 7,3% 15.695 8,8%
+Oxygenstahl 2.240 15,4% 10.853 11,9%
+Elektrostahl 962 -7,7% 4.842 2,4%
+Roheisen 1.959 6,9% 9.891 9,8%
+Warmgewalzte Stahlerzeugnisse 2.650 -0,4% 13.415 4,9%
+* Mai 2026 | ** Januar-Mai 2026
+Quelle: Wirtschaftsvereinigung Stahl

@@ -1,0 +1,17 @@
+SOURCE_URL: https://stegra.com/en/news-and-stories/h2-green-steel-and-bmw-group-sign-final-agreement-on-delivery-of-co2-reduced-steel
+RETRIEVED: 2026-10-22
+EXTRACTION: tag-stripped text of the saved HTML (article/main block); layout not reproduced
+og:title: H2 Green Steel and BMW sign agreement on CO2-reduced steel - Stegra
+og:description: The agreement addresses BMW Group’s upstream scope 3 emissions and includes recycling and end-of-life management measures.
+----
+BMW Group and H2 Green Steel have signed a final contract on the delivery of CO2-reduced steel. The agreement addresses BMW Group’s upstream scope 3 emissions and includes recycling and end-of-life management measures.
+As part of solidifying a binding agreement, BMW Group and H2 Green Steel have also agreed on technical cooperation which will include several measures that address BMW Group’s Science Based Targets and contribute to meeting its ambitious CO2 reduction timeline.
+H2 Green Steel is committed to the Scope 1, 2 and upstream Scope 3 requirements as defined in the GHG Protocol. The company has a gross embodied carbon emission intensity obligation per tonne of steel, included in its customer contracts. H2 Green Steel’s work to reduce emissions will impact BMW Group’s material supply chain and its upstream Scope 3 emissions. 
+Additionally, recycling scrap is an important part of the equation which further ensures circularity. In a pioneering move, both companies have therefore agreed to have 40 percent of the pre-consumer steel scrap of the volumes returned to H2 Green Steel's electric arc furnaces for re-cycling. 
+According to H2 Green Steel’s definition of green steel, actual CO2 reductions and improving circularity are both key. Therefore, green steel must be produced from a combination of a significant amount of green virgin iron and scrap in a production process which uses electricity from renewable energy sources. The total CO2 emissions in such a process must be more than 90 percent lower than that of traditional steelmaking in a blast furnace process. 
+We are on a mission to decarbonize the steel industry. Working with progressive companies like BMW Group, pushes us to be better both in our own operations and our value chain. It also pushes us to be an even better partner to our customers and raises the bar for industry peers on the decarbonization journey.
+Henrik HenrikssonCEO of H2 Green Steel.
+Previous
+H2 Green Steel completes €190 million funding round
+Next
+H2 Green Steel starts preparing Boden site for construction

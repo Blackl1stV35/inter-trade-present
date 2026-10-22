@@ -1,0 +1,16 @@
+URL: https://www.wvstahl.de/pressemitteilungen/rohstahlerzeugung-im-august-2026-weiterhin-verhaltene-erholung/
+RETRIEVED_UTC: 2026-10-22T02:46:17Z
+PUBLISHED: 2026-09-22T08:51:15+02:00
+PDF: ['https://www.wvstahl.de/wp-content/uploads/20260922_PM_Stahlproduktion_Deutschland_August26.pdf']
+TITLE: Rohstahlerzeugung im August 2026: Weiterhin verhaltene Erholung
+DATELINE: Berlin, 22. September 2026 | Die Rohstahlproduktion in Deuts
+(Statistics table only; press-release prose omitted)
+
+Stahlproduktion in Deutschland im August 2026 in 1.000 t* Veränderung zum Vorjahresmonat* in 1.000 t** Veränderung zum Vorjahreszeitraum**
+Rohstahl gesamt 2.594 1,7% 23.902 6,3%
+Oxygenstahl 1.874 -2,0% 16.464 7,2%
+Elektrostahl 720 13,0% 7.438 4,3%
+Roheisen 1.649 -5,5% 14.936 5,7%
+Warmgewalzte Stahlerzeugnisse 2.356 4,1% 21.004 4,2%
+* August 2026 | ** Januar-August 2026
+Quelle: Wirtschaftsvereinigung Stahl

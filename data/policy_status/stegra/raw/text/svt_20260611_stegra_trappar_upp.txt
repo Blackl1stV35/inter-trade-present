@@ -1,0 +1,39 @@
+SOURCE_URL: https://www.svt.se/nyheter/lokalt/norrbotten/stegra-trappar-upp-i-boden-men-langt-ifran-full-fart
+RETRIEVED: 2026-10-22
+EXTRACTION: tag-stripped text of the saved HTML (article/main block); layout not reproduced
+og:title: Stegra trappar upp i Boden – men långt ifrån full fart
+article:published_time: 2026-06-11T13:08:53+02:00
+article:modified_time: 2026-06-11T13:16:55+02:00
+og:description: Dri-tornet prioriteras när Stegra trappar upp bygget. Målet är 4 000–5 000 personer på plats, men mycket återstår innan toppfart.
+ld_datePublished: 2026-06-11T13:08:53+02:00
+----
+Javascript är avstängt
+Javascript måste vara påslaget för att kunna spela video
+Läs mer om webbläsarstöd
+Hör Stegras operativa vd Niklas Wass berätta om läget just nu. Foto: Johan Jonsson/SVTStegra trappar upp i Boden – men långt ifrån full fart
+Uppdaterad 11 juni 2026Publicerad 11 juni 2026
+Stegra har säkrat finansieringen av stålverksbygget i Boden – men verksamheten är inte igång i full styrka. Antalet arbetare på området är betydligt färre än under byggets mest intensiva period.
+– Vi kommer att rampa upp, säger Niklas Wass, operativ vd.
+Snart har två månader gått sedan Stegra säkrade nytt kapital och fick en ny huvudägare i form av Wallenberg Investments. Finansieringen räddade projektet efter en period av osäkerhet som under hösten och vintern ledde till kraftigt minskad aktivitet på byggområdet.
+Många entreprenörer lämnade då arbetsplatsen och byggtakten bromsades in. Än idag är bemanningen betydligt lägre än under rekordnivåerna sommaren 2025 men målet är att fördubbla styrkan.
+– Vi ska upp till mellan 4 000 och 5 000 personer. Under sommaren kommer vi att successivt ta in fler entreprenörer och arbetare, säger Niklas Wass.
+Industriboomen i norr
+Förslag: Ny miljardfond ska hjälpa teknikbolag att växa i Sverige
+Muddringen av Malmporten: ”Vi breddar inte några landytor”
+120 meter högt ”järntorn” växer
+Den mest synliga delen av anläggningen är DRI-tornet, där järnmalm omvandlas till direktreducerat järn – grunden i produktionen av fossilfri järnsvamp.
+Tornet sträcker sig nu omkring 120 meter över marken. När konstruktionen är färdig ska den nå 145 meters höjd.
+– Under sommaren kommer vi att färdigställa den återstående höjden.
+Inget nytt besked om produktionsstart
+Tidigare har Stegra gått ut med att produktionen ska starta i början av 2027. Men en något mer exakt prognos kan den operativa chefen inte ge.
+– Att starta en sådan här anläggning är mer komplext än att bara trycka på en grön knapp, säger Niklas Wass.
+Industriboomen i norr
+Grönt stål
+Stegra
+Grön omställning
+Stålindustri
+Boden
+Relaterat
+2 min
+Prislapp på 800 miljoner – så betalas järnvägen till Stegra
+9 juni 2026

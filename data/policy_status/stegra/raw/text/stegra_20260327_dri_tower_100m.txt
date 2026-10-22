@@ -1,0 +1,16 @@
+SOURCE_URL: https://stegra.com/en/news-and-stories/dri-tower-passes-100-meters
+RETRIEVED: 2026-10-22
+EXTRACTION: tag-stripped text of the saved HTML (article/main block); layout not reproduced
+og:title: Stegra
+----
+A new landmark in Boden is taking shape in the sky. 
+It was the early hours of a misty morning that Stegra’s tower for direct reduction of iron (DRI) reached a new milestone. The third pre-assembled structural module was lifted into place, taking the tower well beyond the 100-meter mark.
+This module alone was 20 meters high and weighed 250 tonnes. It was lifted with the 1350-tonne crawler crane. Pre-assembly is done on the ground to as large extent as possible to reduce the work at high altitudes – safety first.
+Behind this milestone lies extensive work and collaboration between engineering, procurement, construction and operations teams. Heavy lifts are very wind sensitive but challenging weather can be navigated through proper planning and safe execution and the team proved that with this lift.
+Francisco VerasArea Director for green iron
+Stegra is now one step closer to the tower’s full height of 145 meters, and another step closer to strengthening Europe’s supply of green steel.
+The company is partly financed by the EU Innovation Fund and the Swedish Energy Agency, and with these organizations’ support Stegra continues on its journey with determination, pushing boundaries and getting closer to delivering green steel at scale.
+Previous
+Meet Sanna Johansson - Shift manager
+Next
+The brain of the factory – inside Stegra’s first data center installation

@@ -1,0 +1,13 @@
+question,status_as_of_2026_10_22,answer,basis
+Is the Boden plant complete?,NO (company statement),Stegra says additional capital is required to complete the project (30 Sep 2026).,T17
+"Has Stegra announced first hydrogen, iron or steel production?",NOT FOUND,No such announcement in the Stegra newsroom through 16 Oct 2026 or in the press items checked.,T26
+Has any steel been delivered to Mercedes-Benz?,NOT CONFIRMED (none reported),No source reports a delivery; no Mercedes-Benz or Stegra statement of delivery.,"T26, customer_agreements.csv"
+Has any steel been delivered to BMW?,NOT CONFIRMED (none reported),Same as Mercedes-Benz.,"T26, customer_agreements.csv"
+Has any steel been delivered to anyone (trial volumes included)?,NOT CONFIRMED (none reported),"No trial volume reported. The latest delivery-timing statement by Stegra that I found (thyssenkrupp release, 12 Jan 2026) says first deliveries are expected to start in 2027.","T07, T26"
+Is there a published new start date?,NO,"Last specific statement: around the turn of 2026/27 (CEO, Oct 2025, via TT). Since 14 Apr 2026 ""under review""; 18 Jun 2026 no date given; 30 Sep 2026 ""remains as expected"" without a date.","T05, T06, T11, T13, T18"
+Do press reports say 2027?,"YES, unofficial",SVT (Jun 2026): earlier stated early 2027; Canary (Jan 2026): operations next year. Not a company commitment now.,"T08, T12"
+How much more capital is needed?,NOT DISCLOSED by Stegra,"Press (Affarsvarlden via SVT, Tech.eu, GMK): at least SEK 10 bn, unconfirmed.",T21
+Is the extra financing secured?,NO (as of 30 Sep and no later announcement found),Dialogue with shareholders and financiers ongoing; Kinnevik (15 Oct) will not take part.,"T19, T23"
+Have Mercedes-Benz or BMW contracts been cancelled or changed?,NO REPORT FOUND,Stegra: commitments to customers remain (generic). Contract terms are not public; no customer statement found.,T19
+Have Mercedes-Benz or BMW issued new statements about Stegra?,NO UPDATE FOUND,Mercedes group pages return Not found; BMW report PDF not accessible; no news item quotes either company in 2026.,"T04, customer_agreements.csv"
+Will customers get a revised schedule?,"PROMISED, NOT PUBLIC",Press chief said in June 2026 a plan would go to customers and closest stakeholders in the autumn.,T13

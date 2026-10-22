@@ -1,0 +1,21 @@
+SOURCE_URL: https://stegra.com/en/news-and-stories/thyssenkrupp-materials-services-and-stegra-agree-on-significant-multi-year-non-prime-steel-supply
+RETRIEVED: 2026-10-22
+EXTRACTION: tag-stripped text of the saved HTML (article/main block); layout not reproduced
+og:title: Stegra in agreement with thyssenkrupp Materials Services - Stegra
+og:description: thyssenkrupp Materials Processing Europe has signed an agreement with Stegra for the delivery of steel from Stegra’s site in Boden, Sweden. 
+----
+thyssenkrupp Materials Processing Europe has signed an agreement with Stegra for the delivery of steel from Stegra’s site in Boden, Sweden. First deliveries are expected to start in 2027. The total tonnage of the agreement will be in the high-six-digit range.
+In the multi-year agreement, thyssenkrupp Materials Processing Europe will acquire significant amounts of non-prime steel from Stegra to supply its customers in various industries across Europe. 
+At thyssenkrupp Materials Processing Europe, we have the customer base, the logistics capabilities and the processing network to handle these large amounts of steel. At the same time, we are also teaming up with Stegra to support the ramp-up of their large-scale facilities in Boden and their efforts to decarbonize the steel industry.
+Heather WijdekopCEO of the Processing business unit at thyssenkrupp Materials Services
+thyssenkrupp Materials Processing Europe is part of thyssenkrupp Materials Services and is a major European steel and aluminum service center. It supplies processed steel products based on each customer’s specifications in segments including automotive suppliers, construction and OEMs. 
+Stegra is currently building a new steel production facility in Boden, Sweden, which will produce steel with green hydrogen from renewable electricity. Due to the nature of the steel production process, steel mills produce a certain amount of non-prime steel: material that doesn’t meet the highest quality standards that certain applications may require, but is still a strong and durable material eligible for various uses. As a result, non-prime steel makes up a relevant portion of the steel market in Europe.
+A partner for non-prime steel is important for the ramp up of our steel mill and we see this as the start of a long-term partnership with thyssenkrupp Material Services as a key player in the market. Together we can drive an even stronger pull for steel products made via the green hydrogen route.
+Stephan FlapperHead of Commercial, Stegra
+Although Stegra’s Boden site uses only hydrogen and renewable electricity, the non-prime steel purchased by thyssenkrupp Materials Services in the course of this agreement will not be considered to be CO2-reduced as Stegra will sell the green value as Environmental Attribute Certificates (EACs) to other customers in the prime steel market.
+Stegra announced its first agreement for environmental attribute certificates in September 2025. Agreements for non-prime steel are crucial in the development of the market for environmental attribute certificates in steel. 
+To ensure there is no double counting of emission performance, the buyer of the physical steel will be obliged to commit to not making any green claims.
+Previous
+Is the steel really green?
+Next
+Stegra granted additional state aid from the Industrial Leap

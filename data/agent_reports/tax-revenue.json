@@ -1,0 +1,195 @@
+{
+ "status": "resolved",
+ "summary": "The 'tax' variable can now be shown with verified data instead of 'not yet observable'. German EU-ETS 1 auction receipts were EUR 5.43 bn in 2025 (EUR 5.53 bn in 2024, peak EUR 7.66 bn in 2023), all earmarked by law to the KTF; the 2027 government draft would divert EUR 2.7 bn to the core budget (not yet enacted; Bundestag vote planned 27 Nov 2026). CBAM receipts are not German tax revenue: Member States sell the certificates from 1 Feb 2027, there is no EU earmark, no own resource today (75% EU share proposed from 2028; Council box brackets [90]%), and the 2027 draft budget books EUR 377.7 m in the core budget. Corporate, payroll and consumption tax effects are not measurable with these sources. The one gap: DEHSt's own annual table could not be opened (all dehst.de pages returned a maintenance page), so the series is rebuilt from the EEX auction files DEHSt cites and matches DEHSt/UBA published figures exactly where they can be compared; 2012 is partly derived. Everything is in D:/Workspace/inter-trade-present/data/tax_revenue/ (README.md, tables/, raw/, scripts/).",
+ "key_facts": [
+  {
+   "label": "German EU-ETS 1 auction receipts 2025",
+   "value": "EUR 5,428,994,590 (EUR 5.43 bn); 73,503,500 allowances; average EUR 73.86/t; UBA headline 'rund 5,4 Mrd'. Total ETS1 + fuel ETS = EUR 21.4 bn.",
+   "as_of": "2026-01-07",
+   "source_url": "https://www.umweltbundesamt.de/presse/pressemitteilungen/emissionshandel-21-milliarden-euro-fliessen-in-den",
+   "confidence": "high"
+  },
+  {
+   "label": "German EU-ETS 1 auction receipts by year, EUR million (EUA+EUAA, calendar year, auction-date basis)",
+   "value": "2012 303.8*; 2013 791.3; 2014 750.0; 2015 1,110.2; 2016 850.4; 2017 1,146.8; 2018 2,581.7; 2019 3,164.0; 2020 2,662.4; 2021 5,306.2; 2022 6,812.6; 2023 7,656.6; 2024 5,528.7; 2025 5,429.0. *2012 includes 22 auctions derived as price x volume (EUR 47.2 m). Rebuilt from EEX files (DEHSt's own web table unreachable); matches DEHSt Q3-2023 report to the euro and UBA/DEHSt price, volume and totals for 2021, 2023-2025.",
+   "as_of": "2026-10-22",
+   "source_url": "https://www.eex.com/fileadmin/EEX/Downloads/Markets/Environmentals/EUA_Emission_Spot_Primary_Market_Auction_Report/Archive_Reports/emission-spot-primary-market-auction-report-2012-2025-data.zip",
+   "confidence": "high"
+  },
+  {
+   "label": "Aviation (EUAA) share of German ETS1 auction receipts",
+   "value": "Separate German EUAA auctions: 2012 EUR 17.5 m (5.8%), 2015 16.9 m, 2016 4.6 m, 2017 5.1 m, 2018 16.3 m, 2019 17.9 m, 2020 20.6 m, 2021 35.3 m, 2022 40.2 m, 2023 74.1 m (1.0%), 2024 68.1 m (1.2%); none in the file for 2013, 2014 and 2025 (2025 aviation cannot be separated).",
+   "as_of": "2026-10-22",
+   "source_url": "https://www.eex.com/en/downloads",
+   "confidence": "high"
+  },
+  {
+   "label": "Where ETS1 auction money goes (by law and in the 2025 books)",
+   "value": "All to the Klima- und Transformationsfonds (KTFG section 4(1) no. 1, net of DEHSt financing needs); DEHSt: fully into the fund since 2012 (EKF until July 2022). KTF booked EUR 5,403.354 m ETS1 receipts in 2025 (Ist), Soll 2026 EUR 4,265.0 m, Soll 2027 EUR 2,509.790 m; fuel ETS EUR 15,987.887 m (Ist 2025). KTF total receipts EUR 37.4 bn (2025), EUR 38.9 bn (Soll 2027). KTF is 0.47% (EUR 25.6 m) below EEX auction total, reason not stated.",
+   "as_of": "2026-08-14",
+   "source_url": "https://dserver.bundestag.de/btd/21/073/2107300.pdf",
+   "confidence": "high"
+  },
+  {
+   "label": "2027 diversion of ETS1 receipts from KTF to core budget (draft)",
+   "value": "EUR 2.7 bn in 2027, over EUR 13 bn to 2030 (Bundesrat); Haushaltsbegleitgesetz 2027 amends KTFG section 4(1) no. 1. Bundesrat objected 25 Sep 2026; government rejected 14 Oct 2026. Bundestag Bereinigungssitzung 12 Nov, final vote 27 Nov 2026 (after the 16-18 Nov presentations). Not law.",
+   "as_of": "2026-10-14",
+   "source_url": "https://dserver.bundestag.de/btd/21/085/2108534.pdf",
+   "confidence": "high"
+  },
+  {
+   "label": "First date CBAM revenue can arise",
+   "value": "1 February 2027: 'From 1 February 2027, a Member State shall sell CBAM certificates on a common central platform to authorised CBAM declarants established in that Member State' (Art. 20(1) as amended). First surrender 30 Sep 2027 for 2026 imports; no receipt in 2026. Workbook date confirmed.",
+   "as_of": "2025-10-17",
+   "source_url": "https://eur-lex.europa.eu/eli/reg/2025/2083/oj/eng",
+   "confidence": "high"
+  },
+  {
+   "label": "Who keeps CBAM revenue under current law",
+   "value": "The selling Member State (declarants established there). Regulation 2023/956 has no revenue-use or earmark article (recital 64: Member States collect; recital 74: CBAM own resource only being worked towards). Platform fees are separate Union assigned revenue. Not an EU own resource today.",
+   "as_of": "2025-10-17",
+   "source_url": "https://eur-lex.europa.eu/eli/reg/2023/956/oj/eng",
+   "confidence": "high"
+  },
+  {
+   "label": "German draft budget 2027: CBAM receipts",
+   "value": "EUR 377.736 m, Einzelplan 60 Kap. 6002 Tit. 132 02 (managed by BMUKN), no 2026 Soll or 2025 Ist; not in Kap. 6001 'Steuern' and not in the KTF; Bundesrat rounds it to 400 million. Budget estimate for all CBAM goods, method not stated; not law until the vote.",
+   "as_of": "2026-08-14",
+   "source_url": "https://dserver.bundestag.de/btd/21/073/2107300.pdf",
+   "confidence": "high"
+  },
+  {
+   "label": "CBAM own-resource proposal and Council status",
+   "value": "Commission (COM(2025) 574, 16 Jul 2025): 75% call rate on CBAM certificate revenue to the EU budget from [1 Jan 2028]; about EUR 1.4 bn/yr (EUR 1.5 bn current prices, ECA). Council Negotiating Box 10 Oct 2026: call rate [90]% in brackets, no agreement; needs unanimity, EP consultation and ratification by all Member States.",
+   "as_of": "2026-10-10",
+   "source_url": "https://data.consilium.europa.eu/doc/document/ST-13922-2026-INIT/en/pdf",
+   "confidence": "high"
+  },
+  {
+   "label": "Is CBAM revenue German tax revenue?",
+   "value": "No. It is the sale price of certificates (a non-tax receipt of the selling Member State), booked outside the tax chapter in the German draft budget; not a tariff on the euro value of steel and not government consumption. National-accounts classification of CBAM receipts: no Eurostat/Destatis guidance found, left open.",
+   "as_of": "2026-10-22",
+   "source_url": "https://eur-lex.europa.eu/eli/reg/2023/956/oj/eng",
+   "confidence": "medium"
+  },
+  {
+   "label": "Context: Germany tax aggregates (Eurostat)",
+   "value": "2024: taxes D2+D5+D91 (general government) EUR 1,006,603 m (provisional); taxes and social contributions incl. imputed EUR 1,768,737 m; environmental taxes EUR 75,794 m = 1.75% of GDP, 4.29% of taxes and social contributions; GDP EUR 4,386,940 m. 2025 tax aggregates not yet published (blank, not zero).",
+   "as_of": "2026-10-21",
+   "source_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_taxag?format=JSON&lang=EN&geo=DE&unit=MIO_EUR&sector=S13",
+   "confidence": "high"
+  },
+  {
+   "label": "ETS1 receipts as share of context aggregates (context only)",
+   "value": "2024: 0.55% of taxes D2+D5+D91, 0.31% of taxes and social contributions, 7.3% of Eurostat environmental taxes, 0.126% of GDP; 2023: 0.79%, 0.45%, 10.8%, 0.180%; 2025: 0.120% of GDP (no 2025 tax denominator yet).",
+   "as_of": "2026-10-22",
+   "source_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/env_ac_tax?format=JSON&lang=EN&geo=DE",
+   "confidence": "high"
+  },
+  {
+   "label": "UBA/Destatis environmental taxes incl. ETS receipts",
+   "value": "EUR 76.7 bn in 2024 = 7.6% of total taxes (12.2% in 2005); explicitly includes emissions-trading auction receipts (national fuel ETS EUR 13.3 bn). Differs from Eurostat 75.8 bn by EUR 0.9 bn (unreconciled, different definitions); do not add ETS receipts to either total.",
+   "as_of": "2026-08-03",
+   "source_url": "https://www.umweltbundesamt.de/daten/umweltindikatoren/indikator-umweltbezogene-steuern",
+   "confidence": "high"
+  },
+  {
+   "label": "Tax channels not measurable with these sources",
+   "value": "Corporate income tax (Eurostat national total only: D51B_C2 EUR 125.1 bn in 2024; D51B has no observations for Germany), payroll taxes (D29C empty; employers' social contributions D611 EUR 302.3 bn national total), VAT/excise pass-through (national totals), CBAM receipts before Feb 2027, and any net fiscal effect. No industry, product or firm split and no counterfactual.",
+   "as_of": "2026-10-21",
+   "source_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_taxag?format=JSON&lang=EN&geo=DE&unit=MIO_EUR&sector=S13",
+   "confidence": "high"
+  },
+  {
+   "label": "National accounts timing of ETS1 receipts (inference)",
+   "value": "Eurostat D29F 'taxes on pollution' in year t equals German ETS1 auction receipts of year t-1 within EUR 1.2 m for 2017-2021, so national accounts appear to book ETS receipts as taxes one year later; federal budget treats them as non-tax KTF receipts. Inference, not stated by Eurostat or Destatis.",
+   "as_of": "2026-10-22",
+   "source_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_taxag?format=JSON&lang=EN&geo=DE&unit=MIO_EUR&sector=S13",
+   "confidence": "medium"
+  },
+  {
+   "label": "What KTF money funds (2027 draft Soll)",
+   "value": "Industry decarbonisation EUR 664.2 m; hydrogen in industrial production EUR 1,619.5 m; carbon contracts for difference EUR 100 m (commitment EUR 8.73 bn to 2048 per Bundestag service); compensation for electricity-intensive firms EUR 5,000 m (Soll 2026 4,000; Ist 2025 2,785.6). Plans, not delivered outcomes.",
+   "as_of": "2026-08-14",
+   "source_url": "https://dserver.bundestag.de/btd/21/073/2107300.pdf",
+   "confidence": "high"
+  }
+ ],
+ "files_written": [
+  "D:/Workspace/inter-trade-present/data/tax_revenue/README.md",
+  "D:/Workspace/inter-trade-present/data/tax_revenue/tables/ets1_auction_revenue_de_by_year.csv",
+  "D:/Workspace/inter-trade-present/data/tax_revenue/tables/ets1_auction_level_de_2012_2025.csv",
+  "D:/Workspace/inter-trade-present/data/tax_revenue/tables/budget_lines_ktf_and_core_2025_2027.csv",
+  "D:/Workspace/inter-trade-present/data/tax_revenue/tables/cbam_revenue_rules.csv",
+  "D:/Workspace/inter-trade-present/data/tax_revenue/tables/de_tax_context_eurostat_1995_2025.csv",
+  "D:/Workspace/inter-trade-present/data/tax_revenue/tables/de_tax_context_eurostat_long.csv",
+  "D:/Workspace/inter-trade-present/data/tax_revenue/tables/ets1_share_of_tax_context.csv",
+  "D:/Workspace/inter-trade-present/data/tax_revenue/tables/tax_channels_measurability.csv",
+  "D:/Workspace/inter-trade-present/data/tax_revenue/tables/crosschecks.csv",
+  "D:/Workspace/inter-trade-present/data/tax_revenue/tables/d29f_vs_ets1_lag_check.csv",
+  "D:/Workspace/inter-trade-present/data/tax_revenue/tables/source_register.csv",
+  "D:/Workspace/inter-trade-present/data/tax_revenue/scripts/build_ets_revenue_tables.py",
+  "D:/Workspace/inter-trade-present/data/tax_revenue/scripts/build_tax_context_tables.py",
+  "D:/Workspace/inter-trade-present/data/tax_revenue/scripts/build_static_tables.py",
+  "D:/Workspace/inter-trade-present/data/tax_revenue/scripts/probe_eurostat_availability.py",
+  "D:/Workspace/inter-trade-present/data/tax_revenue/raw/ (about 50 saved source documents and API responses, listed in tables/source_register.csv)"
+ ],
+ "discrepancies_vs_workbook": [
+  "The workbook has no tax numbers; only qualitative statements. Its one date, certificate sales from 1 Feb 2027 [U35], is confirmed in Regulation (EU) 2025/2083 Art. 20(1).",
+  "Outline S10 Tax row says 'ETS auction receipts and tax series not pulled': both are now pulled (ETS1 EUR 5.43 bn in 2025; Eurostat tax context to 2024).",
+  "Workbook 2.8 warns against treating 'the full EU receipts as revenue retained by Germany': under current law there is no pooled EU receipt; each Member State keeps (100%) what it sells to declarants established on its territory, so Germany's receipts depend on German-established declarants. An EU share (75% proposed, [90]% bracketed in the Council box) could start only from 2028 if adopted.",
+  "Workbook 2.8 asks to check the budget framework before assuming an earmark: checked. EU law has no CBAM earmark; the German 2027 draft books CBAM receipts (EUR 377.7 m) in the core budget, not the KTF. ETS1 receipts are earmarked to the KTF by KTFG section 4, but the 2027 draft diverts EUR 2.7 bn.",
+  "'Receipts are not automatically German tax revenue or G' (outline S10) is confirmed for CBAM; for ETS1 it depends on the definition: non-tax KTF receipts in the federal budget, but Eurostat D29F 'taxes on pollution' appears to contain them with a one-year lag (inference).",
+  "Bundesrat statement says EUR 400 million CBAM receipts in the 2027 core budget; the budget draft itself shows EUR 377.736 m (rounding).",
+  "KTF books EUR 5,403.4 m ETS1 receipts for 2025 versus EUR 5,429.0 m EEX auction total (0.47% lower; unexplained). UBA/Destatis environmental taxes 2024 EUR 76.7 bn versus Eurostat EUR 75.8 bn (definitions differ)."
+ ],
+ "outline_changes": [
+  {
+   "slide": "S10 Tax row",
+   "change": "Replace the row. Theory expects: 'CBAM receipts are sale proceeds, not tax'. What we can show: 'ETS auctions EUR 5.4 bn (2025), all to KTF'. Status chip: Observed (ETS) / Gap (CBAM, corporate, payroll). Add one line under the table: 'CBAM: first sales 1 Feb 2027; 2027 draft budget EUR 0.38 bn. Corporate and payroll tax effects: not measurable.' Tags: UBA press release 7 Jan 2026, EEX auction files, BT-Drs. 21/7300, Reg. (EU) 2025/2083. Do not describe either as a CBAM or steel effect."
+  },
+  {
+   "slide": "S10 G row",
+   "change": "What we can show becomes: 'Gov. consumption +1.5% real (2025); KTF plan 2027: EUR 38.9 bn'. Keep 'subsidies are not all G' and add 'KTF is mostly ETS-funded; transfers, not consumption'. Footer: add 'Tax row: receipts from EEX/UBA, shares from Eurostat; context only'."
+  },
+  {
+   "slide": "S13",
+   "change": "Add CHANGE item (5): 'Keep carbon receipts working for transition: ETS1 receipts go to the KTF by law (EUR 5.4 bn, 2025); the 2027 draft diverts EUR 2.7 bn to the core budget; CBAM receipts (EUR 0.38 bn planned) have no earmark.' Add 'use of carbon receipts' to the monitor strip and '27 Nov 2026 Bundestag budget vote' to next data points (the committee final session is 12 Nov, before the 16-18 Nov talks: re-check the status then). Keep label Team judgement."
+  },
+  {
+   "slide": "A6",
+   "change": "Extend A6 (S10's 'Does not show' backup) with a tax half-page: (a) ETS1 auction receipts 2012-2025 as a small table or bar with the EUAA aviation share (below 1.3% except 2012 and 2015); (b) CBAM revenue rules box: who sells, 1 Feb 2027, no earmark, not an EU own resource (75% proposed from 2028, [90]% bracketed), German draft EUR 377.7 m; (c) list of tax channels not measurable (corporate, payroll, consumption, net fiscal effect); (d) note that Eurostat (EUR 75.8 bn) and UBA/Destatis (EUR 76.7 bn, includes ETS receipts) environmental-tax totals differ, so ETS receipts are never added to either. Retitle A6 'NX, BOP and the tax row'."
+  },
+  {
+   "slide": "S12",
+   "change": "Add 'tax and net budget effects' to the NOT SHOWN column; no other change."
+  },
+  {
+   "slide": "A1",
+   "change": "Add fast answer: 'Is CBAM revenue German tax revenue? No: certificate sale proceeds, kept by the selling Member State, first from Feb 2027; the 2027 draft books EUR 0.38 bn in the core budget.'"
+  },
+  {
+   "slide": "A4",
+   "change": "In 'who pays', add: 'The Member State where the declarant is established collects the receipts (Art. 20(1)), not the state of customs entry.'"
+  },
+  {
+   "slide": "A15",
+   "change": "Add source tags for the 27 documents in data/tax_revenue/tables/source_register.csv (UBA press releases, EEX archive, BT-Drs. 21/7300, 21/7860, 21/8534, Reg. 2023/956 and 2025/2083, COM(2025) 574, Council 13922/26, ECA Opinion 04/2026, Eurostat env_ac_tax and gov_10a_taxag)."
+  },
+  {
+   "slide": "Open items list / Main risks",
+   "change": "Open item 7 (refresh before presenting): add 'Bundestag vote on the 2027 budget and the KTFG change (12 Nov / 27 Nov) and own-resource talks'. Main risks: replace 'why tax is not yet observable' with 'ETS receipts are observable; CBAM receipts start Feb 2027; corporate and payroll effects are not measurable'. Open item 'tax series not pulled' can be closed."
+  }
+ ],
+ "caveats": [
+  "DEHSt's own annual auction table could not be opened: every dehst.de URL returned a 188-byte maintenance page on 2026-10-22 and the Wayback Machine was offline. The series is rebuilt from the EEX files DEHSt cites and matches DEHSt's Q3-2023 report exactly and UBA's published prices, volumes and totals; the official table itself was not seen.",
+  "2012 is the least certain year: the EEX file has empty revenue cells for 22 of 55 German auctions; they are derived as price x volume (exact on all 637 reported rows) and flagged. No published 2012 total was available to compare.",
+  "KTF Ist 2025 for ETS1 (EUR 5,403.4 m) is EUR 25.6 m below the EEX auction total; reason not found. Auction-date basis also differs from national-accounts timing.",
+  "The EUR 377.7 m CBAM figure is a draft budget estimate for all CBAM goods, method not stated; the 2027 budget and the KTFG change are not law until the Bundestag votes (planned 27 Nov 2026).",
+  "Own-resource negotiations: latest Council text found is 10 Oct 2026 with bracketed numbers; the October 2026 European Council outcome was not available. Parliament's 28 Apr 2026 vote (370-201-84) was read through a fetch summary, not saved.",
+  "National-accounts classification of CBAM receipts: no Eurostat or Destatis guidance found. The one-year lag of D29F behind ETS1 receipts is my inference.",
+  "Eurostat 2022-2024 tax aggregates are provisional; 2025 tax aggregates and env_ac_tax 2025 are not published (left blank, not zero), so ETS1 shares of tax revenue stop at 2024.",
+  "No source gives auction receipts by paying sector or for steel; steel installations get free allocation, so the series must not be read as steel's payments.",
+  "Council document 12596/26 is marked LIMITE but was retrievable from the public register; Council 13922/26 is a negotiating document with bracketed (unagreed) figures."
+ ]
+}

@@ -1,0 +1,20 @@
+SOURCE_URL: https://stegra.com/en/news-and-stories/stegras-partners-for-port-and-logistics-operations-in-europe
+RETRIEVED: 2026-10-22
+EXTRACTION: tag-stripped text of the saved HTML (article/main block); layout not reproduced
+og:title:  Stegra's partners for port and logistics operations in Europe - Stegra
+og:description: Stegra develops its European logistics network with core logistics partners in Germany, Belgium and the UK.
+----
+Stegra develops its European logistics network with core logistics partners in Germany, Belgium and the UK.
+When bringing products from Northern Sweden to customers across Europe, Stegra’s logistics partners are important links in the supply chain. Stegra has selected three
+geographically complementary hubs and partners that provide access to important
+industrial regions and customer clusters.
+·  Haeger & Schmidt Logistics (HSL) in Duisburg, Germany will organize and execute Stegra’s transports from the port of entry in Antwerp to inland Europe, including via its own terminal in Duisburg. HSL has longstanding experience in steel logistics and provides multimodal transport solutions by barge, truck and rail, as well as logistics
+coordination and supply-chain services. The company focuses ambitiously on
+sustainability and digitalization. 
+· PSA Breakbulk in Antwerp, Belgium is a terminal operator that specializes in steel, breakbulk, metals and project cargo and that combines short-sea and deep-sea vessel calls with extensive barge, rail and road connections, providing multimodal access. The group has long experience in handling steel for major European steel producers and offers specialized equipment for handling steel coils.
+· TST – Thor Shortsea & Terminals in Hull, UK, is a terminal and logistics operator specializing in quality steel handling and warehousing. The company has integrated terminal, forwarding and transport capabilities and provides flexible multimodal logistics solutions throughout the UK. TST is committed to supporting the transition towards more sustainable industrial supply chains.
+Ports and logistics partners are critical links in our end-to-end logistics network, connecting our operations in northern Sweden with customers across Europe. Establishing strong partnerships with Haeger & Schmidt Logistics, PSA and TST give us the flexibility, reliability and geographic reach we need as we build our European supply chain. 
+Jenny MarinHead of logistics, Stegra
+Stegra will continue to develop its logistics network throughout Europe over time. In Sweden, Stegra has agreements with the ports of Luleå, Skellefteå and Umeå for inbound and outbound logistics. 
+Next
+Stegra implements changes to project organization

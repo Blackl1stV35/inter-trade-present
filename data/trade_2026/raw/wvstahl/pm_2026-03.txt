@@ -1,0 +1,16 @@
+URL: https://www.wvstahl.de/pressemitteilungen/leichte-erholung-der-rohstahlproduktion-in-deutschland-im-ersten-quartal-2026/
+RETRIEVED_UTC: 2026-10-22T02:46:08Z
+PUBLISHED: 2026-04-24T10:53:28+02:00
+PDF: ['https://www.wvstahl.de/wp-content/uploads/20260424_PM_Stahlproduktion_Deutschland_Mrz26.pdf']
+TITLE: Noch keine Anzeichen für eine Überwindung der Nachfrageschwäche Leichte Erholung der Rohstahlproduktion in Deutschland im ersten Quartal 2026
+DATELINE: Berlin, 24. April 2026 | Die Rohstahlproduktion in Deutschla
+(Statistics table only; press-release prose omitted)
+
+Stahlproduktion in Deutschland im März 2026 in 1.000 t* Veränderung zum Vorjahresmonat* in 1.000 t** Veränderung zum Vorjahreszeitraum**
+Rohstahl gesamt 3.345 7,5% 9.260 9,0%
+Oxygenstahl 2.209 7,2% 6.393 11,1%
+Elektrostahl 1.136 8,0% 2.866 4,6%
+Roheisen 2.022 6,7% 5.870 10,4%
+Warmgewalzte Stahlerzeugnisse 2.885 3,5% 8.012 4,9%
+* März 2026 | ** Januar-März 2026
+Quelle: Wirtschaftsvereinigung Stahl

@@ -186,6 +186,24 @@ with open(OUT / "net_trade_ch72_ytd.csv", "w", newline="", encoding="utf-8") as 
         exv, exk, _ = conv(ex_e, ex_q); imv, imk, _ = conv(im_e, im_q)
         w.writerow([f"{ms[0]}..{ms[-1]}", yr, f"{exv:.2f}", f"{imv:.2f}", f"{exv-imv:.2f}", f"{exk:.2f}", f"{imk:.2f}", f"{exk-imk:.2f}"])
 
+# ---------- sub-windows (descriptive only): Jan-Jun vs Jul-Aug, all products/flows ----------
+# The EU steel trade-defence instrument is reported by WV Stahl (press release 1 Jul 2026) to apply from 1 July 2026,
+# so Jul-Aug are its first two months. Two months of noisy data are NOT evidence of an effect.
+with open(OUT / "ytd_subwindows.csv", "w", newline="", encoding="utf-8") as fh:
+    w = csv.writer(fh)
+    w.writerow(["product_cn", "flow", "window_2026", "value_eur_m_2025", "value_eur_m_2026", "value_pct_change",
+                "mass_kt_2025", "mass_kt_2026", "mass_pct_change", "unit_value_eur_t_2025", "unit_value_eur_t_2026", "unit_value_pct_change"])
+    for p in ("72", "7208", "7204"):
+        for fl in ("1", "2"):
+            for label, ms in (("Jan-Jun", common_months[:6]), ("Jul-Aug", common_months[6:8])):
+                res, note = ytd(p, fl, ms)
+                if res is None:
+                    continue
+                v25, m25, u25 = res["2025"]; v26, m26, u26 = res["2026"]
+                pct = lambda a, b: (b / a - 1) * 100
+                w.writerow([p, FLOW_NAME[fl], label, f"{v25:.2f}", f"{v26:.2f}", f"{pct(v25, v26):+.1f}",
+                            f"{m25:.2f}", f"{m26:.2f}", f"{pct(m25, m26):+.1f}", f"{u25:.0f}", f"{u26:.0f}", f"{pct(u25, u26):+.1f}"])
+
 # ---------- annual cross-check ----------
 annual = {}
 for f in sorted(RAW.glob("annual_*.json")):

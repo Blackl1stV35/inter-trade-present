@@ -1,0 +1,16 @@
+URL: https://www.wvstahl.de/pressemitteilungen/rohstahlproduktion-in-deutschland-steigt-zum-jahresbeginn/
+RETRIEVED_UTC: 2026-10-22T02:46:05Z
+PUBLISHED: 2026-02-26T14:00:11+01:00
+PDF: ['https://www.wvstahl.de/wp-content/uploads/20260226_PM_Stahlproduktion_Deutschland_Jan26.pdf']
+TITLE: Deutlicher Abstand zum Zehnjahresmittel bleibt Rohstahlproduktion in Deutschland steigt zum Jahresbeginn
+DATELINE: Berlin, 26. Februar 2026 | Die Stahlproduktion in Deutschlan
+(Statistics table only; press-release prose omitted)
+
+Stahlproduktion in Deutschland im
+Januar 2026 in 1.000 t* Veränderung zum Vorjahresmonat*
+Rohstahl gesamt 3.083 15,0%
+Oxygenstahl 2.213 19,3%
+Elektrostahl 870 5.5%
+Roheisen 2.039 18,8%
+Warmgewalzte Stahlerzeugnisse 2.562 3,2%
+Quelle: Wirtschaftsvereinigung Stahl

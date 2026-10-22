@@ -1,0 +1,19 @@
+SOURCE_URL: https://stegra.com/en/news-and-stories/stegras-partners-for-maritime-transport
+RETRIEVED: 2026-10-22
+EXTRACTION: tag-stripped text of the saved HTML (article/main block); layout not reproduced
+og:title: Stegra's partners for maritime transport  - Stegra
+og:description: Stegra has selected leading sea transport companies for the management of its shipping operations.
+----
+Stegra has selected leading sea transport companies for the management of its shipping operations.
+Sea transport is an important part of the full supply chain and logistics solutions for Stegra. When designing the logistics network, Stegra has selected leading sea transport companies for the management of its shipping operations. These partners will support Stegra's inbound and outbound goods flow, not the least, in bringing scrap steel and iron to Boden and steel products from Boden to service centers or direct customers in different parts of Europe. 
+• ESL Shipping will operate Stegra’s European shipping network, transporting both input materials and finished products. The company brings a modern fleet, extensive Baltic experience and a strong commitment to sustainability.
+• Royal Wagenborg will also operate Stegra’s European shipping network by transporting both input materials and finished products. The company brings extensive experience in Baltic shipping, strong ice-class capabilities and a versatile fleet. 
+• Pangaea Logistics Solutions will secure iron ore deliveries and brings experience and expertise in dry bulk shipping, including ice-class and Arctic operations.
+• Clarksons has worked with Stegra as a strategic advisor, providing shipping and logistics expertise to design and implement efficient, scalable and lower-carbon ocean freight solutions that support its global supply chain. Clarksons is the world’s largest shipbroker.
+With these four experienced players with complementing areas of expertise, we get robust, scalable and efficient handling of the seagoing supply chains needed for our operations in Boden and we look forward to a fruitful collaboration.
+Jenny MarinHead of logistics, Stegra
+This follows earlier announcements about Stegra’s agreements with the ports of Luleå, Skellefteå and Umeå and the agreement with the state-owned Swedish railway operator Green Cargo for rail transports between the various ports and the green steel plant in Boden.
+Previous
+Google and Stegra in agreement for environmental attribute certificates
+Next
+Meet Betty Callne – Visit coordinator

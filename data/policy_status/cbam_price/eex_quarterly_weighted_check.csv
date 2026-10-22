@@ -1,0 +1,5 @@
+quarter,auctions_n,volume_tco2,last_auction_in_file,eex_volume_weighted_avg_all_auctions,eex_volume_weighted_avg_rounded_2dp,eex_simple_mean,eex_volume_weighted_avg_CAP3_EU_only,commission_published_price,matches_published_to_the_cent,note
+2026Q1,54,119928500,2026-03-31,75.3641,75.36,75.4707,75.2302,75.36,yes,
+2026Q2,53,123871000,2026-06-30,75.2766,75.28,75.3058,75.2145,75.28,yes,
+2026Q3,59,123869500,2026-09-30,82.3185,82.32,82.1764,82.2739,82.32,yes,
+2026Q4,14,32296500,2026-10-20,85.2841,85.28,85.2736,85.1178,,"n/a - quarter not complete, no Commission price",QUARTER IN PROGRESS: partial average for context only; NOT the CBAM certificate price

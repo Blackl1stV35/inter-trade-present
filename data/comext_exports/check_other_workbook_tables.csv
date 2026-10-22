@@ -1,0 +1,56 @@
+table_and_year,product,measure,workbook,api_unrounded,diff_api_minus_workbook,matches_after_2dp_rounding
+"brief section 6, 2025",7207,mass_kt,175.16,175.158306,-0.0017,yes
+"brief section 6, 2025",7207,value_eur_m,88.64,88.635684,-0.0043,yes
+"brief section 6, 2025",7208,mass_kt,32.72,32.722965,0.0030,yes
+"brief section 6, 2025",7208,value_eur_m,33.03,33.027970,-0.0020,yes
+"brief section 6, 2025",7209,not re-pulled (not in task list),1.57,,,
+"brief section 6, 2025",7210,not re-pulled (not in task list),51.52,,,
+"brief section 6, 2025",7219,not re-pulled (not in task list),9.94,,,
+"brief section 6, 2025",7304,mass_kt,87.38,87.368838,-0.0112,NO
+"brief section 6, 2025",7304,value_eur_m,233.39,233.297069,-0.0929,NO
+"brief section 6, 2025",7306,mass_kt,159.44,159.443854,0.0039,yes
+"brief section 6, 2025",7306,value_eur_m,232.36,232.372236,0.0122,NO
+"brief section 6, 2025",26011200,mass_kt,2035.12,2035.117237,-0.0028,yes
+"brief section 6, 2025",26011200,value_eur_m,238.23,238.227269,-0.0027,yes
+Dataset C (Ch72 imports) 2019,72,value_eur_m,2459.48,2459.482305,0.0023,yes
+Dataset C (Ch72 imports) 2019,72,mass_kt,3341.97,3341.970382,0.0004,yes
+Dataset C (Ch72 imports) 2019,72,unit_value_eur_t,735.94,735.937792,-0.0022,yes
+Dataset C (Ch72 imports) 2020,72,value_eur_m,1862.49,1862.493668,0.0037,yes
+Dataset C (Ch72 imports) 2020,72,mass_kt,2833.77,2833.771580,0.0016,yes
+Dataset C (Ch72 imports) 2020,72,unit_value_eur_t,657.25,657.249046,-0.0010,yes
+Dataset C (Ch72 imports) 2021,72,value_eur_m,2762.68,2762.682561,0.0026,yes
+Dataset C (Ch72 imports) 2021,72,mass_kt,3337.39,3337.389589,-0.0004,yes
+Dataset C (Ch72 imports) 2021,72,unit_value_eur_t,827.80,827.797441,-0.0026,yes
+Dataset C (Ch72 imports) 2022,72,value_eur_m,3171.16,3171.163262,0.0033,yes
+Dataset C (Ch72 imports) 2022,72,mass_kt,2697.17,2697.169143,-0.0009,yes
+Dataset C (Ch72 imports) 2022,72,unit_value_eur_t,1175.74,1175.737632,-0.0024,yes
+Dataset C (Ch72 imports) 2023,72,value_eur_m,2107.38,2106.925829,-0.4542,NO
+Dataset C (Ch72 imports) 2023,72,mass_kt,2088.99,2088.770192,-0.2198,NO
+Dataset C (Ch72 imports) 2023,72,unit_value_eur_t,1008.80,1008.692022,-0.1080,NO
+Dataset C (Ch72 imports) 2024,72,value_eur_m,1876.92,1876.917948,-0.0021,yes
+Dataset C (Ch72 imports) 2024,72,mass_kt,1954.63,1954.626629,-0.0034,yes
+Dataset C (Ch72 imports) 2024,72,unit_value_eur_t,960.24,960.243721,0.0037,yes
+Dataset C (Ch72 imports) 2025,72,value_eur_m,1590.95,1590.951738,0.0017,yes
+Dataset C (Ch72 imports) 2025,72,mass_kt,1463.59,1463.588798,-0.0012,yes
+Dataset C (Ch72 imports) 2025,72,unit_value_eur_t,1087.02,1087.020986,0.0010,yes
+Dataset D (7208 imports) 2019,7208,value_eur_m,63.19,63.187848,-0.0022,yes
+Dataset D (7208 imports) 2019,7208,mass_kt,91.12,91.121640,0.0016,yes
+Dataset D (7208 imports) 2019,7208,unit_value_eur_t,693.45,693.445026,-0.0050,yes
+Dataset D (7208 imports) 2020,7208,value_eur_m,63.58,63.584566,0.0046,yes
+Dataset D (7208 imports) 2020,7208,mass_kt,94.20,94.197915,-0.0021,yes
+Dataset D (7208 imports) 2020,7208,unit_value_eur_t,675.01,675.010333,0.0003,yes
+Dataset D (7208 imports) 2021,7208,value_eur_m,54.83,54.832888,0.0029,yes
+Dataset D (7208 imports) 2021,7208,mass_kt,57.56,57.559737,-0.0003,yes
+Dataset D (7208 imports) 2021,7208,unit_value_eur_t,952.63,952.625756,-0.0042,yes
+Dataset D (7208 imports) 2022,7208,value_eur_m,70.04,70.036846,-0.0032,yes
+Dataset D (7208 imports) 2022,7208,mass_kt,50.73,50.728687,-0.0013,yes
+Dataset D (7208 imports) 2022,7208,unit_value_eur_t,1380.62,1380.616179,-0.0038,yes
+Dataset D (7208 imports) 2023,7208,value_eur_m,60.77,60.767322,-0.0027,yes
+Dataset D (7208 imports) 2023,7208,mass_kt,58.00,57.995844,-0.0042,yes
+Dataset D (7208 imports) 2023,7208,unit_value_eur_t,1047.79,1047.787528,-0.0025,yes
+Dataset D (7208 imports) 2024,7208,value_eur_m,72.71,72.706666,-0.0033,yes
+Dataset D (7208 imports) 2024,7208,mass_kt,62.42,62.423796,0.0038,yes
+Dataset D (7208 imports) 2024,7208,unit_value_eur_t,1164.73,1164.726765,-0.0032,yes
+Dataset D (7208 imports) 2025,7208,value_eur_m,33.03,33.027970,-0.0020,yes
+Dataset D (7208 imports) 2025,7208,mass_kt,32.72,32.722965,0.0030,yes
+Dataset D (7208 imports) 2025,7208,unit_value_eur_t,1009.32,1009.320824,0.0008,yes
