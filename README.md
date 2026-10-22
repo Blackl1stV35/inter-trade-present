@@ -4,7 +4,7 @@ Group assignment for the International Trade course (slide deck + report, 20 pts
 Working title: *How EU ETS and CBAM Can Strengthen Europe's Long-Term Green Manufacturing Economy: The Case of Germany*.
 
 This repository is a local archive of everything produced so far (saved 2026-10-22) plus the slide-deck outline.
-It is **local only** — the LINE chat export contains student IDs and a private Google Doc link, so do not push it to a public remote.
+The GitHub repository `Blackl1stV35/inter-trade-present` is **public** by the owner's decision (2026-10-22). Note that `sources/line-chat/line-inter-trade-chat.txt` and its git history contain the group members' names, student IDs and a Google Doc link.
 
 ## Layout
 
