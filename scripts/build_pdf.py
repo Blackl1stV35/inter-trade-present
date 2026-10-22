@@ -34,9 +34,34 @@ code { font-family: 'TH Sarabun New', sans-serif; font-size: 15pt; background: #
 blockquote { margin: 5pt 0; padding: 3pt 9pt; border-left: 3pt solid #B26A00; background: #FBF6EE; }
 hr { border: 0; border-top: 0.8pt solid #C8CED3; margin: 10pt 0; }
 .small { font-size: 13pt; color: #5b6670; }
+.small table { font-size: 12.5pt; line-height: 1.05; }
+.small th, .small td { padding: 1pt 4pt; }
 .pagebreak { break-before: page; }
 strong { font-weight: bold; }
+em, i { font-style: normal; }
+html { font-synthesis: none; }
 """
+
+
+def workbook_sources_table(root):
+    """A15: tag -> title for [U1]-[U35], [S1]-[S24], [G1]-[G5], read from the workbook text dumps."""
+    import re
+    files = [
+        os.path.join(root, "sources", "text", "inter-trade-present-2-revised-research-brief.txt"),
+        os.path.join(root, "sources", "text", "inter-trade-present-base.txt"),
+    ]
+    pat = re.compile(r"^\[((?:U|S|G)\d+)\]\s+(.+)$")
+    found = {}
+    for path in files:
+        with open(path, encoding="utf-8") as f:
+            for line in f:
+                m = pat.match(line.rstrip("\n"))
+                if m and m.group(1) not in found:
+                    found[m.group(1)] = m.group(2).strip()
+    rows = ["| Tag | Source |", "| --- | --- |"]
+    for tag in sorted(found, key=lambda t: (t[0], int(t[1:]))):
+        rows.append("| %s | %s |" % (tag, found[tag].replace("|", "/")))
+    return "\n".join(rows)
 
 
 def font_face_css(root):
@@ -65,6 +90,7 @@ def main():
     root = os.getcwd()
     with open(src, encoding="utf-8") as f:
         text = f.read()
+    text = text.replace("[[A15-WORKBOOK-SOURCES]]", workbook_sources_table(root))
     html_body = markdown.markdown(text, extensions=["tables", "fenced_code", "attr_list", "sane_lists", "md_in_html"])
     base = "file:///" + root.replace("\\", "/") + "/"
     html = (
