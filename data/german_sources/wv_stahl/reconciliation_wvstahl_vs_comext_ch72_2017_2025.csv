@@ -1,0 +1,10 @@
+year,wv_steel_mill_products_exports_mt,wv_steel_mill_products_imports_mt,comext_ch72_all_partner_exports_mt,comext_ch72_all_partner_imports_mt,wv_as_pct_of_comext_exports,wv_as_pct_of_comext_imports,comext_minus_wv_exports_mt,comext_minus_wv_imports_mt,wv_scrap_total_exports_mt,wv_scrap_total_imports_mt,comext_ch72_minus_wv_scrap_exports_mt,comext_ch72_minus_wv_scrap_imports_mt,comext_ch72_extra_eu_exports_mt,comext_ch72_extra_eu_imports_mt,wv_german_exports_to_non_eu_steel_mill_products_mt
+2017,27.3,28.5,33.520,34.425,81.4,82.8,6.22,5.92,,,,,7.217,4.624,
+2018,26.4,28.0,32.642,33.178,80.9,84.4,6.24,5.18,,,,,6.983,4.666,
+2019,24.8,24.5,31.502,29.312,78.7,83.6,6.70,4.81,,,,,6.356,3.342,
+2020,22.1,20.7,29.069,24.608,76.0,84.1,6.97,3.91,8.628,3.975,20.44,20.63,5.445,2.834,
+2021,24.6,25.0,31.392,29.984,78.4,83.4,6.79,4.98,8.790,5.033,22.60,24.95,5.690,3.337,
+2022,23.2,22.8,29.362,27.298,79.0,83.5,6.16,4.50,7.862,4.394,21.50,22.90,5.222,2.697,
+2023,23.0,20.0,29.159,23.966,78.9,83.5,6.16,3.97,8.018,3.550,21.14,20.42,5.044,2.089,4.9
+2024,23.3,19.0,29.266,24.029,79.6,79.1,5.97,5.03,7.314,4.391,21.95,19.64,5.048,1.955,4.9
+2025,22.4,20.5,29.203,24.057,76.7,85.2,6.80,3.56,7.775,3.975,21.43,20.08,4.681,1.464,4.1

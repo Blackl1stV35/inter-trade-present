@@ -1,0 +1,5 @@
+year,months(1..n),exports_to_EU27_kt,exports_to_nonEU_kt,imports_EU27_origin_kt,imports_nonEU_origin_kt,exports_to_nonEU_eur_m,imports_nonEU_origin_eur_m
+2023,Jan-07,14526.9,2908.5,12457.4,2300.9,3896.1,2829.6
+2024,Jan-07,14813.5,3075.5,12372.0,2635.5,3815.4,2535.4
+2025,Jan-07,14780.8,3013.3,12199.9,2225.8,3515.4,2221.7
+2026,Jan-07,16161.3,2513.0,12458.0,2362.4,2849.5,2350.5

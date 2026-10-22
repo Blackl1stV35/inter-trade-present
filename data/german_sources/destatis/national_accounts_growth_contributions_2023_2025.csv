@@ -1,0 +1,40 @@
+item_code,label_de,label_en,year,contribution_to_real_gdp_growth_pp(published),status
+VGR-VWA-01,Inländische Verwendung,Domestic uses,2023,-1.0,p
+VGR-VWA-011,Konsumausgaben,Final consumption expenditure,2023,-0.4,p
+VGR-VWA-0111,Private Konsumausgaben,Household final consumption expenditure,2023,-0.1,p
+VGR-VWA-0112,Konsumausgaben des Staates,Government final consumption expenditure,2023,-0.3,p
+VGR-VWA-012,Bruttoinvestitionen,Gross capital formation,2023,-0.7,p
+VGR-VWA-0121,Bruttoanlageinvestitionen,Gross fixed capital formation,2023,-0.4,p
+VGR-VWA-01211,Ausrüstungsinvestitionen,Gross fixed capital formation in machin. a. equip.,2023,0.0,p
+VGR-VWA-01212,Bauinvestitionen,Gross fixed capital formation in construction,2023,-0.7,p
+VGR-VWA-01213,Sonstige Anlageinvestitionen,GFCF in other products,2023,0.3,p
+VGR-VWA-0122,Vorratsveränderungen und Nettozugang an Wertsachen,Changes in invent.a.acquis. less disp.of valuables,2023,-0.3,p
+VGR-VWA-02,Außenbeitrag,Balance of exports and imports,2023,0.0,p
+VGR-VWA-021,Exporte,Exports,2023,-0.4,p
+VGR-VWA-022,Importe,Imports,2023,0.4,p
+VGR-VWA-01,Inländische Verwendung,Domestic uses,2024,0.5,p
+VGR-VWA-011,Konsumausgaben,Final consumption expenditure,2024,1.6,p
+VGR-VWA-0111,Private Konsumausgaben,Household final consumption expenditure,2024,0.7,p
+VGR-VWA-0112,Konsumausgaben des Staates,Government final consumption expenditure,2024,0.8,p
+VGR-VWA-012,Bruttoinvestitionen,Gross capital formation,2024,-1.0,p
+VGR-VWA-0121,Bruttoanlageinvestitionen,Gross fixed capital formation,2024,-0.5,p
+VGR-VWA-01211,Ausrüstungsinvestitionen,Gross fixed capital formation in machin. a. equip.,2024,-0.3,p
+VGR-VWA-01212,Bauinvestitionen,Gross fixed capital formation in construction,2024,-0.3,p
+VGR-VWA-01213,Sonstige Anlageinvestitionen,GFCF in other products,2024,0.1,p
+VGR-VWA-0122,Vorratsveränderungen und Nettozugang an Wertsachen,Changes in invent.a.acquis. less disp.of valuables,2024,-0.6,p
+VGR-VWA-02,Außenbeitrag,Balance of exports and imports,2024,-0.5,p
+VGR-VWA-021,Exporte,Exports,2024,-0.7,p
+VGR-VWA-022,Importe,Imports,2024,0.2,p
+VGR-VWA-01,Inländische Verwendung,Domestic uses,2025,1.7,p
+VGR-VWA-011,Konsumausgaben,Final consumption expenditure,2025,1.1,p
+VGR-VWA-0111,Private Konsumausgaben,Household final consumption expenditure,2025,0.7,p
+VGR-VWA-0112,Konsumausgaben des Staates,Government final consumption expenditure,2025,0.4,p
+VGR-VWA-012,Bruttoinvestitionen,Gross capital formation,2025,0.6,p
+VGR-VWA-0121,Bruttoanlageinvestitionen,Gross fixed capital formation,2025,-0.1,p
+VGR-VWA-01211,Ausrüstungsinvestitionen,Gross fixed capital formation in machin. a. equip.,2025,-0.1,p
+VGR-VWA-01212,Bauinvestitionen,Gross fixed capital formation in construction,2025,-0.1,p
+VGR-VWA-01213,Sonstige Anlageinvestitionen,GFCF in other products,2025,0.1,p
+VGR-VWA-0122,Vorratsveränderungen und Nettozugang an Wertsachen,Changes in invent.a.acquis. less disp.of valuables,2025,0.7,p
+VGR-VWA-02,Außenbeitrag,Balance of exports and imports,2025,-1.5,p
+VGR-VWA-021,Exporte,Exports,2025,-0.4,p
+VGR-VWA-022,Importe,Imports,2025,-1.1,p

@@ -1,0 +1,4 @@
+year,edition,printed_page,non_eu_exports_mt,usmca_or_nafta_pct,europe_ex_eu_cis_pct,asia_ex_near_middle_east_pct,africa_pct,cis_ukraine_pct,near_middle_east_pct,others_pct,sum_pct,note
+2023,ed2024,30,4.9,32,35,16,5,1,3,9,101,pie labels read from the rendered chart; slice-to-region mapping confirmed against the legend colours; shares as printed (rounded)
+2024,ed2025,33,4.9,29,38,12,6,1,3,11,100,pie labels read from the rendered chart; slice-to-region mapping confirmed against the legend colours; shares as printed (rounded)
+2025,ed2026,33,4.1,32,40,12,6,1,3,6,100,pie labels read from the rendered chart; slice-to-region mapping confirmed against the legend colours; shares as printed (rounded)

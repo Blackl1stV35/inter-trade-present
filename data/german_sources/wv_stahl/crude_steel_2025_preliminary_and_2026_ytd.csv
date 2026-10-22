@@ -1,0 +1,4 @@
+period,vintage,crude_steel_total_kt,oxygen_steel_kt,electric_steel_kt,pig_iron_kt,hot_rolled_products_kt,electric_share_pct_calc,source
+2025 full year,"preliminary, press release 21 Jan 2026",34090,23645,10445,21872,29760,30.64,wvstahl.de/pressemitteilungen/jahresbilanz-der-stahlproduktion-2025-viertes-krisenjahr-in-folge/ (table 'Januar-Dezember 2025')
+2025 full year,"revision, Aug 2026",34267,23814,10453,21874,30071,30.50,https://www.wvstahl.de/wp-content/uploads/20260810_Rohstahlerzeugung_Deutschland_Revision_2025.pdf
+Jan-Aug 2026,"provisional, press release 22 Sep 2026",23902,16464,7438,14936,21004,31.12,wvstahl.de/pressemitteilungen/rohstahlerzeugung-im-august-2026-weiterhin-verhaltene-erholung/ (table 'Januar-August 2026')

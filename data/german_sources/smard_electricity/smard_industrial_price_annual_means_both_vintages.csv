@@ -1,0 +1,8 @@
+year,V1_without_reductions_derived,V1_months,printed_in_article_without,V2_without_reductions_derived,V2_months,V1_with_reductions_derived,V1_months_wi,printed_in_article_with,V2_with_reductions_derived,V2_months_wi,note
+2020,17.29,12,,17.13,12,5.92,12,5.92,5.95,12,derived = simple mean of monthly SMARD values; printed = number in SMARD article text (V1 only)
+2021,21.78,12,21.77,22.05,12,10.95,12,10.94,11.05,12,derived = simple mean of monthly SMARD values; printed = number in SMARD article text (V1 only)
+2022,35.70,12,35.70,35.92,12,29.01,12,29.01,29.10,12,derived = simple mean of monthly SMARD values; printed = number in SMARD article text (V1 only)
+2023,19.63,12,19.63,19.89,12,14.23,12,14.23,14.39,12,derived = simple mean of monthly SMARD values; printed = number in SMARD article text (V1 only)
+2024,16.77,12,16.77,16.12,12,10.47,12,10.47,9.79,12,derived = simple mean of monthly SMARD values; printed = number in SMARD article text (V1 only)
+2025,,0,,16.49,12,,0,,10.10,12,derived = simple mean of monthly SMARD values; printed = number in SMARD article text (V1 only)
+2026,,0,,17.26,9,,0,,11.33,9,"partial year, Jan-Sep 2026 only (9 months)"

@@ -1,0 +1,11 @@
+series,definition,2020,2021,2022,2023,2024,2025,2026,pct_change_2024_vs_2020,source
+SMARD without reductions (V2 derived annual mean),"modelled, ct/kWh excl. VAT, 24 GWh-type case, no reductions",17.13,22.05,35.92,19.89,16.12,16.49,17.26,-5.9,smard_industrial_price_annual_means_both_vintages.csv (2026 = Jan-Sep)
+SMARD with all possible reductions (V2 derived annual mean),modelled maximum-reduction case,5.95,11.05,29.10,14.39,9.79,10.10,11.33,64.5,same
+"SMARD without reductions (V1 article, printed; 2020 derived)","modelled, Feb 2025 vintage",17.29,21.77,35.70,19.63,16.77,,,-3.0,SMARD article 11 Feb 2025
+"SMARD with all possible reductions (V1 article, printed)","modelled maximum-reduction case, Feb 2025 vintage",5.92,10.94,29.01,14.23,10.47,,,76.9,SMARD article 11 Feb 2025
+Destatis all non-household customers,"invoiced average, excl. VAT & deductible taxes, mean of H1,H2; 2026 = H1 provisional",14.99,15.78,20.29,20.53,20.14,19.28,17.64,34.4,Destatis table 61243-0005
+"Destatis >=150,000 MWh/yr","invoiced average, excl. VAT & deductible taxes; 2026 = H1 provisional",6.88,10.97,19.02,15.58,13.01,13.23,12.67,89.1,Destatis table 61243-0005
+"Destatis 2,000-<20,000 MWh/yr (band ID)","invoiced average, excl. VAT & deductible taxes; 2026 = H1 provisional",15.22,15.72,19.39,20.36,20.47,19.27,17.42,34.5,Destatis table 61243-0005
+"Eurostat nrg_pc_205 DE >=150,000 MWh (band IG)","X_VAT, mean of S1,S2; 2026 = S1 provisional",6.88,10.97,19.02,15.58,13.01,13.23,12.67,89.1,Eurostat nrg_pc_205 (updated 2026-10-19)
+"Eurostat nrg_pc_205 DE 2,000-19,999 MWh (band ID)","X_VAT, mean of S1,S2; 2026 = S1 provisional",15.22,15.72,19.39,20.36,20.47,19.27,17.42,34.5,Eurostat nrg_pc_205
+"BDEW/VEA industry 160 MWh-20 GWh, new contracts, medium voltage, incl. reduced electricity tax","BDEW Strompreisanalyse 08/2026 p.16, read from chart; 2026 = to Aug",17.7,21.5,43.3,24.5,17.3,17.6,17.2,-2.3,"BDEW Strompreisanalyse August 2026 (14 Aug 2026), p.16"

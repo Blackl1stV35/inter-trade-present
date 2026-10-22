@@ -1,0 +1,9 @@
+year,workbook_exports_mt,workbook_imports_mt,workbook_balance_derived_mt,brochure2024_p28_exports,brochure2024_p28_imports,brochure2024_p28_saldo,brochure2025_p30_exports,brochure2025_p30_imports,brochure2025_p30_saldo,workbook_vs_brochure2025,brochure2026_p30_exports,brochure2026_p30_imports,brochure2026_p30_saldo,workbook_vs_brochure2026,note
+2017,27.3,28.5,-1.2,27.3,28.5,-1.2,27.3,28.5,-1.2,MATCH,,,,n/a (2017 not in 2026 edition),
+2018,26.4,28.0,-1.6,26.4,28.0,-1.5,26.4,28.0,-1.5,MATCH,26.4,28.0,-1.5,MATCH,workbook balance -1.6 (derived from rounded values) vs printed saldo -1.5
+2019,24.8,24.5,0.3,24.8,24.5,0.2,24.8,24.5,0.2,MATCH,24.8,24.5,0.2,MATCH,workbook balance +0.3 (derived from rounded values) vs printed saldo +0.2
+2020,22.1,20.7,1.4,22.1,20.7,1.4,22.1,20.7,1.4,MATCH,22.1,20.7,1.4,MATCH,
+2021,24.6,25.0,-0.4,24.6,25.0,-0.5,24.6,25.0,-0.5,MATCH,24.6,25.0,-0.5,MATCH,workbook balance -0.4 (derived from rounded values) vs printed saldo -0.5
+2022,23.2,22.8,0.4,23.2,22.8,0.3,23.2,22.8,0.3,MATCH,23.2,22.8,0.3,MATCH,workbook balance +0.4 (derived from rounded values) vs printed saldo +0.3
+2023,23.0,20.0,3.0,23.0,19.9,3.2,23.0,20.0,3.0,MATCH,23.0,20.0,3.0,MATCH,2024 edition printed imports 19.9 and saldo 3.2 for 2023 (revised in 2025 edition)
+2024,22.9,18.8,4.1,,,,22.9,18.8,4.2,MATCH,23.3,19.0,4.2,REVISED,"workbook balance +4.1 (derived from rounded values) vs printed saldo +4.2; 2026 edition revises 2024 to exports 23.3, imports 19.0 (saldo unchanged at 4.2)"

@@ -1,0 +1,385 @@
+wz08,label_en,month,index_2021=100_unadjusted,"status_unadj(e=final,r=revised,p=provisional)",index_2021=100_calendar_and_seasonally_adjusted_X13,status_adj
+WZ08-C,Manufacturing,2019-01,101.3,e,106.8,p
+WZ08-C,Manufacturing,2019-02,103.3,e,106.4,p
+WZ08-C,Manufacturing,2019-03,112.0,e,107.5,p
+WZ08-C,Manufacturing,2019-04,105.1,e,106.0,p
+WZ08-C,Manufacturing,2019-05,109.9,e,106.6,p
+WZ08-C,Manufacturing,2019-06,100.1,e,105.4,p
+WZ08-C,Manufacturing,2019-07,109.0,e,105.0,p
+WZ08-C,Manufacturing,2019-08,97.4,e,105.3,p
+WZ08-C,Manufacturing,2019-09,108.2,e,104.3,p
+WZ08-C,Manufacturing,2019-10,109.0,e,103.6,p
+WZ08-C,Manufacturing,2019-11,108.5,e,103.8,p
+WZ08-C,Manufacturing,2019-12,92.9,e,101.3,p
+WZ08-C,Manufacturing,2020-01,97.9,e,104.6,p
+WZ08-C,Manufacturing,2020-02,101.0,e,105.4,p
+WZ08-C,Manufacturing,2020-03,103.5,e,94.2,p
+WZ08-C,Manufacturing,2020-04,72.6,e,73.3,p
+WZ08-C,Manufacturing,2020-05,78.8,e,82.2,p
+WZ08-C,Manufacturing,2020-06,93.9,e,91.8,p
+WZ08-C,Manufacturing,2020-07,97.7,e,94.2,p
+WZ08-C,Manufacturing,2020-08,84.2,e,93.6,p
+WZ08-C,Manufacturing,2020-09,103.7,e,96.2,p
+WZ08-C,Manufacturing,2020-10,105.9,e,100.0,p
+WZ08-C,Manufacturing,2020-11,108.9,e,101.5,p
+WZ08-C,Manufacturing,2020-12,96.8,e,101.4,p
+WZ08-C,Manufacturing,2021-01,88.3,e,101.9,p
+WZ08-C,Manufacturing,2021-02,97.3,e,99.9,p
+WZ08-C,Manufacturing,2021-03,116.2,e,101.0,p
+WZ08-C,Manufacturing,2021-04,100.5,e,100.8,p
+WZ08-C,Manufacturing,2021-05,95.6,e,99.8,p
+WZ08-C,Manufacturing,2021-06,104.4,e,98.2,p
+WZ08-C,Manufacturing,2021-07,100.2,e,100.6,p
+WZ08-C,Manufacturing,2021-08,88.1,e,94.7,p
+WZ08-C,Manufacturing,2021-09,102.0,e,95.0,p
+WZ08-C,Manufacturing,2021-10,100.5,e,98.9,p
+WZ08-C,Manufacturing,2021-11,108.4,e,99.7,p
+WZ08-C,Manufacturing,2021-12,98.5,e,101.2,p
+WZ08-C,Manufacturing,2022-01,90.9,e,100.9,p
+WZ08-C,Manufacturing,2022-02,98.2,e,100.7,p
+WZ08-C,Manufacturing,2022-03,109.7,e,95.4,p
+WZ08-C,Manufacturing,2022-04,93.3,e,97.2,p
+WZ08-C,Manufacturing,2022-05,101.9,e,98.5,p
+WZ08-C,Manufacturing,2022-06,101.9,e,99.6,p
+WZ08-C,Manufacturing,2022-07,95.3,e,99.4,p
+WZ08-C,Manufacturing,2022-08,94.0,e,98.6,p
+WZ08-C,Manufacturing,2022-09,108.6,e,101.0,p
+WZ08-C,Manufacturing,2022-10,97.1,e,100.4,p
+WZ08-C,Manufacturing,2022-11,109.9,e,100.9,p
+WZ08-C,Manufacturing,2022-12,96.5,e,98.6,p
+WZ08-C,Manufacturing,2023-01,93.4,e,100.1,p
+WZ08-C,Manufacturing,2023-02,98.6,e,102.7,p
+WZ08-C,Manufacturing,2023-03,115.5,e,100.0,p
+WZ08-C,Manufacturing,2023-04,91.5,e,99.3,p
+WZ08-C,Manufacturing,2023-05,100.3,e,100.8,p
+WZ08-C,Manufacturing,2023-06,105.5,e,99.2,p
+WZ08-C,Manufacturing,2023-07,94.0,e,98.0,p
+WZ08-C,Manufacturing,2023-08,93.4,e,98.3,p
+WZ08-C,Manufacturing,2023-09,101.0,e,97.5,p
+WZ08-C,Manufacturing,2023-10,97.1,e,96.7,p
+WZ08-C,Manufacturing,2023-11,104.9,e,96.1,p
+WZ08-C,Manufacturing,2023-12,88.1,e,94.1,p
+WZ08-C,Manufacturing,2024-01,90.0,e,95.0,p
+WZ08-C,Manufacturing,2024-02,96.6,e,96.6,p
+WZ08-C,Manufacturing,2024-03,98.0,e,95.4,p
+WZ08-C,Manufacturing,2024-04,99.0,e,95.7,p
+WZ08-C,Manufacturing,2024-05,89.6,e,92.4,p
+WZ08-C,Manufacturing,2024-06,96.1,e,95.0,p
+WZ08-C,Manufacturing,2024-07,95.8,e,92.6,p
+WZ08-C,Manufacturing,2024-08,86.5,e,94.7,p
+WZ08-C,Manufacturing,2024-09,96.0,e,92.8,p
+WZ08-C,Manufacturing,2024-10,96.8,e,92.8,p
+WZ08-C,Manufacturing,2024-11,98.0,e,93.4,p
+WZ08-C,Manufacturing,2024-12,83.7,e,91.5,p
+WZ08-C,Manufacturing,2025-01,87.7,e,93.9,p
+WZ08-C,Manufacturing,2025-02,90.8,e,93.0,p
+WZ08-C,Manufacturing,2025-03,101.4,e,96.3,p
+WZ08-C,Manufacturing,2025-04,93.0,e,93.3,p
+WZ08-C,Manufacturing,2025-05,92.8,e,93.2,p
+WZ08-C,Manufacturing,2025-06,91.6,e,92.9,p
+WZ08-C,Manufacturing,2025-07,96.5,e,93.4,p
+WZ08-C,Manufacturing,2025-08,80.1,e,91.0,p
+WZ08-C,Manufacturing,2025-09,99.0,e,92.0,p
+WZ08-C,Manufacturing,2025-10,96.1,e,92.1,p
+WZ08-C,Manufacturing,2025-11,97.4,e,93.7,p
+WZ08-C,Manufacturing,2025-12,86.6,e,92.6,p
+WZ08-C,Manufacturing,2026-01,82.3,r,91.6,p
+WZ08-C,Manufacturing,2026-02,88.2,r,91.8,p
+WZ08-C,Manufacturing,2026-03,101.5,r,91.3,p
+WZ08-C,Manufacturing,2026-04,91.1,r,91.5,p
+WZ08-C,Manufacturing,2026-05,85.2,r,92.3,p
+WZ08-C,Manufacturing,2026-06,98.2,r,92.4,p
+WZ08-C,Manufacturing,2026-07,93.3,r,90.3,p
+WZ08-C,Manufacturing,2026-08,80.5,p,90.8,p
+WZ08-C,Manufacturing,2026-09,,missing(...),,missing(...)
+WZ08-C,Manufacturing,2026-10,,missing(...),,missing(...)
+WZ08-C,Manufacturing,2026-11,,missing(...),,missing(...)
+WZ08-C,Manufacturing,2026-12,,missing(...),,missing(...)
+WZ08-24,Manufacture of basic metals,2019-01,113.1,e,109.8,p
+WZ08-24,Manufacture of basic metals,2019-02,107.7,e,107.9,p
+WZ08-24,Manufacture of basic metals,2019-03,114.7,e,107.8,p
+WZ08-24,Manufacture of basic metals,2019-04,107.8,e,104.4,p
+WZ08-24,Manufacture of basic metals,2019-05,112.4,e,105.5,p
+WZ08-24,Manufacture of basic metals,2019-06,103.4,e,105.6,p
+WZ08-24,Manufacture of basic metals,2019-07,107.4,e,104.4,p
+WZ08-24,Manufacture of basic metals,2019-08,98.5,e,107.0,p
+WZ08-24,Manufacture of basic metals,2019-09,106.9,e,105.4,p
+WZ08-24,Manufacture of basic metals,2019-10,106.3,e,101.8,p
+WZ08-24,Manufacture of basic metals,2019-11,99.1,e,99.8,p
+WZ08-24,Manufacture of basic metals,2019-12,78.1,e,98.0,p
+WZ08-24,Manufacture of basic metals,2020-01,102.0,e,99.9,p
+WZ08-24,Manufacture of basic metals,2020-02,104.8,e,106.0,p
+WZ08-24,Manufacture of basic metals,2020-03,104.3,e,94.3,p
+WZ08-24,Manufacture of basic metals,2020-04,75.9,e,73.5,p
+WZ08-24,Manufacture of basic metals,2020-05,76.0,e,75.1,p
+WZ08-24,Manufacture of basic metals,2020-06,80.4,e,77.9,p
+WZ08-24,Manufacture of basic metals,2020-07,84.9,e,82.6,p
+WZ08-24,Manufacture of basic metals,2020-08,83.4,e,92.6,p
+WZ08-24,Manufacture of basic metals,2020-09,96.8,e,93.1,p
+WZ08-24,Manufacture of basic metals,2020-10,101.2,e,96.5,p
+WZ08-24,Manufacture of basic metals,2020-11,100.8,e,99.7,p
+WZ08-24,Manufacture of basic metals,2020-12,82.1,e,100.7,p
+WZ08-24,Manufacture of basic metals,2021-01,97.2,e,100.3,p
+WZ08-24,Manufacture of basic metals,2021-02,99.4,e,98.8,p
+WZ08-24,Manufacture of basic metals,2021-03,116.2,e,102.0,p
+WZ08-24,Manufacture of basic metals,2021-04,103.3,e,100.0,p
+WZ08-24,Manufacture of basic metals,2021-05,104.3,e,103.0,p
+WZ08-24,Manufacture of basic metals,2021-06,106.6,e,101.2,p
+WZ08-24,Manufacture of basic metals,2021-07,98.7,e,98.9,p
+WZ08-24,Manufacture of basic metals,2021-08,88.2,e,94.4,p
+WZ08-24,Manufacture of basic metals,2021-09,100.6,e,97.2,p
+WZ08-24,Manufacture of basic metals,2021-10,100.3,e,98.4,p
+WZ08-24,Manufacture of basic metals,2021-11,100.4,e,98.3,p
+WZ08-24,Manufacture of basic metals,2021-12,84.6,e,102.2,p
+WZ08-24,Manufacture of basic metals,2022-01,99.6,e,100.3,p
+WZ08-24,Manufacture of basic metals,2022-02,99.8,e,99.1,p
+WZ08-24,Manufacture of basic metals,2022-03,108.9,e,95.5,p
+WZ08-24,Manufacture of basic metals,2022-04,97.6,e,96.9,p
+WZ08-24,Manufacture of basic metals,2022-05,101.6,e,95.3,p
+WZ08-24,Manufacture of basic metals,2022-06,100.1,e,97.5,p
+WZ08-24,Manufacture of basic metals,2022-07,93.3,e,95.8,p
+WZ08-24,Manufacture of basic metals,2022-08,89.5,e,93.9,p
+WZ08-24,Manufacture of basic metals,2022-09,99.2,e,96.0,p
+WZ08-24,Manufacture of basic metals,2022-10,92.6,e,93.6,p
+WZ08-24,Manufacture of basic metals,2022-11,93.4,e,91.5,p
+WZ08-24,Manufacture of basic metals,2022-12,75.9,e,91.8,p
+WZ08-24,Manufacture of basic metals,2023-01,95.1,e,93.4,p
+WZ08-24,Manufacture of basic metals,2023-02,94.8,e,94.9,p
+WZ08-24,Manufacture of basic metals,2023-03,106.5,e,93.3,p
+WZ08-24,Manufacture of basic metals,2023-04,92.3,e,94.0,p
+WZ08-24,Manufacture of basic metals,2023-05,97.0,e,93.3,p
+WZ08-24,Manufacture of basic metals,2023-06,95.3,e,90.5,p
+WZ08-24,Manufacture of basic metals,2023-07,88.9,e,91.3,p
+WZ08-24,Manufacture of basic metals,2023-08,87.6,e,92.0,p
+WZ08-24,Manufacture of basic metals,2023-09,91.6,e,91.0,p
+WZ08-24,Manufacture of basic metals,2023-10,90.0,e,88.7,p
+WZ08-24,Manufacture of basic metals,2023-11,90.6,e,88.7,p
+WZ08-24,Manufacture of basic metals,2023-12,69.2,e,86.7,p
+WZ08-24,Manufacture of basic metals,2024-01,93.6,e,91.0,p
+WZ08-24,Manufacture of basic metals,2024-02,96.0,e,93.6,p
+WZ08-24,Manufacture of basic metals,2024-03,97.0,e,91.7,p
+WZ08-24,Manufacture of basic metals,2024-04,95.9,e,90.5,p
+WZ08-24,Manufacture of basic metals,2024-05,91.1,e,89.2,p
+WZ08-24,Manufacture of basic metals,2024-06,93.0,e,91.2,p
+WZ08-24,Manufacture of basic metals,2024-07,91.3,e,89.3,p
+WZ08-24,Manufacture of basic metals,2024-08,82.7,e,89.0,p
+WZ08-24,Manufacture of basic metals,2024-09,87.8,e,87.4,p
+WZ08-24,Manufacture of basic metals,2024-10,93.1,e,89.5,p
+WZ08-24,Manufacture of basic metals,2024-11,90.1,e,90.4,p
+WZ08-24,Manufacture of basic metals,2024-12,68.7,e,87.6,p
+WZ08-24,Manufacture of basic metals,2025-01,88.3,e,86.7,p
+WZ08-24,Manufacture of basic metals,2025-02,88.8,e,87.7,p
+WZ08-24,Manufacture of basic metals,2025-03,97.8,e,91.1,p
+WZ08-24,Manufacture of basic metals,2025-04,90.3,e,87.3,p
+WZ08-24,Manufacture of basic metals,2025-05,92.4,e,88.9,p
+WZ08-24,Manufacture of basic metals,2025-06,86.4,e,86.3,p
+WZ08-24,Manufacture of basic metals,2025-07,88.6,e,86.7,p
+WZ08-24,Manufacture of basic metals,2025-08,81.9,e,90.3,p
+WZ08-24,Manufacture of basic metals,2025-09,90.6,e,87.9,p
+WZ08-24,Manufacture of basic metals,2025-10,92.6,e,89.0,p
+WZ08-24,Manufacture of basic metals,2025-11,88.7,e,89.6,p
+WZ08-24,Manufacture of basic metals,2025-12,71.3,e,89.6,p
+WZ08-24,Manufacture of basic metals,2026-01,88.4,r,89.1,p
+WZ08-24,Manufacture of basic metals,2026-02,89.1,r,88.8,p
+WZ08-24,Manufacture of basic metals,2026-03,98.0,r,88.2,p
+WZ08-24,Manufacture of basic metals,2026-04,93.2,r,90.0,p
+WZ08-24,Manufacture of basic metals,2026-05,89.4,r,90.4,p
+WZ08-24,Manufacture of basic metals,2026-06,92.7,r,88.1,p
+WZ08-24,Manufacture of basic metals,2026-07,89.8,r,88.0,p
+WZ08-24,Manufacture of basic metals,2026-08,80.8,p,88.5,p
+WZ08-24,Manufacture of basic metals,2026-09,,missing(...),,missing(...)
+WZ08-24,Manufacture of basic metals,2026-10,,missing(...),,missing(...)
+WZ08-24,Manufacture of basic metals,2026-11,,missing(...),,missing(...)
+WZ08-24,Manufacture of basic metals,2026-12,,missing(...),,missing(...)
+WZ08-25,Manufacture of fabricated metal products,2019-01,101.9,e,106.4,p
+WZ08-25,Manufacture of fabricated metal products,2019-02,102.6,e,105.4,p
+WZ08-25,Manufacture of fabricated metal products,2019-03,110.8,e,106.9,p
+WZ08-25,Manufacture of fabricated metal products,2019-04,105.5,e,104.6,p
+WZ08-25,Manufacture of fabricated metal products,2019-05,107.9,e,103.2,p
+WZ08-25,Manufacture of fabricated metal products,2019-06,97.5,e,102.5,p
+WZ08-25,Manufacture of fabricated metal products,2019-07,108.4,e,102.6,p
+WZ08-25,Manufacture of fabricated metal products,2019-08,96.6,e,102.3,p
+WZ08-25,Manufacture of fabricated metal products,2019-09,105.0,e,102.2,p
+WZ08-25,Manufacture of fabricated metal products,2019-10,106.9,e,100.5,p
+WZ08-25,Manufacture of fabricated metal products,2019-11,105.3,e,100.3,p
+WZ08-25,Manufacture of fabricated metal products,2019-12,81.3,e,97.7,p
+WZ08-25,Manufacture of fabricated metal products,2020-01,95.5,e,101.0,p
+WZ08-25,Manufacture of fabricated metal products,2020-02,96.1,e,100.0,p
+WZ08-25,Manufacture of fabricated metal products,2020-03,102.0,e,93.1,p
+WZ08-25,Manufacture of fabricated metal products,2020-04,73.2,e,72.6,p
+WZ08-25,Manufacture of fabricated metal products,2020-05,75.7,e,78.1,p
+WZ08-25,Manufacture of fabricated metal products,2020-06,88.1,e,85.8,p
+WZ08-25,Manufacture of fabricated metal products,2020-07,91.1,e,86.3,p
+WZ08-25,Manufacture of fabricated metal products,2020-08,83.2,e,91.0,p
+WZ08-25,Manufacture of fabricated metal products,2020-09,100.4,e,94.0,p
+WZ08-25,Manufacture of fabricated metal products,2020-10,102.2,e,95.5,p
+WZ08-25,Manufacture of fabricated metal products,2020-11,105.5,e,97.8,p
+WZ08-25,Manufacture of fabricated metal products,2020-12,87.4,e,100.7,p
+WZ08-25,Manufacture of fabricated metal products,2021-01,86.2,e,99.5,p
+WZ08-25,Manufacture of fabricated metal products,2021-02,95.9,e,98.3,p
+WZ08-25,Manufacture of fabricated metal products,2021-03,114.3,e,100.0,p
+WZ08-25,Manufacture of fabricated metal products,2021-04,101.3,e,100.6,p
+WZ08-25,Manufacture of fabricated metal products,2021-05,96.2,e,99.7,p
+WZ08-25,Manufacture of fabricated metal products,2021-06,107.7,e,100.4,p
+WZ08-25,Manufacture of fabricated metal products,2021-07,102.1,e,101.1,p
+WZ08-25,Manufacture of fabricated metal products,2021-08,93.8,e,98.6,p
+WZ08-25,Manufacture of fabricated metal products,2021-09,105.2,e,98.1,p
+WZ08-25,Manufacture of fabricated metal products,2021-10,101.3,e,98.4,p
+WZ08-25,Manufacture of fabricated metal products,2021-11,108.2,e,98.9,p
+WZ08-25,Manufacture of fabricated metal products,2021-12,87.8,e,98.5,p
+WZ08-25,Manufacture of fabricated metal products,2022-01,90.5,e,100.5,p
+WZ08-25,Manufacture of fabricated metal products,2022-02,98.2,e,100.5,p
+WZ08-25,Manufacture of fabricated metal products,2022-03,112.1,e,98.0,p
+WZ08-25,Manufacture of fabricated metal products,2022-04,95.1,e,98.3,p
+WZ08-25,Manufacture of fabricated metal products,2022-05,103.7,e,99.2,p
+WZ08-25,Manufacture of fabricated metal products,2022-06,99.9,e,97.0,p
+WZ08-25,Manufacture of fabricated metal products,2022-07,94.7,e,97.6,p
+WZ08-25,Manufacture of fabricated metal products,2022-08,95.1,e,96.9,p
+WZ08-25,Manufacture of fabricated metal products,2022-09,104.3,e,97.3,p
+WZ08-25,Manufacture of fabricated metal products,2022-10,96.9,e,98.7,p
+WZ08-25,Manufacture of fabricated metal products,2022-11,105.6,e,96.5,p
+WZ08-25,Manufacture of fabricated metal products,2022-12,84.4,e,94.7,p
+WZ08-25,Manufacture of fabricated metal products,2023-01,89.9,e,96.1,p
+WZ08-25,Manufacture of fabricated metal products,2023-02,92.6,e,96.2,p
+WZ08-25,Manufacture of fabricated metal products,2023-03,110.0,e,96.2,p
+WZ08-25,Manufacture of fabricated metal products,2023-04,88.2,e,94.8,p
+WZ08-25,Manufacture of fabricated metal products,2023-05,96.2,e,95.8,p
+WZ08-25,Manufacture of fabricated metal products,2023-06,101.6,e,94.7,p
+WZ08-25,Manufacture of fabricated metal products,2023-07,90.8,e,93.6,p
+WZ08-25,Manufacture of fabricated metal products,2023-08,94.1,e,95.9,p
+WZ08-25,Manufacture of fabricated metal products,2023-09,96.1,e,93.3,p
+WZ08-25,Manufacture of fabricated metal products,2023-10,94.4,e,92.3,p
+WZ08-25,Manufacture of fabricated metal products,2023-11,99.2,e,90.5,p
+WZ08-25,Manufacture of fabricated metal products,2023-12,78.0,e,91.2,p
+WZ08-25,Manufacture of fabricated metal products,2024-01,85.5,e,90.0,p
+WZ08-25,Manufacture of fabricated metal products,2024-02,89.8,e,89.6,p
+WZ08-25,Manufacture of fabricated metal products,2024-03,90.8,e,89.5,p
+WZ08-25,Manufacture of fabricated metal products,2024-04,93.4,e,89.0,p
+WZ08-25,Manufacture of fabricated metal products,2024-05,84.7,e,86.8,p
+WZ08-25,Manufacture of fabricated metal products,2024-06,90.5,e,88.8,p
+WZ08-25,Manufacture of fabricated metal products,2024-07,90.5,e,86.1,p
+WZ08-25,Manufacture of fabricated metal products,2024-08,81.9,e,87.0,p
+WZ08-25,Manufacture of fabricated metal products,2024-09,90.0,e,87.3,p
+WZ08-25,Manufacture of fabricated metal products,2024-10,91.9,e,86.3,p
+WZ08-25,Manufacture of fabricated metal products,2024-11,90.6,e,86.0,p
+WZ08-25,Manufacture of fabricated metal products,2024-12,76.8,e,91.7,p
+WZ08-25,Manufacture of fabricated metal products,2025-01,79.0,e,84.7,p
+WZ08-25,Manufacture of fabricated metal products,2025-02,83.8,e,85.6,p
+WZ08-25,Manufacture of fabricated metal products,2025-03,91.2,e,87.8,p
+WZ08-25,Manufacture of fabricated metal products,2025-04,85.9,e,85.2,p
+WZ08-25,Manufacture of fabricated metal products,2025-05,86.1,e,85.7,p
+WZ08-25,Manufacture of fabricated metal products,2025-06,84.9,e,85.6,p
+WZ08-25,Manufacture of fabricated metal products,2025-07,90.1,e,85.8,p
+WZ08-25,Manufacture of fabricated metal products,2025-08,77.1,e,85.2,p
+WZ08-25,Manufacture of fabricated metal products,2025-09,91.8,e,85.5,p
+WZ08-25,Manufacture of fabricated metal products,2025-10,91.4,e,85.7,p
+WZ08-25,Manufacture of fabricated metal products,2025-11,89.9,e,86.3,p
+WZ08-25,Manufacture of fabricated metal products,2025-12,78.1,e,91.5,p
+WZ08-25,Manufacture of fabricated metal products,2026-01,74.8,r,83.6,p
+WZ08-25,Manufacture of fabricated metal products,2026-02,81.5,r,84.6,p
+WZ08-25,Manufacture of fabricated metal products,2026-03,91.3,r,83.1,p
+WZ08-25,Manufacture of fabricated metal products,2026-04,85.3,r,84.7,p
+WZ08-25,Manufacture of fabricated metal products,2026-05,79.5,r,85.8,p
+WZ08-25,Manufacture of fabricated metal products,2026-06,91.4,r,85.0,p
+WZ08-25,Manufacture of fabricated metal products,2026-07,87.2,r,83.1,p
+WZ08-25,Manufacture of fabricated metal products,2026-08,78.5,p,86.0,p
+WZ08-25,Manufacture of fabricated metal products,2026-09,,missing(...),,missing(...)
+WZ08-25,Manufacture of fabricated metal products,2026-10,,missing(...),,missing(...)
+WZ08-25,Manufacture of fabricated metal products,2026-11,,missing(...),,missing(...)
+WZ08-25,Manufacture of fabricated metal products,2026-12,,missing(...),,missing(...)
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2019-01,105.7,e,103.0,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2019-02,98.8,e,101.6,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2019-03,108.0,e,101.0,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2019-04,102.8,e,99.5,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2019-05,105.9,e,100.5,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2019-06,103.8,e,101.7,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2019-07,101.9,e,102.2,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2019-08,100.1,e,106.4,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2019-09,100.9,e,101.1,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2019-10,101.7,e,100.0,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2019-11,88.9,e,92.2,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2019-12,83.5,e,93.1,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2020-01,97.0,e,94.5,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2020-02,102.0,e,104.9,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2020-03,102.6,e,95.5,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2020-04,75.7,e,73.1,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2020-05,73.9,e,70.7,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2020-06,70.0,e,68.1,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2020-07,76.5,e,76.8,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2020-08,85.9,e,91.7,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2020-09,92.4,e,92.3,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2020-10,102.8,e,100.9,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2020-11,98.0,e,101.5,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2020-12,93.4,e,103.1,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2021-01,102.9,e,100.6,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2021-02,94.2,e,97.7,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2021-03,113.2,e,104.1,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2021-04,100.3,e,97.0,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2021-05,108.0,e,103.4,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2021-06,101.8,e,99.6,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2021-07,96.0,e,95.5,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2021-08,87.5,e,92.3,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2021-09,98.8,e,99.5,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2021-10,105.7,e,104.5,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2021-11,97.2,e,101.4,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2021-12,94.0,e,103.5,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2022-01,100.2,e,98.2,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2022-02,95.5,e,98.9,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2022-03,98.9,e,90.7,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2022-04,97.8,e,94.4,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2022-05,95.2,e,91.1,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2022-06,94.2,e,92.2,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2022-07,91.9,e,91.4,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2022-08,81.8,e,86.4,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2022-09,87.6,e,88.4,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2022-10,87.6,e,86.5,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2022-11,78.0,e,81.5,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2022-12,78.3,e,86.2,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2023-01,91.5,e,89.8,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2023-02,86.5,e,89.5,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2023-03,97.3,e,89.0,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2023-04,93.2,e,89.8,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2023-05,93.8,e,89.7,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2023-06,89.7,e,87.9,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2023-07,90.8,e,90.2,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2023-08,85.5,e,90.6,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2023-09,82.6,e,83.6,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2023-10,87.6,e,86.5,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2023-11,81.2,e,84.9,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2023-12,74.8,e,82.3,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2024-01,93.3,e,91.7,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2024-02,94.7,e,97.8,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2024-03,102.1,e,93.2,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2024-04,94.6,e,91.0,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2024-05,93.6,e,89.5,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2024-06,95.0,e,93.1,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2024-07,94.1,e,93.5,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2024-08,85.1,e,90.3,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2024-09,86.6,e,87.9,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2024-10,94.6,e,93.5,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2024-11,86.5,e,90.5,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2024-12,80.6,e,88.6,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2025-01,85.6,e,84.2,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2025-02,83.7,e,86.2,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2025-03,94.2,e,85.9,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2025-04,88.2,e,84.7,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2025-05,92.4,e,88.5,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2025-06,84.0,e,82.3,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2025-07,83.7,e,83.2,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2025-08,81.3,e,86.5,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2025-09,85.6,e,87.1,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2025-10,89.3,e,88.3,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2025-11,86.4,e,90.5,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2025-12,84.6,e,93.0,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2026-01,93.8,r,92.2,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2026-02,89.7,r,92.1,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2026-03,102.2,r,93.1,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2026-04,101.0,r,96.8,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2026-05,96.9,r,92.8,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2026-06,93.4,r,91.6,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2026-07,90.9,r,90.5,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2026-08,87.8,p,93.3,p
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2026-09,,missing(...),,missing(...)
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2026-10,,missing(...),,missing(...)
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2026-11,,missing(...),,missing(...)
+WZ08-241,Manufacture of basic iron and steel and of ferro-alloys,2026-12,,missing(...),,missing(...)

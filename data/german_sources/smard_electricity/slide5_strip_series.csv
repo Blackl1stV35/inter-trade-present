@@ -1,0 +1,16 @@
+series,phase,period,value_ct_kwh,months_in_value,how_computed,note
+A_headline,BEFORE,2020 (annual mean),17.13,12,"annual mean of monthly modelled values, V2",
+A_headline,BEFORE,2021 (annual mean),22.05,12,"annual mean, V2",
+A_headline,BEFORE,2022 (annual mean),35.92,12,"annual mean, V2",monthly peak 56.32 in Aug 2022
+A_headline,straddles BEFORE/DURING,2023 (annual mean),19.89,12,"annual mean, V2","Jan-Sep 2023 is BEFORE, Oct-Dec 2023 is DURING (reporting starts 1 Oct 2023); do not assign 2023 to one phase"
+A_headline,DURING,2024 (annual mean),16.12,12,"annual mean, V2",V1 article (Feb 2025) printed 16.77
+A_headline,DURING,2025 (annual mean),16.49,12,"annual mean, V2",no SMARD-printed annual value found; derived
+A_headline,DURING,Oct 2023-Dec 2025 monthly range,14.57-18.95,27,min-max of monthly V2 values,
+A_headline,AFTER (beyond definitive start),Jan-Sep 2026 (mean of 9 months),17.26,9,"partial-year mean, V2",
+A_headline,AFTER,Sep 2026 (latest month in SMARD file),20.44,1,monthly V2,in the SMARD data file on 2026-10-22; no SMARD news item for Sep 2026 found yet; Aug 2026 18.69 is confirmed by SMARD ticker of 7 Sep 2026
+B_secondary,BEFORE,2020 (annual mean),5.95,12,"annual mean, V2",V1 article printed 5.92
+B_secondary,BEFORE,2022 (annual mean),29.10,12,"annual mean, V2",V1 article printed 29.01
+B_secondary,DURING,2024 (annual mean),9.79,12,"annual mean, V2",V1 article printed 10.47
+B_secondary,DURING,2025 (annual mean),10.10,12,"annual mean, V2",
+B_secondary,AFTER,Jan-Sep 2026 (mean of 9 months),11.33,9,"partial-year mean, V2",
+B_secondary,AFTER,Sep 2026 (latest month),14.51,1,monthly V2,Aug 2026 12.76 confirmed by SMARD ticker 7 Sep 2026

@@ -1,0 +1,91 @@
+wz08,label_de,label_en,year,gva_nominal_bn_eur,gva_chain_index_2020=100,gva_chain_linked_volume_bn_eur,share_of_total_gva_pct,employed_persons_thousand(domestic concept),status
+WZ08-24,Metallerzeugung und -bearbeitung,Manufacture of basic metals,2008,25.26,116.82,21.199,1.09,281.0,e
+WZ08-24,Metallerzeugung und -bearbeitung,Manufacture of basic metals,2009,17.681,98.26,17.831,0.8,270.0,e
+WZ08-24,Metallerzeugung und -bearbeitung,Manufacture of basic metals,2010,17.541,95.37,17.307,0.75,259.0,e
+WZ08-24,Metallerzeugung und -bearbeitung,Manufacture of basic metals,2011,20.448,107.45,19.499,0.83,265.0,e
+WZ08-24,Metallerzeugung und -bearbeitung,Manufacture of basic metals,2012,21.129,111.15,20.17,0.84,269.0,e
+WZ08-24,Metallerzeugung und -bearbeitung,Manufacture of basic metals,2013,20.46,112.29,20.377,0.8,268.0,e
+WZ08-24,Metallerzeugung und -bearbeitung,Manufacture of basic metals,2014,20.787,116.13,21.074,0.78,269.0,e
+WZ08-24,Metallerzeugung und -bearbeitung,Manufacture of basic metals,2015,21.311,114.4,20.76,0.77,268.0,e
+WZ08-24,Metallerzeugung und -bearbeitung,Manufacture of basic metals,2016,20.918,114.16,20.717,0.73,266.0,e
+WZ08-24,Metallerzeugung und -bearbeitung,Manufacture of basic metals,2017,21.068,114.87,20.845,0.7,267.0,e
+WZ08-24,Metallerzeugung und -bearbeitung,Manufacture of basic metals,2018,23.222,120.14,21.802,0.75,272.0,e
+WZ08-24,Metallerzeugung und -bearbeitung,Manufacture of basic metals,2019,21.005,114.19,20.722,0.66,271.0,e
+WZ08-24,Metallerzeugung und -bearbeitung,Manufacture of basic metals,2020,18.147,100.0,18.147,0.58,258.0,e
+WZ08-24,Metallerzeugung und -bearbeitung,Manufacture of basic metals,2021,17.438,87.45,15.87,0.52,249.0,e
+WZ08-24,Metallerzeugung und -bearbeitung,Manufacture of basic metals,2022,24.34,97.3,17.657,0.67,249.0,e
+WZ08-24,Metallerzeugung und -bearbeitung,Manufacture of basic metals,2023,25.29,96.05,17.43,0.65,249.0,p
+WZ08-24,Metallerzeugung und -bearbeitung,Manufacture of basic metals,2024,21.04,83.15,15.089,0.53,245.0,p
+WZ08-24,Metallerzeugung und -bearbeitung,Manufacture of basic metals,2025,,,,,,missing(...)
+WZ08-24-01,Metallgewerbe,Manuf. of basic metals a.fabricated metal products,2008,72.537,104.04,74.511,3.13,1193.0,e
+WZ08-24-01,Metallgewerbe,Manuf. of basic metals a.fabricated metal products,2009,55.074,79.16,56.693,2.48,1136.0,e
+WZ08-24-01,Metallgewerbe,Manuf. of basic metals a.fabricated metal products,2010,61.953,91.6,65.602,2.65,1110.0,e
+WZ08-24-01,Metallgewerbe,Manuf. of basic metals a.fabricated metal products,2011,69.875,103.46,74.096,2.85,1149.0,e
+WZ08-24-01,Metallgewerbe,Manuf. of basic metals a.fabricated metal products,2012,70.957,102.53,73.43,2.84,1170.0,e
+WZ08-24-01,Metallgewerbe,Manuf. of basic metals a.fabricated metal products,2013,71.559,103.9,74.411,2.8,1165.0,e
+WZ08-24-01,Metallgewerbe,Manuf. of basic metals a.fabricated metal products,2014,73.623,107.49,76.982,2.76,1169.0,e
+WZ08-24-01,Metallgewerbe,Manuf. of basic metals a.fabricated metal products,2015,74.84,108.05,77.383,2.71,1173.0,e
+WZ08-24-01,Metallgewerbe,Manuf. of basic metals a.fabricated metal products,2016,76.955,110.4,79.066,2.69,1175.0,e
+WZ08-24-01,Metallgewerbe,Manuf. of basic metals a.fabricated metal products,2017,77.903,112.97,80.907,2.61,1187.0,e
+WZ08-24-01,Metallgewerbe,Manuf. of basic metals a.fabricated metal products,2018,81.405,115.91,83.012,2.64,1211.0,e
+WZ08-24-01,Metallgewerbe,Manuf. of basic metals a.fabricated metal products,2019,78.989,111.52,79.868,2.48,1208.0,e
+WZ08-24-01,Metallgewerbe,Manuf. of basic metals a.fabricated metal products,2020,71.618,100.0,71.618,2.29,1159.0,e
+WZ08-24-01,Metallgewerbe,Manuf. of basic metals a.fabricated metal products,2021,75.568,107.09,76.696,2.27,1128.0,e
+WZ08-24-01,Metallgewerbe,Manuf. of basic metals a.fabricated metal products,2022,85.087,108.67,77.827,2.35,1122.0,e
+WZ08-24-01,Metallgewerbe,Manuf. of basic metals a.fabricated metal products,2023,91.945,104.29,74.69,2.36,1116.0,p
+WZ08-24-01,Metallgewerbe,Manuf. of basic metals a.fabricated metal products,2024,86.664,96.95,69.434,2.18,1089.0,p
+WZ08-24-01,Metallgewerbe,Manuf. of basic metals a.fabricated metal products,2025,,,,,,missing(...)
+WZ08-25,Herstellung von Metallerzeugnissen,"Manuf. of fabricated metal products, ex. machinery",2008,47.277,101.07,54.043,2.04,912.0,e
+WZ08-25,Herstellung von Metallerzeugnissen,"Manuf. of fabricated metal products, ex. machinery",2009,37.393,72.57,38.804,1.68,866.0,e
+WZ08-25,Herstellung von Metallerzeugnissen,"Manuf. of fabricated metal products, ex. machinery",2010,44.412,90.37,48.322,1.9,851.0,e
+WZ08-25,Herstellung von Metallerzeugnissen,"Manuf. of fabricated metal products, ex. machinery",2011,49.427,102.17,54.631,2.02,884.0,e
+WZ08-25,Herstellung von Metallerzeugnissen,"Manuf. of fabricated metal products, ex. machinery",2012,49.828,99.42,53.161,1.99,901.0,e
+WZ08-25,Herstellung von Metallerzeugnissen,"Manuf. of fabricated metal products, ex. machinery",2013,51.099,100.88,53.942,2.0,897.0,e
+WZ08-25,Herstellung von Metallerzeugnissen,"Manuf. of fabricated metal products, ex. machinery",2014,52.836,104.39,55.818,1.98,900.0,e
+WZ08-25,Herstellung von Metallerzeugnissen,"Manuf. of fabricated metal products, ex. machinery",2015,53.529,105.75,56.546,1.94,905.0,e
+WZ08-25,Herstellung von Metallerzeugnissen,"Manuf. of fabricated metal products, ex. machinery",2016,56.037,109.05,58.31,1.96,909.0,e
+WZ08-25,Herstellung von Metallerzeugnissen,"Manuf. of fabricated metal products, ex. machinery",2017,56.835,112.29,60.043,1.9,920.0,e
+WZ08-25,Herstellung von Metallerzeugnissen,"Manuf. of fabricated metal products, ex. machinery",2018,58.183,114.38,61.16,1.89,939.0,e
+WZ08-25,Herstellung von Metallerzeugnissen,"Manuf. of fabricated metal products, ex. machinery",2019,57.984,110.58,59.128,1.82,937.0,e
+WZ08-25,Herstellung von Metallerzeugnissen,"Manuf. of fabricated metal products, ex. machinery",2020,53.471,100.0,53.471,1.71,901.0,e
+WZ08-25,Herstellung von Metallerzeugnissen,"Manuf. of fabricated metal products, ex. machinery",2021,58.13,113.75,60.823,1.75,879.0,e
+WZ08-25,Herstellung von Metallerzeugnissen,"Manuf. of fabricated metal products, ex. machinery",2022,60.747,112.09,59.936,1.68,873.0,e
+WZ08-25,Herstellung von Metallerzeugnissen,"Manuf. of fabricated metal products, ex. machinery",2023,66.655,106.34,56.861,1.71,867.0,p
+WZ08-25,Herstellung von Metallerzeugnissen,"Manuf. of fabricated metal products, ex. machinery",2024,65.624,101.44,54.241,1.65,844.0,p
+WZ08-25,Herstellung von Metallerzeugnissen,"Manuf. of fabricated metal products, ex. machinery",2025,,,,,,missing(...)
+WZ08-A-02,Alle Wirtschaftsbereiche,All economic sectors,2008,2316.889,90.63,2834.043,100.0,40851.0,e
+WZ08-A-02,Alle Wirtschaftsbereiche,All economic sectors,2009,2223.746,84.99,2657.677,100.0,40903.0,e
+WZ08-A-02,Alle Wirtschaftsbereiche,All economic sectors,2010,2341.162,88.9,2779.945,100.0,41099.0,e
+WZ08-A-02,Alle Wirtschaftsbereiche,All economic sectors,2011,2451.863,92.25,2884.701,100.0,41570.0,e
+WZ08-A-02,Alle Wirtschaftsbereiche,All economic sectors,2012,2500.501,92.75,2900.336,100.0,42065.0,e
+WZ08-A-02,Alle Wirtschaftsbereiche,All economic sectors,2013,2558.938,93.25,2915.971,100.0,42378.0,e
+WZ08-A-02,Alle Wirtschaftsbereiche,All economic sectors,2014,2666.091,95.41,2983.516,100.0,42756.0,e
+WZ08-A-02,Alle Wirtschaftsbereiche,All economic sectors,2015,2760.477,96.9,3030.109,100.0,43137.0,e
+WZ08-A-02,Alle Wirtschaftsbereiche,All economic sectors,2016,2861.806,99.21,3102.343,100.0,43686.0,e
+WZ08-A-02,Alle Wirtschaftsbereiche,All economic sectors,2017,2990.068,102.19,3195.529,100.0,44290.0,e
+WZ08-A-02,Alle Wirtschaftsbereiche,All economic sectors,2018,3085.866,103.56,3238.37,100.0,44878.0,e
+WZ08-A-02,Alle Wirtschaftsbereiche,All economic sectors,2019,3182.023,104.4,3264.637,100.0,45291.0,e
+WZ08-A-02,Alle Wirtschaftsbereiche,All economic sectors,2020,3127.047,100.0,3127.047,100.0,44966.0,e
+WZ08-A-02,Alle Wirtschaftsbereiche,All economic sectors,2021,3324.835,104.12,3255.881,100.0,45041.0,e
+WZ08-A-02,Alle Wirtschaftsbereiche,All economic sectors,2022,3613.11,106.35,3325.614,100.0,45622.0,e
+WZ08-A-02,Alle Wirtschaftsbereiche,All economic sectors,2023,3888.686,105.68,3304.663,100.0,45909.0,p
+WZ08-A-02,Alle Wirtschaftsbereiche,All economic sectors,2024,3979.644,105.67,3304.351,100.0,45960.0,p
+WZ08-A-02,Alle Wirtschaftsbereiche,All economic sectors,2025,4104.359,105.69,3304.976,100.0,45878.0,p
+WZ08-C,Verarbeitendes Gewerbe,Manufacturing,2008,511.603,92.93,594.793,22.08,7457.0,e
+WZ08-C,Verarbeitendes Gewerbe,Manufacturing,2009,432.427,74.42,476.321,19.45,7278.0,e
+WZ08-C,Verarbeitendes Gewerbe,Manufacturing,2010,508.085,89.0,569.639,21.7,7142.0,e
+WZ08-C,Verarbeitendes Gewerbe,Manufacturing,2011,552.765,97.02,620.971,22.54,7285.0,e
+WZ08-C,Verarbeitendes Gewerbe,Manufacturing,2012,561.17,95.32,610.09,22.44,7413.0,e
+WZ08-C,Verarbeitendes Gewerbe,Manufacturing,2013,566.39,95.28,609.834,22.13,7438.0,e
+WZ08-C,Verarbeitendes Gewerbe,Manufacturing,2014,599.831,100.57,643.692,22.5,7481.0,e
+WZ08-C,Verarbeitendes Gewerbe,Manufacturing,2015,621.546,101.56,650.029,22.52,7512.0,e
+WZ08-C,Verarbeitendes Gewerbe,Manufacturing,2016,652.21,105.55,675.566,22.79,7534.0,e
+WZ08-C,Verarbeitendes Gewerbe,Manufacturing,2017,669.728,109.07,698.096,22.4,7603.0,e
+WZ08-C,Verarbeitendes Gewerbe,Manufacturing,2018,680.255,110.5,707.249,22.04,7731.0,e
+WZ08-C,Verarbeitendes Gewerbe,Manufacturing,2019,683.172,109.0,697.648,21.47,7773.0,e
+WZ08-C,Verarbeitendes Gewerbe,Manufacturing,2020,640.044,100.0,640.044,20.47,7586.0,e
+WZ08-C,Verarbeitendes Gewerbe,Manufacturing,2021,684.545,109.12,698.416,20.59,7470.0,e
+WZ08-C,Verarbeitendes Gewerbe,Manufacturing,2022,731.784,110.74,708.785,20.25,7486.0,e
+WZ08-C,Verarbeitendes Gewerbe,Manufacturing,2023,792.263,107.34,687.023,20.37,7490.0,p
+WZ08-C,Verarbeitendes Gewerbe,Manufacturing,2024,793.156,105.64,676.142,19.93,7415.0,p
+WZ08-C,Verarbeitendes Gewerbe,Manufacturing,2025,797.19,104.13,666.478,19.42,7262.0,p

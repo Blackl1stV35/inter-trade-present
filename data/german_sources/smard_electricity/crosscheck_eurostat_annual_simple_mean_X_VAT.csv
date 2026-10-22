@@ -1,0 +1,34 @@
+band_code,band_label,year,ct_kwh_excl_VAT_and_recoverable_taxes_mean_of_S1_S2,S1,S2,note
+MWH2000-19999,"2,000-19,999 MWh (band ID)",2020,15.22,15.09,15.34,derived: simple mean of two half-years
+MWH2000-19999,"2,000-19,999 MWh (band ID)",2021,15.72,15.01,16.42,derived: simple mean of two half-years
+MWH2000-19999,"2,000-19,999 MWh (band ID)",2022,19.39,19.28,19.49,derived: simple mean of two half-years
+MWH2000-19999,"2,000-19,999 MWh (band ID)",2023,20.36,20.55,20.17,derived: simple mean of two half-years
+MWH2000-19999,"2,000-19,999 MWh (band ID)",2024,20.47,20.17,20.76,derived: simple mean of two half-years
+MWH2000-19999,"2,000-19,999 MWh (band ID)",2025,19.27,19.32,19.22,derived: simple mean of two half-years
+MWH2000-19999,"2,000-19,999 MWh (band ID)",2026-S1,17.42,17.42,,"single half-year, provisional (Eurostat last update 2026-10-19)"
+MWH20000-69999,"20,000-69,999 MWh (band IE)",2020,12.39,12.06,12.71,derived: simple mean of two half-years
+MWH20000-69999,"20,000-69,999 MWh (band IE)",2021,13.08,12.67,13.49,derived: simple mean of two half-years
+MWH20000-69999,"20,000-69,999 MWh (band IE)",2022,18.54,17.68,19.39,derived: simple mean of two half-years
+MWH20000-69999,"20,000-69,999 MWh (band IE)",2023,18.41,19.05,17.76,derived: simple mean of two half-years
+MWH20000-69999,"20,000-69,999 MWh (band IE)",2024,16.99,16.85,17.12,derived: simple mean of two half-years
+MWH20000-69999,"20,000-69,999 MWh (band IE)",2025,15.90,15.84,15.95,derived: simple mean of two half-years
+MWH20000-69999,"20,000-69,999 MWh (band IE)",2026-S1,14.64,14.64,,"single half-year, provisional (Eurostat last update 2026-10-19)"
+MWH70000-149999,"70,000-149,999 MWh (band IF)",2020,10.65,10.07,11.22,derived: simple mean of two half-years
+MWH70000-149999,"70,000-149,999 MWh (band IF)",2021,12.48,11.49,13.47,derived: simple mean of two half-years
+MWH70000-149999,"70,000-149,999 MWh (band IF)",2022,17.60,16.34,18.86,derived: simple mean of two half-years
+MWH70000-149999,"70,000-149,999 MWh (band IF)",2023,17.03,16.86,17.20,derived: simple mean of two half-years
+MWH70000-149999,"70,000-149,999 MWh (band IF)",2024,14.12,13.94,14.30,derived: simple mean of two half-years
+MWH70000-149999,"70,000-149,999 MWh (band IF)",2025,14.44,14.47,14.40,derived: simple mean of two half-years
+MWH70000-149999,"70,000-149,999 MWh (band IF)",2026-S1,13.79,13.79,,"single half-year, provisional (Eurostat last update 2026-10-19)"
+MWH_GE150000,"150,000 MWh or more (band IG)",2020,6.88,6.43,7.33,derived: simple mean of two half-years
+MWH_GE150000,"150,000 MWh or more (band IG)",2021,10.97,8.82,13.11,derived: simple mean of two half-years
+MWH_GE150000,"150,000 MWh or more (band IG)",2022,19.02,17.34,20.70,derived: simple mean of two half-years
+MWH_GE150000,"150,000 MWh or more (band IG)",2023,15.58,15.89,15.27,derived: simple mean of two half-years
+MWH_GE150000,"150,000 MWh or more (band IG)",2024,13.01,12.12,13.90,derived: simple mean of two half-years
+MWH_GE150000,"150,000 MWh or more (band IG)",2025,13.23,13.38,13.07,derived: simple mean of two half-years
+MWH_GE150000,"150,000 MWh or more (band IG)",2026-S1,12.67,12.67,,"single half-year, provisional (Eurostat last update 2026-10-19)"
+TOT_KWH,all bands,2022,20.26,19.78,20.74,derived: simple mean of two half-years
+TOT_KWH,all bands,2023,20.60,20.85,20.35,derived: simple mean of two half-years
+TOT_KWH,all bands,2024,20.22,19.98,20.45,derived: simple mean of two half-years
+TOT_KWH,all bands,2025,19.40,19.59,19.21,derived: simple mean of two half-years
+TOT_KWH,all bands,2026-S1,17.67,17.67,,"single half-year, provisional (Eurostat last update 2026-10-19)"

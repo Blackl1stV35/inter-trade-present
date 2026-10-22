@@ -1,0 +1,24 @@
+check,value,comment
+tk EC split: 550 + 1450,2000,EUR m; equals 'about 2 bn'
+NRW 30% of 2000,600.0,EUR m; vs 'up to 700' (35%)
+Bund share if NRW=700,1300,EUR m
+Bund share if NRW=30%,1400,EUR m
+Commitments 2024: 1000+2000+2600+1300,6900,EUR m; equals 6.9 bn in Drs 20/12166
+Live commitments: 1322+2000+2600,5922,EUR m; after ArcelorMittal exit and SALCOS top-up
+EC capacity sum incl. ArcelorMittal (2.3+1.9+3.05+3.8),11.05,Mt/yr; mixes hot metal and crude steel
+EC capacity sum excl. ArcelorMittal,7.25,Mt/yr
+Company cost totals low: SALCOS 2000 + tk 3000 + SHS 3500 + AM 2500,11000,"EUR m; vs 12,500 in workbook"
+Company cost totals high: SALCOS 2700 + tk 3000 + SHS 3500 + AM 2500,11700,EUR m
+Live cost totals low (no AM),8500,EUR m
+Live cost totals high (no AM),9200,EUR m
+Public share of live cost (5922 / 9200),0.644,"ratio, upper-cost case"
+Public share of live cost (5922 / 8500),0.697,"ratio, lower-cost case"
+SALCOS paid / committed 1.3bn,0.828,ratio
+SALCOS paid / committed 1.322bn,0.814,ratio
+SALCOS Bund share after top-up (700 + 2/3*322),914.7,EUR m; assumes 2/3 applies to the addition only
+SALCOS Land share after top-up (300 + 1/3*322),407.3,EUR m; same assumption
+tk grants FY23/24 + FY24/25 + 9M FY25/26,1015,EUR m; group cash-flow line
+tk grants incl. FY22/23,1169,"EUR m; FY22/23 pre-dates the Bescheid, likely other items"
+tk grants received / 2000 commitment,0.507,ratio; indicative only
+CCfD R1 awarded / R1 budget (2.8 / 4.0),0.7,ratio
+Industriestrompreis relief: 8.75 - 5.00,3.75,ct/kWh; matches 3.75 in BMWE paper

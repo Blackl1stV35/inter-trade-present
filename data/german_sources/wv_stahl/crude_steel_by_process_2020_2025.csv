@@ -1,0 +1,7 @@
+year,crude_steel_total_kt_revision,oxygen_steel_kt_revision,electric_steel_kt_revision,pig_iron_kt_revision,hot_rolled_products_kt_revision,electric_share_pct_calc,oxygen_share_pct_calc,revision_source_key,brochure2026_total_mt_p9,brochure2025_total_mt_p9,scrap_report2026_total_mt,scrap_report2026_eaf_mt,scrap_report2026_bof_mt,scrap_report2026_eaf_share_pct_printed
+2020,,,,,,,,none (no 2020 revision PDF on the site),35.7,35.7,35.7,11.5,24.1,32
+2021,40241,28150,12091,25691,34760,30.05,69.95,rev2021,40.2,40.2,40.2,12.1,28.1,30
+2022,36861,25873,10987,23856,31771,29.81,70.19,rev2022,36.9,36.9,36.8,11.0,25.9,30
+2023,35395,25578,9817,23635,30673,27.74,72.26,rev2023,35.4,35.4,35.4,9.8,25.6,28
+2024,37310,26487,10823,24327,31500,29.01,70.99,rev2024,37.2,37.2,37.3,10.8,26.5,29
+2025,34267,23814,10453,21874,30071,30.50,69.50,rev2025,34.1,,34.1,10.4,23.6,31

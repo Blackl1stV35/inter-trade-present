@@ -1,0 +1,962 @@
+{
+ "retrieved_utc": "2026-10-22T04:26:08Z",
+ "base_url": "https://genesis.destatis.de/genesis/api/rest",
+ "note": "Raw cubes are not stored in the repo; sha256 identifies each API response.",
+ "requests": [
+  {
+   "table": "51000-0005",
+   "table_label_de": "Aus- und Einfuhr (Außenhandel): Deutschland, Jahre, Warensystematik",
+   "table_lastChange_utc": "2026-09-24T06:13:44.454Z",
+   "row_swap": null,
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 6,
+    "JAHR": 18,
+    "WAM2": 98
+   },
+   "response_bytes": 149008,
+   "response_sha256": "5d99a19ac8d6c458aa5972625bae9fd98c9f8bac0b57f33173f4822a8f28af7d",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:14:07Z",
+   "note": "WAM2 chapters, all partners, 2008-2025",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/51000-0005/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "51000-0005",
+   "table_label_de": "Aus- und Einfuhr (Außenhandel): Deutschland, Jahre, Warensystematik",
+   "table_lastChange_utc": "2026-09-24T06:13:44.454Z",
+   "row_swap": "WAM4",
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 6,
+    "JAHR": 18,
+    "WAM4": 1626
+   },
+   "response_bytes": 2066848,
+   "response_sha256": "c56d7d211c11e9c840c7a469ab67a82e2f253c622cd451697fc3338f0d07f9bf",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:14:18Z",
+   "note": "WAM4 4-digit headings, all partners",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/51000-0005/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "51000-0005",
+   "table_label_de": "Aus- und Einfuhr (Außenhandel): Deutschland, Jahre, Warensystematik",
+   "table_lastChange_utc": "2026-09-24T06:13:44.454Z",
+   "row_swap": "SITC2A",
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 6,
+    "JAHR": 18,
+    "SITC2A": 72
+   },
+   "response_bytes": 111881,
+   "response_sha256": "119d32279282423ef2835e012611c19297f28e8a87cf288aee3005f08543cf16",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:14:40Z",
+   "note": "SITC2A grouping, all partners",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/51000-0005/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "51000-0005",
+   "table_label_de": "Aus- und Einfuhr (Außenhandel): Deutschland, Jahre, Warensystematik",
+   "table_lastChange_utc": "2026-09-24T06:13:44.454Z",
+   "row_swap": "GP19B4",
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 6,
+    "JAHR": 18,
+    "GP19B4": 273
+   },
+   "response_bytes": 388939,
+   "response_sha256": "a19f3a983d47be6b87bca8d04f791609bed3ccf438504f1bfb91e8863f7ca203",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:14:47Z",
+   "note": "GP19B4 grouping, all partners",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/51000-0005/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "51000-0005",
+   "table_label_de": "Aus- und Einfuhr (Außenhandel): Deutschland, Jahre, Warensystematik",
+   "table_lastChange_utc": "2026-09-24T06:13:44.454Z",
+   "row_swap": "GP19B2",
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 6,
+    "JAHR": 18,
+    "GP19B2": 34
+   },
+   "response_bytes": 54636,
+   "response_sha256": "081360cfb7a6e50e2eb65531fbf271bf7ee13eb3fe6a38f7c5ffd99d998e2158",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:14:52Z",
+   "note": "GP19B2 grouping, all partners",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/51000-0005/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "51000-0005",
+   "table_label_de": "Aus- und Einfuhr (Außenhandel): Deutschland, Jahre, Warensystematik",
+   "table_lastChange_utc": "2026-09-24T06:13:44.454Z",
+   "row_swap": "EGW3",
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 6,
+    "JAHR": 18,
+    "EGW3": 212
+   },
+   "response_bytes": 309631,
+   "response_sha256": "0f9e4bda90050302422fbf49fadedb8b62d9ca5437772da1ac2681871f66fc43",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:14:58Z",
+   "note": "EGW3 grouping, all partners",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/51000-0005/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "51000-0007",
+   "table_label_de": "Aus- und Einfuhr (Außenhandel): Deutschland, Jahre, Länder, Warensystematik",
+   "table_lastChange_utc": "2026-09-24T06:16:03.220Z",
+   "row_swap": null,
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 6,
+    "JAHR": 18,
+    "WAM2": 98,
+    "STLAH": 262
+   },
+   "response_bytes": 25094285,
+   "response_sha256": "5c538cfeee8f1ee66d0bbb40e7d869b0cf775619cf2b6cd97bbbf84740b9f124",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:15:35Z",
+   "note": "WAM2 x STLAH, all partners (country detail); keep WA72",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/51000-0007/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "51000-0009",
+   "table_label_de": "Aus- und Einfuhr (Außenhandel): Deutschland, Jahre, Land, Warenverzeichnis (4-/6-Steller)",
+   "table_lastChange_utc": "2026-09-24T06:42:21.826Z",
+   "row_swap": null,
+   "selection": {
+    "JAHR": "9 codes: 2017..2025",
+    "WAM4": "17 codes: WA7201..WA7217",
+    "STLAH": "27 codes: STLAH017..STLAH959"
+   },
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 6,
+    "JAHR": 9,
+    "WAM4": 17,
+    "STLAH": 27
+   },
+   "response_bytes": 256404,
+   "response_sha256": "aec816bedff0755f636fcd90919d8934b68c081ba2cd96f5f16f98188e5a5583",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:16:32Z",
+   "note": "chapter-72 headings x EU27 partner countries (cells < 40,000 limit)",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/51000-0009/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "51000-0009",
+   "table_label_de": "Aus- und Einfuhr (Außenhandel): Deutschland, Jahre, Land, Warenverzeichnis (4-/6-Steller)",
+   "table_lastChange_utc": "2026-09-24T06:42:21.826Z",
+   "row_swap": null,
+   "selection": {
+    "JAHR": "9 codes: 2017..2025",
+    "WAM4": "16 codes: WA7218..WA7299",
+    "STLAH": "27 codes: STLAH017..STLAH959"
+   },
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 6,
+    "JAHR": 9,
+    "WAM4": 16,
+    "STLAH": 27
+   },
+   "response_bytes": 232767,
+   "response_sha256": "a7cf1d0595480ec345896c3cce0970feceb3b3ae530a766913f6241c5c03a2e7",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:17:18Z",
+   "note": "chapter-72 headings x EU27 partner countries (cells < 40,000 limit)",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/51000-0009/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "51000-0006",
+   "table_label_de": "Aus- und Einfuhr (Außenhandel): Deutschland, Monate, Warensystematik",
+   "table_lastChange_utc": "2026-10-20T06:05:58.499Z",
+   "row_swap": null,
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 6,
+    "MONAT": 12,
+    "JAHR": 19,
+    "WAM2": 98
+   },
+   "response_bytes": 1692093,
+   "response_sha256": "1eabc2ebee9a54821e9e5481fc4c052cd74647cc80f774bec5bce6a22c1d3eab",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:17:45Z",
+   "note": "monthly WAM2, all partners; keep WA72, WA73",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/51000-0006/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "51000-0008",
+   "table_label_de": "Aus- und Einfuhr (Außenhandel): Deutschland, Monate, Länder, Warensystematik",
+   "table_lastChange_utc": "2026-10-20T06:07:54.691Z",
+   "row_swap": null,
+   "selection": {
+    "JAHR": [
+     "2023"
+    ],
+    "WAM2": [
+     "WA72"
+    ]
+   },
+   "dimensions": {
+    "statistic": 1,
+    "JAHR": 1,
+    "WAM2": 1,
+    "DINSG": 1,
+    "content": 6,
+    "MONAT": 12,
+    "STLAH": 262
+   },
+   "response_bytes": 172779,
+   "response_sha256": "b83d6bd4f6ed5517da589ec2568da6dad2e286a0855744bded3ebebc6f2e5998",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:18:46Z",
+   "note": "monthly WAM2=WA72 x STLAH, 2023",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/51000-0008/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "51000-0008",
+   "table_label_de": "Aus- und Einfuhr (Außenhandel): Deutschland, Monate, Länder, Warensystematik",
+   "table_lastChange_utc": "2026-10-20T06:07:54.691Z",
+   "row_swap": null,
+   "selection": {
+    "JAHR": [
+     "2024"
+    ],
+    "WAM2": [
+     "WA72"
+    ]
+   },
+   "dimensions": {
+    "statistic": 1,
+    "JAHR": 1,
+    "WAM2": 1,
+    "DINSG": 1,
+    "content": 6,
+    "MONAT": 12,
+    "STLAH": 262
+   },
+   "response_bytes": 172861,
+   "response_sha256": "9034b9c94d6de8f75bdefd60e1f4d782b5499dc20596ee62380a8377699d8c6e",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:19:39Z",
+   "note": "monthly WAM2=WA72 x STLAH, 2024",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/51000-0008/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "51000-0008",
+   "table_label_de": "Aus- und Einfuhr (Außenhandel): Deutschland, Monate, Länder, Warensystematik",
+   "table_lastChange_utc": "2026-10-20T06:07:54.691Z",
+   "row_swap": null,
+   "selection": {
+    "JAHR": [
+     "2025"
+    ],
+    "WAM2": [
+     "WA72"
+    ]
+   },
+   "dimensions": {
+    "statistic": 1,
+    "JAHR": 1,
+    "WAM2": 1,
+    "DINSG": 1,
+    "content": 6,
+    "MONAT": 12,
+    "STLAH": 262
+   },
+   "response_bytes": 172319,
+   "response_sha256": "686e1c4bc2ef990f673023826f4e99d821f41a8a28754da8882d3bc764cb0d2e",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:20:33Z",
+   "note": "monthly WAM2=WA72 x STLAH, 2025",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/51000-0008/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "51000-0008",
+   "table_label_de": "Aus- und Einfuhr (Außenhandel): Deutschland, Monate, Länder, Warensystematik",
+   "table_lastChange_utc": "2026-10-20T06:07:54.691Z",
+   "row_swap": null,
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "JAHR": 1,
+    "DINSG": 1,
+    "content": 6,
+    "MONAT": 12,
+    "WAM2": 98,
+    "STLAH": 262
+   },
+   "response_bytes": 16996594,
+   "response_sha256": "10ff2ff32856378113a8a7a50442aa61b36937cb21039984da934e8bd3778c1c",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:21:06Z",
+   "note": "monthly default state = year 2026, all WAM2, all countries; keep WA72",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/51000-0008/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "51000-0001",
+   "table_label_de": "Aus- und Einfuhr (Außenhandel): Deutschland, Jahre",
+   "table_lastChange_utc": "2026-09-24T06:20:38.104Z",
+   "row_swap": null,
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 12,
+    "JAHR": 76
+   },
+   "response_bytes": 12029,
+   "response_sha256": "9c9eaf82a17be76c59c1e28c5e60f6f07debc538d04029109269c129b04deaf3",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:21:09Z",
+   "note": "total foreign trade, annual 1950-2025",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/51000-0001/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "42153-0001",
+   "table_label_de": "Produktionsindex für das Verarbeitende Gewerbe: Deutschland, Monate, Original- und bereinigte Daten, Wirtschaftszweige (Hauptgruppen und Aggregate)",
+   "table_lastChange_utc": "2026-10-09T18:05:05.574Z",
+   "row_swap": null,
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 1,
+    "WERT03": 5,
+    "MONAT": 12,
+    "JAHR": 36,
+    "WZ08V1": 55
+   },
+   "response_bytes": 1059104,
+   "response_sha256": "efb04f670767de9a06c74d83e0b81997d0d3013fa3c593b6d9893aa8854b7b75",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:21:18Z",
+   "note": "production index WZ08V1",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/42153-0001/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "42153-0002",
+   "table_label_de": "Produktionsindex für das Verarbeitende Gewerbe: Deutschland, Monate, Original- und bereinigte Daten, Wirtschaftszweige (2-/3-/4-Steller)",
+   "table_lastChange_utc": "2026-10-09T18:04:09.816Z",
+   "row_swap": null,
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 1,
+    "WERT03": 5,
+    "MONAT": 12,
+    "WZ08V2": 30,
+    "JAHR": 36
+   },
+   "response_bytes": 594885,
+   "response_sha256": "1b625e5988430bcb328bfdba81b39e2a9fbfc53aeba260acc86886904c734ca6",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:21:28Z",
+   "note": "production index WZ08V2",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/42153-0002/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "42153-0002",
+   "table_label_de": "Produktionsindex für das Verarbeitende Gewerbe: Deutschland, Monate, Original- und bereinigte Daten, Wirtschaftszweige (2-/3-/4-Steller)",
+   "table_lastChange_utc": "2026-10-09T18:04:09.816Z",
+   "row_swap": "WZ08V3",
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 1,
+    "WERT03": 5,
+    "MONAT": 12,
+    "JAHR": 36,
+    "WZ08V3": 107
+   },
+   "response_bytes": 2096717,
+   "response_sha256": "a604b6ae6f661e75da48f9efd4513882f8c4d199babeb2d7a6c64f94fd8f1864",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:21:38Z",
+   "note": "production index WZ08V3",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/42153-0002/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "42111-0001",
+   "table_label_de": "Beschäftigte und Umsatz der Betriebe im Verarbeitenden Gewerbe: Deutschland, Jahre, Wirtschaftszweige (WZ2008 Hauptgruppen und Aggregate)",
+   "table_lastChange_utc": "2026-09-22T10:12:01.999Z",
+   "row_swap": null,
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "BTRFT1": 1,
+    "DINSG": 1,
+    "WZ08M1": 8,
+    "content": 9,
+    "JAHR": 21
+   },
+   "response_bytes": 23292,
+   "response_sha256": "5540107d4c4e910952c797307d45bcdd8d2583f0a6d95ab179b061ff2bd97d29",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:21:41Z",
+   "note": "establishment survey WZ08M1",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/42111-0001/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "42111-0003",
+   "table_label_de": "Beschäftigte und Umsatz der Betriebe im Verarbeitenden Gewerbe: Deutschland, Jahre, Wirtschaftszweige (WZ2008 2-/3-/4-Steller)",
+   "table_lastChange_utc": "2026-09-21T07:25:49.920Z",
+   "row_swap": null,
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "BTRFT1": 1,
+    "DINSG": 1,
+    "content": 9,
+    "JAHR": 21,
+    "WZ08X2": 29
+   },
+   "response_bytes": 74295,
+   "response_sha256": "9f4d3e0b4dbb3d6eae5b801697e38662d23639969e306d2ed51c9cb6dda3261b",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:21:46Z",
+   "note": "establishment survey WZ08X2",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/42111-0003/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "42111-0003",
+   "table_label_de": "Beschäftigte und Umsatz der Betriebe im Verarbeitenden Gewerbe: Deutschland, Jahre, Wirtschaftszweige (WZ2008 2-/3-/4-Steller)",
+   "table_lastChange_utc": "2026-09-21T07:25:49.920Z",
+   "row_swap": "WZ08X3",
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "BTRFT1": 1,
+    "DINSG": 1,
+    "content": 9,
+    "JAHR": 21,
+    "WZ08X3": 105
+   },
+   "response_bytes": 249467,
+   "response_sha256": "85014226cde616770eda08c8a829e39acbad0dff4c7f1fc92b84c71b7595db52",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:21:51Z",
+   "note": "establishment survey WZ08X3",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/42111-0003/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "42271-0001",
+   "table_label_de": "Beschäftigte und Umsatz der Betriebe im Verarbeitenden Gewerbe: Deutschland, Jahre, Wirtschaftszweige (WZ2008 Hauptgruppen und Aggregate)",
+   "table_lastChange_utc": "2026-09-21T13:02:44.975Z",
+   "row_swap": null,
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 6,
+    "WZ08M1": 8,
+    "JAHR": 18
+   },
+   "response_bytes": 13221,
+   "response_sha256": "6163caed448d19fdacff33265aabe086e6382935983676ab591395e57f180552",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:21:53Z",
+   "note": "establishment survey WZ08M1",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/42271-0001/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "42271-0002",
+   "table_label_de": "Beschäftigte und Umsatz der Betriebe im Verarbeitenden Gewerbe: Deutschland, Jahre, Wirtschaftszweige (WZ2008 2-/3-/4-Steller)",
+   "table_lastChange_utc": "2026-09-21T08:49:10.210Z",
+   "row_swap": null,
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 6,
+    "JAHR": 18,
+    "WZ08X2": 29
+   },
+   "response_bytes": 43173,
+   "response_sha256": "a8e56b70d030b0288de464013685ac6b06edcc8641a0ea0fe0a9377492d47554",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:21:58Z",
+   "note": "establishment survey WZ08X2",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/42271-0002/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "42271-0002",
+   "table_label_de": "Beschäftigte und Umsatz der Betriebe im Verarbeitenden Gewerbe: Deutschland, Jahre, Wirtschaftszweige (WZ2008 2-/3-/4-Steller)",
+   "table_lastChange_utc": "2026-09-21T08:49:10.210Z",
+   "row_swap": "WZ08X3",
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 6,
+    "JAHR": 18,
+    "WZ08X3": 105
+   },
+   "response_bytes": 145130,
+   "response_sha256": "2917112d7c1b932235bbd98c24b4e18ba667308af66dbf39644c75684dba4ce2",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:22:01Z",
+   "note": "establishment survey WZ08X3",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/42271-0002/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "81000-0102",
+   "table_label_de": "VGR des Bundes - Bruttowertschöpfung (nominal/ preisbereinigt): Deutschland, Jahre, Wirtschaftsbereiche",
+   "table_lastChange_utc": "2026-09-21T09:02:45.641Z",
+   "row_swap": null,
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 1,
+    "VGRPB5": 4,
+    "JAHR": 35,
+    "WZ08G3": 94
+   },
+   "response_bytes": 144381,
+   "response_sha256": "be0411af5ec03990daae77d7b623249ace7c2ec5b4a110c280fa324fb933cda3",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:22:06Z",
+   "note": "VGR gross value added by branch",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/81000-0102/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "81000-0123",
+   "table_label_de": "VGR des Bundes - Erwerbstätige: Deutschland, Jahre, Wirtschaftsbereiche",
+   "table_lastChange_utc": "2026-09-21T08:37:28.804Z",
+   "row_swap": null,
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 1,
+    "JAHR": 35,
+    "WZ08G3": 94
+   },
+   "response_bytes": 35735,
+   "response_sha256": "6dcb2c3a21a8bd5709cf84df9835d2faedd547665667f4efe95a79a32a652dbf",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:22:10Z",
+   "note": "VGR employed persons by branch",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/81000-0123/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "61241-0003",
+   "table_label_de": "Erzeugerpreisindex gewerblicher Produkte: Deutschland, Jahre, Güterverzeichnis (GP2019 2-/3-/4-/5-/6-/9-Steller/ Sonderpositionen)",
+   "table_lastChange_utc": "2026-09-21T07:24:33.094Z",
+   "row_swap": null,
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 1,
+    "GP19M2": 30,
+    "JAHR": 77
+   },
+   "response_bytes": 21162,
+   "response_sha256": "18b72d7bc3f3478daa283c4ff4afceeb1bb9765b86c2d9ac5861888858d7585b",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:22:21Z",
+   "note": "annual PPI GP19M2",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/61241-0003/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "61241-0004",
+   "table_label_de": "Erzeugerpreisindex gewerblicher Produkte: Deutschland, Monate, Güterverzeichnis (GP2019 2-/3-/4-/5-/6-/9-Steller/ Sonderpositionen)",
+   "table_lastChange_utc": "2026-10-20T06:00:36.609Z",
+   "row_swap": null,
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 1,
+    "MONAT": 12,
+    "GP19M2": 30,
+    "JAHR": 51
+   },
+   "response_bytes": 162071,
+   "response_sha256": "1a82851ac6793f8e7113ee9733109ee0264dd034a2405b40116d3d83b70d30fb",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:22:35Z",
+   "note": "monthly PPI GP19M2",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/61241-0004/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "61241-0003",
+   "table_label_de": "Erzeugerpreisindex gewerblicher Produkte: Deutschland, Jahre, Güterverzeichnis (GP2019 2-/3-/4-/5-/6-/9-Steller/ Sonderpositionen)",
+   "table_lastChange_utc": "2026-09-21T07:24:33.094Z",
+   "row_swap": "GP19M3",
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 1,
+    "JAHR": 77,
+    "GP19M3": 99
+   },
+   "response_bytes": 67935,
+   "response_sha256": "a26c047cea851aeaddc9a39b601468c2044bc9e51c5755a7dd0df11964e1daad",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:22:38Z",
+   "note": "annual PPI GP19M3",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/61241-0003/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "61241-0004",
+   "table_label_de": "Erzeugerpreisindex gewerblicher Produkte: Deutschland, Monate, Güterverzeichnis (GP2019 2-/3-/4-/5-/6-/9-Steller/ Sonderpositionen)",
+   "table_lastChange_utc": "2026-10-20T06:00:36.609Z",
+   "row_swap": "GP19M3",
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 1,
+    "MONAT": 12,
+    "JAHR": 51,
+    "GP19M3": 99
+   },
+   "response_bytes": 536480,
+   "response_sha256": "2215514fa32b3ead2357f8a5521de2e467278c0205faa0a9f2fef2c4efa45fd8",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:22:46Z",
+   "note": "monthly PPI GP19M3",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/61241-0004/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "61241-0003",
+   "table_label_de": "Erzeugerpreisindex gewerblicher Produkte: Deutschland, Jahre, Güterverzeichnis (GP2019 2-/3-/4-/5-/6-/9-Steller/ Sonderpositionen)",
+   "table_lastChange_utc": "2026-09-21T07:24:33.094Z",
+   "row_swap": "GP19M4",
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 1,
+    "JAHR": 77,
+    "GP19M4": 228
+   },
+   "response_bytes": 154343,
+   "response_sha256": "8df829e367ba9abd7cd0b2df3bfc50e1c410c90bd5d6fdb82befdd08acb705cd",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:22:51Z",
+   "note": "annual PPI GP19M4",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/61241-0003/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "61241-0004",
+   "table_label_de": "Erzeugerpreisindex gewerblicher Produkte: Deutschland, Monate, Güterverzeichnis (GP2019 2-/3-/4-/5-/6-/9-Steller/ Sonderpositionen)",
+   "table_lastChange_utc": "2026-10-20T06:00:36.609Z",
+   "row_swap": "GP19M4",
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 1,
+    "MONAT": 12,
+    "JAHR": 51,
+    "GP19M4": 228
+   },
+   "response_bytes": 1225805,
+   "response_sha256": "2a91f94571bd592c734fda113ec3d7f3f6d6b4f57d57b387e5b1a461f636b91a",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:23:02Z",
+   "note": "monthly PPI GP19M4",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/61241-0004/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "61241-0003",
+   "table_label_de": "Erzeugerpreisindex gewerblicher Produkte: Deutschland, Jahre, Güterverzeichnis (GP2019 2-/3-/4-/5-/6-/9-Steller/ Sonderpositionen)",
+   "table_lastChange_utc": "2026-09-21T07:24:33.094Z",
+   "row_swap": "GP19M5",
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 1,
+    "JAHR": 68,
+    "GP19M5": 427
+   },
+   "response_bytes": 254028,
+   "response_sha256": "be9266bbe33b7f8cec0ae8f9bbde83df93266ffa537fc032288a4f0c1b60a32d",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:23:07Z",
+   "note": "annual PPI GP19M5",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/61241-0003/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "61241-0004",
+   "table_label_de": "Erzeugerpreisindex gewerblicher Produkte: Deutschland, Monate, Güterverzeichnis (GP2019 2-/3-/4-/5-/6-/9-Steller/ Sonderpositionen)",
+   "table_lastChange_utc": "2026-10-20T06:00:36.609Z",
+   "row_swap": "GP19M5",
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 1,
+    "MONAT": 12,
+    "JAHR": 51,
+    "GP19M5": 427
+   },
+   "response_bytes": 2267800,
+   "response_sha256": "bdbbae07906a351749cd175f57a0f14e9c00bcb06586ba3b22ffbf993430d3fa",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:23:19Z",
+   "note": "monthly PPI GP19M5",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/61241-0004/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "61241-0003",
+   "table_label_de": "Erzeugerpreisindex gewerblicher Produkte: Deutschland, Jahre, Güterverzeichnis (GP2019 2-/3-/4-/5-/6-/9-Steller/ Sonderpositionen)",
+   "table_lastChange_utc": "2026-09-21T07:24:33.094Z",
+   "row_swap": "GP19N1",
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 1,
+    "JAHR": 77,
+    "GP19N1": 1365
+   },
+   "response_bytes": 911970,
+   "response_sha256": "786b1048aa10c270346fbbcdad2074a693d0fca0d4ccfd4faa00a14067d8ac18",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:23:28Z",
+   "note": "annual PPI GP19N1",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/61241-0003/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "61241-0004",
+   "table_label_de": "Erzeugerpreisindex gewerblicher Produkte: Deutschland, Monate, Güterverzeichnis (GP2019 2-/3-/4-/5-/6-/9-Steller/ Sonderpositionen)",
+   "table_lastChange_utc": "2026-10-20T06:00:36.609Z",
+   "row_swap": "GP19N1",
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 1,
+    "MONAT": 12,
+    "JAHR": 51,
+    "GP19N1": 1365
+   },
+   "response_bytes": 7223692,
+   "response_sha256": "8735449002f60481be789854938c5ef085f1c35a74da2e82aa029ca1592d29db",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:23:44Z",
+   "note": "monthly PPI GP19N1",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/61241-0004/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "61241-0003",
+   "table_label_de": "Erzeugerpreisindex gewerblicher Produkte: Deutschland, Jahre, Güterverzeichnis (GP2019 2-/3-/4-/5-/6-/9-Steller/ Sonderpositionen)",
+   "table_lastChange_utc": "2026-09-21T07:24:33.094Z",
+   "row_swap": "GP19N2",
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 1,
+    "JAHR": 77,
+    "GP19N2": 99
+   },
+   "response_bytes": 67671,
+   "response_sha256": "586e4d345b64c669298c8a8425501e10efbe3143dbf97b24a9ced234c02b9fd5",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:23:48Z",
+   "note": "annual PPI GP19N2",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/61241-0003/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "61241-0004",
+   "table_label_de": "Erzeugerpreisindex gewerblicher Produkte: Deutschland, Monate, Güterverzeichnis (GP2019 2-/3-/4-/5-/6-/9-Steller/ Sonderpositionen)",
+   "table_lastChange_utc": "2026-10-20T06:00:36.609Z",
+   "row_swap": "GP19N2",
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 1,
+    "MONAT": 12,
+    "JAHR": 51,
+    "GP19N2": 99
+   },
+   "response_bytes": 531898,
+   "response_sha256": "8eb9e4c00328a2f908f850232c8f06c111f19acba0478b2a2ebe812d44298bdb",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:23:55Z",
+   "note": "monthly PPI GP19N2",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/61241-0004/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "61241-0001",
+   "table_label_de": "Erzeugerpreisindex gewerblicher Produkte: Deutschland, Jahre",
+   "table_lastChange_utc": "2026-09-21T07:25:21.936Z",
+   "row_swap": null,
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 2,
+    "JAHR": 77
+   },
+   "response_bytes": 2435,
+   "response_sha256": "b871849b6f24ee62b869bdab0c31418086c742ff2b93bf0dea66658d977ca742",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:23:58Z",
+   "note": "PPI total annual",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/61241-0001/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "61241-0002",
+   "table_label_de": "Erzeugerpreisindex gewerblicher Produkte: Deutschland, Monate",
+   "table_lastChange_utc": "2026-10-20T06:02:36.918Z",
+   "row_swap": null,
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 3,
+    "MONAT": 12,
+    "JAHR": 51
+   },
+   "response_bytes": 16777,
+   "response_sha256": "c31040c7aeb25e88922732467708bb6488158c29ebaf640736bc6e8d827af5df",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:24:00Z",
+   "note": "PPI total monthly",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/61241-0002/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "81000-0019",
+   "table_label_de": "VGR des Bundes - Verwendung des Bruttoinlandsprodukts (nominal/preisbereinigt): Deutschland, Jahre",
+   "table_lastChange_utc": "2026-09-21T08:16:34.198Z",
+   "row_swap": null,
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "VGRPB5": 4,
+    "content": 19,
+    "JAHR": 35
+   },
+   "response_bytes": 31388,
+   "response_sha256": "0b2c79e73f253ebad7b9a8a62408c084bccdf627eea25c777d6eecf2931c283e",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:24:03Z",
+   "note": "national accounts (VGR) annual",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/81000-0019/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "81000-0023",
+   "table_label_de": "VGR des Bundes - Bruttoanlageinvestitionen (nominal/ preisbereinigt): Deutschland, Jahre",
+   "table_lastChange_utc": "2026-09-21T13:18:58.954Z",
+   "row_swap": null,
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "VGRPB5": 4,
+    "content": 10,
+    "JAHR": 35
+   },
+   "response_bytes": 16454,
+   "response_sha256": "672c4797cb856939f3872c11d8ad878883d211b07d0e757f8826a8fc84422f76",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:24:06Z",
+   "note": "national accounts (VGR) annual",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/81000-0023/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "81000-0027",
+   "table_label_de": "VGR des Bundes - Exporte, Importe (nominal/preisbereinigt): Deutschland, Jahre",
+   "table_lastChange_utc": "2026-09-21T22:24:45.379Z",
+   "row_swap": null,
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "VGRPB5": 4,
+    "content": 7,
+    "JAHR": 35
+   },
+   "response_bytes": 11899,
+   "response_sha256": "e04f50771b3f998023e5b4c77798096770ac066c100bf46724e363cf197c6e3e",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:24:08Z",
+   "note": "national accounts (VGR) annual",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/81000-0027/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "81000-0001",
+   "table_label_de": "VGR des Bundes - Bruttowertschöpfung, Bruttoinlandsprodukt (nominal/preisbereinigt): Deutschland, Jahre",
+   "table_lastChange_utc": "2026-09-21T07:31:02.098Z",
+   "row_swap": null,
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "VGRPB5": 4,
+    "content": 7,
+    "JAHR": 35
+   },
+   "response_bytes": 10661,
+   "response_sha256": "dfe694915d37ce906b7d4ee5c23b52c9ac40970c074a1632eef642863f324136",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:24:11Z",
+   "note": "GDP and value added, annual",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/81000-0001/data (body = table initialState from GET .../structure, modified as listed)"
+  },
+  {
+   "table": "81000-0029",
+   "table_label_de": "VGR des Bundes - Wachstumsbeiträge zum preisbereinigten BIP: Deutschland, Jahre, Verwendungsaggregate",
+   "table_lastChange_utc": "2026-09-21T22:24:47.040Z",
+   "row_swap": null,
+   "selection": null,
+   "dimensions": {
+    "statistic": 1,
+    "DINSG": 1,
+    "content": 1,
+    "VGRVWA": 13,
+    "JAHR": 34
+   },
+   "response_bytes": 4593,
+   "response_sha256": "fa17137293c271749aebc4fa3cdf440a7d3f65d8eda6f0967d4c083be8f68d14",
+   "fetch_seconds": 0,
+   "retrieved_utc": "2026-10-22T04:24:13Z",
+   "note": "growth contributions to real GDP",
+   "request": "POST https://genesis.destatis.de/genesis/api/rest/tables/81000-0029/data (body = table initialState from GET .../structure, modified as listed)"
+  }
+ ]
+}
