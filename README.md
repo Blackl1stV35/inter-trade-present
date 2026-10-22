@@ -19,7 +19,9 @@ It is **local only** — the LINE chat export contains student IDs and a private
 | `sources/images/` | The six embedded graph-simulation figures from the base workbook, in document order |
 | `notes/project-brief.md` | Assignment rules, team roles, deadlines, decision log, open items |
 | `outline/slide-outline-15min.md` | Proposed slide outline for a 15-minute talk |
-| `scripts/` | Helpers used to extract text and images from the .docx files |
+| `graphs/gephi/` | Gephi import files (nodes/edges CSV) for the company-case network, with build steps |
+| `scripts/` | Helpers: .docx text/image extraction, `setup_tools.ps1` (project-local gnuplot + Gephi), `env.ps1` |
+| `tools/` | Git-ignored. Project-local gnuplot 6.0.5 and Gephi 0.11.3 created by `scripts/setup_tools.ps1` |
 
 ## Regenerating the text dumps
 
@@ -27,6 +29,18 @@ It is **local only** — the LINE chat export contains student IDs and a private
 python -I scripts/extract_docx.py sources/text sources/docx/*.docx
 python -I scripts/extract_media.py sources/docx/inter-trade-present-base.docx sources/images base-doc-fig
 ```
+
+## Graph tools (project-local only)
+
+gnuplot (charts and theory diagrams) and Gephi (company-case network) live in `tools/` inside this folder — no admin rights, nothing added to the system PATH.
+
+```powershell
+powershell -ExecutionPolicy Bypass -File scripts\setup_tools.ps1   # download, verify SHA-256, install into tools\
+. scripts\env.ps1                                                  # this shell only: puts tools\gnuplot\bin on PATH
+tools\run-gephi.cmd                                                # starts Gephi with its settings kept in tools\gephi-userdir
+```
+
+Downloads are pinned and checked: gnuplot `gp605-win64-mingw.7z` (SourceForge, SHA-256 from the published checksum file) and Gephi `gephi-0.11.3-windows-x64.exe` (GitHub release, SHA-256 `bf3f488a…`). The Gephi installer also writes one per-user uninstall entry in `HKCU`; `tools\gephi\unins000.exe` removes it. About 450 MB on disk.
 
 ## Not in this repo
 
