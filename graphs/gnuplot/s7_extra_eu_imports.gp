@@ -33,9 +33,9 @@ set label 1 'ETS launch 2005' at 2004.8,8600 right textcolor rgb amber
 set label 2 'CBAM reporting Oct 2023' at 2023.55,8600 right textcolor rgb amber
 set label 3 'crisis' at 2009,350 center textcolor rgb grey
 set label 4 'COVID' at 2020,350 center textcolor rgb grey
-set label 5 'energy shock' at 2022,1300 center textcolor rgb grey
-set label 6 'Direct (Comext): 6,291 kt (2007); 3,342 (2019) to 1,464 (2025), -56%' at 1999.4,1750 left textcolor rgb blue
-set label 7 'By origin (Destatis): 5,050 (2019) to 3,919 kt (2025), -22%' at 1999.4,1000 left textcolor rgb amber
+set label 5 'energy shock' at 2022,1000 center textcolor rgb grey
+set label 6 'Direct (Comext), 2019-25: -56%' at 1999.4,2550 left front boxed bs 1 textcolor rgb blue
+set label 7 'By origin (Destatis), 2019-25: -22%' at 1999.4,1500 left front boxed bs 1 textcolor rgb amber
 plot direct skip 1 using 1:6 w l lw 4 lc rgb blue, origin skip 1 using 1:5 w l lw 4 lc rgb amber
 
 unset label 1 ; unset label 2 ; unset label 3 ; unset label 4 ; unset label 5 ; unset label 6 ; unset label 7
@@ -43,6 +43,6 @@ set tmargin at screen 0.47 ; set bmargin at screen 0.15
 set format x '%g'
 set yrange [0:6500] ; set ytics 1000
 set label 8 'EUR 5,660 m (2007)' at 2007.4,6200 left textcolor rgb dark
-set label 9 'EUR 1,591 m (2025)' at 2025.4,800 right textcolor rgb dark
+set label 9 'EUR 1,591 m (2025)' at 2023.3,600 right textcolor rgb dark
 plot direct skip 1 using 1:3 w l lw 4 lc rgb green
 unset multiplot

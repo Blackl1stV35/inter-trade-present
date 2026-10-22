@@ -9,10 +9,11 @@ set datafile separator ','
 
 set multiplot
 set label 40 'German steel: electric-arc share and CO2 per tonne of crude steel' at screen 0.5,0.965 center font fntT textcolor rgb dark
-set label 41 'Descriptive, production side only: not a policy effect, not trade-adjusted, not CBAM embedded emissions.' at screen 0.06,0.05 textcolor rgb grey font fntS
-set label 42 'ETS line: direct emissions of ETS iron and steel installations (scope from 2013) / crude steel. Sources: worldsteel, WV Stahl, DEHSt, UBA.' at screen 0.06,0.02 textcolor rgb grey font fntS
+set label 41 'Descriptive, production side only: not a policy effect, not trade-adjusted, not CBAM embedded emissions.' at screen 0.06,0.075 textcolor rgb grey font fntS
+set label 42 'ETS line: direct emissions of ETS iron and steel installations (scope from 2013; excludes process gases burned at power plants) / crude steel.' at screen 0.06,0.045 textcolor rgb grey font fntS
+set label 44 'Sources: worldsteel, WV Stahl, DEHSt, UBA. Crude steel 2025 = WV Stahl revision (34.3 Mt); first estimate 34.1 Mt.' at screen 0.06,0.015 textcolor rgb grey font fntS
 
-set lmargin at screen 0.07 ; set rmargin at screen 0.47 ; set tmargin at screen 0.85 ; set bmargin at screen 0.16
+set lmargin at screen 0.07 ; set rmargin at screen 0.47 ; set tmargin at screen 0.85 ; set bmargin at screen 0.2
 set label 1 'Electric-arc share of crude steel, 1999-2025 (%)' at screen 0.07,0.895 textcolor rgb dark
 set xrange [1999:2025.8] ; set xtics 2000,5,2025 ; set format x '%g'
 set yrange [0:60] ; set ytics 10
@@ -27,9 +28,9 @@ set lmargin at screen 0.56 ; set rmargin at screen 0.96
 set label 11 't CO2 per t crude steel, 2013-2025' at screen 0.56,0.895 textcolor rgb dark
 set xrange [2013:2025.8] ; set xtics 2
 set yrange [0:1.7] ; set ytics 0.2 ; set format y '%.1f'
-set label 12 'WV Stahl specific CO2 (incl. purchased power)' at 2013.2,1.62 left textcolor rgb green
-set label 14 '1.37 (2019) to 1.39 (2025)' at 2013.2,1.53 left textcolor rgb green
-set label 13 'ETS-reported / crude steel (derived)' at 2013.2,0.58 left textcolor rgb blue
-set label 15 '0.84 (2013) to 0.88 (2025)' at 2013.2,0.49 left textcolor rgb blue
+set label 12 'WV Stahl specific CO2 (incl. purchased power)' at 2013.5,1.62 left textcolor rgb green
+set label 14 '1.37 (2019) to 1.39 (2025)' at 2013.5,1.53 left textcolor rgb green
+set label 13 'ETS-reported / crude steel (derived)' at 2013.5,0.58 left textcolor rgb blue
+set label 15 '0.84 (2013) to 0.88 (2025)' at 2013.5,0.49 left textcolor rgb blue
 plot data skip 1 using 1:5 w lp lw 4 pt 7 ps 1.1 lc rgb blue, '' skip 1 using 1:($6 > 0 ? $6 : 1/0) w lp lw 4 pt 5 ps 1.1 lc rgb green
 unset multiplot

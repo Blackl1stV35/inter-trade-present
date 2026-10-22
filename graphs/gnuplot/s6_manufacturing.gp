@@ -18,7 +18,7 @@ set multiplot
 set label 40 'German manufacturing (NACE C), annual, 1995-2025' at screen 0.5,0.965 center font 'TH Sarabun New,28' textcolor rgb dark
 set label 41 'Real GVA (2020 = 100)' at screen 0.018,0.71 center rotate by 90 textcolor rgb dark
 set label 42 'Production (2021 = 100)' at screen 0.018,0.30 center rotate by 90 textcolor rgb dark
-set label 43 'Year. 2023-25 GVA observations carried a provisional flag at the 2026-10-11 retrieval (see data/eurostat_macro).' at screen 0.08,0.025 noenhanced textcolor rgb grey font 'TH Sarabun New,19'
+set label 43 'GVA index and share for 2023-25 carry Eurostat flag p (provisional), checked 22 Oct 2026; the production index is not flagged.' at screen 0.08,0.025 noenhanced textcolor rgb grey font 'TH Sarabun New,19'
 
 # helper markers shared by both panels
 set object 1 rect from 2008.5,graph 0 to 2009.5,graph 1 fc rgb band fs solid noborder behind
@@ -33,8 +33,8 @@ set format x ''
 set yrange [60:120]
 set label 1 'ETS launch 2005' at 2005.2,116 left textcolor rgb amber
 set label 2 'CBAM reporting Oct 2023' at 2023.5,116 right textcolor rgb amber
-set label 3 '2009' at 2009,64 center textcolor rgb grey
-set label 4 '2020' at 2020,64 center textcolor rgb grey
+set label 3 '2009' at 2009,112 center textcolor rgb grey
+set label 4 '2020' at 2020,112 center textcolor rgb grey
 plot data skip 1 using 1:2 w l lw 4 lc rgb blue
 
 # panel B
