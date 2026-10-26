@@ -246,7 +246,7 @@ Cautions from this pass: the aid payout per project is classified by the federal
 | A10 | Domestic production-cost data | Electricity (two SMARD series, invoiced cross-checks from Destatis and Eurostat); ETS price path; free allocation about 94%; hydrogen, capex and opex gap remain provisional (BaseNotes-3) |
 | A11 | Green support criteria and exemptions | Verified table of aid by project (amount, decision date, split, paid); carbon contracts; industrial power price; imported steel is generally not a target of these schemes (workbook reading, not re-verified); no CBAM green-steel exemption; EUR 12.5 bn / 11.5 Mt unverified |
 | A12 | Jobs, regions, skills, wider sectors | Manufacturing employment 7,262 thousand (2025, provisional); establishments with 50+ employees 5.43 million; basic metals 245 thousand (2024) against 268 thousand (2015); WV Stahl direct steel employment about 80,000 (a narrower group); basic metals are about 0.5% of GVA (2024) |
-| A13 | Company-case fine print | Did CBAM force the contracts? Stegra status as of 22 Oct 2026; Volvo–SSAB and Outokumpu; retire "full hydrogen by 2029"; granted versus paid; the Gephi map with all eleven nodes (`graphs/out/a13_company_network_full.png`) |
+| A13 | Company-case fine print | Did CBAM force the contracts? Stegra status as of 22 Oct 2026; Volvo–SSAB and Outokumpu; retire "full hydrogen by 2029"; granted versus paid; a Gephi map with all eleven nodes is exported (`graphs/out/a13_company_network_full.png`) for use here if the table is cut |
 | A14 | Spare theory diagrams | Fig. 3 subsidy, Fig. 4 demand shift (relabel "one fixed point in time"), Fig. 5 offshoring, Fig. 6 labour, original Fig. 2 |
 | A15 | Source list | Section 9 below |
 

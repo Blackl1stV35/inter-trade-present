@@ -2,7 +2,7 @@
  "id": "A11",
  "ok": false,
  "overflow": [
-  "foot content 64px high in a 128px box"
+  "child TABLE.t sm runs 36px below its parent"
  ],
  "outside": [],
  "small": [],

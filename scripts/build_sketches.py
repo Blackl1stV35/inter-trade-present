@@ -53,6 +53,12 @@ CHECK_JS = """
       if (fs < %d) out.small.push((el.textContent.trim().slice(0, 30)) + ' ' + fs + 'px');
     }
   }
+  for (const el of main.querySelectorAll('div,table,ul,img')) {
+    const p = el.parentElement;
+    if (!p || p === main || getComputedStyle(p).overflow !== 'visible') continue;
+    const r = el.getBoundingClientRect(), pr = p.getBoundingClientRect();
+    if (r.width && r.height && r.bottom > pr.bottom + 6) out.overflow.push('child ' + el.tagName + '.' + (el.className || '') + ' runs ' + Math.round(r.bottom - pr.bottom) + 'px below its parent');
+  }
   for (const id of ['title', 'foot']) {
     const el = document.getElementById(id);
     const kids = Array.from(el.children);

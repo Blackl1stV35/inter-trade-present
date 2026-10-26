@@ -33,8 +33,8 @@ set format x ''
 set yrange [60:120]
 set label 1 'ETS launch 2005' at 2005.2,116 left textcolor rgb amber
 set label 2 'CBAM reporting Oct 2023' at 2023.5,116 right textcolor rgb amber
-set label 3 '2009' at 2009,112 center textcolor rgb grey
-set label 4 '2020' at 2020,112 center textcolor rgb grey
+set label 3 '2009' at first 2009, graph 0.07 center textcolor rgb grey
+set label 4 '2020' at first 2020, graph 0.07 center textcolor rgb grey
 plot data skip 1 using 1:2 w l lw 4 lc rgb blue
 
 # panel B
