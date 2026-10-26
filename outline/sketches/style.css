@@ -1,0 +1,80 @@
+/* Slide sketch style: 1920 x 1080 px = a 13.33 x 7.5 in slide at 144 dpi, so 1 pt = 2 px.
+   Body text is 28 pt = 56 px (TH Sarabun New sets small); captions and footers are smaller. */
+:root {
+  --ink: #263444; --blue: #2B5C98; --green: #167A67; --amber: #B26A00; --grey: #78828C;
+  --line: #C8CED3; --soft: #EEF0F2; --blue-soft: #E6EEF7; --green-soft: #E3F2EE; --amber-soft: #FBF1E0;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { width: 1920px; height: 1080px; background: #fff; overflow: hidden; }
+body { font-family: 'TH Sarabun New', sans-serif; color: var(--ink); font-size: 56px; line-height: 1.08; font-synthesis: none; }
+em, i { font-style: normal; }
+b, strong { font-weight: bold; }
+
+#slide { position: relative; width: 1920px; height: 1080px; }
+
+/* frame ------------------------------------------------------------ */
+#ribbon { position: absolute; left: 60px; top: 22px; display: flex; gap: 0; height: 44px; }
+#ribbon span { padding: 0 22px; font-size: 32px; line-height: 44px; color: var(--grey); border: 2px solid var(--line); margin-right: -2px; }
+#ribbon span.on { background: var(--ink); color: #fff; border-color: var(--ink); font-weight: bold; }
+#label { position: absolute; right: 60px; top: 22px; height: 44px; padding: 0 24px; font-size: 32px; line-height: 40px; border: 3px solid var(--ink); border-radius: 24px; font-weight: bold; white-space: nowrap; }
+#label.observed { border-color: var(--blue); color: var(--blue); }
+#label.policy { border-color: var(--ink); color: var(--ink); }
+#label.model { border-color: var(--green); color: var(--green); }
+#label.theory { border-color: var(--amber); color: var(--amber); }
+#label.company { border-color: var(--green); color: var(--green); }
+#label.team { border-color: var(--grey); color: var(--grey); }
+#title { position: absolute; left: 60px; right: 60px; top: 72px; height: 150px; font-size: 64px; line-height: 70px; font-weight: bold; display: flex; align-items: center; }
+#main { position: absolute; left: 60px; right: 60px; top: 234px; height: 696px; display: flex; flex-direction: column; gap: 18px; }
+#foot { position: absolute; left: 60px; width: 1150px; top: 944px; height: 128px; font-size: 36px; line-height: 38px; color: var(--grey); }
+#foot .tags { font-size: 30px; line-height: 32px; display: block; margin-top: 4px; }
+#chips { position: absolute; right: 60px; top: 952px; display: flex; gap: 4px; }
+#chips span { min-width: 50px; height: 46px; padding: 0 5px; text-align: center; font-size: 30px; line-height: 42px; border: 2px solid var(--line); color: #B5BCC2; border-radius: 6px; }
+#chips span.on { background: var(--ink); border-color: var(--ink); color: #fff; font-weight: bold; }
+#sktag { position: absolute; right: 60px; top: 1016px; font-size: 26px; color: #A9B0B6; }
+#slide:after { content: ''; position: absolute; left: 60px; right: 60px; top: 936px; height: 2px; background: var(--line); }
+
+/* content helpers --------------------------------------------------- */
+.row { display: flex; gap: 24px; }
+.col { display: flex; flex-direction: column; gap: 14px; }
+.grow { flex: 1 1 0; min-width: 0; min-height: 0; }
+.w2 { flex: 2 1 0; min-width: 0; }
+.w3 { flex: 3 1 0; min-width: 0; }
+.center { align-items: center; justify-content: center; text-align: center; }
+.card { border: 3px solid var(--line); border-radius: 14px; padding: 14px 22px; }
+.card.blue { border-top: 12px solid var(--blue); }
+.card.green { border-top: 12px solid var(--green); }
+.card.amber { border-top: 12px solid var(--amber); }
+.card.grey { border-top: 12px solid var(--grey); }
+.card h2, .h2 { font-size: 56px; font-weight: bold; line-height: 1.02; margin-bottom: 4px; }
+.h3 { font-size: 56px; font-weight: bold; color: var(--ink); }
+.tile { border: 3px solid var(--line); border-radius: 14px; padding: 10px 22px; }
+.tile .num { font-size: 76px; font-weight: bold; line-height: 76px; }
+.tile .lbl { font-size: 40px; line-height: 42px; }
+.blue-t { color: var(--blue); } .green-t { color: var(--green); } .amber-t { color: var(--amber); } .grey-t { color: var(--grey); }
+.fig { display: flex; align-items: center; justify-content: center; min-height: 0; border: 2px solid var(--line); border-radius: 10px; background: #fff; overflow: hidden; }
+.fig img { max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; display: block; }
+.cap { font-size: 40px; line-height: 1.02; color: var(--grey); }
+.tag { font-size: 32px; color: var(--grey); }
+ul.b { list-style: none; }
+ul.b li { position: relative; padding-left: 34px; margin-bottom: 6px; }
+ul.b li:before { content: ''; position: absolute; left: 4px; top: 0.46em; width: 14px; height: 14px; background: var(--ink); border-radius: 3px; }
+.opp { border-left: 12px solid var(--green); background: var(--green-soft); padding: 4px 18px; }
+.lim { border-left: 12px solid var(--amber); background: var(--amber-soft); padding: 4px 18px; }
+.chip { display: inline-block; padding: 0 14px; font-size: 38px; line-height: 42px; border: 3px solid var(--grey); border-radius: 22px; color: var(--grey); font-weight: bold; white-space: nowrap; }
+.chip.mou { border-color: var(--amber); color: var(--amber); }
+.chip.contract { border-color: var(--green); color: var(--green); }
+.chip.gap { border-color: var(--amber); color: var(--amber); }
+.chip.ctx { border-color: var(--grey); color: var(--grey); }
+.chip.obs { border-color: var(--blue); color: var(--blue); }
+table.t { border-collapse: collapse; width: 100%; font-size: 48px; line-height: 1.02; }
+table.t th { background: var(--soft); text-align: left; font-weight: bold; }
+table.t th, table.t td { border: 2px solid var(--line); padding: 6px 14px; vertical-align: top; }
+table.t.sm { font-size: 40px; }
+.banner { background: var(--amber-soft); border: 3px solid var(--amber); color: var(--amber); font-weight: bold; padding: 4px 22px; border-radius: 10px; }
+.strip { display: flex; gap: 0; border: 3px solid var(--line); border-radius: 14px; overflow: hidden; }
+.strip > div { flex: 1 1 0; padding: 10px 22px; border-right: 3px solid var(--line); min-width: 0; }
+.strip > div:last-child { border-right: 0; }
+.strip .k { font-weight: bold; font-size: 44px; display: block; margin-bottom: 2px; }
+.strip.small { font-size: 44px; }
+.tick { display: inline-block; width: 22px; height: 22px; border-radius: 50%; margin-right: 10px; }
+.sm { font-size: 40px; line-height: 42px; }

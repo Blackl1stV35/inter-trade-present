@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1618.0648"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="0.000000 0.000000 1618.064819 1444.359619" height="1444.3596"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="6.0"
+              d="M 480.000000,260.000000 L 480.000000,218.000000"
+              class="id_tkss id_vw" stroke-opacity="1.0" stroke="#b26a00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 480.000000,1010.000000 L 480.000000,968.000000"
+              class="id_ewe id_sz" stroke-opacity="1.0" stroke="#167a67"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1380.000000,260.000000 L 1380.000000,218.000000"
+              class="id_stegra id_mb" stroke-opacity="1.0" stroke="#2b5c98"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1380.000000,420.000000 L 1380.000000,462.000000"
+              class="id_stegra id_bmw" stroke-opacity="1.0" stroke="#2b5c98"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1380.000000,960.000000 L 1380.000000,1002.000000"
+              class="id_ssab id_volvo" stroke-opacity="1.0" stroke="#78828c"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 480.000000,510.000000 L 480.000000,468.000000"
+              class="id_aid id_tkss" stroke-opacity="1.0" stroke="#b26a00"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 480.000000,670.000000 L 480.000000,712.000000"
+              class="id_aid id_sz" stroke-opacity="1.0" stroke="#b26a00"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#b26a00" fill-opacity="1.0" class="id_tkss id_vw"
+                  points="480.000000,170.000000 504.000000,218.000000 456.000000,218.000000"
+                  stroke="none"/>
+        <polyline fill="#167a67" fill-opacity="1.0" class="id_ewe id_sz"
+                  points="480.000000,920.000000 504.000000,968.000000 456.000000,968.000000"
+                  stroke="none"/>
+        <polyline fill="#2b5c98" fill-opacity="1.0" class="id_stegra id_mb"
+                  points="1380.000000,170.000000 1404.000000,218.000000 1356.000000,218.000000"
+                  stroke="none"/>
+        <polyline fill="#2b5c98" fill-opacity="1.0" class="id_stegra id_bmw"
+                  points="1380.000000,510.000000 1356.000000,462.000000 1404.000000,462.000000"
+                  stroke="none"/>
+        <polyline fill="#78828c" fill-opacity="1.0" class="id_ssab id_volvo"
+                  points="1380.000000,1050.000000 1356.000000,1002.000000 1404.000000,1002.000000"
+                  stroke="none"/>
+        <polyline fill="#b26a00" fill-opacity="1.0" class="id_aid id_tkss"
+                  points="480.000000,420.000000 504.000000,468.000000 456.000000,468.000000"
+                  stroke="none"/>
+        <polyline fill="#b26a00" fill-opacity="1.0" class="id_aid id_sz"
+                  points="480.000000,760.000000 456.000000,712.000000 504.000000,712.000000"
+                  stroke="none"/>
+    </g>
+    <g id="node-labels">
+        <rect x="167.52675" y="272.44037" fill="none" width="624.94653"
+              opacity="1.0" height="135.1192" stroke="#2b5c98"
+              stroke-width="6.3999996" stroke-opacity="1.0"/>
+        <text font-size="64" x="480.0" y="358.32593" fill-opacity="1.0"
+              fill="#263444" font-family="TH Sarabun New"
+              style="text-anchor: middle;" class="id_tkss" font-weight="bold">
+            Thyssenkrupp Steel
+        </text>
+        <rect x="296.9496" y="22.440395" fill="none" width="366.1008"
+              opacity="1.0" height="135.1192" stroke="#78828c"
+              stroke-width="6.3999996" stroke-opacity="1.0"/>
+        <text font-size="64" x="480.0" y="108.32591" fill-opacity="1.0"
+              fill="#263444" font-family="TH Sarabun New"
+              style="text-anchor: middle;" class="id_vw" font-weight="bold">
+            Volkswagen
+        </text>
+        <rect x="277.15384" y="772.44037" fill="none" width="405.6923"
+              opacity="1.0" height="135.1192" stroke="#2b5c98"
+              stroke-width="6.3999996" stroke-opacity="1.0"/>
+        <text font-size="64" x="480.0" y="858.3259" fill-opacity="1.0"
+              fill="#263444" font-family="TH Sarabun New"
+              style="text-anchor: middle;" class="id_sz" font-weight="bold">
+            Salzgitter AG
+        </text>
+        <rect x="411.81494" y="1022.44037" fill="none" width="136.37012"
+              opacity="1.0" height="135.1192" stroke="#167a67"
+              stroke-width="6.3999996" stroke-opacity="1.0"/>
+        <text font-size="64" x="480.0" y="1108.3259" fill-opacity="1.0"
+              fill="#263444" font-family="TH Sarabun New"
+              style="text-anchor: middle;" class="id_ewe" font-weight="bold">
+            EWE
+        </text>
+        <rect x="1280.98" y="272.44037" fill="none" width="198.04025"
+              opacity="1.0" height="135.1192" stroke="#2b5c98"
+              stroke-width="6.3999996" stroke-opacity="1.0"/>
+        <text font-size="64" x="1380.0" y="358.32593" fill-opacity="1.0"
+              fill="#263444" font-family="TH Sarabun New"
+              style="text-anchor: middle;" class="id_stegra" font-weight="bold">
+            Stegra
+        </text>
+        <rect x="1138.7351" y="22.440395" fill="none" width="482.52975"
+              opacity="1.0" height="135.1192" stroke="#78828c"
+              stroke-width="6.3999996" stroke-opacity="1.0"/>
+        <text font-size="64" x="1380.0" y="108.32591" fill-opacity="1.0"
+              fill="#263444" font-family="TH Sarabun New"
+              style="text-anchor: middle;" class="id_mb" font-weight="bold">
+            Mercedes-Benz
+        </text>
+        <rect x="1192.3369" y="522.44037" fill="none" width="375.3263"
+              opacity="1.0" height="135.1192" stroke="#78828c"
+              stroke-width="6.3999996" stroke-opacity="1.0"/>
+        <text font-size="64" x="1380.0" y="608.3259" fill-opacity="1.0"
+              fill="#263444" font-family="TH Sarabun New"
+              style="text-anchor: middle;" class="id_bmw" font-weight="bold">
+            BMW Group
+        </text>
+        <rect x="1299.6185" y="812.44037" fill="none" width="160.76299"
+              opacity="1.0" height="135.1192" stroke="#2b5c98"
+              stroke-width="6.3999996" stroke-opacity="1.0"/>
+        <text font-size="64" x="1380.0" y="898.3259" fill-opacity="1.0"
+              fill="#263444" font-family="TH Sarabun New"
+              style="text-anchor: middle;" class="id_ssab" font-weight="bold">
+            SSAB
+        </text>
+        <rect x="1180.891" y="1062.4404" fill="none" width="398.21802"
+              opacity="1.0" height="135.1192" stroke="#78828c"
+              stroke-width="6.3999996" stroke-opacity="1.0"/>
+        <text font-size="64" x="1380.0" y="1148.3259" fill-opacity="1.0"
+              fill="#263444" font-family="TH Sarabun New"
+              style="text-anchor: middle;" class="id_volvo" font-weight="bold">
+            Volvo Group
+        </text>
+        <rect x="1188.4279" y="1312.4404" fill="none" width="383.14447"
+              opacity="1.0" height="135.1192" stroke="#2b5c98"
+              stroke-width="6.3999996" stroke-opacity="1.0"/>
+        <text font-size="64" x="1380.0" y="1398.3259" fill-opacity="1.0"
+              fill="#263444" font-family="TH Sarabun New"
+              style="text-anchor: middle;" class="id_outo" font-weight="bold">
+            Outokumpu
+        </text>
+        <rect x="101.08748" y="522.44037" fill="none" width="757.8251"
+              opacity="1.0" height="135.1192" stroke="#b26a00"
+              stroke-width="6.3999996" stroke-opacity="1.0"/>
+        <text font-size="64" x="480.0" y="608.3259" fill-opacity="1.0"
+              fill="#263444" font-family="TH Sarabun New"
+              style="text-anchor: middle;" class="id_aid" font-weight="bold">
+            State aid (EU-approved)
+        </text>
+    </g>
+    <g id="edge-labels-outline">
+        <text stroke-linecap="round" font-size="52" x="480.0" y="215.9961"
+              fill="none" stroke-linejoin="round" style="text-anchor: middle;"
+              font-family="TH Sarabun New" class="id_1" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="13.0px">
+            MoU 2024 (plan)
+        </text>
+        <text stroke-linecap="round" font-size="52" x="480.0" y="965.9961"
+              fill="none" stroke-linejoin="round" style="text-anchor: middle;"
+              font-family="TH Sarabun New" class="id_2" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="13.0px">
+            Contract 2026
+        </text>
+        <text stroke-linecap="round" font-size="52" x="1380.0" y="215.9961"
+              fill="none" stroke-linejoin="round" style="text-anchor: middle;"
+              font-family="TH Sarabun New" class="id_3" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="13.0px">
+            Agreement 2023
+        </text>
+        <text stroke-linecap="round" font-size="52" x="1380.0" y="495.9961"
+              fill="none" stroke-linejoin="round" style="text-anchor: middle;"
+              font-family="TH Sarabun New" class="id_4" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="13.0px">
+            Agreement 2021
+        </text>
+        <text stroke-linecap="round" font-size="52" x="1380.0" y="1035.9961"
+              fill="none" stroke-linejoin="round" style="text-anchor: middle;"
+              font-family="TH Sarabun New" class="id_5" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="13.0px">
+            Early use 2021
+        </text>
+        <text stroke-linecap="round" font-size="52" x="480.0" y="465.9961"
+              fill="none" stroke-linejoin="round" style="text-anchor: middle;"
+              font-family="TH Sarabun New" class="id_6" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="13.0px">
+            Aid approved 2023
+        </text>
+        <text stroke-linecap="round" font-size="52" x="480.0" y="745.9961"
+              fill="none" stroke-linejoin="round" style="text-anchor: middle;"
+              font-family="TH Sarabun New" class="id_7" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="13.0px">
+            Aid approved 2022
+        </text>
+    </g>
+    <g id="edge-labels">
+        <text font-size="52" x="480.0" y="215.9961" fill="#263444"
+              style="text-anchor: middle;" font-family="TH Sarabun New"
+              class="id_1">
+            MoU 2024 (plan)
+        </text>
+        <text font-size="52" x="480.0" y="965.9961" fill="#263444"
+              style="text-anchor: middle;" font-family="TH Sarabun New"
+              class="id_2">
+            Contract 2026
+        </text>
+        <text font-size="52" x="1380.0" y="215.9961" fill="#263444"
+              style="text-anchor: middle;" font-family="TH Sarabun New"
+              class="id_3">
+            Agreement 2023
+        </text>
+        <text font-size="52" x="1380.0" y="495.9961" fill="#263444"
+              style="text-anchor: middle;" font-family="TH Sarabun New"
+              class="id_4">
+            Agreement 2021
+        </text>
+        <text font-size="52" x="1380.0" y="1035.9961" fill="#263444"
+              style="text-anchor: middle;" font-family="TH Sarabun New"
+              class="id_5">
+            Early use 2021
+        </text>
+        <text font-size="52" x="480.0" y="465.9961" fill="#263444"
+              style="text-anchor: middle;" font-family="TH Sarabun New"
+              class="id_6">
+            Aid approved 2023
+        </text>
+        <text font-size="52" x="480.0" y="745.9961" fill="#263444"
+              style="text-anchor: middle;" font-family="TH Sarabun New"
+              class="id_7">
+            Aid approved 2022
+        </text>
+    </g>
+</svg>

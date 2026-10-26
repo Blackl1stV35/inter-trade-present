@@ -1,0 +1,10 @@
+{
+ "id": "A11",
+ "ok": false,
+ "overflow": [
+  "foot content 64px high in a 128px box"
+ ],
+ "outside": [],
+ "small": [],
+ "minFont": 40
+}

@@ -9,7 +9,7 @@ Status: final proposal for the team, 22 October 2026. Built from the LINE chat a
 | Item | Decision | Note |
 | --- | --- | --- |
 | Slot | 15 minutes of speaking, Q&A after. | The course brief says 20 + 10; a 20-minute stretch plan is in section 8. |
-| Retitled scope | Approved by the requester: ETS + CBAM, Germany, iron and steel. | The chat shows lecturer approval only for the original CBAM-only topic (relayed on 7 Oct); no lecturer approval of the retitle or of the 15-minute plan is on record. The topic was cleared remotely in October, so send both now through the same channel and record the answer. |
+| Retitled scope | Approved by the requester: ETS + CBAM, Germany, iron and steel. The outline and the retitle were confirmed by the requester on 26 Oct 2026, and the slide sketches (`outline/sketches/`) were started. | The chat shows lecturer approval only for the original CBAM-only topic (relayed on 7 Oct); no lecturer approval of the retitle or of the 15-minute plan is on record. The topic was cleared remotely in October, so send both now through the same channel and record the answer. |
 | Theory diagrams | Fig. 1 (unchanged) and the redrawn Fig. 2 approved for the deck. | Only the lecturer's check of hand-drawn graphs needs the on-site class. Each diagram slide keeps a text fallback with the same timing. |
 | Language | Slides in English; spoken language follows the lecturer. | Assumption: sources, lecture PDFs and the assignment brief are English. |
 | Phase-out of free allocation in CBAM sectors | Position recorded 22 Oct 2026: support slowing the phase-out as the Commission proposed on 17 Jul 2026 (15% still granted in 2034–37, end 2038), with the 2031 investment-plan link kept. | Team judgement, shown on S13; the proposal is not law and the Council has not decided. Recorded from the requester's instruction; the LINE chat holds no discussion of it, so the other members confirm it before the lecturer is told "the group supports". |
@@ -160,6 +160,9 @@ Rules on every slide: one dominant evidence label (Observed data / Policy rule /
 - **Footer:** two of the four agreements pre-date reporting; direction, not cause. Public aid cannot be separated from the policies: the approvals of EUR 1.0 bn for Salzgitter (4 Oct 2022) and about EUR 2 bn for Duisburg (20 Jul 2023) pre-date reporting but post-date the 2021 CBAM proposal and the ETS price rise; the SALCOS top-up (Feb 2026) and the payments to mid-2026 (EUR 1.08 bn paid by 30 Jun 2026) do not. ArcelorMittal withdrew its German plans in June 2025; its approved EUR 1.3 bn was not used. Does not show delivered tonnes or cost parity. Volvo–SSAB and Outokumpu are backup only (A13).
 - **Speaker note, not on the slide:** Stegra's own review also says the timeline "remains as expected" and that commitments to customers remain; use "not confirmed", never "none delivered".
 - **Label:** Company announcement. **Chip lit:** I.
+- **Sketch (26 Oct 2026):** the case rows are condensed to one Opportunity and one Limit line each and sit beside a Gephi map of the agreements (the chart of this slide): blue producers, grey buyers, green hydrogen supplier, amber public aid, arrows for announcements and approvals, no edge a verified delivery. Nodes and edges: `graphs/gephi`; the map is drawn by `graphs/gephi/render_network.ps1` (Gephi Toolkit 0.11.3).
+
+![Company-case network drawn in Gephi (slide S9)](graphs/out/s9_company_network.png)
 
 ### S10 · 1.5 min · CH2 checklist: all eleven variables, one line each
 
@@ -243,7 +246,7 @@ Cautions from this pass: the aid payout per project is classified by the federal
 | A10 | Domestic production-cost data | Electricity (two SMARD series, invoiced cross-checks from Destatis and Eurostat); ETS price path; free allocation about 94%; hydrogen, capex and opex gap remain provisional (BaseNotes-3) |
 | A11 | Green support criteria and exemptions | Verified table of aid by project (amount, decision date, split, paid); carbon contracts; industrial power price; imported steel is generally not a target of these schemes (workbook reading, not re-verified); no CBAM green-steel exemption; EUR 12.5 bn / 11.5 Mt unverified |
 | A12 | Jobs, regions, skills, wider sectors | Manufacturing employment 7,262 thousand (2025, provisional); establishments with 50+ employees 5.43 million; basic metals 245 thousand (2024) against 268 thousand (2015); WV Stahl direct steel employment about 80,000 (a narrower group); basic metals are about 0.5% of GVA (2024) |
-| A13 | Company-case fine print | Did CBAM force the contracts? Stegra status as of 22 Oct 2026; Volvo–SSAB and Outokumpu; retire "full hydrogen by 2029"; granted versus paid |
+| A13 | Company-case fine print | Did CBAM force the contracts? Stegra status as of 22 Oct 2026; Volvo–SSAB and Outokumpu; retire "full hydrogen by 2029"; granted versus paid; the Gephi map with all eleven nodes (`graphs/out/a13_company_network_full.png`) |
 | A14 | Spare theory diagrams | Fig. 3 subsidy, Fig. 4 demand shift (relabel "one fixed point in time"), Fig. 5 offshoring, Fig. 6 labour, original Fig. 2 |
 | A15 | Source list | Section 9 below |
 
