@@ -1,9 +1,7 @@
 {
  "id": "A11",
- "ok": false,
- "overflow": [
-  "child TABLE.t sm runs 36px below its parent"
- ],
+ "ok": true,
+ "overflow": [],
  "outside": [],
  "small": [],
  "minFont": 40
