@@ -3,7 +3,7 @@
 One PNG per deck page, 1920 x 1080 (a 16:9 slide at 144 dpi, so 1 pt = 2 px), drawn from `outline/final-outline-proposal.md`.
 The sketches show the on-slide content and layout only; the "Say", "Limits" and speaker-note text of the outline stays in the outline.
 
-- `src/<id>.html` — one fragment per page (S1 to S13, then backup A1 to A15)
+- `src/<id>.html` — one fragment per page (S1 to S13, then backup A1 to A7; the Q&A pages are held in `qa-pending/`)
 - `png/<id>.png` — the rendered sketch; `png/_report/<id>.json` — per page checks (overflow, text outside the slide, smallest font)
 - `contact-sheet-main.png`, `contact-sheet-backup.png` — thumbnails of all pages
 - `style.css` — shared style; `../../scripts/build_sketches.py` — renderer (Edge through Playwright, TH Sarabun New from `tools/fonts`)

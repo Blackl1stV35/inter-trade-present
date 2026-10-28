@@ -1,40 +1,57 @@
-<!--META {"id":"A1","chapter":"BK","label":"Team judgement","chips":["Tax"],
-"title":"Fast answers: descriptive method, company limits, CBAM price and receipts",
-"foot":"Does not show the worked example (A3), coverage and who pays (A4) or the contract fine print (A13).",
-"tags":"Research brief · U10 · U21 · U35 · Dataset E"} -->
+<!--META {"id":"A1","chapter":"BK","label":"Policy rule","chips":[],
+"title":"Certificate prices Q1–Q3 2026, phase-in factors and a worked example",
+"foot":"Does not show a Q4 2026 price or any firm's actual bill. Example inputs are assumed; the 17 Jul 2026 factors are a proposal, not law.",
+"tags":"Dataset E · S8 · S9 · S10 · COM(2026) 616 · EEX auction report · U4 · U5"} -->
 <style>
-  #main .card { display: flex; flex-direction: column; justify-content: center; padding-top: 8px; padding-bottom: 8px; }
-  #main .card .h2 { margin-bottom: 8px; white-space: nowrap; }
-  #main .ans { font-size: 44px; line-height: 1.04; }
-  #main .nw { white-space: nowrap; }
+  #main table.t th, #main table.t td { padding: 4px 14px; vertical-align: middle; white-space: nowrap; }
+  #main table.t tbody th { background: #fff; }
+  #main table.t .c { text-align: center; padding-left: 4px; padding-right: 4px; }
+  #main table.t.px td, #main table.t.px th { padding-top: 7px; padding-bottom: 7px; }
+  #main .blk { font-size: 48px; font-weight: bold; line-height: 50px; }
+  #main .sm40 { font-size: 40px; line-height: 42px; }
 </style>
-<div class="row grow">
-  <div class="card blue grow">
-    <div class="h2 blue-t">Why start before 2005?</div>
-    <div class="ans"><b>Context</b> before the ETS: manufacturing from 1995, trade from 1999.</div>
+<div class="row grow" style="min-height:0">
+  <div class="col" style="width:830px; flex:none; gap:8px">
+    <div class="blk">Published certificate price</div>
+    <table class="t sm px">
+      <colgroup><col style="width:22%"><col style="width:40%"><col style="width:38%"></colgroup>
+      <thead><tr><th>Quarter</th><th>Published</th><th>EUR/tCO2e</th></tr></thead>
+      <tbody>
+        <tr><td>Q1 2026</td><td>7 Apr 2026</td><td class="blue-t"><b>75.36</b></td></tr>
+        <tr><td>Q2 2026</td><td>6 Jul 2026</td><td class="blue-t"><b>75.28</b></td></tr>
+        <tr><td>Q3 2026</td><td>5 Oct 2026</td><td class="blue-t"><b>82.32</b></td></tr>
+        <tr><td>Q4 2026</td><td class="amber-t"><b>due 4 Jan 2027</b></td><td class="amber-t"><b>not published</b></td></tr>
+      </tbody>
+    </table>
+    <div class="cap">Context, not a CBAM price: latest EU ETS auction, 20 Oct 2026, EUR 85.10 per tCO2.</div>
   </div>
-  <div class="card blue grow">
-    <div class="h2 blue-t">Why no DiD?</div>
-    <div class="ans"><b>Descriptive brief:</b> a causal study needs its own design and data.</div>
+  <div class="card amber grow col" style="gap:8px">
+    <div style="display:flex; justify-content:space-between; align-items:baseline; white-space:nowrap">
+      <div class="h2" style="margin:0">Worked example</div>
+      <div class="amber-t sm40"><b>Assumed inputs</b></div>
+    </div>
+    <div class="sm40">1,000 t; certificates = 1,000 × (e − f × b), with emissions e, benchmark b&nbsp;=&nbsp;1.0, factor f&nbsp;=&nbsp;0.975 (2026); price EUR&nbsp;75.36/tCO2e (Q1 2026).</div>
+    <table class="t sm">
+      <colgroup><col style="width:30%"><col style="width:32%"><col style="width:38%"></colgroup>
+      <thead><tr><th>e, tCO2e/t</th><th>Certificates</th><th>EUR/t steel</th></tr></thead>
+      <tbody>
+        <tr><td>2.0</td><td class="blue-t"><b>1,025</b></td><td class="blue-t"><b>77.24</b></td></tr>
+        <tr><td>1.2, cleaner</td><td class="green-t"><b>225</b></td><td class="green-t"><b>16.96</b></td></tr>
+      </tbody>
+    </table>
+    <div class="lim sm40"><b>A 2.5% phase-in is not 2.5% of emissions.</b></div>
   </div>
 </div>
-<div class="row grow">
-  <div class="card amber grow">
-    <div class="h2 amber-t">Did CBAM force the contracts?</div>
-    <div class="ans"><b>Not shown:</b> two of four agreements <span class="nw">pre-date</span> reporting; aid matters too.</div>
-  </div>
-  <div class="card amber grow">
-    <div class="h2 amber-t">Is DRI always fossil-free?</div>
-    <div class="ans"><b>No.</b> Direct-reduced iron can use natural gas; hydrogen and power decide.</div>
-  </div>
-</div>
-<div class="row grow">
-  <div class="card green grow">
-    <div class="h2 green-t">Is CBAM a fixed tariff?</div>
-    <div class="ans"><b>No.</b> <span class="nw">ETS auction average, Q1–Q3 2026:</span><br>EUR 75.36, 75.28, 82.32 per tCO2e.</div>
-  </div>
-  <div class="card green grow">
-    <div class="h2 green-t">Is CBAM revenue German tax?</div>
-    <div class="ans"><b>No.</b> Sale proceeds, kept by the selling Member State from <span class="nw">Feb 2027.</span></div>
-  </div>
+<div class="col" style="gap:8px; flex:none">
+  <div class="blk">CBAM factor: share of free allocation still granted, %</div>
+  <table class="t sm">
+    <colgroup><col style="width:27%"><col span="8" style="width:7%"><col style="width:10%"><col style="width:7%"></colgroup>
+    <thead>
+      <tr><th>Year</th><th class="c">2026</th><th class="c">2027</th><th class="c">2028</th><th class="c">2029</th><th class="c">2030</th><th class="c">2031</th><th class="c">2032</th><th class="c">2033</th><th class="c">2034–37</th><th class="c">2038</th></tr>
+    </thead>
+    <tbody>
+      <tr class="blue-t"><th class="blue-t">Current law</th><td class="c">97.5</td><td class="c">95.0</td><td class="c">90.0</td><td class="c">77.5</td><td class="c">51.5</td><td class="c">39.0</td><td class="c">26.5</td><td class="c">14.0</td><td class="c">0.0</td><td class="c">0.0</td></tr>
+      <tr class="green-t"><th class="green-t">Proposal, 17 Jul 2026</th><td class="c">97.5</td><td class="c">95.0</td><td class="c">91.5</td><td class="c">81.0</td><td class="c">59.0</td><td class="c">48.0</td><td class="c">37.5</td><td class="c">27.0</td><td class="c">15.0</td><td class="c">0.0</td></tr>
+    </tbody>
+  </table>
 </div>

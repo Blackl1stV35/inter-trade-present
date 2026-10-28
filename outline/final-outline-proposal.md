@@ -2,7 +2,7 @@
 
 **EU ETS and CBAM, the Germany steel case.** Working title: "How EU ETS and CBAM Can Strengthen Europe's Long-Term Green Manufacturing Economy: The Case of Germany". On-slide subtitle: "Germany, iron and steel; descriptive evidence."
 
-Status: final proposal for the team, 22 October 2026. Built from the LINE chat and the four Word files, then updated with live data pulls, status checks and German primary sources made on 22 October 2026, and checked by three independent reviews (numbers, consistency, red team). Key numbers carry a source tag; the tag list is in backup page A15. Nothing here is an estimate of an ETS or CBAM effect.
+Status: final proposal for the team, 22 October 2026. Built from the LINE chat and the four Word files, then updated with live data pulls, status checks and German primary sources made on 22 October 2026, and checked by three independent reviews (numbers, consistency, red team). Key numbers carry a source tag; the tag list is in section 9. Nothing here is an estimate of an ETS or CBAM effect.
 
 ## 1. Decisions and what changed
 
@@ -19,26 +19,26 @@ Status: final proposal for the team, 22 October 2026. Built from the LINE chat a
 
 These change what the deck may say; each is already applied below.
 
-1. **Electricity (slide 5, backup A10).** The workbook's 5.92 ct/kWh for 2020 is the SMARD price *with* all possible reductions, not without. The no-reductions price was about 17.1 ct/kWh in 2020, so "nearly triple the 2020 level" is wrong: the no-reductions price in 2024 (16.1 in the 22 Oct 2026 SMARD vintage, 16.8 in the Feb 2025 vintage) is slightly below 2020. The "+77%" figure is a with-reductions comparison and exists only in the Feb 2025 vintage (+65% in the current vintage). Invoiced prices for the largest consumers (150,000 MWh a year and more) did rise, from 6.88 to 13.01 ct/kWh in 2020–24 (+89%).
+1. **Electricity (slide 5, Q&A sheet).** The workbook's 5.92 ct/kWh for 2020 is the SMARD price *with* all possible reductions, not without. The no-reductions price was about 17.1 ct/kWh in 2020, so "nearly triple the 2020 level" is wrong: the no-reductions price in 2024 (16.1 in the 22 Oct 2026 SMARD vintage, 16.8 in the Feb 2025 vintage) is slightly below 2020. The "+77%" figure is a with-reductions comparison and exists only in the Feb 2025 vintage (+65% in the current vintage). Invoiced prices for the largest consumers (150,000 MWh a year and more) did rise, from 6.88 to 13.01 ct/kWh in 2020–24 (+89%).
 2. **Direct versus by-origin imports (slide 7).** Direct extra-EU Chapter 72 imports (cleared at German customs) were only 37% of German non-EU-origin imports in 2025 (66% in 2019), mostly a change since 2022 whose cause is not identified. The direct series fell 56% (2019–25); non-EU steel counted by origin, including what arrives via other EU states, fell 22%.
 3. **Steel trade after 2024 (slide 8).** WV Stahl's 2026 edition revises 2024 and adds 2025: the all-partner balance narrowed from +4.2 Mt (2024) to +1.9 Mt (2025) as imports rose (+7.9%) and exports fell (−3.9%). Since 2017 imports are still down more than exports (−28% against −18%).
-4. **Public support (slides 9, 11, backup A11, A13).** Salzgitter's aid is about EUR 1.3 bn since February 2026 (EUR 1.076 bn paid by 30 Jun 2026), not EUR 1 bn; Thyssenkrupp's "full hydrogen by 2029" was a 2023/2024 company target and is stale; the carbon-contract thresholds are now 50% within four years and 85% at the end, not 60% / 90%; EUR 6.9 bn was a July 2024 commitment total (about EUR 5.9 bn live); EUR 12.5 bn total cost and 11.5 Mt a year could not be verified.
+4. **Public support (slides 9, 11, backup A5, A6; Q&A sheet).** Salzgitter's aid is about EUR 1.3 bn since February 2026 (EUR 1.076 bn paid by 30 Jun 2026), not EUR 1 bn; Thyssenkrupp's "full hydrogen by 2029" was a 2023/2024 company target and is stale; the carbon-contract thresholds are now 50% within four years and 85% at the end, not 60% / 90%; EUR 6.9 bn was a July 2024 commitment total (about EUR 5.9 bn live); EUR 12.5 bn total cost and 11.5 Mt a year could not be verified.
 
 ### Open items from the first proposal and their results
 
 | Open item | Result | Where it lands |
 | --- | --- | --- |
 | Redraw Fig. 2 | Done: partial pass-through, no invented numbers; the supply shift is labelled "size not evidenced". | S5 |
-| Extra-EU steel exports | Pulled for 1999–2025 (Comext, vintage 16 Oct 2026); Destatis by destination agrees within 0.1% in 2017–25. | S8, S10, A6 |
+| Extra-EU steel exports | Pulled for 1999–2025 (Comext, vintage 16 Oct 2026); Destatis by destination agrees within 0.1% in 2017–25. | S8, S10, A2 |
 | Materiality | Direct extra-EU imports are 8.1% of German Chapter 72 import tonnes in 2024 (6.1% in 2025); non-EU origin 17.3% in 2024. | S7 |
-| Steel series (outcome) | Electric-arc share 27.7–32% since 2020, no trend; CO2 per tonne shows no sustained fall (ETS-derived −2.5% since 2019, WV Stahl +1.5%). | S10, S12, A8 |
-| Apparent steel consumption | WV Stahl publishes market supply of rolled steel: 40.8 Mt (2017) to 29.1 Mt (2025). | S8, A6 |
+| Steel series (outcome) | Electric-arc share 27.7–32% since 2020, no trend; CO2 per tonne shows no sustained fall (ETS-derived −2.5% since 2019, WV Stahl +1.5%). | S10, S12, A4 |
+| Apparent steel consumption | WV Stahl publishes market supply of rolled steel: 40.8 Mt (2017) to 29.1 Mt (2025). | S8, A2 |
 | Domestic steel price | Destatis producer price index for pig iron and steel pulled. | S10 |
-| Tax | ETS auction receipts (all sectors, EUR 5.4 bn in 2025) go to the climate fund; CBAM sales start 1 Feb 2027; corporate and payroll effects are not measurable. | S10, S13, A6 |
-| Certificate price | Q1–Q3 2026 confirmed. **No Q4 price can exist before 4 Jan 2027**, after the talk. | S4, S5, A3 |
-| Stegra delivery status | Checked: more capital needed, no published start date, no confirmed delivery to Mercedes-Benz or BMW. | S9, S11, A13 |
+| Tax | ETS auction receipts (all sectors, EUR 5.4 bn in 2025) go to the climate fund; CBAM sales start 1 Feb 2027; corporate and payroll effects are not measurable. | S10, S13, A2 |
+| Certificate price | Q1–Q3 2026 confirmed. **No Q4 price can exist before 4 Jan 2027**, after the talk. | S4, S5, A1 |
+| Stegra delivery status | Checked: more capital needed, no published start date, no confirmed delivery to Mercedes-Benz or BMW. | S9, S11, A6 |
 | Downstream extension | Still a proposal; Parliament position 15 Sep 2026; negotiations under way. | S13 |
-| Steel quota text | Resolved: 18.3 Mt, 50% out-of-quota duty, about 47% below 2024 quotas; Reg. (EU) 2026/1384, applies 1 Jul 2026. | S4, A5 |
+| Steel quota text | Resolved: 18.3 Mt, 50% out-of-quota duty, about 47% below 2024 quotas; Reg. (EU) 2026/1384, applies 1 Jul 2026. | S4, Q&A sheet |
 | 2026 trade data | Jan–Aug 2026 available (provisional), compared only with Jan–Aug 2025. | S5, S7, S8 |
 | Provisional GVA flag | Rechecked: still provisional for 2023–2025; no value changed. | S1, S6 |
 | German primary sources | WV Stahl, Destatis, SMARD and German support amounts sourced (section 6). | S5, S7–S11 |
@@ -51,7 +51,7 @@ These change what the deck may say; each is already applied below.
 | CH1 Policy details | S1–S4 | 4.0 | 4.0 |
 | CH2 Economic effects | S5–S11 | 8.5 | 12.5 |
 | CH3 Conclusion and suggestion | S12–S13 | 2.5 | 15.0 |
-| Backup (not timed) | A1–A15 | — | Q&A |
+| Backup (not timed) | A1–A7 | — | Q&A; Q&A sheet pending |
 
 | # | Min | Slide | Message in one line |
 | --- | --- | --- | --- |
@@ -95,7 +95,7 @@ Rules on every slide: one dominant evidence label (Observed data / Policy rule /
 
 - **Message:** ETS prices emissions inside the EU; CBAM applies a comparable carbon-cost logic to covered imports by embedded emissions; it is neither a ban nor a flat tariff.
 - **On the slide:** five-row table, cells of about eight words. What: declining cap, tradable allowances | carbon cost on covered imports by embedded emissions. **Purpose:** cap and price emissions | prevent carbon leakage (production or emissions shifting abroad). Who surrenders: installations surrender allowances | authorised declarant surrenders certificates. Price: auction price | average of EU ETS auction prices, quarterly in 2026, weekly from 2027. Start: 2005 pilot, mostly free allocation | reporting Oct 2023, definitive 1 Jan 2026.
-- **Say:** free allocation lowers net cost but is not an exemption [U1][U2]; German auction prices averaged EUR 14.9 a tonne in 2018, 83.7 in 2023 and 73.9 in 2025 [UBA / EEX]; Germany sets no tariff of its own [S1][S2]. Coverage and the 50-tonne threshold are in A4; the worked example is in A3.
+- **Say:** free allocation lowers net cost but is not an exemption [U1][U2]; German auction prices averaged EUR 14.9 a tonne in 2018, 83.7 in 2023 and 73.9 in 2025 [UBA / EEX]; Germany sets no tariff of its own [S1][S2]. Coverage and the 50-tonne threshold are on the Q&A sheet; the worked example is in A1.
 - **Label:** Policy rule.
 
 ### S4 · 1.0 min · Timeline: ETS since 2005, CBAM payments from 2027
@@ -157,7 +157,7 @@ Rules on every slide: one dominant evidence label (Observed data / Policy rule /
   1. **Thyssenkrupp Steel × Volkswagen.** Opportunity: MoU of 22 Oct 2024; direct-reduction plant commissioning from 2027, supply from 2028 [U10]. Limit: a future-supply MoU, not delivery; the plant starts on natural gas and the hydrogen date is open; bluemint is a product family, not all hydrogen steel [U10][U11].
   2. **Salzgitter SALCOS × EWE.** Opportunity: first direct-reduction and electric-arc production in 2027 (green steel offered from summer 2027), full conversion mid-2030s [U12]; EWE green hydrogen contract of 9 Jun 2026, 10,000 t a year for seven years [U13]. Limit: stage 1 slipped from end-2025 to 2027; EWE covers about 6.5% of SALCOS hydrogen need; Salzgitter says new energy inputs currently cost more than coal [U12][U13].
   3. **Stegra (producer) with Mercedes-Benz (buyer, Jun 2023, about 50,000 t a year) and BMW (buyer, announced 20 Oct 2021, final contract Aug 2022)** [U14][U15]. Limit: Stegra says more capital is needed to finish Boden; the 2025 start dates have passed, no new start date is published and no delivery to either buyer is confirmed [U16].
-- **Footer:** two of the four agreements pre-date reporting; direction, not cause. Public aid cannot be separated from the policies: the approvals of EUR 1.0 bn for Salzgitter (4 Oct 2022) and about EUR 2 bn for Duisburg (20 Jul 2023) pre-date reporting but post-date the 2021 CBAM proposal and the ETS price rise; the SALCOS top-up (Feb 2026) and the payments to mid-2026 (EUR 1.08 bn paid by 30 Jun 2026) do not. ArcelorMittal withdrew its German plans in June 2025; its approved EUR 1.3 bn was not used. Does not show delivered tonnes or cost parity. Volvo–SSAB and Outokumpu are backup only (A13).
+- **Footer:** two of the four agreements pre-date reporting; direction, not cause. Public aid cannot be separated from the policies: the approvals of EUR 1.0 bn for Salzgitter (4 Oct 2022) and about EUR 2 bn for Duisburg (20 Jul 2023) pre-date reporting but post-date the 2021 CBAM proposal and the ETS price rise; the SALCOS top-up (Feb 2026) and the payments to mid-2026 (EUR 1.08 bn paid by 30 Jun 2026) do not. ArcelorMittal withdrew its German plans in June 2025; its approved EUR 1.3 bn was not used. Does not show delivered tonnes or cost parity. Volvo–SSAB and Outokumpu are backup only (A6 map; Q&A sheet).
 - **Speaker note, not on the slide:** Stegra's own review also says the timeline "remains as expected" and that commitments to customers remain; use "not confirmed", never "none delivered".
 - **Label:** Company announcement. **Chip lit:** I.
 - **Sketch (26 Oct 2026):** the case rows are condensed to one Opportunity and one Limit line each and sit beside a Gephi map of the agreements (the chart of this slide): blue producers, grey buyers, green hydrogen supplier, amber public aid, arrows for announcements and approvals, no edge a verified delivery. Nodes and edges: `graphs/gephi`; the map is drawn by `graphs/gephi/render_network.ps1` (Gephi Toolkit 0.11.3).
@@ -183,7 +183,7 @@ Rules on every slide: one dominant evidence label (Observed data / Policy rule /
 | I | Clean-plant investment up; downstream may fall | Fixed investment −0.6% real (2025) |
 | G | Support and infrastructure; subsidies are not all G | Government consumption +1.7% real (2025) |
 
-- **Backup detail for the rows (speaker notes, A6, A12):** X also: Chapter 72 to outside the EU 7.2 to 4.7 Mt (2017–25). M also: direct 3,342 to 1,464 kt; Jan–Aug 2026 direct +7.7% (provisional). NX also: outside the EU +0.8 Mt by origin; national 2025 exports −0.9%, imports +2.9% real, net-export contribution −1.5 pp. Q also: market supply of rolled steel 40.8 to 29.1 Mt; services indirect, no series. P also: import unit value EUR 736 to 1,087/t (2019–25), mix-affected; services no series. Tax also: all to the climate fund by law; ETS receipts say nothing about steel's own payments (steel mostly gets free allocation); corporate and payroll effects not measurable. G also: aid commitments are transfers; climate-fund plan 2027 EUR 38.9 bn. I also: announced and paid-out aid are not an investment effect (S9).
+- **Backup detail for the rows (speaker notes, A2, Q&A sheet):** X also: Chapter 72 to outside the EU 7.2 to 4.7 Mt (2017–25). M also: direct 3,342 to 1,464 kt; Jan–Aug 2026 direct +7.7% (provisional). NX also: outside the EU +0.8 Mt by origin; national 2025 exports −0.9%, imports +2.9% real, net-export contribution −1.5 pp. Q also: market supply of rolled steel 40.8 to 29.1 Mt; services indirect, no series. P also: import unit value EUR 736 to 1,087/t (2019–25), mix-affected; services no series. Tax also: all to the climate fund by law; ETS receipts say nothing about steel's own payments (steel mostly gets free allocation); corporate and payroll effects not measurable. G also: aid commitments are transfers; climate-fund plan 2027 EUR 38.9 bn. I also: announced and paid-out aid are not an investment effect (S9).
 - **Footer:** growth rates are the Eurostat / Destatis vintage of 21 Oct 2026 (after the Destatis revision of 25 Aug), provisional, whole-economy context and not CBAM effects; the January first estimate differed (government +1.5, investment −0.5, exports −0.3, imports +3.6, consumption +1.4). Does not show any estimated effect.
 - **Label:** Observed data, with Context-only and Gap chips per row. **Chips lit:** all 11.
 
@@ -191,7 +191,7 @@ Rules on every slide: one dominant evidence label (Observed data / Policy rule /
 
 - **Message:** Cleaner steel is still a premium or a gap in many settings, so any long-term benefit is conditional on clean power and hydrogen, finance, delivery and regional adjustment.
 - **On the slide:** three cards and a banner. Price gap: IEA says hydrogen cost gaps often remain even with policy support [U20]; the IEA steel and cement report stresses buyer commitments and public policy [U19]; Salzgitter says new energy inputs currently cost more than coal [U12]. Capital and delivery: Duisburg has committed support of up to about EUR 2 bn (EUR 550 m grant plus up to EUR 1.45 bn conditional operating payment) against a company-stated plant cost of about EUR 3 bn (reported rising), and starts on natural gas; Stegra needs more capital to finish Boden, amount not published, no start date, new chief executive from 1 Nov 2026 [U16]; EWE covers about 6.5% of SALCOS hydrogen need [U13]. People and regions: Thyssenkrupp's plan of 25 Nov 2024 is about 5,000 job reductions by 2030 plus about 6,000 transferred or sold; the company cites weak competitiveness and cheap imports; it pre-dates definitive CBAM and is not attributed to the policy [U9]. Banner: we do not say green steel is cheaper.
-- **Footer:** also at work: energy prices, COVID, sanctions, the separate steel quota (A5), state aid (about EUR 5.9 bn live commitments, A11), the planned industrial power price (EUR 3.8 bn, 2026–28; eligibility of primary steel not checked), and free-allocation rules (a 17 Jul 2026 Commission proposal would slow the phase-out of free allocation in CBAM sectors; not law). Backup A8, A9, A10, A12.
+- **Footer:** also at work: energy prices, COVID, sanctions, the separate steel quota (Q&A sheet), state aid (about EUR 5.9 bn live commitments, A5), the planned industrial power price (EUR 3.8 bn, 2026–28; eligibility of primary steel not checked), and free-allocation rules (a 17 Jul 2026 Commission proposal would slow the phase-out of free allocation in CBAM sectors; not law). Backup A4, A5; Q&A sheet.
 - **Label:** mixed: Company announcement and published analysis (IEA); no measured finding.
 
 ## 5. CH3 — Conclusion and suggestion (2.5 min)
@@ -232,25 +232,21 @@ Cautions from this pass: the aid payout per project is classified by the federal
 
 ## 7. Backup pages (not timed)
 
-| # | Page | Answers |
-| --- | --- | --- |
-| A1 | Fast answers on one page | Why start before 2005? Why no DiD? Did CBAM force the contracts? Is DRI always fossil-free? Is CBAM a fixed tariff? Is CBAM revenue German tax? (No: certificate sale proceeds kept by the selling Member State, first from Feb 2027; 2027 draft budget EUR 0.38 bn.) |
-| A2 | Claims we corrected | 14% share, 5.5 m / 20.8% (the 50+ employee universe), 47% quota, 11,000 jobs, "GDP barely changed", cheaper green steel, contracts = delivery, **electricity "nearly triple"**, **"full hydrogen by 2029"**, **SALCOS EUR 1 bn** |
-| A3 | Worked example, phase-in table, certificate prices | Quarter, publication date, price (Q4 due 4 Jan 2027); current-law factors beside the 17 Jul 2026 proposal; latest EUA auction EUR 85.10 on 20 Oct 2026 (latest in the EEX file) as context only |
-| A4 | Coverage, exempt origins, 50-tonne threshold, who pays | The Member State where the declarant is established collects the receipts |
-| A5 | The steel quota, sanctions and dumping are not CBAM | Reg. (EU) 2026/1384: 18,345,922 t, 50% duty, about 47% below the 2024 base |
-| A6 | NX, BOP and the tax row | Full WV Stahl series 2017–25 with printed balance and market supply of rolled steel; extra-EU balance tables (direct 1999–2025, by origin 2008–2025); Jan–Aug 2026 net balances by concept (direct −27%, by origin Jan–Jul far lower, all-partner Chapter 72 +16%); WV Stahl versus Chapter 72 scope table; concept table (customs goods exports EUR 1,564 bn, BOP goods surplus EUR 184 bn, current account about EUR 203 bn, national-accounts net exports EUR 156.7 bn to 100.3 bn); ETS auction receipts 2012–2025; CBAM revenue rules; tax channels not measurable |
-| A7 | Reading the import series | 2005 rise (semi-finished products), 2022 unit values, DRI (7203) direct versus by origin, Jan–Aug 2026 table (Comext and Destatis), materiality shares, origin share flat at 16–18% |
-| A8 | What still enters from outside the EU; has German steel become cleaner? | 2025 import composition; the chart below; route emissions per tonne |
-| A9 | Is green steel cheaper? | Premium range, scrap, aluminium, composites (BaseNotes-2, provisional) |
-| A10 | Domestic production-cost data | Electricity (two SMARD series, invoiced cross-checks from Destatis and Eurostat); ETS price path; free allocation about 94%; hydrogen, capex and opex gap remain provisional (BaseNotes-3) |
-| A11 | Green support criteria and exemptions | Verified table of aid by project (amount, decision date, split, paid); carbon contracts; industrial power price; imported steel is generally not a target of these schemes (workbook reading, not re-verified); no CBAM green-steel exemption; EUR 12.5 bn / 11.5 Mt unverified |
-| A12 | Jobs, regions, skills, wider sectors | Manufacturing employment 7,262 thousand (2025, provisional); establishments with 50+ employees 5.43 million; basic metals 245 thousand (2024) against 268 thousand (2015); WV Stahl direct steel employment about 80,000 (a narrower group); basic metals are about 0.5% of GVA (2024) |
-| A13 | Company-case fine print | Did CBAM force the contracts? Stegra status as of 22 Oct 2026; Volvo–SSAB and Outokumpu; retire "full hydrogen by 2029"; granted versus paid; a Gephi map with all eleven nodes is exported (`graphs/out/a13_company_network_full.png`) for use here if the table is cut |
-| A14 | Spare theory diagrams | Fig. 3 subsidy, Fig. 4 demand shift (relabel "one fixed point in time"), Fig. 5 offshoring, Fig. 6 labour, original Fig. 2 |
-| A15 | Source list | Section 9 below |
+Seven backup slides, confirmed by the requester on 29 Oct 2026. The question-and-answer material is held for a separate prep sheet (pending).
 
-![German steel: electric-arc share and CO2 per tonne (backup A8)](graphs/out/a8_cleaner_steel_outcome.png)
+| # | Page | Answers | Was |
+| --- | --- | --- | --- |
+| A1 | Worked example, phase-in table, certificate prices | Quarter, publication date, price (Q4 due 4 Jan 2027); current-law factors beside the 17 Jul 2026 proposal; latest EUA auction EUR 85.10 on 20 Oct 2026 (latest in the EEX file) as context only | A3 |
+| A2 | NX, BOP and the tax row | Full WV Stahl series 2017–25 with printed balance and market supply of rolled steel; extra-EU balance tables (direct 1999–2025, by origin 2008–2025); Jan–Aug 2026 net balances by concept (direct −27%, by origin Jan–Jul far lower, all-partner Chapter 72 +16%); WV Stahl versus Chapter 72 scope table; concept table (customs goods exports EUR 1,564 bn, BOP goods surplus EUR 184 bn, current account about EUR 203 bn, national-accounts net exports EUR 156.7 bn to 100.3 bn); ETS auction receipts 2012–2025; CBAM revenue rules; tax channels not measurable | A6 |
+| A3 | Reading the import series | 2005 rise (semi-finished products), 2022 unit values, DRI (7203) direct versus by origin, Jan–Aug 2026 table (Comext and Destatis), materiality shares, origin share flat at 16–18% | A7 |
+| A4 | What still enters from outside the EU; has German steel become cleaner? | 2025 import composition; the chart below; route emissions per tonne | A8 |
+| A5 | Green support criteria and exemptions | Verified table of aid by project (amount, decision date, split, paid); carbon contracts; industrial power price; imported steel is generally not a target of these schemes (workbook reading, not re-verified); no CBAM green-steel exemption; EUR 12.5 bn / 11.5 Mt unverified | A11 |
+| A6 | Who signed with whom | Gephi map of all eleven company nodes and seven arrows (`graphs/out/a13_company_network_full.png`): roles, announcements, no verified delivery | A13 map |
+| A7 | Spare theory diagrams | Fig. 3 subsidy, Fig. 4 demand shift (relabel "one fixed point in time"), Fig. 5 offshoring, Fig. 6 labour, original Fig. 2 | A14 |
+
+Held for the prep Q&A sheet (pending, not slides; fragments kept in `outline/sketches/qa-pending/`): fast answers (old A1), claims we corrected (A2), coverage, 50-tonne threshold and who pays (A4), the steel quota (A5), is green steel cheaper (A9), domestic production-cost data (A10), jobs, regions and skills (A12), company-case fine print (A13). The source list (old A15) is section 9 of this document and a handout, not a page.
+
+![German steel: electric-arc share and CO2 per tonne (backup A4)](graphs/out/a8_cleaner_steel_outcome.png)
 
 ## 8. What is still open, and risks
 
@@ -265,11 +261,11 @@ Main risks: theory graphs rejected (fallbacks keep the minutes); slide 8 misread
 
 20-minute stretch plan if the course brief's 20 minutes is enforced: add 5.0 minutes: S3 +0.5, S5 +0.5, S7 +0.5, S8 +0.5, S9 +1.0 (Volvo–SSAB, Outokumpu, BMW detail), S10 +0.5, S11 +1.0, S13 +0.5.
 
-Suggested speaker split (not recorded in the chat): CH1 (S1–S4); theory, manufacturing and imports (S5–S7); NX, firms, checklist and costs (S8–S11); CH3 (S12–S13) plus the Q&A lead using A1. Rehearse to the checkpoints 4.0 / 12.5 / 15.0 minutes.
+Suggested speaker split (not recorded in the chat): CH1 (S1–S4); theory, manufacturing and imports (S5–S7); NX, firms, checklist and costs (S8–S11); CH3 (S12–S13) plus the Q&A lead using the Q&A sheet. Rehearse to the checkpoints 4.0 / 12.5 / 15.0 minutes.
 
 <div class="pagebreak"></div>
 
-## 9. A15 — Source list
+## 9. Source list (handout)
 
 **Tags used on the slides.**
 

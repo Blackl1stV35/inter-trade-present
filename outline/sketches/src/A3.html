@@ -1,57 +1,62 @@
-<!--META {"id":"A3","chapter":"BK","label":"Policy rule","chips":[],
-"title":"Certificate prices Q1–Q3 2026, phase-in factors and a worked example",
-"foot":"Does not show a Q4 2026 price or any firm's actual bill. Example inputs are assumed; the 17 Jul 2026 factors are a proposal, not law.",
-"tags":"Dataset E · S8 · S9 · S10 · COM(2026) 616 · EEX auction report · U4 · U5"} -->
+<!--META {"id":"A3","chapter":"BK","label":"Observed data","chips":["M"],
+"title":"Reading the import series: 2005 rise, 2022 unit values, much of DRI fall is routing",
+"foot":"Does not show causes, single months or the CBAM base. Chapter 72 includes scrap.",
+"tags":"Comext DS-045409 · Destatis 51000-0006 to -0008 · U24 · U25 · Dataset C"} -->
 <style>
-  #main table.t th, #main table.t td { padding: 4px 14px; vertical-align: middle; white-space: nowrap; }
-  #main table.t tbody th { background: #fff; }
-  #main table.t .c { text-align: center; padding-left: 4px; padding-right: 4px; }
-  #main table.t.px td, #main table.t.px th { padding-top: 7px; padding-bottom: 7px; }
-  #main .blk { font-size: 48px; font-weight: bold; line-height: 50px; }
-  #main .sm40 { font-size: 40px; line-height: 42px; }
+  #main .kv { display: flex; justify-content: space-between; align-items: baseline; gap: 14px; }
+  #main .kv .lbl { white-space: nowrap; }
+  #main .kv b { font-size: 56px; line-height: 58px; white-space: nowrap; }
+  #main .lead { font-size: 56px; line-height: 58px; font-weight: bold; white-space: nowrap; }
+  #main .lbl { font-size: 40px; line-height: 42px; }
+  #main .big { font-size: 76px; line-height: 76px; font-weight: bold; }
+  #main .chip { font-size: 40px; line-height: 44px; }
+  #main .card { padding-top: 10px; padding-bottom: 12px; }
+  #main table.t th, #main table.t td { padding: 4px 14px; vertical-align: middle; }
+  #main table.t td.n, #main table.t th.n { text-align: right; }
 </style>
-<div class="row grow" style="min-height:0">
-  <div class="col" style="width:830px; flex:none; gap:8px">
-    <div class="blk">Published certificate price</div>
-    <table class="t sm px">
-      <colgroup><col style="width:22%"><col style="width:40%"><col style="width:38%"></colgroup>
-      <thead><tr><th>Quarter</th><th>Published</th><th>EUR/tCO2e</th></tr></thead>
-      <tbody>
-        <tr><td>Q1 2026</td><td>7 Apr 2026</td><td class="blue-t"><b>75.36</b></td></tr>
-        <tr><td>Q2 2026</td><td>6 Jul 2026</td><td class="blue-t"><b>75.28</b></td></tr>
-        <tr><td>Q3 2026</td><td>5 Oct 2026</td><td class="blue-t"><b>82.32</b></td></tr>
-        <tr><td>Q4 2026</td><td class="amber-t"><b>due 4 Jan 2027</b></td><td class="amber-t"><b>not published</b></td></tr>
-      </tbody>
-    </table>
-    <div class="cap">Context, not a CBAM price: latest EU ETS auction, 20 Oct 2026, EUR 85.10 per tCO2.</div>
+<div class="row" style="flex: none">
+  <div class="card blue col" style="width: 520px; flex: none; gap: 6px">
+    <div class="h2">Rise after 2005</div>
+    <div class="lead blue-t">3,906 → 6,291 kt</div>
+    <div class="lbl">direct, 2004 → 2007</div>
+    <div class="lbl">7207 semi-finished: 32.3% of the rise</div>
   </div>
-  <div class="card amber grow col" style="gap:8px">
-    <div style="display:flex; justify-content:space-between; align-items:baseline; white-space:nowrap">
-      <div class="h2" style="margin:0">Worked example</div>
-      <div class="amber-t sm40"><b>Assumed inputs</b></div>
-    </div>
-    <div class="sm40">1,000 t; certificates = 1,000 × (e − f × b), with emissions e, benchmark b&nbsp;=&nbsp;1.0, factor f&nbsp;=&nbsp;0.975 (2026); price EUR&nbsp;75.36/tCO2e (Q1 2026).</div>
-    <table class="t sm">
-      <colgroup><col style="width:30%"><col style="width:32%"><col style="width:38%"></colgroup>
-      <thead><tr><th>e, tCO2e/t</th><th>Certificates</th><th>EUR/t steel</th></tr></thead>
-      <tbody>
-        <tr><td>2.0</td><td class="blue-t"><b>1,025</b></td><td class="blue-t"><b>77.24</b></td></tr>
-        <tr><td>1.2, cleaner</td><td class="green-t"><b>225</b></td><td class="green-t"><b>16.96</b></td></tr>
-      </tbody>
-    </table>
-    <div class="lim sm40"><b>A 2.5% phase-in is not 2.5% of emissions.</b></div>
+  <div class="card blue col" style="width: 640px; flex: none; gap: 6px">
+    <div class="h2">2022 unit values</div>
+    <div class="lead blue-t">736 → 1,176 → 1,087</div>
+    <div class="lbl">EUR/t in 2019, 2022, 2025</div>
+    <div class="lbl">Product mix, not a price index</div>
+  </div>
+  <div class="card amber grow col" style="gap: 6px">
+    <div class="h2">DRI, heading 7203</div>
+    <div class="kv"><span class="lbl">Direct</span><b class="blue-t">1,016 → 28</b></div>
+    <div class="kv"><span class="lbl">By origin</span><b class="green-t">1,069 → 522</b></div>
+    <div class="lbl">2017–25, kt; by origin −51%</div>
   </div>
 </div>
-<div class="col" style="gap:8px; flex:none">
-  <div class="blk">CBAM factor: share of free allocation still granted, %</div>
-  <table class="t sm">
-    <colgroup><col style="width:27%"><col span="8" style="width:7%"><col style="width:10%"><col style="width:7%"></colgroup>
-    <thead>
-      <tr><th>Year</th><th class="c">2026</th><th class="c">2027</th><th class="c">2028</th><th class="c">2029</th><th class="c">2030</th><th class="c">2031</th><th class="c">2032</th><th class="c">2033</th><th class="c">2034–37</th><th class="c">2038</th></tr>
-    </thead>
-    <tbody>
-      <tr class="blue-t"><th class="blue-t">Current law</th><td class="c">97.5</td><td class="c">95.0</td><td class="c">90.0</td><td class="c">77.5</td><td class="c">51.5</td><td class="c">39.0</td><td class="c">26.5</td><td class="c">14.0</td><td class="c">0.0</td><td class="c">0.0</td></tr>
-      <tr class="green-t"><th class="green-t">Proposal, 17 Jul 2026</th><td class="c">97.5</td><td class="c">95.0</td><td class="c">91.5</td><td class="c">81.0</td><td class="c">59.0</td><td class="c">48.0</td><td class="c">37.5</td><td class="c">27.0</td><td class="c">15.0</td><td class="c">0.0</td></tr>
-    </tbody>
-  </table>
+<div class="row grow">
+  <div class="card grey col" style="width: 720px; flex: none; gap: 6px">
+    <div class="h2">Materiality</div>
+    <div class="lbl grey-t">German Chapter 72 import tonnes</div>
+    <div class="row" style="gap: 20px">
+      <div style="width: 262px; flex: none"><div class="big blue-t">8.1%</div><div class="lbl">direct, 2024; 6.1% in 2025</div></div>
+      <div class="grow"><div class="big green-t">17.3%</div><div class="lbl">by origin, 2024; <span style="white-space:nowrap">16–18% since 2019</span></div></div>
+    </div>
+  </div>
+  <div class="card amber grow col" style="gap: 6px">
+    <div style="display:flex; justify-content:space-between; align-items:center">
+      <div class="h2" style="margin:0">Imports, Jan–Aug, kt</div>
+      <span class="chip gap">provisional</span>
+    </div>
+    <table class="t sm">
+      <colgroup><col style="width:43%"><col style="width:20%"><col style="width:20%"><col style="width:17%"></colgroup>
+      <thead><tr><th>Concept</th><th class="n">2025</th><th class="n">2026</th><th class="n">Change</th></tr></thead>
+      <tbody>
+        <tr class="blue-t"><td>Direct (Comext)</td><td class="n">1,028</td><td class="n">1,108</td><td class="n"><b>+7.7%</b></td></tr>
+        <tr class="green-t"><td>By origin (Destatis)*</td><td class="n">2,225.8</td><td class="n">2,362.4</td><td class="n"><b>+6.1%</b></td></tr>
+        <tr class="grey-t"><td>All partners (Destatis)</td><td class="n">16,233.8</td><td class="n">16,592.4</td><td class="n"><b>+2.2%</b></td></tr>
+      </tbody>
+    </table>
+    <div class="lbl grey-t">* Jan–Jul: August is not yet published.</div>
+  </div>
 </div>
