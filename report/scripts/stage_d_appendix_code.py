@@ -44,6 +44,14 @@ def para(text, size=10, bold=False, font='Courier New', center=False, page_break
     return p
 
 
+# 1b. remove an earlier Appendix C so the script can be re-run
+start = next((p for p in d.paragraphs if p.text.strip() == 'Appendix C'), None)
+if start is not None:
+    kids = list(d.element.body)
+    for el in kids[kids.index(start._p):]:
+        if el.tag != qn('w:sectPr'):
+            d.element.body.remove(el)
+
 # 2. Appendix C heading in the same two-line style as the other appendices
 para('Appendix C', size=14, bold=True, font='Times New Roman', center=True, page_break=True)
 para('Chart Generating Code', size=14, bold=True, font='Times New Roman', center=True, space_after=10)
