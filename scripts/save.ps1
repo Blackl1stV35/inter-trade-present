@@ -7,6 +7,8 @@ $repo = Split-Path $PSScriptRoot -Parent
 Set-Location $repo
 
 git add -A -- ($Paths -split ',')
+python -I -X utf8 scripts/check_single_docx.py
+if ($LASTEXITCODE -ne 0) { throw 'single-docx guard failed; nothing committed' }
 git diff --cached --quiet
 if ($LASTEXITCODE -eq 0) {
     Write-Host 'Nothing new to commit; will still push any unpushed commits.'

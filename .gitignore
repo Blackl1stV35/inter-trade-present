@@ -7,3 +7,6 @@ __pycache__/
 Thumbs.db
 
 outline/sketches/.build/
+# report: only report/inter-trade-report.docx is kept; no copies of the report
+report/*.docx
+!report/inter-trade-report.docx
