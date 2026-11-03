@@ -10,3 +10,6 @@ Status as of 3 Nov 2026. Each step is committed and pushed when done.
 4. Figures: all six drawn with GNUplot in Times New Roman (installed on Windows; no new install needed), each checked for alignment and overlaps. Done.
 5. Appendix C: list the GNUplot scripts that produce the figures; keep sample data references generic.
 6. Rebuild contents page numbers, verify text (no em dash, no "rather than"), save the final docx to Downloads.
+
+7. Layout pass (3 Nov 2026): titles sit above each plot box, legends inside the margins, Figure 2.5 labels clear of lines and axes. Done.
+8. Single report document: scripts/check_single_docx.py runs before every save and in .github/workflows/single-docx.yml. The only report file is report/inter-trade-report.docx; the Downloads folder keeps one final copy, "Inter Trade present (final).docx". Done.
