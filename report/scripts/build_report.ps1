@@ -15,4 +15,4 @@ python -I -X utf8 report/scripts/stage_c_front.py
 python -I -X utf8 report/scripts/verify_visuals.py
 if ($LASTEXITCODE -ne 0) { throw 'visual inspection failed; nothing saved' }
 powershell -ExecutionPolicy Bypass -File scripts/save.ps1 -Message $Message -Paths 'report'
-Copy-Item report/inter-trade-report.docx "$env:USERPROFILE\Downloads\Inter Trade present (final).docx" -Force
+Copy-Item report/inter-trade-report.docx "D:\Downloads\Inter Trade present (final).docx" -Force
