@@ -10,8 +10,7 @@ set output OUT_DIR.'/fig24_steel_output_supply.png'
 DARK = '#263444'; BLUE = '#2B5C98'; TEAL = '#167A67'; AMBER = '#B26A00'
 set datafile separator ','
 
-set label 1 'German crude-steel output and rolled-steel market supply, 2012 to 2025' at screen 0.5,0.97 center font 'Times New Roman:Bold,34' textcolor rgb DARK
-set multiplot layout 2,1 margins 0.09,0.98,0.10,0.92 spacing 0,0.06
+set multiplot layout 2,1 margins 0.09,0.98,0.05,0.92 spacing 0,0.06
 
 set xrange [2012:2025]
 set yrange [20:46]

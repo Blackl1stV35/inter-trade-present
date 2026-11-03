@@ -9,9 +9,7 @@ set output OUT_DIR.'/fig23_manufacturing.png'
 DARK = '#263444'; BLUE = '#2B5C98'; TEAL = '#167A67'; AMBER = '#B26A00'; GREY = '#78828C'
 set datafile separator ','
 
-set label 1 'German manufacturing: real GVA and production, 1995 to 2025' at screen 0.5,0.97 center font 'Times New Roman:Bold,34' textcolor rgb DARK
-set label 2 'Source: Eurostat nama_10_a64 and sts_inpr_a. 2023 to 2025 GVA provisional.' at screen 0.07,0.02 left font 'Times New Roman,20' textcolor rgb GREY noenhanced
-set multiplot layout 2,1 margins 0.09,0.98,0.10,0.92 spacing 0,0.06
+set multiplot layout 2,1 margins 0.09,0.98,0.05,0.92 spacing 0,0.06
 
 set xrange [1995:2025]
 set yrange [60:120]
