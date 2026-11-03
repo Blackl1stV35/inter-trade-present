@@ -3,8 +3,8 @@
 Invented values, not German data. Demand P = 120 - Q; domestic supply S: P = 20 + Q;
 domestic supply after a 10-unit cost rise S': P = 30 + Q. Delivered import price P0 = 40 before the carbon cost.
 Full pass-through of c = 20 would give 60 (dotted benchmark, not assumed); partial pass-through gives P1 = 50.
-Run from the repository root:  python -I -X utf8 report/chart-materials/scripts/fig22_import_cost.py
-Output: report/chart-materials/figures-rebuilt/fig22_import_cost.png (same styling and headline as the report figure)
+Set DATA_DIR and OUT_DIR at the top of the script, then run:  python -I -X utf8 <this script>
+Output: OUT_DIR/<name>.png (same styling and headline as the report figure)
 """
 import os
 
@@ -13,9 +13,10 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import numpy as np
 
+DATA_DIR = 'data'  # folder with the sample data files named in each script
+OUT_DIR = 'figures-rebuilt'  # folder for the PNG output
 plt.rcParams.update({'font.family': 'serif', 'font.serif': ['Times New Roman', 'DejaVu Serif'], 'font.size': 16})
-OUT = 'report/chart-materials/figures-rebuilt'
-os.makedirs(OUT, exist_ok=True)
+os.makedirs(OUT_DIR, exist_ok=True)
 HEADLINE = 'Carbon-related import cost with partial pass-through (illustrative)'
 DARK, BLUE, TEAL, GREY = '#263444', '#2B5C98', '#167A67', '#78828C'
 
@@ -31,8 +32,7 @@ fig.suptitle(HEADLINE, fontsize=24, fontweight='bold', color=DARK, y=0.975)
 ax.plot(q, 120 - q, color=DARK, lw=2.8, label='D: demand')
 ax.plot(q, 20 + q, color=BLUE, lw=2.8, label='S: initial supply')
 ax.plot(q, 30 + q, color=TEAL, lw=2.8, ls='--', label="S': domestic cost +10")
-ax.axhline(FULL, color=GREY, ls=':', lw=1.6)
-ax.text(100, FULL + 2.5, 'Full pass-through benchmark (not assumed)', ha='right', color=GREY)
+ax.axhline(FULL, color=GREY, ls=':', lw=1.6, label='Full pass-through benchmark (not assumed)')
 ax.axhline(P1, color=TEAL, lw=1.8)
 ax.axhline(P0, color=BLUE, lw=1.8)
 ax.plot([q_s0, q_s0], [0, P0], ':', color=BLUE, lw=1.4)
@@ -53,7 +53,7 @@ ax.set_yticks([0, P0, P1, FULL, 100, 135])
 ax.set_yticklabels(['0', r'$P_0 = 40$', r'$P_1 = 50$', r'$P_0 + c = 60$', '100', '135'])
 ax.set_xlabel('Quantity of steel (illustrative units)')
 ax.set_ylabel('Price / marginal cost (index)')
-ax.legend(loc='lower center', bbox_to_anchor=(0.5, 1.0), ncol=3, frameon=False)
-fig.tight_layout(rect=(0, 0, 1, 0.90))
-fig.savefig(os.path.join(OUT, 'fig22_import_cost.png'))
+ax.legend(loc='lower center', bbox_to_anchor=(0.5, 1.0), ncol=2, frameon=False)
+fig.tight_layout(rect=(0, 0, 1, 0.86))
+fig.savefig(os.path.join(OUT_DIR, 'fig22_import_cost.png'))
 print('wrote fig22_import_cost.png; imports before =', q_d0 - q_s0, '; after =', q_d1 - q_s1)

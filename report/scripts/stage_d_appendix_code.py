@@ -17,7 +17,7 @@ LISTINGS = [
     ('Figure 2.2: carbon-related import cost', 'fig22_import_cost.py'),
     ('Figure 2.3: German manufacturing real GVA and production (GNUplot)', 's6_manufacturing.gp'),
     ('Figure 2.4: crude steel and rolled market supply', 'fig24_steel_output_supply.py'),
-    ('Figure 2.5: direct extra-EU Chapter 72 exports and imports (GNUplot)', 's7_extra_eu_imports.gp'),
+    ('Figure 2.5: direct extra-EU Chapter 72 exports and imports', 'fig25_direct_trade_volume.py'),
     ('Figure 2.6: Chapter 72 trade values and import unit value', 'fig26_trade_unit_value.py'),
 ]
 d = docx.Document(PATH)
@@ -56,7 +56,7 @@ if start is not None:
 para('Appendix C', size=14, bold=True, font='Times New Roman', center=True, page_break=True)
 para('Chart Generating Code', size=14, bold=True, font='Times New Roman', center=True, space_after=10)
 para('The code below produces the figures of Chapter 2. Each script reads its sample data and writes its PNG to the output folder named at the top of the script. '
-     'Figures 2.3 and 2.5 are drawn with gnuplot 6.0.5; the rest use Python with matplotlib 3.',
+     'Figure 2.3 is drawn with gnuplot 6.0.5; the others use Python with matplotlib 3.',
      size=11, font='Times New Roman', space_after=8)
 
 # 3. one listing per figure, monospace, light grey panel

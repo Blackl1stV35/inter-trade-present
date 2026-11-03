@@ -4,8 +4,8 @@ Sources: Eurostat Comext DS-045409 (reporter DE, partner EXT_EU27_2020, HS Chapt
 Values from data/comext_exports/slide_table_2017_2025.csv (extra-EU Chapter 72 trade, EUR million);
 unit value (EUR per net tonne) from data/comext_exports/ch72_extra_eu_imports_1999_2025.csv.
 Unit value is total import euros divided by net tonnes; it reflects product mix and is not a fixed-product price index.
-Run from the repository root:  python -I -X utf8 report/chart-materials/scripts/fig26_trade_unit_value.py
-Output: report/chart-materials/figures-rebuilt/fig26_trade_unit_value.png (same styling and headline as the report figure)
+Set DATA_DIR and OUT_DIR at the top of the script, then run:  python -I -X utf8 <this script>
+Output: OUT_DIR/<name>.png (same styling and headline as the report figure)
 """
 import csv
 import os
@@ -14,20 +14,21 @@ import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
+DATA_DIR = 'data'  # folder with the sample data files named in each script
+OUT_DIR = 'figures-rebuilt'  # folder for the PNG output
 plt.rcParams.update({'font.family': 'serif', 'font.serif': ['Times New Roman', 'DejaVu Serif'], 'font.size': 16})
-OUT = 'report/chart-materials/figures-rebuilt'
-os.makedirs(OUT, exist_ok=True)
+os.makedirs(OUT_DIR, exist_ok=True)
 HEADLINE = 'Chapter 72 trade values and import unit value, 2017 to 2025'
 DARK, BLUE, TEAL, AMBER = '#263444', '#2B5C98', '#167A67', '#B26A00'
 YEARS = list(range(2017, 2026))
 
 exports, imports, unit = {}, {}, {}
-for r in csv.DictReader(open('data/comext_exports/slide_table_2017_2025.csv', encoding='utf-8')):
+for r in csv.DictReader(open(os.path.join(DATA_DIR, 'comext_exports/slide_table_2017_2025.csv'), encoding='utf-8')):
     y = int(r['year'])
     if y in YEARS:
         exports[y] = float(r['extra_eu_ch72_exports_eur_m']) / 1000
         imports[y] = float(r['extra_eu_ch72_imports_eur_m']) / 1000
-for r in csv.DictReader(open('data/comext_exports/ch72_extra_eu_imports_1999_2025.csv', encoding='utf-8')):
+for r in csv.DictReader(open(os.path.join(DATA_DIR, 'comext_exports/ch72_extra_eu_imports_1999_2025.csv'), encoding='utf-8')):
     y = int(r['year'])
     if y in YEARS:
         unit[y] = float(r['unit_value_eur_per_t'])
@@ -49,5 +50,5 @@ bottom.axvline(2023, color=AMBER, ls='--', lw=1.4)
 bottom.set_xticks(YEARS)
 bottom.set_xlabel('Year')
 fig.tight_layout(rect=(0, 0, 1, 0.93))
-fig.savefig(os.path.join(OUT, 'fig26_trade_unit_value.png'))
+fig.savefig(os.path.join(OUT_DIR, 'fig26_trade_unit_value.png'))
 print('wrote fig26; 2025 exports EUR bn =', round(exports[2025], 3), 'imports =', round(imports[2025], 3), 'unit =', unit[2025])

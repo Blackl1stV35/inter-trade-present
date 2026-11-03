@@ -1,9 +1,11 @@
 # Slide 6: German manufacturing 1995-2025, two stacked panels (separate y axes, never combined).
-# Data: data/workbook/de_manufacturing_1995_2025.csv (update tab 4.1; Eurostat nama_10_a64, sts_inpr_a). Run from repo root:
-#   gnuplot -c graphs/gnuplot/s6_manufacturing.gp
-data = ARGC >= 1 ? ARG1 : 'data/workbook/de_manufacturing_1995_2025.csv'
+# Data: de_manufacturing_1995_2025.csv (Eurostat nama_10_a64, sts_inpr_a)
+#   gnuplot -c s6_manufacturing.gp
+DATA_DIR = 'data'
+data = ARGC >= 1 ? ARG1 : DATA_DIR.'/de_manufacturing_1995_2025.csv'
 set terminal pngcairo size 1700,1000 font 'TH Sarabun New,22'
-set output 'graphs/out/s6_manufacturing.png'
+OUT_DIR = 'figures-rebuilt'
+set output OUT_DIR.'/s6_manufacturing.png'
 blue = '#2B5C98' ; green = '#167A67' ; dark = '#263444' ; grey = '#78828C' ; band = '#EEF0F2' ; amber = '#B26A00'
 set datafile separator ','
 set border 3 lw 2 lc rgb grey
