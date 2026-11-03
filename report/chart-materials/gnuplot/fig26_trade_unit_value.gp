@@ -7,32 +7,32 @@ if (ARGC >= 1) TRADE_FILE = ARG1; else TRADE_FILE = 'slide_table_2017_2025.csv'
 if (ARGC >= 2) UNIT_FILE = ARG2; else UNIT_FILE = 'ch72_extra_eu_imports_1999_2025.csv'
 if (ARGC >= 3) OUT_DIR = ARG3; else OUT_DIR = 'figures-rebuilt'
 
-set terminal pngcairo size 2600,1152 enhanced font 'Times New Roman,26'
+set terminal pngcairo size 2600,2200 enhanced font 'Times New Roman,70'
 set output OUT_DIR.'/fig26_trade_unit_value.png'
 DARK = '#263444'; BLUE = '#2B5C98'; TEAL = '#167A67'; AMBER = '#B26A00'
 set datafile separator ','
 set datafile missing 'NaN'
 
-set multiplot layout 2,1 margins 0.09,0.70,0.05,0.92 spacing 0,0.06
+set multiplot layout 2,1 margins 0.13,0.97,0.09,0.95 spacing 0,0.06
 set xrange [2017:2025]
 set xtics 2017,1,2025
-set arrow 1 from 2023,0 to 2023,9 nohead dt 2 lw 2 lc rgb AMBER
+set arrow 1 from 2023,0 to 2023,9 nohead dt 2 lw 7 lc rgb AMBER
 
 set yrange [0:9]
 set ytics 0,2,8
 set grid ytics lc rgb '#e6e6e6'
 set ylabel 'Trade value (EUR billion)'
-set key at screen 0.72,0.93 left top Left reverse box lw 1 spacing 1.5 font 'Times New Roman,20'
+set key top left Left reverse box samplen 4 spacing 1.4 font 'Times New Roman,70'
 set xtics format ''
-plot TRADE_FILE using 1:($5/1000) every ::1::9 with lines lc rgb BLUE lw 3 title 'Exports', \
-     TRADE_FILE using 1:($6/1000) every ::1::9 with lines lc rgb TEAL lw 3 dt 2 title 'Imports'
+plot TRADE_FILE using 1:($5/1000) every ::1::9 with lines lc rgb BLUE lw 11 title 'Exports', \
+     TRADE_FILE using 1:($6/1000) every ::1::9 with lines lc rgb TEAL lw 11 dt 2 title 'Imports'
 
-set arrow 1 from 2023,400 to 2023,1500 nohead dt 2 lw 2 lc rgb AMBER
+set arrow 1 from 2023,400 to 2023,1500 nohead dt 2 lw 7 lc rgb AMBER
 set yrange [400:1500]
 set ytics 400,200,1400
 set ylabel 'Import unit value (EUR/t)'
 set xlabel 'Year'
 set xtics 2017,1,2025 format '%.0f'
 unset key
-plot UNIT_FILE using (($1>=2017)?$1:NaN):6 with linespoints lc rgb TEAL lw 3 pt 7 ps 1.2 notitle
+plot UNIT_FILE using (($1>=2017)?$1:NaN):6 with linespoints lc rgb TEAL lw 11 pt 7 ps 1.2 notitle
 unset multiplot
