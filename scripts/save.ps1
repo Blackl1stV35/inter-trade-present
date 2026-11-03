@@ -9,6 +9,7 @@ Set-Location $repo
 git add -A -- ($Paths -split ',')
 python -I -X utf8 scripts/check_single_docx.py
 if ($LASTEXITCODE -ne 0) { throw 'single-docx guard failed; nothing committed' }
+if (($Paths -split ',') -match '^(report|\.)$' -and (Test-Path report/scripts/verify_visuals.py)) { python -I -X utf8 report/scripts/verify_visuals.py; if ($LASTEXITCODE -ne 0) { throw 'visual inspection failed; nothing committed' } }
 git diff --cached --quiet
 if ($LASTEXITCODE -eq 0) {
     Write-Host 'Nothing new to commit; will still push any unpushed commits.'
