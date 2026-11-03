@@ -15,7 +15,7 @@ set tmargin screen 0.95
 set bmargin screen 0.14
 set rmargin screen 0.94
 set xrange [1999:2025]
-set yrange [0:11]
+set yrange [0:12]
 set xtics 1999,4,2025
 set ytics 0,1,9
 set grid ytics lc rgb '#e6e6e6'
@@ -24,10 +24,10 @@ set ylabel 'Net mass (million tonnes)'
 set key top right Right box spacing 1.3 font 'Times New Roman,70'
 set arrow 1 from 2005,0 to 2005,9 nohead dt 2 lw 7 lc rgb AMBER
 set arrow 2 from 2023,0 to 2023,9 nohead dt 2 lw 7 lc rgb AMBER
-set label 3 '4.681 Mt' at 2019.5,6.9 left textcolor rgb BLUE
-set arrow 3 from 2024,4.8 to 2025,4.681 nohead lw 5 lc rgb BLUE
-set label 4 '1.464 Mt' at 2019.5,0.9 left textcolor rgb TEAL
-set arrow 4 from 2024,1.6 to 2025,1.464 nohead lw 5 lc rgb TEAL
+set label 3 '4.681 Mt' at 2022.7,7.8 right textcolor rgb BLUE
+
+set label 4 '1.464 Mt' at 2022.7,0.8 right textcolor rgb TEAL
+
 
 plot EXP_FILE using 1:($5/1000) every ::1 with lines lc rgb BLUE lw 11 title 'Exports', \
      IMP_FILE using 1:($5/1000) every ::1 with lines lc rgb TEAL lw 11 dt 2 title 'Direct extra-EU imports'

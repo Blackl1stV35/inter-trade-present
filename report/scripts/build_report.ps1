@@ -11,6 +11,7 @@ try { powershell -ExecutionPolicy Bypass -File report/chart-materials/gnuplot/re
 python -I -X utf8 report/scripts/stage_e_rebuilt_figures.py
 python -I -X utf8 report/scripts/stage_d_appendix_code.py
 python -I -X utf8 report/scripts/stage_h_heading_pairs.py
+python -I -X utf8 report/scripts/stage_i_format.py
 python -I -X utf8 report/scripts/stage_c_front.py
 python -I -X utf8 report/scripts/verify_visuals.py
 if ($LASTEXITCODE -ne 0) { throw 'visual inspection failed; nothing saved' }

@@ -20,12 +20,12 @@ set arrow 1 from 2023,20 to 2023,46 nohead dt 2 lw 7 lc rgb AMBER
 
 set ylabel 'Crude steel (Mt)'
 set xtics format ''
-set label 2 '34.1' at 2025,38.6 right textcolor rgb BLUE
+set label 2 '34.1' at 2025,30.5 right textcolor rgb BLUE
 plot DATA_FILE using 1:2 every ::1 with lines lc rgb BLUE lw 11 notitle
 unset label 2
 
 set ylabel 'Rolled market supply (Mt)'
-set label 3 '29.1' at 2025,33.4 right textcolor rgb TEAL
+set label 3 '29.1' at 2025,23.8 right textcolor rgb TEAL
 set xtics 2012,3,2025 format '%.0f'
 set xlabel 'Year'
 plot DATA_FILE using 1:3 every ::1 with lines lc rgb TEAL lw 11 notitle

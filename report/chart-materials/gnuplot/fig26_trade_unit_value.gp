@@ -21,7 +21,7 @@ set arrow 1 from 2023,0 to 2023,12 nohead dt 2 lw 7 lc rgb AMBER
 set yrange [0:12]
 set ytics 0,2,10
 set grid ytics lc rgb '#e6e6e6'
-set ylabel 'Trade value (EUR billion)'
+set ylabel 'Trade value (EUR bn)'
 set key top left Left reverse box samplen 4 spacing 1.4 font 'Times New Roman,70'
 set xtics format ''
 plot TRADE_FILE using 1:($5/1000) every ::1::9 with lines lc rgb BLUE lw 11 title 'Exports', \

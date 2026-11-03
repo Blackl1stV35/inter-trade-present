@@ -18,7 +18,7 @@ set grid ytics lc rgb '#e6e6e6'
 set arrow 1 from 2005,60 to 2005,120 nohead dt 2 lw 7 lc rgb AMBER
 set arrow 2 from 2023,60 to 2023,120 nohead dt 2 lw 7 lc rgb AMBER
 set label 3 'ETS launch' at 2005.4,116 left textcolor rgb AMBER
-set label 4 'CBAM reporting' at 2022.6,116 right textcolor rgb AMBER
+set label 4 'CBAM reporting' at 2022.6,68 right textcolor rgb AMBER
 
 set ylabel 'Real GVA (2020 = 100)'
 set xtics format ''

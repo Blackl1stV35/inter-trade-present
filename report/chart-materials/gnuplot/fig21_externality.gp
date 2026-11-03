@@ -4,16 +4,16 @@
 # Run:  gnuplot -c fig21_externality.gp <OUT_DIR>        (OUT_DIR defaults to figures-rebuilt)
 if (ARGC >= 1) OUT_DIR = ARG1; else OUT_DIR = 'figures-rebuilt'
 
-set terminal pngcairo size 2600,1700 enhanced font 'Times New Roman,70'
+set terminal pngcairo size 2600,1900 enhanced font 'Times New Roman,70'
 set output OUT_DIR.'/fig21_externality.png'
 DARK = '#263444'; BLUE = '#2B5C98'; TEAL = '#167A67'; RED = '#E8B4B4'
 
-set tmargin screen 0.95
-set bmargin screen 0.12
+set tmargin screen 0.97
+set bmargin screen 0.17
 set lmargin screen 0.14
 set rmargin screen 0.94
 set xrange [0:100]
-set yrange [0:230]
+set yrange [0:240]
 set xtics 0,20,100
 set ytics 0,20,140
 set xlabel 'Quantity (illustrative units)'
@@ -26,11 +26,11 @@ set arrow 2 from 0,80 to 40,80 nohead dt 3 lw 7 lc rgb TEAL
 set arrow 3 from 50,0 to 50,70 nohead dt 3 lw 7 lc rgb BLUE
 set arrow 4 from 0,70 to 50,70 nohead dt 3 lw 7 lc rgb BLUE
 set arrow 5 from 78,100 to 78,120 heads size 1.6,20 lw 11 lc rgb TEAL
-set label 2 "Social optimum\nQ = 40" at 37,14 right textcolor rgb TEAL
-set arrow 6 from 28,30 to 40,80 nohead lw 5 lc rgb TEAL
-set label 3 "Market\nQ = 50, P = 70" at 53,14 left textcolor rgb BLUE
-set arrow 7 from 60,30 to 50,70 nohead lw 5 lc rgb BLUE
-set label 4 'Marginal external cost = 20' at 55,150 left textcolor rgb TEAL
+set label 2 "Social optimum\nQ = 40" at 37,18 right textcolor rgb TEAL
+set arrow 6 from 30,33 to 40,80 nohead lw 5 lc rgb TEAL
+set label 3 "Market\nQ = 50, P = 70" at 53,18 left textcolor rgb BLUE
+set arrow 7 from 60,33 to 50,70 nohead lw 5 lc rgb BLUE
+set label 4 "Marginal external\ncost = 20" at 97,70 right textcolor rgb TEAL
 
 plot 120-x lc rgb DARK lw 11 title 'Demand: D', \
      20+x lc rgb BLUE lw 9 dt 2 title 'Private marginal cost: PMC', \
