@@ -13,7 +13,7 @@ DARK = '#263444'; BLUE = '#2B5C98'; TEAL = '#167A67'; AMBER = '#B26A00'
 set datafile separator ','
 set datafile missing 'NaN'
 
-set multiplot layout 2,1 margins 0.13,0.97,0.09,0.95 spacing 0,0.06
+set multiplot layout 2,1 margins 0.17,0.94,0.09,0.95 spacing 0,0.06
 set xrange [2017:2025]
 set xtics 2017,1,2025
 set arrow 1 from 2023,0 to 2023,9 nohead dt 2 lw 7 lc rgb AMBER

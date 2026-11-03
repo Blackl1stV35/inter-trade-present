@@ -13,7 +13,7 @@ set datafile separator ','
 
 set tmargin screen 0.95
 set bmargin screen 0.14
-set rmargin screen 0.97
+set rmargin screen 0.94
 set xrange [1999:2025]
 set yrange [0:11]
 set xtics 1999,4,2025

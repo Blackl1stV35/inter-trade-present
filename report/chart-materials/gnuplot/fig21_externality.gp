@@ -11,7 +11,7 @@ DARK = '#263444'; BLUE = '#2B5C98'; TEAL = '#167A67'; RED = '#E8B4B4'
 set tmargin screen 0.95
 set bmargin screen 0.12
 set lmargin screen 0.14
-set rmargin screen 0.97
+set rmargin screen 0.94
 set xrange [0:100]
 set yrange [0:230]
 set xtics 0,20,100
@@ -26,10 +26,10 @@ set arrow 2 from 0,80 to 40,80 nohead dt 3 lw 7 lc rgb TEAL
 set arrow 3 from 50,0 to 50,70 nohead dt 3 lw 7 lc rgb BLUE
 set arrow 4 from 0,70 to 50,70 nohead dt 3 lw 7 lc rgb BLUE
 set arrow 5 from 78,100 to 78,120 heads size 1.6,20 lw 11 lc rgb TEAL
-set label 2 'Social optimum: Q = 40' at 30,20 left textcolor rgb TEAL
-set arrow 6 from 30,24 to 40,80 nohead lw 5 lc rgb TEAL
-set label 3 'Market: Q = 50, P = 70' at 62,28 left textcolor rgb BLUE
-set arrow 7 from 62,31 to 50,70 nohead lw 5 lc rgb BLUE
+set label 2 "Social optimum\nQ = 40" at 37,14 right textcolor rgb TEAL
+set arrow 6 from 28,30 to 40,80 nohead lw 5 lc rgb TEAL
+set label 3 "Market\nQ = 50, P = 70" at 53,14 left textcolor rgb BLUE
+set arrow 7 from 60,30 to 50,70 nohead lw 5 lc rgb BLUE
 set label 4 'Marginal external cost = 20' at 55,150 left textcolor rgb TEAL
 
 plot 120-x lc rgb DARK lw 11 title 'Demand: D', \
