@@ -16,7 +16,7 @@ set xrange [0:100]
 set yrange [0:165]
 set xtics ("0" 0, "Q_{S0} = Q_{S1}\n20" 20, "Q_{D1}\n70" 70, "Q_{D0}\n80" 80, "100" 100)
 set ytics ("0" 0, "P_0 = 40" 40, "P_1 = 50" 50, "P_0 + c = 60" 60, "100" 100, "135" 135)
-set xlabel 'Quantity of steel (illustrative units)' offset 0,-3
+set xlabel 'Quantity of steel (illustrative units)' offset 0,-0.8
 set ylabel 'Price / marginal cost (index)' offset 1,0
 set key top left Left reverse maxcols 1 samplen 3 spacing 1.2 font 'Times New Roman,70'
 set arrow 1 from 20,0 to 20,40 nohead dt 3 lw 7 lc rgb BLUE

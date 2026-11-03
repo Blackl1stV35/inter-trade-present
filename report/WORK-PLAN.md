@@ -13,3 +13,5 @@ Status as of 3 Nov 2026. Each step is committed and pushed when done.
 
 7. Layout pass (3 Nov 2026): titles sit above each plot box, legends inside the margins, Figure 2.5 labels clear of lines and axes. Done.
 8. Single report document: scripts/check_single_docx.py runs before every save and in .github/workflows/single-docx.yml. The only report file is report/inter-trade-report.docx; the Downloads folder keeps one final copy, "Inter Trade present (final).docx". Done.
+
+9. Autonomous loop (3 Nov 2026): every visual change runs through `report/scripts/build_report.ps1` (render all six GNUplot figures, rebuild the document, inspect every visual with `verify_visuals.py`, then save). `verify_visuals.py` also runs inside `scripts/save.ps1` and in `.github/workflows/visuals.yml`; it fails on clipped figure edges, a report that embeds a different image than the rendered file, an em dash or "rather than". The review contact sheet is `report/chart-materials/figures-gnuplot/contact-sheet.png` and is viewed after each rebuild.
