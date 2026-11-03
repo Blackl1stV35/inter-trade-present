@@ -24,7 +24,7 @@ FIGS = {
     'image2.png': ([], 'German manufacturing: real GVA and production, 1995 to 2025'),
     'image1.png': ([(250, 122, 1175, 152)], 'German crude-steel output and rolled-steel market supply, 2012 to 2025'),
     'image5.png': ([], 'Direct extra-EU Chapter 72 exports and imports, 1999 to 2025'),
-    'image6.png': ([(262, 672, 1260, 706)], 'Direct extra-EU Chapter 72 nominal trade values and import unit value, 2017 to 2025'),
+    'image6.png': ([(262, 650, 1262, 728)], 'Chapter 72 trade values and import unit value, 2017 to 2025'),
 }
 BAND = 130  # height of the headline band added above the plot
 
