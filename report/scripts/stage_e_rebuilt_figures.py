@@ -8,15 +8,15 @@ import docx
 from docx.oxml.ns import qn
 
 PATH = 'report/inter-trade-report.docx'
-NEW = 'report/chart-materials/figures-rebuilt'
+NEW = 'report/chart-materials/figures-gnuplot'
 # media name in the docx -> rebuilt file
 MAP = {
-    'image3.png': 'fig21_externality.png',    # Figure 2.1
-    'image4.png': 'fig22_import_cost.png',    # Figure 2.2
-    'image1.png': 'fig24_steel_output_supply.png',  # Figure 2.4
-    'image6.png': 'fig26_trade_unit_value.png',     # Figure 2.6
-    'image5.png': 'fig25_direct_trade_volume.png',  # Figure 2.5
-    'image2.png': 'fig23_manufacturing.png',        # Figure 2.3
+    'image3.png': 'fig21_externality.png',
+    'image4.png': 'fig22_import_cost.png',
+    'image2.png': 'fig23_manufacturing.png',
+    'image1.png': 'fig24_steel_output_supply.png',
+    'image5.png': 'fig25_direct_trade_volume.png',
+    'image6.png': 'fig26_trade_unit_value.png',
 }
 d = docx.Document(PATH)
 sizes = {}
@@ -38,8 +38,10 @@ for blip in d.element.body.iter(qn('a:blip')):
     if target not in sizes:
         continue
     inline = blip
-    while inline is not None and inline.tag != qn('wp:inline'):
+    while inline is not None and inline.tag not in (qn('wp:inline'), qn('wp:anchor')):
         inline = inline.getparent()
+    if inline is None:
+        continue
     ext = inline.find(qn('wp:extent'))
     cx = int(ext.get('cx'))
     w, h = sizes[target]

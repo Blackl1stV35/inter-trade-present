@@ -13,12 +13,13 @@ from docx.shared import Pt, RGBColor
 PATH = 'report/inter-trade-report.docx'
 SCRIPTS = 'report/chart-materials/scripts/'
 LISTINGS = [
-    ('Figure 2.1: negative production externality', 'fig21_externality.py'),
-    ('Figure 2.2: carbon-related import cost', 'fig22_import_cost.py'),
-    ('Figure 2.3: German manufacturing real GVA and production', 'fig23_manufacturing.py'),
-    ('Figure 2.4: crude steel and rolled market supply', 'fig24_steel_output_supply.py'),
-    ('Figure 2.5: direct extra-EU Chapter 72 exports and imports', 'fig25_direct_trade_volume.py'),
-    ('Figure 2.6: Chapter 72 trade values and import unit value', 'fig26_trade_unit_value.py'),
+    ('Figure 2.1: negative production externality', 'report/chart-materials/gnuplot/fig21_externality.gp'),
+    ('Figure 2.2: carbon-related import cost', 'report/chart-materials/gnuplot/fig22_import_cost.gp'),
+    ('Figure 2.3: German manufacturing real GVA and production', 'report/chart-materials/gnuplot/fig23_manufacturing.gp'),
+    ('Figure 2.4: crude steel and rolled market supply', 'report/chart-materials/gnuplot/fig24_steel_output_supply.gp'),
+    ('Figure 2.5: direct extra-EU Chapter 72 exports and imports', 'report/chart-materials/gnuplot/fig25_direct_trade_volume.gp'),
+    ('Figure 2.6: Chapter 72 trade values and import unit value', 'report/chart-materials/gnuplot/fig26_trade_unit_value.gp'),
+    ('Rendering all six figures', 'report/chart-materials/gnuplot/render_all.ps1'),
 ]
 d = docx.Document(PATH)
 
@@ -56,13 +57,13 @@ if start is not None:
 para('Appendix C', size=14, bold=True, font='Times New Roman', center=True, page_break=True)
 para('Chart Generating Code', size=14, bold=True, font='Times New Roman', center=True, space_after=10)
 para('The code below produces the figures of Chapter 2. Each script reads its sample data and writes its PNG to the output folder named at the top of the script. '
-     'All figures use Python with matplotlib 3.',
+     'All six figures are drawn with GNUplot 6.0.5 in Times New Roman, the serif font of the report.',
      size=11, font='Times New Roman', space_after=8)
 
 # 3. one listing per figure, monospace, light grey panel
 for title, fname in LISTINGS:
     para(title, size=11, bold=True, font='Times New Roman', space_after=3)
-    code = open(SCRIPTS + fname, encoding='utf-8').read().rstrip('\n').split('\n')
+    code = open(fname, encoding='utf-8').read().rstrip('\n').split('\n')
     for line in code:
         p = para(line if line else ' ', size=8)
         pPr = p._p.get_or_add_pPr()
