@@ -11,8 +11,8 @@ from PIL import Image
 
 FIG_DIR = 'report/chart-materials/figures-gnuplot'
 DOCX = 'report/inter-trade-report.docx'
-MAP = {'image3.png': 'fig21_externality.png', 'image4.png': 'fig22_import_cost.png', 'image2.png': 'fig23_manufacturing.png',
-       'image1.png': 'fig24_steel_output_supply.png', 'image5.png': 'fig25_direct_trade_volume.png', 'image6.png': 'fig26_trade_unit_value.png'}
+FIGS = ['fig21_externality.png', 'fig22_import_cost.png', 'fig23_manufacturing.png', 'fig24_steel_output_supply.png',
+        'fig25_direct_trade_volume.png', 'fig26_trade_unit_value.png']
 fails = []
 
 
@@ -31,16 +31,25 @@ def border_clear(path, margin=4):
     return True
 
 
-z = zipfile.ZipFile(DOCX)
-for media, fig in MAP.items():
-    path = f'{FIG_DIR}/{fig}'
-    if not border_clear(path):
-        fails.append(f'{fig}: content touches the image edge (clipped)')
-    if hashlib.sha1(z.read('word/media/' + media)).hexdigest() != hashlib.sha1(open(path, 'rb').read()).hexdigest():
-        fails.append(f'{fig}: report embeds a different image than the rendered file')
+import docx
+from docx.oxml.ns import qn
+_d = docx.Document(DOCX)
+_pics = [_d.part.rels[b.get(qn('r:embed'))].target_part.blob for b in _d.element.body.iter(qn('a:blip'))]
+_h = lambda data: hashlib.sha1(data).hexdigest()
+if len(_pics) != 7:
+    fails.append(f'report has {len(_pics)} pictures, expected 7 (logo and six figures)')
+else:
+    if _h(_pics[0]) != _h(open('report/assets/ku-logo.png', 'rb').read()):
+        fails.append('cover picture is not the KU logo')
+    for fig, blob in zip(FIGS, _pics[1:]):
+        path = f'{FIG_DIR}/{fig}'
+        if not border_clear(path):
+            fails.append(f'{fig}: content touches the image edge (clipped)')
+        if _h(blob) != _h(open(path, 'rb').read()):
+            fails.append(f'{fig}: report embeds a different image in its place')
 
 sheet = Image.new('RGB', (1500, 3 * 420), 'white')
-for i, fig in enumerate(MAP.values()):
+for i, fig in enumerate(FIGS):
     im = Image.open(f'{FIG_DIR}/{fig}').convert('RGB')
     im.thumbnail((495, 420))
     sheet.paste(im, ((i % 3) * 500, (i // 3) * 420))
