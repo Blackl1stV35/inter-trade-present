@@ -55,15 +55,13 @@ if start is not None:
 # 2. Appendix C heading in the same two-line style as the other appendices
 para('Appendix C', size=14, bold=True, font='Times New Roman', center=True, page_break=True)
 para('Chart Generating Code', size=14, bold=True, font='Times New Roman', center=True, space_after=10)
-para('The code below produces the figures of Chapter 2. Each script reads the sample data named in its header, '
-     'from the repository paths shown there, and writes its PNG to report/chart-materials/figures-rebuilt/. '
+para('The code below produces the figures of Chapter 2. Each script reads its sample data and writes its PNG to the output folder named at the top of the script. '
      'Figures 2.3 and 2.5 are drawn with gnuplot 6.0.5; the rest use Python with matplotlib 3.',
      size=11, font='Times New Roman', space_after=8)
 
 # 3. one listing per figure, monospace, light grey panel
 for title, fname in LISTINGS:
     para(title, size=11, bold=True, font='Times New Roman', space_after=3)
-    para(f'Source file: report/chart-materials/scripts/{fname}', size=9, font='Times New Roman', color=(88, 98, 108), space_after=3)
     code = open(SCRIPTS + fname, encoding='utf-8').read().rstrip('\n').split('\n')
     for line in code:
         p = para(line if line else ' ', size=8)
