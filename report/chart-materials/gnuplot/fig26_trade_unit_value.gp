@@ -16,10 +16,10 @@ set datafile missing 'NaN'
 set multiplot layout 2,1 margins 0.17,0.94,0.09,0.95 spacing 0,0.06
 set xrange [2017:2025]
 set xtics 2017,1,2025
-set arrow 1 from 2023,0 to 2023,9 nohead dt 2 lw 7 lc rgb AMBER
+set arrow 1 from 2023,0 to 2023,12 nohead dt 2 lw 7 lc rgb AMBER
 
-set yrange [0:9]
-set ytics 0,2,8
+set yrange [0:12]
+set ytics 0,2,10
 set grid ytics lc rgb '#e6e6e6'
 set ylabel 'Trade value (EUR billion)'
 set key top left Left reverse box samplen 4 spacing 1.4 font 'Times New Roman,70'
