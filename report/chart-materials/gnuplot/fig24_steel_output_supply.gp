@@ -10,7 +10,7 @@ set output OUT_DIR.'/fig24_steel_output_supply.png'
 DARK = '#263444'; BLUE = '#2B5C98'; TEAL = '#167A67'; AMBER = '#B26A00'
 set datafile separator ','
 
-set multiplot layout 2,1 margins 0.13,0.97,0.09,0.95 spacing 0,0.06
+set multiplot layout 2,1 margins 0.17,0.92,0.09,0.95 spacing 0,0.06
 
 set xrange [2012:2025]
 set yrange [20:46]
@@ -27,7 +27,6 @@ unset label 2
 set ylabel 'Rolled market supply (Mt)'
 set label 3 '29.1' at 2024.7,30.4 left textcolor rgb TEAL
 set xtics 2012,3,2025 format '%.0f'
-set xtics add ('2023' 2023)
 set xlabel 'Year'
 plot DATA_FILE using 1:3 every ::1 with lines lc rgb TEAL lw 11 notitle
 unset multiplot

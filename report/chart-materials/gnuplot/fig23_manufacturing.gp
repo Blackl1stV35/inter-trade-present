@@ -9,7 +9,7 @@ set output OUT_DIR.'/fig23_manufacturing.png'
 DARK = '#263444'; BLUE = '#2B5C98'; TEAL = '#167A67'; AMBER = '#B26A00'; GREY = '#78828C'
 set datafile separator ','
 
-set multiplot layout 2,1 margins 0.13,0.97,0.09,0.95 spacing 0,0.06
+set multiplot layout 2,1 margins 0.17,0.92,0.09,0.95 spacing 0,0.06
 
 set xrange [1995:2025]
 set yrange [60:120]
