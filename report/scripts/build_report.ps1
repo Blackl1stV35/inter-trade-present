@@ -10,6 +10,7 @@ Copy-Item report/chart-materials/data/fig24_steel_2012_2025.csv $data -Force
 try { powershell -ExecutionPolicy Bypass -File report/chart-materials/gnuplot/render_all.ps1 -Data $data -Out (Join-Path $root 'report/chart-materials/figures-gnuplot') } finally { Remove-Item (Join-Path $data 'fig24_steel_2012_2025.csv') -ErrorAction SilentlyContinue }
 python -I -X utf8 report/scripts/stage_e_rebuilt_figures.py
 python -I -X utf8 report/scripts/stage_d_appendix_code.py
+python -I -X utf8 report/scripts/stage_h_heading_pairs.py
 python -I -X utf8 report/scripts/stage_c_front.py
 python -I -X utf8 report/scripts/verify_visuals.py
 if ($LASTEXITCODE -ne 0) { throw 'visual inspection failed; nothing saved' }
