@@ -44,6 +44,7 @@ TOC = [  # (line shown, search text in the body, level)
     ('References', 'References', 0),
     ('Appendix A  Manufacturing Data', 'Manufacturing Data', 0),
     ('Appendix B  Matched Trade Data and Calculations', 'Matched Trade Data and Calculations', 0),
+    ('Appendix C  Chart Generating Code', 'Chart Generating Code', 0),
 ]
 LOF = [  # (line shown, search text of the caption in the body)
     ('Figure 2.1  Negative production externality and carbon pricing (illustration)', 'Figure 2.1 Negative production'),
@@ -114,10 +115,6 @@ def build(pages):
         anchor.addnext(el)
         anchor = el
     # cover: logo placeholder above the title; footer numbers from page 2
-    title = d.paragraphs[0]
-    if not title.text.startswith('[Kasetsart'):
-        logo = new_par('[Kasetsart University logo: insert image here]', size=11, center=True, italic=True, color=(120, 130, 140))
-        title._p.addprevious(logo)
     sec = d.sections[0]
     sec.different_first_page_header_footer = True
     fp = sec.footer.paragraphs[0]

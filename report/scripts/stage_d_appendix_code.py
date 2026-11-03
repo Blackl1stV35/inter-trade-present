@@ -1,0 +1,71 @@
+"""Stage D: drop the KU logo placeholder and add Appendix C (chart generating code) to report v5.
+The code listings are copied from report/chart-materials/scripts/ so the report and the repository match.
+Run from the repository root:  python -I -X utf8 report/scripts/stage_d_appendix_code.py
+"""
+import copy
+
+import docx
+from docx.enum.text import WD_ALIGN_PARAGRAPH
+from docx.oxml import OxmlElement
+from docx.oxml.ns import qn
+from docx.shared import Pt, RGBColor
+
+PATH = 'report/inter-trade-report.docx'
+SCRIPTS = 'report/chart-materials/scripts/'
+LISTINGS = [
+    ('Figure 2.1: negative production externality', 'fig21_externality.py'),
+    ('Figure 2.2: carbon-related import cost', 'fig22_import_cost.py'),
+    ('Figure 2.3: German manufacturing real GVA and production (GNUplot)', 's6_manufacturing.gp'),
+    ('Figure 2.4: crude steel and rolled market supply', 'fig24_steel_output_supply.py'),
+    ('Figure 2.5: direct extra-EU Chapter 72 exports and imports (GNUplot)', 's7_extra_eu_imports.gp'),
+    ('Figure 2.6: Chapter 72 trade values and import unit value', 'fig26_trade_unit_value.py'),
+]
+d = docx.Document(PATH)
+
+# 1. drop the logo placeholder
+for p in list(d.paragraphs):
+    if p.text.startswith('[Kasetsart University logo'):
+        p._p.getparent().remove(p._p)
+
+
+def para(text, size=10, bold=False, font='Courier New', center=False, page_break=False, color=None, space_after=0):
+    p = d.add_paragraph()
+    p.paragraph_format.space_after = Pt(space_after)
+    p.paragraph_format.space_before = Pt(0)
+    p.paragraph_format.page_break_before = page_break
+    if center:
+        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    r = p.add_run(text)
+    r.font.name = font
+    r.font.size = Pt(size)
+    r.bold = bold
+    if color:
+        r.font.color.rgb = RGBColor(*color)
+    return p
+
+
+# 2. Appendix C heading in the same two-line style as the other appendices
+para('Appendix C', size=14, bold=True, font='Times New Roman', center=True, page_break=True)
+para('Chart Generating Code', size=14, bold=True, font='Times New Roman', center=True, space_after=10)
+para('The code below produces the figures of Chapter 2. Each script reads the sample data named in its header, '
+     'from the repository paths shown there, and writes its PNG to report/chart-materials/figures-rebuilt/. '
+     'Figures 2.3 and 2.5 are drawn with gnuplot 6.0.5; the rest use Python with matplotlib 3.',
+     size=11, font='Times New Roman', space_after=8)
+
+# 3. one listing per figure, monospace, light grey panel
+for title, fname in LISTINGS:
+    para(title, size=11, bold=True, font='Times New Roman', space_after=3)
+    para(f'Source file: report/chart-materials/scripts/{fname}', size=9, font='Times New Roman', color=(88, 98, 108), space_after=3)
+    code = open(SCRIPTS + fname, encoding='utf-8').read().rstrip('\n').split('\n')
+    for line in code:
+        p = para(line if line else ' ', size=8)
+        pPr = p._p.get_or_add_pPr()
+        shd = OxmlElement('w:shd')
+        shd.set(qn('w:val'), 'clear')
+        shd.set(qn('w:color'), 'auto')
+        shd.set(qn('w:fill'), 'F4F5F7')
+        pPr.append(shd)
+    para('', size=6)
+
+d.save(PATH)
+print('Appendix C added; logo placeholder removed')
