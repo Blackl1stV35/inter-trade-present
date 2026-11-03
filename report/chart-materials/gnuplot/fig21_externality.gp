@@ -8,8 +8,8 @@ set terminal pngcairo size 2048,1152 enhanced font 'Times New Roman,26'
 set output OUT_DIR.'/fig21_externality.png'
 DARK = '#263444'; BLUE = '#2B5C98'; TEAL = '#167A67'; RED = '#E8B4B4'
 
-set label 1 'Negative production externality: private and social marginal cost (illustrative)' at screen 0.5,0.95 center font 'Times New Roman:Bold,34' textcolor rgb DARK
-set tmargin screen 0.86
+set label 1 'Negative production externality: private and social marginal cost (illustrative)' at screen 0.5,0.965 center font 'Times New Roman:Bold,34' textcolor rgb DARK
+set tmargin screen 0.84
 set bmargin screen 0.16
 set lmargin screen 0.08
 set rmargin screen 0.98

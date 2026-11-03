@@ -9,7 +9,7 @@ set output OUT_DIR.'/fig22_import_cost.png'
 DARK = '#263444'; BLUE = '#2B5C98'; TEAL = '#167A67'; GREY = '#78828C'
 
 set label 1 'Carbon-related import cost with partial pass-through (illustrative)' at screen 0.5,0.97 center font 'Times New Roman:Bold,34' textcolor rgb DARK
-set tmargin screen 0.80
+set tmargin screen 0.84
 set bmargin screen 0.16
 set lmargin screen 0.09
 set rmargin screen 0.98
@@ -19,7 +19,7 @@ set xtics ("0" 0, "Q_{S0} = Q_{S1}\n20" 20, "Q_{D1}\n70" 70, "Q_{D0}\n80" 80, "1
 set ytics ("0" 0, "P_0 = 40" 40, "P_1 = 50" 50, "P_0 + c = 60" 60, "100" 100, "135" 135)
 set xlabel 'Quantity of steel (illustrative units)'
 set ylabel 'Price / marginal cost (index)' offset 1,0
-set key at graph 0.5,1.10 center horizontal spacing 1.4 font 'Times New Roman,24' maxrows 2 samplen 2
+set key at screen 0.5,0.905 center horizontal spacing 1.4 font 'Times New Roman,24' maxrows 2 samplen 2
 set arrow 1 from 20,0 to 20,40 nohead dt 3 lw 2 lc rgb BLUE
 set arrow 2 from 80,0 to 80,40 nohead dt 3 lw 2 lc rgb BLUE
 set arrow 3 from 20,0 to 20,50 nohead dt 3 lw 2 lc rgb TEAL
