@@ -1,0 +1,12 @@
+Id,Label,Type,Country,Role,Note
+tkss,Thyssenkrupp Steel,company,DE,steel producer,"bluemint product family (incl. recycled-scrap route); planned direct-reduction plant, Duisburg"
+vw,Volkswagen Group,company,DE,steel buyer,
+sz,Salzgitter AG,company,DE,steel producer,"SALCOS: direct reduction + electric arc furnace, staged replacement of blast furnaces"
+ewe,EWE,company,DE,hydrogen supplier,
+stegra,Stegra (formerly H2 Green Steel),company,SE,steel producer,"Boden project; 2026-09-30 project review says further capital is needed"
+mb,Mercedes-Benz,company,DE,steel buyer,
+bmw,BMW Group,company,DE,steel buyer,
+ssab,SSAB,company,SE,steel producer,fossil-free steel
+volvo,Volvo Group,company,SE,steel buyer,"Volvo Group, not Volvo Cars"
+outo,Outokumpu,company,FI,steel producer,"Reports 97% recycled content for 2025 (definition applies); no buyer contract in the sources"
+aid,EU-approved German state aid,funding,DE/EU,public funder,"Project-specific State aid for hydrogen direct-reduction steel"
