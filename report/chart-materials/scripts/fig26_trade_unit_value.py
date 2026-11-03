@@ -1,8 +1,8 @@
 """Figure 2.6: direct extra-EU Chapter 72 nominal trade values and import unit value, 2017 to 2025.
 
 Sources: Eurostat Comext DS-045409 (reporter DE, partner EXT_EU27_2020, HS Chapter 72, nominal EUR).
-Values from data/comext_exports/slide_table_2017_2025.csv (extra-EU Chapter 72 trade, EUR million);
-unit value (EUR per net tonne) from data/comext_exports/ch72_extra_eu_imports_1999_2025.csv.
+Values from slide_table_2017_2025.csv (extra-EU Chapter 72 trade, EUR million);
+unit value (EUR per net tonne) from ch72_extra_eu_imports_1999_2025.csv.
 Unit value is total import euros divided by net tonnes; it reflects product mix and is not a fixed-product price index.
 Set DATA_DIR and OUT_DIR at the top of the script, then run:  python -I -X utf8 <this script>
 Output: OUT_DIR/<name>.png (same styling and headline as the report figure)

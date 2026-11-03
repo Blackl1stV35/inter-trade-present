@@ -16,6 +16,7 @@ MAP = {
     'image1.png': 'fig24_steel_output_supply.png',  # Figure 2.4
     'image6.png': 'fig26_trade_unit_value.png',     # Figure 2.6
     'image5.png': 'fig25_direct_trade_volume.png',  # Figure 2.5
+    'image2.png': 'fig23_manufacturing.png',        # Figure 2.3
 }
 d = docx.Document(PATH)
 sizes = {}

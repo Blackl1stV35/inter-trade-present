@@ -1,8 +1,8 @@
 """Figure 2.4: German crude-steel production and rolled-steel market supply, 2012 to 2025.
 
-Sources: crude steel from data/steel_route/chart_data_cleaner_steel_indicators.csv (WV Stahl, 2025 value set to the
+Sources: crude steel from the steel-route indicator file (chart_data_cleaner_steel_indicators.csv) (WV Stahl, 2025 value set to the
 first estimate of 34.1 Mt used in the report text; the later revision of 34.3 Mt is noted in the outline);
-market supply of rolled steel from data/german_sources/wv_stahl/marktversorgung_walzstahl_by_edition_2010_2025.csv,
+market supply of rolled steel from the WV Stahl market-supply file (marktversorgung_walzstahl_by_edition_2010_2025.csv),
 using the latest edition available for each year.
 The two series are different product measures and must not be subtracted.
 Set DATA_DIR and OUT_DIR at the top of the script, then run:  python -I -X utf8 <this script>
