@@ -81,7 +81,7 @@ for p in paras:
 
 # listing titles in Appendix C: bold 12 pt
 for p in d.paragraphs:
-    if re.match(r'(Figure 2\.\d: |Rendering all six)', p.text) and not is_code(p):
+    if re.match(r'(Figure 2\.\d: |Rendering all (six|nine))', p.text) and not is_code(p):
         for r in p.runs:
             r.bold = True
             r.font.size = Pt(12)

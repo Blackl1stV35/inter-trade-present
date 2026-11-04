@@ -1,5 +1,5 @@
 """Stage E: put the KU logo and the six GNUplot figures into the report, matched by position in the document
-(cover logo first, then Figures 2.1 to 2.6 in order), so renumbered media parts cannot swap pictures.
+(cover logo first, then Figures 2.1 to 2.9 in order), so renumbered media parts cannot swap pictures.
 Each picture keeps its width; height follows the image's aspect ratio.
 Run from the repository root:  python -I -X utf8 report/scripts/stage_e_rebuilt_figures.py
 """
@@ -14,7 +14,8 @@ PATH = 'report/inter-trade-report.docx'
 FIG = 'report/chart-materials/figures-gnuplot'
 ORDER = ['report/assets/ku-logo.png'] + [f'{FIG}/{n}' for n in (
     'fig21_externality.png', 'fig22_import_cost.png', 'fig23_manufacturing.png',
-    'fig24_steel_output_supply.png', 'fig25_direct_trade_volume.png', 'fig26_trade_unit_value.png')]
+    'fig24_steel_output_supply.png', 'fig25_direct_trade_volume.png', 'fig26_trade_unit_value.png',
+    'fig27_bop_partner_balance.png', 'fig28_eu_export_destinations.png', 'fig29_gdp_timeline.png')]
 
 d = docx.Document(PATH)
 blips = list(d.element.body.iter(qn('a:blip')))

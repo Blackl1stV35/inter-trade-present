@@ -53,6 +53,9 @@ LOF = [  # (line shown, search text of the caption in the body)
     ('Figure 2.4  German crude-steel production and rolled-steel market supply, 2012 to 2025', 'Figure 2.4 German crude-steel'),
     ('Figure 2.5  Direct extra-EU Chapter 72 exports and imports, 1999 to 2025', 'Figure 2.5 Germany: direct'),
     ('Figure 2.6  Direct extra-EU Chapter 72 trade values and unit value, 2017 to 2025', 'Figure 2.6 Direct extra-EU Chapter 72 nominal'),
+    ('Figure 2.7  Germany: Chapter 72 trade balance with extra-EU partners, intra-EU partners and all partners, 1999 to 2025 (value, EUR billion)', 'Figure 2.7 Germany: Chapter 72 trade balance'),
+    ('Figure 2.8  Germany: Chapter 72 export volume index and nominal unit value by destination group, 1999 to 2025', 'Figure 2.8 Germany: Chapter 72 export volume'),
+    ('Figure 2.9  Germany: real GDP index (2020 = 100) and annual real growth, 1995 to 2025', 'Figure 2.9 Germany: real GDP index'),
 ]
 TEXT_W = Twips(11909 - 2 * 1440)
 

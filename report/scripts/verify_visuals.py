@@ -12,7 +12,8 @@ from PIL import Image
 FIG_DIR = 'report/chart-materials/figures-gnuplot'
 DOCX = 'report/inter-trade-report.docx'
 FIGS = ['fig21_externality.png', 'fig22_import_cost.png', 'fig23_manufacturing.png', 'fig24_steel_output_supply.png',
-        'fig25_direct_trade_volume.png', 'fig26_trade_unit_value.png']
+        'fig25_direct_trade_volume.png', 'fig26_trade_unit_value.png', 'fig27_bop_partner_balance.png',
+        'fig28_eu_export_destinations.png', 'fig29_gdp_timeline.png']
 fails = []
 
 
@@ -36,8 +37,8 @@ from docx.oxml.ns import qn
 _d = docx.Document(DOCX)
 _pics = [_d.part.rels[b.get(qn('r:embed'))].target_part.blob for b in _d.element.body.iter(qn('a:blip'))]
 _h = lambda data: hashlib.sha1(data).hexdigest()
-if len(_pics) != 7:
-    fails.append(f'report has {len(_pics)} pictures, expected 7 (logo and six figures)')
+if len(_pics) != 10:
+    fails.append(f'report has {len(_pics)} pictures, expected 10 (logo and nine figures)')
 else:
     if _h(_pics[0]) != _h(open('report/assets/ku-logo.png', 'rb').read()):
         fails.append('cover picture is not the KU logo')

@@ -19,7 +19,10 @@ LISTINGS = [
     ('Figure 2.4: crude steel and rolled market supply', 'report/chart-materials/gnuplot/fig24_steel_output_supply.gp'),
     ('Figure 2.5: direct extra-EU Chapter 72 exports and imports', 'report/chart-materials/gnuplot/fig25_direct_trade_volume.gp'),
     ('Figure 2.6: Chapter 72 trade values and import unit value', 'report/chart-materials/gnuplot/fig26_trade_unit_value.gp'),
-    ('Rendering all six figures', 'report/chart-materials/gnuplot/render_all.ps1'),
+    ('Figure 2.7: Chapter 72 trade balance by partner group', 'report/chart-materials/gnuplot/fig27_bop_partner_balance.gp'),
+    ('Figure 2.8: Chapter 72 exports by destination group', 'report/chart-materials/gnuplot/fig28_eu_export_destinations.gp'),
+    ('Figure 2.9: real GDP index and annual real growth', 'report/chart-materials/gnuplot/fig29_gdp_timeline.gp'),
+    ('Rendering all nine figures', 'report/chart-materials/gnuplot/render_all.ps1'),
 ]
 d = docx.Document(PATH)
 
@@ -57,7 +60,7 @@ if start is not None:
 para('Appendix C', size=14, bold=True, font='Times New Roman', center=True, page_break=True)
 para('Chart Generating Code', size=14, bold=True, font='Times New Roman', center=True, space_after=10)
 para('The code below produces the figures of Chapter 2. Each script reads its sample data and writes its PNG to the output folder named at the top of the script. '
-     'All six figures are drawn with GNUplot 6.0.5 in Times New Roman, the serif font of the report.',
+     'All nine figures are drawn with GNUplot 6.0.5 in Times New Roman, the serif font of the report.',
      size=11, font='Times New Roman', space_after=8)
 
 # 3. one listing per figure, monospace, light grey panel
